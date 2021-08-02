@@ -1,0 +1,2791 @@
+,year,gender,rank,country,name,time,notes
+0,rio-2016,men,G,KEN,eliud kipchoge,2:08:44.00,
+1,rio-2016,men,S,ETH,feyisa lilesa,2:09:54.00,
+2,rio-2016,men,B,USA,galen rupp,2:10:05.00,
+3,rio-2016,men,4,ERI,ghirmay ghebreslassie,2:11:04.00,
+4,rio-2016,men,5,TAN,alphonce felix simbu,2:11:15.00,
+5,rio-2016,men,6,USA,jared ward,2:11:30.00,
+6,rio-2016,men,7,SUI,tadesse abraham,2:11:42.00,
+7,rio-2016,men,8,UGA,munyo solomon mutai,2:11:49.00,
+8,rio-2016,men,9,GBR,callum hawkins,2:11:52.00,
+9,rio-2016,men,10,CAN,eric gillis,2:12:29.00,
+10,rio-2016,men,11,NED,abdi nageeye,2:13:01.00,
+11,rio-2016,men,12,DJI,mumin gala,2:13:04.00,
+12,rio-2016,men,13,ETH,lemi berhanu,2:13:29.00,
+13,rio-2016,men,14,UGA,stephen kiprotich,2:13:32.00,
+14,rio-2016,men,15,BRA,paulo roberto paula,2:13:56.00,
+15,rio-2016,men,16,JPN,satoru sasaki,2:13:57.00,
+16,rio-2016,men,17,TUR,kaan kigen ozbilen,2:14:11.00,
+17,rio-2016,men,18,ECU,bayron piedra,2:14:12.00,
+18,rio-2016,men,19,NOR,sondre nordstad moen,2:14:17.00,
+19,rio-2016,men,20,UKR,oleksandr sitkovskyy,2:14:24.00,
+20,rio-2016,men,21,ERI,amanuel mesel,2:14:37.00,
+21,rio-2016,men,22,BEL,koen naert,2:14:53.00,
+22,rio-2016,men,23,CAN,reid coolsaet,2:14:58.00,
+23,rio-2016,men,24,RSA,lusapho april,2:15:24.00,
+24,rio-2016,men,25,IND,thanackal gopi,2:15:25.00,
+25,rio-2016,men,26,IND,kheta ram,2:15:26.00,
+26,rio-2016,men,27,PRK,il chol pak,2:15:27.00,
+27,rio-2016,men,28,AZE,evans kiplagat barkowet,2:15:31.00,
+28,rio-2016,men,29,CHN,guojian dong,2:15:32.00,
+29,rio-2016,men,30,UKR,ihor olefirenko,2:15:36.00,
+30,rio-2016,men,31,AUS,liam adams,2:16:12.00,
+31,rio-2016,men,32,IRL,paul pollock,2:16:24.00,
+32,rio-2016,men,33,USA,mebrahtom keflezighi,2:16:46.00,
+33,rio-2016,men,34,SRI,anuradha indrajith cooray,2:17:06.00,
+34,rio-2016,men,35,DEN,abdi hakin ulad,2:17:06.00,
+35,rio-2016,men,36,JPN,suehiro ishikawa,2:17:08.00,
+36,rio-2016,men,37,ROU,marius ionescu,2:17:27.00,
+37,rio-2016,men,38,ITA,ruggero pertile,2:17:30.00,
+38,rio-2016,men,39,POL,artur kozlowski,2:17:34.00,
+39,rio-2016,men,40,URU,nicolas cuestas,2:17:44.00,
+40,rio-2016,men,41,ZIM,pardon ndhlovu,2:17:48.00,
+41,rio-2016,men,42,CHI,victor aravena,2:17:49.00,
+42,rio-2016,men,43,TAN,saidi juma makula,2:17:49.00,
+43,rio-2016,men,44,BEL,florent caelen,2:17:59.00,
+44,rio-2016,men,45,PER,raul machacuay,2:18:00.00,
+45,rio-2016,men,46,CUB,richer perez,2:18:05.00,
+46,rio-2016,men,47,AUS,michael shelley,2:18:06.00,
+47,rio-2016,men,48,UKR,ihor russ,2:18:19.00,
+48,rio-2016,men,49,ESP,carles castillejo,2:18:34.00,
+49,rio-2016,men,50,URU,ernesto andres zamora,2:18:36.00,
+50,rio-2016,men,51,TUR,ercan muslu,2:18:40.00,
+51,rio-2016,men,52,PER,cristhian pacheco,2:18:41.00,
+52,rio-2016,men,53,ARG,mariano mastromarino,2:18:44.00,
+53,rio-2016,men,54,MEX,daniel vargas,2:18:51.00,
+54,rio-2016,men,55,GER,philipp pflieger,2:18:56.00,
+55,rio-2016,men,56,BEL,willem van schuerbeeck,2:18:56.00,
+56,rio-2016,men,57,ITA,stefano la rosa,2:18:57.00,
+57,rio-2016,men,58,ZIM,cuthbert nyasango,2:18:58.00,
+58,rio-2016,men,59,BRA,marilson dos santos,2:19:09.00,
+59,rio-2016,men,60,ERI,tewelde estifanos,2:19:12.00,
+60,rio-2016,men,61,EST,roman fosti,2:19:26.00,
+61,rio-2016,men,62,TUN,atef saad,2:19:50.00,
+62,rio-2016,men,63,EST,tiidrek nurme,2:20:01.00,
+63,rio-2016,men,64,IRL,kevin seaward,2:20:06.00,
+64,rio-2016,men,65,ESP,jesus espana,2:20:08.00,
+65,rio-2016,men,66,PER,raul pacheco,2:20:13.00,
+66,rio-2016,men,67,GUA,juan carlos trujillo,2:20:24.00,
+67,rio-2016,men,68,BLR,stepan rogovtsov,2:20:34.00,
+68,rio-2016,men,69,NAM,mynhardt mbeumuna kawanivi,2:20:45.00,
+69,rio-2016,men,70,GER,julian flugel,2:20:47.00,
+70,rio-2016,men,71,GEO,daviti kharazishvili,2:20:47.00,
+71,rio-2016,men,72,MAR,rachid kisri,2:21:00.00,
+72,rio-2016,men,73,ISR,maru teferi,2:21:06.00,
+73,rio-2016,men,74,LTU,remigijus kancys,2:21:10.00,
+74,rio-2016,men,75,SUI,christian kreienbuhl,2:21:13.00,
+75,rio-2016,men,76,LBA,mohamed hrezi,2:21:17.00,
+76,rio-2016,men,77,BRA,solonei da silva,2:22:05.00,
+77,rio-2016,men,78,COL,andres ruiz,2:22:09.00,
+78,rio-2016,men,79,UGA,jackson kiprop,2:22:09.00,
+79,rio-2016,men,80,AUS,scott westcott,2:22:19.00,
+80,rio-2016,men,81,SSD,guor marial,2:22:45.00,
+81,rio-2016,men,82,BLR,vladislav pryamov,2:22:48.00,
+82,rio-2016,men,83,IND,nitendra singh,2:22:52.00,
+83,rio-2016,men,84,ECU,miguel angel almachi,2:23:00.00,
+84,rio-2016,men,85,KGZ,ilya tiapkin,2:23:19.00,
+85,rio-2016,men,86,HUN,gabor jozsa,2:23:22.00,
+86,rio-2016,men,87,COL,gerald giraldo,2:23:48.00,
+87,rio-2016,men,88,ARG,luis ariel molina,2:23:55.00,
+88,rio-2016,men,89,XXB,yonas kinde,2:24:08.00,
+89,rio-2016,men,90,CHN,bujie duo,2:24:22.00,
+90,rio-2016,men,91,MGL,ser-od bat-ochiryn,2:24:26.00,
+91,rio-2016,men,92,ZAM,jordan chipangama,2:24:58.00,
+92,rio-2016,men,93,JPN,hisanori kitajima,2:25:11.00,
+93,rio-2016,men,94,LES,lebenya nkoka,2:25:13.00,
+94,rio-2016,men,95,CHN,renxue zhu,2:25:31.00,
+95,rio-2016,men,96,RSA,sibusiso nzima,2:25:33.00,
+96,rio-2016,men,97,CHI,daniel estrada,2:25:33.00,
+97,rio-2016,men,98,RWA,ambroise uwiragiye,2:25:57.00,
+98,rio-2016,men,99,TPE,chin-ping ho,2:26:00.00,
+99,rio-2016,men,100,KAZ,mikhail krasilov,2:26:11.00,
+100,rio-2016,men,101,MRI,david carver,2:26:16.00,
+101,rio-2016,men,102,IRL,mick clohissey,2:26:34.00,
+102,rio-2016,men,103,ALG,hakim sadi,2:26:47.00,
+103,rio-2016,men,104,MDA,roman prodius,2:27:01.00,
+104,rio-2016,men,105,VEN,luis alberto orta,2:27:05.00,
+105,rio-2016,men,106,MGL,gantulga dambadarjaa,2:27:42.00,
+106,rio-2016,men,107,CHI,enzo yanez,2:27:47.00,
+107,rio-2016,men,108,HUN,gaspar csere,2:28:03.00,
+108,rio-2016,men,109,URU,martin esteban cuestas,2:28:10.00,
+109,rio-2016,men,110,LTU,valdas dopolskas,2:28:21.00,
+110,rio-2016,men,111,TAN,fabiano joseph,2:28:31.00,
+111,rio-2016,men,112,COD,kamongwa salukombo makorobondo,2:28:54.00,
+112,rio-2016,men,113,GBR,derek hawkins,2:29:24.00,
+113,rio-2016,men,114,BDI,celestin nihorimbere,2:29:38.00,
+114,rio-2016,men,115,GRE,hristoforos merousis,2:29:39.00,
+115,rio-2016,men,116,SLO,anton kosmac,2:29:48.00,
+116,rio-2016,men,117,GUA,jose amado garcia,2:30:11.00,
+117,rio-2016,men,118,SRB,andjelko risticevic,2:30:17.00,
+118,rio-2016,men,119,MEX,ricardo ramos,2:30:20.00,
+119,rio-2016,men,120,ISR,tasama moogas,2:30:30.00,
+120,rio-2016,men,121,ISR,ageze guadie,2:30:45.00,
+121,rio-2016,men,122,POR,rui pedro silva,2:30:52.00,
+122,rio-2016,men,123,ECU,segundo jami,2:31:07.00,
+123,rio-2016,men,124,COL,diego colorado,2:31:20.00,
+124,rio-2016,men,125,TUR,bekir karayel,2:31:27.00,
+125,rio-2016,men,126,ROU,nicolae-alexandru soare,2:31:53.00,
+126,rio-2016,men,127,POL,yared shegumo,2:31:54.00,
+127,rio-2016,men,128,IRI,mohammadjafar moradi,2:31:58.00,
+128,rio-2016,men,129,MGL,byambajav tseveenravdan,2:36:14.00,
+129,rio-2016,men,130,KOR,myeongjun son,2:36:21.00,
+130,rio-2016,men,131,GRE,mikhailis kalomoiris,2:37:03.00,
+131,rio-2016,men,132,THA,boonthung srisung,2:37:46.00,
+132,rio-2016,men,133,POR,ricardo ribas,2:38:29.00,
+133,rio-2016,men,134,PAN,jorge castelblanco,2:39:25.00,
+134,rio-2016,men,135,PAR,derlys ayala,2:39:40.00,
+135,rio-2016,men,136,ARG,federico bruno,2:40:05.00,
+136,rio-2016,men,137,KOR,jungsub shim,2:42:42.00,
+137,rio-2016,men,138,CAM,kuniaki takizaki,2:45:55.00,
+138,rio-2016,men,139,JOR,methkal abu drais,2:46:18.00,
+139,rio-2016,men,,KEN,wesley korir,None,Did not finish
+140,rio-2016,men,,KEN,stanley kipleting biwott,None,Did not finish
+141,rio-2016,men,,BRN,isaac korir,None,Did not finish
+142,rio-2016,men,,LES,tsepo mathibelle,None,Did not finish
+143,rio-2016,men,,TUN,wissem hosni,None,Did not finish
+144,rio-2016,men,,POL,henryk szost,None,Did not finish
+145,rio-2016,men,,RSA,lungile gongqa,None,Did not finish
+146,rio-2016,men,,ALG,el hadi laameche,None,Did not finish
+147,rio-2016,men,,BRN,alemu bekele,None,Did not finish
+148,rio-2016,men,,BDI,abraham niyonkuru,None,Did not finish
+149,rio-2016,men,,ZIM,wirimai juwawo,None,Did not finish
+150,rio-2016,men,,ETH,tesfaye abera,None,Did not finish
+151,rio-2016,men,,GBR,tsegai tewelde,None,Did not finish
+152,rio-2016,men,,ITA,daniele meucci,None,Did not finish
+153,rio-2016,men,,UZB,andrey petrov,None,Did not finish
+154,rio-2016,men,,MAR,abdelmajid el hissouf,None,Disqualified
+0,rio-2016,women,G,KEN,jemima jelagat sumgong,2:24:04.00,
+1,rio-2016,women,S,BRN,eunice jepkirui kirwa,2:24:13.00,
+2,rio-2016,women,B,ETH,mare dibaba,2:24:30.00,
+3,rio-2016,women,4,ETH,tirfi tsegaye,2:24:47.00,
+4,rio-2016,women,5,BLR,olga mazuryonok,2:24:48.00,
+5,rio-2016,women,6,USA,shalane flanagan,2:25:26.00,
+6,rio-2016,women,7,USA,desiree linden,2:26:08.00,
+7,rio-2016,women,8,BRN,rose chelimo,2:27:36.00,
+8,rio-2016,women,9,USA,amy cragg,2:28:25.00,
+9,rio-2016,women,10,PRK,hye-song kim,2:28:36.00,
+10,rio-2016,women,11,PRK,hye-gyong kim,2:28:36.00,
+11,rio-2016,women,12,LAT,jelena prokopcuka,2:29:32.00,
+12,rio-2016,women,13,ITA,valeria straneo,2:29:44.00,
+13,rio-2016,women,14,JPN,kayoko fukushi,2:29:53.00,
+14,rio-2016,women,15,PER,gladys tejeda,2:29:55.00,
+15,rio-2016,women,16,POR,ana dulce felix,2:30:39.00,
+16,rio-2016,women,17,LTU,diana lobacevske,2:30:48.00,
+17,rio-2016,women,18,AUS,milly clark,2:30:53.00,
+18,rio-2016,women,19,JPN,tomomi tanaka,2:31:12.00,
+19,rio-2016,women,20,IRL,fionnuala mccormack,2:31:22.00,
+20,rio-2016,women,21,POL,iwona lewandowska,2:31:41.00,
+21,rio-2016,women,22,AUS,jessica trengove,2:31:44.00,
+22,rio-2016,women,23,POL,monika drybulska,2:32:49.00,
+23,rio-2016,women,24,CAN,lanni marchant,2:33:08.00,
+24,rio-2016,women,25,ITA,catherine bertone,2:33:29.00,
+25,rio-2016,women,26,CZE,eva vrabcova - nyvltova,2:33:51.00,
+26,rio-2016,women,27,MDA,lilia fisikowici,2:34:05.00,
+27,rio-2016,women,28,GBR,alyson dixon,2:34:11.00,
+28,rio-2016,women,29,SUI,maja neuenschwander,2:34:27.00,
+29,rio-2016,women,30,GBR,sonia samuels,2:34:36.00,
+30,rio-2016,women,31,AUS,lisa jane weightman,2:34:41.00,
+31,rio-2016,women,32,MEX,madai perez,2:34:42.00,
+32,rio-2016,women,33,UKR,olha kotovska,2:34:57.00,
+33,rio-2016,women,34,ESP,azucena diaz,2:35:02.00,
+34,rio-2016,women,35,CAN,krista duchene,2:35:29.00,
+35,rio-2016,women,36,PER,jovana de la cruz,2:35:49.00,
+36,rio-2016,women,37,LTU,rasa drazdauskaite,2:35:50.00,
+37,rio-2016,women,38,LTU,vaida zusinaite,2:35:53.00,
+38,rio-2016,women,39,HKG,kit-ching yiu,2:36:11.00,
+39,rio-2016,women,40,DEN,jessica draskau-petersson,2:36:14.00,
+40,rio-2016,women,41,NAM,beata naigambo,2:36:32.00,
+41,rio-2016,women,42,KOR,seul-ki ahn,2:36:50.00,
+42,rio-2016,women,43,COL,angie orjuela,2:37:05.00,
+43,rio-2016,women,44,GER,anja scherl,2:37:23.00,
+44,rio-2016,women,45,BLR,marina domantsevich,2:37:34.00,
+45,rio-2016,women,46,JPN,mai ito,2:37:37.00,
+46,rio-2016,women,47,BEL,veerle dejaeghere,2:37:39.00,
+47,rio-2016,women,48,MEX,margarita hernandez,2:38:15.00,
+48,rio-2016,women,49,PRK,kum ok kim,2:38:24.00,
+49,rio-2016,women,50,ALG,kenza dahmani tifahi,2:38:37.00,
+50,rio-2016,women,51,FIN,anne-mari hyrylainen,2:39:02.00,
+51,rio-2016,women,52,HUN,zsofia erdelyi,2:39:04.00,
+52,rio-2016,women,53,CHN,chao yue,2:39:09.00,
+53,rio-2016,women,54,UZB,sitora hamidova,2:39:45.00,
+54,rio-2016,women,55,DEN,anne holm baumeister,2:39:49.00,
+55,rio-2016,women,56,NAM,helalia johannes,2:39:55.00,
+56,rio-2016,women,57,IRL,lizzie lee,2:39:57.00,
+57,rio-2016,women,58,TUR,esma aydemir,2:39:59.00,
+58,rio-2016,women,59,KGZ,yuliya arkhipova-andreyeva,2:40:34.00,
+59,rio-2016,women,60,NED,andrea deelstra,2:40:49.00,
+60,rio-2016,women,61,LAT,ilona marhele,2:41:02.00,
+61,rio-2016,women,62,KGZ,viktoriia poliudina,2:41:37.00,
+62,rio-2016,women,63,RSA,dina lebo phalula,2:41:46.00,
+63,rio-2016,women,64,AUT,andrea mayr,2:41:52.00,
+64,rio-2016,women,65,HUN,krisztina papp,2:42:03.00,
+65,rio-2016,women,66,UKR,svitlana stanko-klymenko,2:42:26.00,
+66,rio-2016,women,67,PLE,mayada sayyad,2:42:28.00,
+67,rio-2016,women,68,UGA,nyakisi adero,2:42:39.00,
+68,rio-2016,women,69,BRA,adriana aparecida da silva,2:43:22.00,
+69,rio-2016,women,70,KOR,gyeong-hui im,2:43:31.00,
+70,rio-2016,women,71,PUR,beverly ramos,2:43:52.00,
+71,rio-2016,women,72,MGL,mönkhzayaa bayartsogtyn,2:43:55.00,
+72,rio-2016,women,73,COL,erika abril,2:44:05.00,
+73,rio-2016,women,74,BEL,manuela soccol,2:44:18.00,
+74,rio-2016,women,75,NAM,alina armas,2:44:20.00,
+75,rio-2016,women,76,IRL,breege connolly,2:44:41.00,
+76,rio-2016,women,77,UZB,marina hmelevskaya,2:45:06.00,
+77,rio-2016,women,78,BRA,marily dos santos,2:45:08.00,
+78,rio-2016,women,79,CHN,shaoqing hua,2:45:09.00,
+79,rio-2016,women,80,ERI,nebiat habtemariam,2:45:21.00,
+80,rio-2016,women,81,GER,anna hahner,2:45:32.00,
+81,rio-2016,women,82,GER,lisa hahner,2:45:33.00,
+82,rio-2016,women,83,HUN,tunde szabo,2:45:37.00,
+83,rio-2016,women,84,BEL,els rens,2:45:52.00,
+84,rio-2016,women,85,MGL,otgonbayar luvsanlundeg,2:45:55.00,
+85,rio-2016,women,86,KEN,visiline jepkesho,2:46:05.00,
+86,rio-2016,women,87,UKR,nataliya lehonkova,2:46:08.00,
+87,rio-2016,women,88,GRE,ourania rebouli,2:46:32.00,
+88,rio-2016,women,89,IND,o. p. jaisha,2:47:19.00,
+89,rio-2016,women,90,ISR,maor tiyouri,2:47:27.00,
+90,rio-2016,women,91,THA,jane vongvorachoti,2:47:27.00,
+91,rio-2016,women,92,ZIM,rutendo joan nyahora,2:47:32.00,
+92,rio-2016,women,93,VEN,yolymar pineda,2:47:34.00,
+93,rio-2016,women,94,KGZ,mariya korobitskaya,2:47:53.00,
+94,rio-2016,women,95,ECU,silvia paredes,2:48:01.00,
+95,rio-2016,women,96,RSA,christine kalmer,2:48:24.00,
+96,rio-2016,women,97,EST,lily luik,2:48:29.00,
+97,rio-2016,women,98,MAW,tereza master,2:48:34.00,
+98,rio-2016,women,99,ECU,maria elena calle,2:48:39.00,
+99,rio-2016,women,100,ECU,rosa chacha,2:48:52.00,
+100,rio-2016,women,101,ROU,paula-claudia todoran,2:48:54.00,
+101,rio-2016,women,102,CUB,dailin belmonte,2:48:58.00,
+102,rio-2016,women,103,GRE,sofia riga,2:49:07.00,
+103,rio-2016,women,104,CRO,matea matosevic,2:50:00.00,
+104,rio-2016,women,105,CHI,erika olivera,2:50:29.00,
+105,rio-2016,women,106,LAT,ariana kira hilborna,2:50:51.00,
+106,rio-2016,women,107,SVK,katarina beresova,2:50:54.00,
+107,rio-2016,women,108,BUL,militsa mircheva,2:51:06.00,
+108,rio-2016,women,109,LBN,chirine njeim,2:51:08.00,
+109,rio-2016,women,110,ARG,rosa godoy,2:52:31.00,
+110,rio-2016,women,111,TUR,sultan haydar,2:53:57.00,
+111,rio-2016,women,112,TUR,meryem erdogan,2:54:04.00,
+112,rio-2016,women,113,TPE,chien-ho hsieh,2:54:18.00,
+113,rio-2016,women,114,EST,leila luik,2:54:38.00,
+114,rio-2016,women,115,PAR,carmen patricia martinez,2:56:43.00,
+115,rio-2016,women,116,BIH,lucia mwihaki kimani,2:58:22.00,
+116,rio-2016,women,117,BOL,rosemary quispe,2:58:32.00,
+117,rio-2016,women,118,GRE,panagiota vlachaki,2:59:12.00,
+118,rio-2016,women,119,CRO,marija vrajic,2:59:24.00,
+119,rio-2016,women,120,IND,kavita tungar,2:59:29.00,
+120,rio-2016,women,121,TAN,sara ramadhani,3:00:03.00,
+121,rio-2016,women,122,KAZ,irina smolnikova,3:00:31.00,
+122,rio-2016,women,123,CHI,natalia romero,3:01:29.00,
+123,rio-2016,women,124,PHI,mary joy tabal,3:02:27.00,
+124,rio-2016,women,125,ARG,viviana chavez,3:03:23.00,
+125,rio-2016,women,126,RWA,claudette mukasakindi,3:05:57.00,
+126,rio-2016,women,127,TPE,yu-hsuan chen,3:09:13.00,
+127,rio-2016,women,128,BRA,graciete santana,3:09:15.00,
+128,rio-2016,women,129,SRI,niluka rajasekara,3:11:05.00,
+129,rio-2016,women,130,THA,natthaya thanaronnawat,3:11:31.00,
+130,rio-2016,women,131,SGP,jie shi neo,3:15:18.00,
+131,rio-2016,women,132,KSA,sarah attar,3:16:11.00,
+132,rio-2016,women,133,CAM,nary ly,3:20:20.00,
+133,rio-2016,women,,POL,katarzyna kowalska,None,Did not finish
+134,rio-2016,women,,KEN,helah jelagat kiprop,None,Did not finish
+135,rio-2016,women,,ISR,lonah chemtai,None,Did not finish
+136,rio-2016,women,,ITA,anna incerti,None,Did not finish
+137,rio-2016,women,,FRA,christelle daunay,None,Did not finish
+138,rio-2016,women,,ESP,alessandra aguilar,None,Did not finish
+139,rio-2016,women,,ALG,souad ait salem,None,Did not finish
+140,rio-2016,women,,PER,ines melchor,None,Did not finish
+141,rio-2016,women,,COL,kellys arias,None,Did not finish
+142,rio-2016,women,,SRB,olivera jevtic,None,Did not finish
+143,rio-2016,women,,ESP,estela navascues,None,Did not finish
+144,rio-2016,women,,EST,liina luik,None,Did not finish
+145,rio-2016,women,,ARG,maria peralta,None,Did not finish
+146,rio-2016,women,,ETH,tigist tufa,None,Did not finish
+147,rio-2016,women,,POR,jessica augusto,None,Did not finish
+148,rio-2016,women,,BLR,anastasiya starovoytova-ivanova,None,Did not finish
+149,rio-2016,women,,BRN,shitaye eshete,None,Did not finish
+150,rio-2016,women,,KAZ,gulzhanat zhanatbek,None,Did not finish
+151,rio-2016,women,,ROU,daniela carlan,None,Did not finish
+152,rio-2016,women,,MNE,sladana perunovic,None,Did not finish
+153,rio-2016,women,,POR,sara moreira,None,Did not finish
+154,rio-2016,women,,MAR,koutar boulaid,None,Did not finish
+155,rio-2016,women,,SLO,daneja grandovec,None,Did not finish
+156,rio-2016,women,,RSA,irvette van blerk,None,Did not start
+0,london-2012,men,G,UGA,stephen kiprotich,2:08:01.00,
+1,london-2012,men,S,KEN,abel kirui,2:08:27.00,
+2,london-2012,men,B,KEN,wilson kipsang kiprotich,2:09:37.00,
+3,london-2012,men,4,USA,mebrahtom keflezighi,2:11:06.00,
+4,london-2012,men,5,BRA,marilson dos santos,2:11:10.00,
+5,london-2012,men,6,JPN,kentaro nakamoto,2:11:16.00,
+6,london-2012,men,7,ZIM,cuthbert nyasango,2:12:08.00,
+7,london-2012,men,8,BRA,paulo roberto paula,2:12:17.00,
+8,london-2012,men,9,POL,henryk szost,2:12:28.00,
+9,london-2012,men,10,ITA,ruggero pertile,2:12:45.00,
+10,london-2012,men,11,SUI,viktor rothlin,2:12:48.00,
+11,london-2012,men,12,UKR,oleksandr sitkovskyy,2:12:56.00,
+12,london-2012,men,13,BRA,franck de almeida,2:13:35.00,
+13,london-2012,men,14,RUS,aleksey reunkov,2:13:49.00,
+14,london-2012,men,15,ZIM,wirimai juwawo,2:14:09.00,
+15,london-2012,men,16,AUS,michael shelley,2:14:10.00,
+16,london-2012,men,17,KEN,emmanuel kipchirchir mutai,2:14:49.00,
+17,london-2012,men,18,MAR,rachid kisri,2:15:09.00,
+18,london-2012,men,19,ERI,yared asmerom,2:15:24.00,
+19,london-2012,men,20,CAN,dylan wykes,2:15:26.00,
+20,london-2012,men,21,PER,raul pacheco,2:15:35.00,
+21,london-2012,men,22,CAN,eric gillis,2:16:00.00,
+22,london-2012,men,23,RUS,dmitriy safronov,2:16:04.00,
+23,london-2012,men,24,ESP,carles castillejo,2:16:17.00,
+24,london-2012,men,25,MDA,iaroslav musinschi,2:16:25.00,
+25,london-2012,men,26,ROU,marius ionescu,2:16:28.00,
+26,london-2012,men,27,CAN,reid coolsaet,2:16:29.00,
+27,london-2012,men,28,AUS,martin dent,2:16:29.00,
+28,london-2012,men,29,UKR,vitaliy shafar,2:16:36.00,
+29,london-2012,men,30,GBR,lee merrien,2:17:00.00,
+30,london-2012,men,31,ESP,ignacio caceres,2:17:11.00,
+31,london-2012,men,32,KOR,duhaeng lee,2:17:19.00,
+32,london-2012,men,33,TAN,faustine mussa,2:17:39.00,
+33,london-2012,men,34,ESP,jose carlos hernandez,2:17:48.00,
+34,london-2012,men,35,ARG,miguel barzola,2:17:54.00,
+35,london-2012,men,36,NOR,urige buta,2:17:58.00,
+36,london-2012,men,37,RUS,georgiy andreyev,2:18:20.00,
+37,london-2012,men,38,GUA,jose amado garcia,2:18:23.00,
+38,london-2012,men,39,MEX,daniel vargas,2:18:26.00,
+39,london-2012,men,40,JPN,ryo yamamoto,2:18:34.00,
+40,london-2012,men,41,DEN,jesper faurschou,2:18:44.00,
+41,london-2012,men,42,ISL,kari steinn karlsson,2:18:47.00,
+42,london-2012,men,43,RSA,lusapho april,2:19:00.00,
+43,london-2012,men,44,MAW,mike tebulo,2:19:11.00,
+44,london-2012,men,45,JPN,arata fujiwara,2:19:11.00,
+45,london-2012,men,46,SLO,primoz kobe,2:19:28.00,
+46,london-2012,men,47,IOA,guor marial,2:19:32.00,
+47,london-2012,men,48,POR,luis feiteira,2:19:40.00,
+48,london-2012,men,49,RSA,stephen mokoka,2:19:52.00,
+49,london-2012,men,50,ECU,miguel angel almachi,2:19:53.00,
+50,london-2012,men,51,MGL,ser-od bat-ochiryn,2:20:10.00,
+51,london-2012,men,52,PRK,song-chol pak,2:20:20.00,
+52,london-2012,men,53,PRK,kwang-hyok kim,2:20:20.00,
+53,london-2012,men,54,CHN,guojian dong,2:20:39.00,
+54,london-2012,men,55,SRI,anuradha indrajith cooray,2:20:41.00,
+55,london-2012,men,56,JOR,methkal abu drais,2:21:00.00,
+56,london-2012,men,57,IRL,mark kenneally,2:21:13.00,
+57,london-2012,men,58,ERI,yonas kifle,2:21:25.00,
+58,london-2012,men,59,UKR,ivan babaryka,2:21:52.00,
+59,london-2012,men,60,MEX,carlos cordero,2:22:08.00,
+60,london-2012,men,61,GBR,scott overall,2:22:37.00,
+61,london-2012,men,62,VEN,pedro mora,2:22:40.00,
+62,london-2012,men,63,AUS,jeff hunt,2:22:59.00,
+63,london-2012,men,64,BLR,stepan rogovtsov,2:23:23.00,
+64,london-2012,men,65,CRC,cesar lizano,2:24:16.00,
+65,london-2012,men,66,TAN,samson ramadhani,2:24:53.00,
+66,london-2012,men,67,CZE,jan kreisinger,2:25:03.00,
+67,london-2012,men,68,QAT,mohammed abduh bakhet,2:25:17.00,
+68,london-2012,men,69,FIN,jussi utriainen,2:26:25.00,
+69,london-2012,men,70,MEX,arturo malaquias,2:26:37.00,
+70,london-2012,men,71,TUN,wissem hosni,2:26:43.00,
+71,london-2012,men,72,HUN,tamas kovacs,2:27:48.00,
+72,london-2012,men,73,KOR,sinkweon jang,2:28:20.00,
+73,london-2012,men,74,AND,antoni bernado,2:28:34.00,
+74,london-2012,men,75,LIE,marcel tschopp,2:28:54.00,
+75,london-2012,men,76,TUR,bekir karayel,2:29:38.00,
+76,london-2012,men,77,TPE,chia-che chang,2:29:58.00,
+77,london-2012,men,78,IND,ram singh yadav,2:30:06.00,
+78,london-2012,men,79,RWA,jean pierre mvuyekure,2:30:19.00,
+79,london-2012,men,80,GRE,konstadinos poulios,2:33:17.00,
+80,london-2012,men,81,ISR,zohar zemiro,2:34:59.00,
+81,london-2012,men,82,KOR,jinhyeok jeong,2:38:45.00,
+82,london-2012,men,83,COL,juan carlos cardona,2:40:13.00,
+83,london-2012,men,84,TLS,augusto soares,2:45:09.00,
+84,london-2012,men,85,LES,tsepo mathibelle,2:55:54.00,
+85,london-2012,men,,ETH,ayele abshero,None,Did not finish
+86,london-2012,men,,RSA,coolboy ngamole,None,Did not finish
+87,london-2012,men,,CHN,zicheng li,None,Did not finish
+88,london-2012,men,,SRB,darko zivanovic,None,Did not finish
+89,london-2012,men,,COD,ilunga zatara mande,None,Did not finish
+90,london-2012,men,,FRA,abdellatif meftah,None,Did not finish
+91,london-2012,men,,ETH,dino sefir,None,Did not finish
+92,london-2012,men,,ALG,tayeb filali,None,Did not finish
+93,london-2012,men,,MDA,roman prodius,None,Did not finish
+94,london-2012,men,,POR,rui pedro silva,None,Did not finish
+95,london-2012,men,,ETH,getu feleke,None,Did not finish
+96,london-2012,men,,ERI,samuel tsegay,None,Did not finish
+97,london-2012,men,,USA,abdihakem abdirahman,None,Did not finish
+98,london-2012,men,,FRA,patrick tambwe,None,Did not finish
+99,london-2012,men,,USA,ryan hall,None,Did not finish
+100,london-2012,men,,FRA,abraham kiprotich,None,Did not finish
+101,london-2012,men,,LBA,ali mabrouk el zaidi,None,Did not finish
+102,london-2012,men,,AUT,gunther weidlinger,None,Did not finish
+103,london-2012,men,,LAT,valerijs zolnerovics,None,Did not finish
+104,london-2012,men,,MAR,abderrahime bouramdane,None,Did not finish
+0,london-2012,women,G,ETH,tiki gelana,2:23:07.00,
+1,london-2012,women,S,KEN,priscah jeptoo,2:23:12.00,
+2,london-2012,women,B,RUS,tatyana arkhipova,2:23:29.00,
+3,london-2012,women,4,KEN,mary jepkosgei keitany,2:23:56.00,
+4,london-2012,women,5,CHN,xiaolin zhu,2:24:48.00,
+5,london-2012,women,6,POR,jessica augusto,2:25:11.00,
+6,london-2012,women,7,ITA,valeria straneo,2:25:27.00,
+7,london-2012,women,8,RUS,albina mayorova,2:25:38.00,
+8,london-2012,women,9,USA,shalane flanagan,2:25:51.00,
+9,london-2012,women,10,USA,kara goucher,2:26:07.00,
+10,london-2012,women,11,NAM,helalia johannes,2:26:09.00,
+11,london-2012,women,12,POR,marisa barros,2:26:13.00,
+12,london-2012,women,13,GER,irina mikitenko,2:26:44.00,
+13,london-2012,women,14,NZL,kim smith,2:26:59.00,
+14,london-2012,women,15,JPN,ryoko kizaki,2:27:16.00,
+15,london-2012,women,16,AUS,lisa jane weightman,2:27:32.00,
+16,london-2012,women,17,SWE,isabellah andersson,2:27:36.00,
+17,london-2012,women,18,JPN,yoshimi ozaki,2:27:43.00,
+18,london-2012,women,19,KEN,edna ngeringwony kiplagat,2:27:52.00,
+19,london-2012,women,20,POR,ana dulce felix,2:28:12.00,
+20,london-2012,women,21,CHN,xueqin wang,2:28:21.00,
+21,london-2012,women,22,ETH,mare dibaba,2:28:48.00,
+22,london-2012,women,23,NED,hilda kibet,2:28:52.00,
+23,london-2012,women,24,PER,ines melchor,2:28:54.00,
+24,london-2012,women,25,ESP,alessandra aguilar,2:29:19.00,
+25,london-2012,women,26,LTU,rasa drazdauskaite,2:29:29.00,
+26,london-2012,women,27,LTU,diana lobacevske,2:29:32.00,
+27,london-2012,women,28,ITA,anna incerti,2:29:38.00,
+28,london-2012,women,29,ITA,rosaria console,2:30:09.00,
+29,london-2012,women,30,BDI,diane nukuri,2:30:13.00,
+30,london-2012,women,31,GER,susanne hahn,2:30:22.00,
+31,london-2012,women,32,BLR,anastasiya starovoytova-ivanova,2:30:25.00,
+32,london-2012,women,33,BLR,svetlana kovgan,2:30:26.00,
+33,london-2012,women,34,RSA,rene kalmer,2:30:51.00,
+34,london-2012,women,35,POL,karolina nadolska,2:30:57.00,
+35,london-2012,women,36,ALG,souad ait salem,2:31:15.00,
+36,london-2012,women,37,NAM,beata naigambo,2:31:16.00,
+37,london-2012,women,38,AUS,jessica trengove,2:31:17.00,
+38,london-2012,women,39,DEN,jessica draskau-petersson,2:31:43.00,
+39,london-2012,women,40,KOR,yun-hui jeong,2:31:58.00,
+40,london-2012,women,41,ETH,aselefech mergia,2:32:03.00,
+41,london-2012,women,42,PER,gladys tejeda,2:32:07.00,
+42,london-2012,women,43,GBR,freya murray,2:32:14.00,
+43,london-2012,women,44,ROU,lidia simon,2:32:46.00,
+44,london-2012,women,45,MEX,marisol romero,2:33:08.00,
+45,london-2012,women,46,BRA,adriana aparecida da silva,2:33:15.00,
+46,london-2012,women,47,UKR,olena burkovska,2:33:26.00,
+47,london-2012,women,48,PRK,kum ok kim,2:33:30.00,
+48,london-2012,women,49,MEX,karina perez,2:33:30.00,
+49,london-2012,women,50,COL,erika abril,2:33:33.00,
+50,london-2012,women,51,CRO,lisa christina nemec,2:34:03.00,
+51,london-2012,women,52,SUI,maja neuenschwander,2:34:50.00,
+52,london-2012,women,53,AUT,andrea mayr,2:34:51.00,
+53,london-2012,women,54,PER,wilma arizapana,2:35:09.00,
+54,london-2012,women,55,PRK,kyong-hui jon,2:35:17.00,
+55,london-2012,women,56,GBR,claire hallissey,2:35:39.00,
+56,london-2012,women,57,ERI,rehaset mehari,2:35:49.00,
+57,london-2012,women,58,KGZ,yuliya arkhipova-andreyeva,2:36:01.00,
+58,london-2012,women,59,ESP,maria elena espeso,2:36:12.00,
+59,london-2012,women,60,BRN,lishan dula,2:36:20.00,
+60,london-2012,women,61,CHI,erika olivera,2:36:41.00,
+61,london-2012,women,62,MDA,natalia cerches,2:37:13.00,
+62,london-2012,women,63,IRL,linda byrne,2:37:13.00,
+63,london-2012,women,64,CZE,ivana sekyrova,2:37:14.00,
+64,london-2012,women,65,IRL,ava hutchinson,2:37:17.00,
+65,london-2012,women,66,CHI,natalia romero,2:37:47.00,
+66,london-2012,women,67,CUB,dailin belmonte,2:38:08.00,
+67,london-2012,women,68,SRB,ana subotic,2:38:22.00,
+68,london-2012,women,69,TUR,sultan haydar,2:38:26.00,
+69,london-2012,women,70,MAR,samira raif,2:38:31.00,
+70,london-2012,women,71,PRK,mi-gyong kim,2:38:33.00,
+71,london-2012,women,72,LTU,remalda kergyte,2:39:01.00,
+72,london-2012,women,73,KOR,gyeong-hui im,2:39:03.00,
+73,london-2012,women,74,MNE,sladana perunovic,2:39:07.00,
+74,london-2012,women,75,BLR,olga dubovskaya,2:39:12.00,
+75,london-2012,women,76,JPN,risa shigetomo,2:40:06.00,
+76,london-2012,women,77,TUN,amira ben amor,2:40:13.00,
+77,london-2012,women,78,RSA,tanith maxwell,2:40:27.00,
+78,london-2012,women,79,ARG,maria peralta,2:40:50.00,
+79,london-2012,women,80,ECU,rosa chacha,2:40:57.00,
+80,london-2012,women,81,INA,triyaningsih triyaningsih,2:41:15.00,
+81,london-2012,women,82,HUN,beata rakonczai,2:41:20.00,
+82,london-2012,women,83,ROU,constantina tomescu,2:41:34.00,
+83,london-2012,women,84,FIN,leena puotiniemi,2:42:01.00,
+84,london-2012,women,85,SLO,zana jereb,2:42:50.00,
+85,london-2012,women,86,LES,mamorallo tjoka,2:43:15.00,
+86,london-2012,women,87,CRC,gabriela trana,2:43:17.00,
+87,london-2012,women,88,HUN,zsofia erdelyi,2:44:45.00,
+88,london-2012,women,89,UGA,jane suuto,2:44:46.00,
+89,london-2012,women,90,VEN,yolymar pineda,2:45:16.00,
+90,london-2012,women,91,HUN,aniko kalovics,2:45:55.00,
+91,london-2012,women,92,KOR,seongeun kim,2:46:38.00,
+92,london-2012,women,93,ESP,vanessa veiga,2:46:53.00,
+93,london-2012,women,94,LAT,dace lina,2:47:47.00,
+94,london-2012,women,95,SVK,katarina beresova,2:48:11.00,
+95,london-2012,women,96,AUS,benita willis,2:49:38.00,
+96,london-2012,women,97,RWA,claudette mukasakindi,2:51:07.00,
+97,london-2012,women,98,MGL,otgonbayar luvsanlundeg,2:52:15.00,
+98,london-2012,women,99,EST,evelin talts,2:54:15.00,
+99,london-2012,women,100,GRE,konstadina kefala,3:01:18.00,
+100,london-2012,women,101,MYA,ni lar san,3:04:27.00,
+101,london-2012,women,102,TLS,juventina napoleao,3:05:07.00,
+102,london-2012,women,103,IRL,caitriona jennings,3:22:11.00,
+103,london-2012,women,,USA,desiree linden,None,Did not finish
+104,london-2012,women,,UKR,tetiana filoniuk,None,Did not finish
+105,london-2012,women,,SRB,olivera jevtic,None,Did not finish
+106,london-2012,women,,BIH,lucia mwihaki kimani,None,Did not finish
+107,london-2012,women,,NED,lornah kiplagat,None,Did not finish
+108,london-2012,women,,MAR,soumiya labani,None,Did not finish
+109,london-2012,women,,ZIM,sharon tavengwa,None,Did not finish
+110,london-2012,women,,RSA,irvette van blerk,None,Did not finish
+111,london-2012,women,,GBR,mara yamauchi,None,Did not finish
+112,london-2012,women,,COL,yolanda caballero,None,Disqualified
+113,london-2012,women,,TUR,bahar dogan,None,Disqualified
+114,london-2012,women,,TUR,ummu kiraz,None,Disqualified
+115,london-2012,women,,UKR,tetiana hamera-shmyrko,None,Disqualified
+116,london-2012,women,,CHN,jiali wang,None,Disqualified
+117,london-2012,women,,RUS,liliya shobukhova,None,Disqualified
+0,beijing-2008,men,G,KEN,samuel wanjiru,2:06:32.00,
+1,beijing-2008,men,S,MAR,jaouad gharib,2:07:16.00,
+2,beijing-2008,men,B,ETH,tsegay kebede,2:10:00.00,
+3,beijing-2008,men,4,ETH,deriba merga,2:10:21.00,
+4,beijing-2008,men,5,KEN,martin lel,2:10:24.00,
+5,beijing-2008,men,6,SUI,viktor rothlin,2:10:35.00,
+6,beijing-2008,men,7,ETH,gashaw asfaw,2:10:52.00,
+7,beijing-2008,men,8,ERI,yared asmerom,2:11:11.00,
+8,beijing-2008,men,9,USA,dathan ritzenhein,2:11:59.00,
+9,beijing-2008,men,10,USA,ryan hall,2:12:33.00,
+10,beijing-2008,men,11,ZIM,mike fokoroni,2:13:17.00,
+11,beijing-2008,men,12,ITA,stefano baldini,2:13:25.00,
+12,beijing-2008,men,13,JPN,tsuyoshi ogata,2:13:26.00,
+13,beijing-2008,men,14,RUS,georgiy andreyev,2:13:33.00,
+14,beijing-2008,men,15,ITA,ruggero pertile,2:13:39.00,
+15,beijing-2008,men,16,ESP,jose manuel martinez,2:14:00.00,
+16,beijing-2008,men,17,FIN,francis kirwa,2:14:22.00,
+17,beijing-2008,men,18,KOR,myongseung lee,2:14:37.00,
+18,beijing-2008,men,19,FIN,janne holmen,2:14:44.00,
+19,beijing-2008,men,20,MAR,abderrahim goumri,2:15:00.00,
+20,beijing-2008,men,21,RUS,alexey sokolov,2:15:57.00,
+21,beijing-2008,men,22,USA,brian sell,2:16:07.00,
+22,beijing-2008,men,23,ITA,ottaviano andriani,2:16:10.00,
+23,beijing-2008,men,24,GBR,dan robinson,2:16:14.00,
+24,beijing-2008,men,25,CHN,haiyang deng,2:16:17.00,
+25,beijing-2008,men,26,MAR,abderrahime bouramdane,2:17:42.00,
+26,beijing-2008,men,27,UKR,vasyl matviychuk,2:17:50.00,
+27,beijing-2008,men,28,KOR,bong-ju lee,2:17:56.00,
+28,beijing-2008,men,29,RUS,oleg kulkov,2:18:11.00,
+29,beijing-2008,men,30,POR,paulo gomes,2:18:15.00,
+30,beijing-2008,men,31,UGA,alex malinga,2:18:26.00,
+31,beijing-2008,men,32,MEX,carlos cordero,2:18:40.00,
+32,beijing-2008,men,33,PRK,kum song ri,2:19:08.00,
+33,beijing-2008,men,34,POL,henryk szost,2:19:43.00,
+34,beijing-2008,men,35,GUA,jose amado garcia,2:20:15.00,
+35,beijing-2008,men,36,ERI,yonas kifle,2:20:23.00,
+36,beijing-2008,men,37,BRN,nasar sakar saeed,2:20:24.00,
+37,beijing-2008,men,38,BRA,jose de sousa,2:20:25.00,
+38,beijing-2008,men,39,NED,kamiel maase,2:20:30.00,
+39,beijing-2008,men,40,PRK,song-chol pak,2:21:16.00,
+40,beijing-2008,men,41,MDA,iaroslav musinschi,2:21:18.00,
+41,beijing-2008,men,42,PRK,il nam kim,2:21:51.00,
+42,beijing-2008,men,43,COL,juan carlos cardona,2:21:57.00,
+43,beijing-2008,men,44,RSA,hendrick ramaala,2:22:43.00,
+44,beijing-2008,men,45,NEP,arjun kumar basnet,2:23:09.00,
+45,beijing-2008,men,46,POR,helder ornelas,2:23:20.00,
+46,beijing-2008,men,47,MEX,procopio franco,2:23:24.00,
+47,beijing-2008,men,48,CPV,nelson cruz,2:23:47.00,
+48,beijing-2008,men,49,CHI,roberto echeverria,2:23:54.00,
+49,beijing-2008,men,50,KOR,yi-yong kim,2:23:57.00,
+50,beijing-2008,men,51,CHN,zhuhong li,2:24:08.00,
+51,beijing-2008,men,52,MGL,ser-od bat-ochiryn,2:24:19.00,
+52,beijing-2008,men,53,RSA,norman dlomo,2:24:28.00,
+53,beijing-2008,men,54,POL,arkadiusz sowa,2:24:48.00,
+54,beijing-2008,men,55,TAN,samson ramadhani,2:25:03.00,
+55,beijing-2008,men,56,BOT,ndabili bashingili,2:25:11.00,
+56,beijing-2008,men,57,FRA,simon munyutu,2:25:50.00,
+57,beijing-2008,men,58,AND,antoni bernado,2:26:29.00,
+58,beijing-2008,men,59,TPE,wen-chien wu,2:26:55.00,
+59,beijing-2008,men,60,AUS,lee troop,2:27:17.00,
+60,beijing-2008,men,61,PER,constantino leon,2:28:04.00,
+61,beijing-2008,men,62,MNE,goran stojiljkovic,2:28:14.00,
+62,beijing-2008,men,63,GUA,alfredo arevalo,2:28:26.00,
+63,beijing-2008,men,64,QAT,yousf  othman qader,2:28:40.00,
+64,beijing-2008,men,65,ECU,franklin tenorio,2:29:05.00,
+65,beijing-2008,men,66,MEX,francisco bautista,2:29:28.00,
+66,beijing-2008,men,67,SLO,roman kejzar,2:29:37.00,
+67,beijing-2008,men,68,BDI,joachim nshimirimana,2:29:55.00,
+68,beijing-2008,men,69,ISR,haile satayin,2:30:07.00,
+69,beijing-2008,men,70,KAZ,takhir mamashayev,2:30:26.00,
+70,beijing-2008,men,71,TUR,abdil ceylan,2:31:43.00,
+71,beijing-2008,men,72,ESP,jose rios,2:32:35.00,
+72,beijing-2008,men,73,CAM,bunting hem,2:33:32.00,
+73,beijing-2008,men,74,LIE,marcel tschopp,2:35:06.00,
+74,beijing-2008,men,75,EST,pavel loskutov,2:39:01.00,
+75,beijing-2008,men,76,JPN,atsushi sato,2:41:08.00,
+76,beijing-2008,men,,ERI,tesfayohannes mesfn,None,Did not finish
+77,beijing-2008,men,,ESP,julio rey,None,Did not finish
+78,beijing-2008,men,,IRL,martin fagan,None,Did not finish
+79,beijing-2008,men,,BRN,riyadh al-mustafa,None,Did not finish
+80,beijing-2008,men,,LBA,ali mabrouk el zaidi,None,Did not finish
+81,beijing-2008,men,,BRA,marilson dos santos,None,Did not finish
+82,beijing-2008,men,,KEN,luke kibet,None,Did not finish
+83,beijing-2008,men,,BRN,mohammed abdelhak zakaria,None,Did not finish
+84,beijing-2008,men,,VEN,luis fonseca,None,Did not finish
+85,beijing-2008,men,,UKR,olexandr kuzin,None,Did not finish
+86,beijing-2008,men,,BRA,franck de almeida,None,Did not finish
+87,beijing-2008,men,,BLR,andrey gordeyev,None,Did not finish
+88,beijing-2008,men,,ANG,joao n'tyamba,None,Did not finish
+89,beijing-2008,men,,LES,moses moeketsi mosuhli,None,Did not finish
+90,beijing-2008,men,,TAN,getuli bayo,None,Did not finish
+91,beijing-2008,men,,QAT,mubarak hassan shami,None,Did not finish
+92,beijing-2008,men,,LES,simon tsotang maine,None,Did not finish
+93,beijing-2008,men,,LES,clement mabuthile lebopo,None,Did not finish
+94,beijing-2008,men,,UKR,oleksandr sitkovskyy,None,Did not finish
+95,beijing-2008,men,,TAN,mohamed ikoki msanduki,None,Did not start
+96,beijing-2008,men,,JPN,satoshi osaki,None,Did not start
+97,beijing-2008,men,,TLS,augusto soares,None,Did not start
+0,beijing-2008,women,G,ROU,constantina tomescu,2:26:44.00,
+1,beijing-2008,women,S,KEN,catherine ndereba,2:27:06.00,
+2,beijing-2008,women,B,CHN,chunxiu zhou,2:27:07.00,
+3,beijing-2008,women,4,CHN,xiaolin zhu,2:27:16.00,
+4,beijing-2008,women,5,KEN,martha komu,2:27:23.00,
+5,beijing-2008,women,6,GBR,mara yamauchi,2:27:29.00,
+6,beijing-2008,women,7,RUS,irina timofeeva,2:27:31.00,
+7,beijing-2008,women,8,ROU,lidia simon,2:27:51.00,
+8,beijing-2008,women,9,ALG,souad ait salem,2:28:29.00,
+9,beijing-2008,women,10,KEN,salina kosgei,2:29:28.00,
+10,beijing-2008,women,11,LTU,zivile balciunaite,2:29:33.00,
+11,beijing-2008,women,12,PRK,kum ok kim,2:30:01.00,
+12,beijing-2008,women,13,JPN,yurika nakamura,2:30:19.00,
+13,beijing-2008,women,14,ITA,anna incerti,2:30:55.00,
+14,beijing-2008,women,15,ETH,dire tune,2:31:16.00,
+15,beijing-2008,women,16,NZL,nina rillstone,2:31:16.00,
+16,beijing-2008,women,17,ITA,bruna genovese,2:31:31.00,
+17,beijing-2008,women,18,ROU,luminita talpos,2:31:41.00,
+18,beijing-2008,women,19,MEX,madai perez,2:31:47.00,
+19,beijing-2008,women,20,FRA,christelle daunay,2:31:48.00,
+20,beijing-2008,women,21,AUS,benita willis,2:32:06.00,
+21,beijing-2008,women,22,RUS,svetlana zakharova,2:32:16.00,
+22,beijing-2008,women,23,GBR,paula radcliffe,2:32:38.00,
+23,beijing-2008,women,24,POL,monika drybulska,2:32:39.00,
+24,beijing-2008,women,25,KOR,eunjeong lee,2:33:07.00,
+25,beijing-2008,women,26,GBR,liz yelling,2:33:12.00,
+26,beijing-2008,women,27,USA,blake russell,2:33:13.00,
+27,beijing-2008,women,28,NAM,beata naigambo,2:33:29.00,
+28,beijing-2008,women,29,ITA,vincenza sicari,2:33:31.00,
+29,beijing-2008,women,30,POL,dorota gruca,2:33:32.00,
+30,beijing-2008,women,31,UKR,tetiana filoniuk,2:33:35.00,
+31,beijing-2008,women,32,POR,marisa barros,2:34:08.00,
+32,beijing-2008,women,33,AUS,lisa jane weightman,2:34:16.00,
+33,beijing-2008,women,34,NOR,kirsten melkevik otterbu,2:34:35.00,
+34,beijing-2008,women,35,NZL,liza hunter-galvan,2:34:51.00,
+35,beijing-2008,women,36,PRK,yong ok jong,2:34:52.00,
+36,beijing-2008,women,37,LTU,rasa drazdauskaite,2:35:09.00,
+37,beijing-2008,women,38,GER,melanie kraus,2:35:17.00,
+38,beijing-2008,women,39,PER,maria portilla,2:35:19.00,
+39,beijing-2008,women,40,NAM,helalia johannes,2:35:22.00,
+40,beijing-2008,women,41,CHN,shujing zhang,2:35:35.00,
+41,beijing-2008,women,42,BIH,lucia mwihaki kimani,2:35:47.00,
+42,beijing-2008,women,43,ECU,sandra ruales,2:35:53.00,
+43,beijing-2008,women,44,AUS,kate smyth,2:36:10.00,
+44,beijing-2008,women,45,ESP,yesenia centeno,2:36:25.00,
+45,beijing-2008,women,46,POR,ana dias,2:36:25.00,
+46,beijing-2008,women,47,ERI,nebiat habtemariam,2:37:03.00,
+47,beijing-2008,women,48,PRK,bun hui jo,2:37:04.00,
+48,beijing-2008,women,49,ZIM,tabitha tsatsa,2:37:10.00,
+49,beijing-2008,women,50,TUR,bahar dogan,2:37:12.00,
+50,beijing-2008,women,51,BRA,marily dos santos,2:38:10.00,
+51,beijing-2008,women,52,GER,susanne hahn,2:38:31.00,
+52,beijing-2008,women,53,KOR,eun-hui chae,2:38:52.00,
+53,beijing-2008,women,54,ESP,alessandra aguilar,2:39:29.00,
+54,beijing-2008,women,55,MEX,patricia retiz,2:39:34.00,
+55,beijing-2008,women,56,KOR,sunyoung lee,2:43:23.00,
+56,beijing-2008,women,57,AUT,eva maria gradwohl,2:44:24.00,
+57,beijing-2008,women,58,KGZ,yuliya arkhipova-andreyeva,2:44:41.00,
+58,beijing-2008,women,59,BOL,sonia calizaya,2:45:53.00,
+59,beijing-2008,women,60,GRE,eleni donta,2:46:44.00,
+60,beijing-2008,women,61,MEX,karina perez,2:47:02.00,
+61,beijing-2008,women,62,COL,bertha sanchez,2:47:02.00,
+62,beijing-2008,women,63,IRL,pauline curley,2:47:16.00,
+63,beijing-2008,women,64,ESP,maria jose pueyo,2:48:01.00,
+64,beijing-2008,women,65,HUN,petra teveli,2:48:32.00,
+65,beijing-2008,women,66,RWA,epiphanie nyirabarame,2:49:32.00,
+66,beijing-2008,women,67,SVK,zuzana tomas,2:49:39.00,
+67,beijing-2008,women,68,CRC,gabriela trana,2:53:45.00,
+68,beijing-2008,women,69,UKR,oksana skliarenko,2:55:39.00,
+69,beijing-2008,women,,ETH,berhane adere,None,Did not finish
+70,beijing-2008,women,,ETH,gete wami,None,Did not finish
+71,beijing-2008,women,,POR,ines monteiro,None,Did not finish
+72,beijing-2008,women,,MDA,valentina delion,None,Did not finish
+73,beijing-2008,women,,JPN,reiko tosa,None,Did not finish
+74,beijing-2008,women,,SRB,olivera jevtic,None,Did not finish
+75,beijing-2008,women,,RUS,galina bogomolova,None,Did not finish
+76,beijing-2008,women,,TLS,mariana dias ximenes,None,Did not finish
+77,beijing-2008,women,,HUN,beata rakonczai,None,Did not finish
+78,beijing-2008,women,,LES,mamorallo tjoka,None,Did not finish
+79,beijing-2008,women,,USA,magda lewy,None,Did not finish
+80,beijing-2008,women,,USA,deena kastor,None,Did not finish
+81,beijing-2008,women,,BRN,nadia ejjafini,None,Did not start
+0,athens-2004,men,G,ITA,stefano baldini,2:10:55.00,
+1,athens-2004,men,S,USA,mebrahtom keflezighi,2:11:29.00,
+2,athens-2004,men,B,BRA,vanderlei de lima,2:12:11.00,
+3,athens-2004,men,4,GBR,jon brown,2:12:26.00,
+4,athens-2004,men,5,JPN,shigeru aburaya,2:13:11.00,
+5,athens-2004,men,6,JPN,toshinari suwa,2:13:24.00,
+6,athens-2004,men,7,KEN,erick wainaina,2:13:30.00,
+7,athens-2004,men,8,POR,alberto chaica,2:14:17.00,
+8,athens-2004,men,9,ITA,alberico di cecco,2:14:34.00,
+9,athens-2004,men,10,KEN,paul tergat,2:14:45.00,
+10,athens-2004,men,11,MAR,jaouad gharib,2:15:12.00,
+11,athens-2004,men,12,USA,alan culpepper,2:15:26.00,
+12,athens-2004,men,13,RUS,leonid shvetsov,2:15:28.00,
+13,athens-2004,men,14,KOR,bong-ju lee,2:15:33.00,
+14,athens-2004,men,15,ETH,ambesse tolosa,2:15:39.00,
+15,athens-2004,men,16,RSA,gert thys,2:16:08.00,
+16,athens-2004,men,17,KOR,young joon ji,2:16:14.00,
+17,athens-2004,men,18,ESP,antoni pena,2:16:38.00,
+18,athens-2004,men,19,RUS,georgiy andreyev,2:16:55.00,
+19,athens-2004,men,20,ISR,haile satayin,2:17:25.00,
+20,athens-2004,men,21,NZL,jonathan wyatt,2:17:45.00,
+21,athens-2004,men,22,FIN,janne holmen,2:17:50.00,
+22,athens-2004,men,23,GBR,dan robinson,2:17:53.00,
+23,athens-2004,men,24,GRE,nikolaos polias,2:17:56.00,
+24,athens-2004,men,25,BOT,ndabili bashingili,2:18:09.00,
+25,athens-2004,men,26,EST,pavel loskutov,2:18:09.00,
+26,athens-2004,men,27,ESP,jose rios,2:18:40.00,
+27,athens-2004,men,28,AUS,lee troop,2:18:46.00,
+28,athens-2004,men,29,AUT,michael buchleitner,2:19:19.00,
+29,athens-2004,men,30,SRI,anuradha indrajith cooray,2:19:24.00,
+30,athens-2004,men,31,CHN,zhuhong li,2:19:26.00,
+31,athens-2004,men,32,BDI,joachim nshimirimana,2:19:31.00,
+32,athens-2004,men,33,NZL,dale warrender,2:19:42.00,
+33,athens-2004,men,34,POL,waldemar glinka,2:19:43.00,
+34,athens-2004,men,35,PRK,myong chol jong,2:19:47.00,
+35,athens-2004,men,36,FRA,el hassan lahssini,2:19:50.00,
+36,athens-2004,men,37,POL,michal bartoszak,2:20:20.00,
+37,athens-2004,men,38,QAT,ahmed jumaa jaber,2:20:27.00,
+38,athens-2004,men,39,LBA,ali mabrouk el zaidi,2:20:31.00,
+39,athens-2004,men,40,TAN,samson ramadhani,2:20:38.00,
+40,athens-2004,men,41,KOR,myongseung lee,2:21:01.00,
+41,athens-2004,men,42,JPN,tomoaki kunichika,2:21:13.00,
+42,athens-2004,men,43,COL,jose alirio carrasco,2:21:14.00,
+43,athens-2004,men,44,CAF,ernest ndissipou,2:21:23.00,
+44,athens-2004,men,45,AUS,nicholas harrison,2:21:42.00,
+45,athens-2004,men,46,ETH,tereje wodajo,2:21:53.00,
+46,athens-2004,men,47,CUB,aguelmis rojas,2:21:59.00,
+47,athens-2004,men,48,ZIM,abel chimukoko,2:22:09.00,
+48,athens-2004,men,49,ALG,said belhout,2:22:32.00,
+49,athens-2004,men,50,GBR,matt o'dowd,2:22:37.00,
+50,athens-2004,men,51,COL,juan carlos cardona,2:22:49.00,
+51,athens-2004,men,52,ITA,daniele caimmi,2:23:07.00,
+52,athens-2004,men,53,ANG,joao n'tyamba,2:23:26.00,
+53,athens-2004,men,54,SLO,roman kejzar,2:23:34.00,
+54,athens-2004,men,55,MEX,procopio franco,2:23:34.00,
+55,athens-2004,men,56,TPE,wen-chien wu,2:23:54.00,
+56,athens-2004,men,57,AND,antoni bernado,2:23:55.00,
+57,athens-2004,men,58,ESP,julio rey,2:24:54.00,
+58,athens-2004,men,59,ISR,asaf bimro,2:25:20.00,
+59,athens-2004,men,60,AUS,sisay bezabeh,2:25:26.00,
+60,athens-2004,men,61,ECU,silvio guerra,2:25:29.00,
+61,athens-2004,men,62,RWA,mathias ntawulikura,2:26:05.00,
+62,athens-2004,men,63,CZE,robert stefko,2:27:12.00,
+63,athens-2004,men,64,GUA,jose amado garcia,2:27:13.00,
+64,athens-2004,men,65,USA,daniel browne,2:27:17.00,
+65,athens-2004,men,66,CHN,gang han,2:27:31.00,
+66,athens-2004,men,67,PHI,eduardo buenavista,2:28:18.00,
+67,athens-2004,men,68,FRA,driss el himer,2:29:07.00,
+68,athens-2004,men,69,MEX,andres espinosa,2:29:43.00,
+69,athens-2004,men,70,LES,mpesela ntlot soeu,2:30:19.00,
+70,athens-2004,men,71,ECU,franklin tenorio,2:31:12.00,
+71,athens-2004,men,72,MEX,jose ernani palalia,2:31:41.00,
+72,athens-2004,men,73,RUS,dmitriy burmakin,2:31:51.00,
+73,athens-2004,men,74,LTU,mindaugas pukstas,2:33:02.00,
+74,athens-2004,men,75,MGL,ser-od bat-ochiryn,2:33:24.00,
+75,athens-2004,men,76,CHN,ronghua zhu,2:34:02.00,
+76,athens-2004,men,77,GUA,alfredo arevalo,2:34:02.00,
+77,athens-2004,men,78,CPV,antonio carlos zeferino,2:36:22.00,
+78,athens-2004,men,79,KGZ,valery pisarev,2:40:10.00,
+79,athens-2004,men,80,LCA,zepherinus joseph,2:44:19.00,
+80,athens-2004,men,81,SVK,marcel matanin,2:50:26.00,
+81,athens-2004,men,,RSA,hendrick ramaala,None,Did not finish
+82,athens-2004,men,,TAN,amnaay zebedayo bayo,None,Did not finish
+83,athens-2004,men,,ETH,hailu negussie,None,Did not finish
+84,athens-2004,men,,SUI,viktor rothlin,None,Did not finish
+85,athens-2004,men,,BRN,riyadh al-mustafa,None,Did not finish
+86,athens-2004,men,,BRA,romulo silva,None,Did not finish
+87,athens-2004,men,,RSA,ian syster,None,Did not finish
+88,athens-2004,men,,HUN,zsolt bacskai,None,Did not finish
+89,athens-2004,men,,BLR,azat rakipov,None,Did not finish
+90,athens-2004,men,,UKR,dmytro baranovskyy,None,Did not finish
+91,athens-2004,men,,MAR,rachid el-ghanmouni,None,Did not finish
+92,athens-2004,men,,ALG,rachid ziar,None,Did not finish
+93,athens-2004,men,,ALG,mustapha bennacer,None,Did not finish
+94,athens-2004,men,,BRA,andre luiz ramos,None,Did not finish
+95,athens-2004,men,,VEN,luis fonseca,None,Did not finish
+96,athens-2004,men,,MAR,khalid el boumlili,None,Did not finish
+97,athens-2004,men,,TAN,john nada saya,None,Did not finish
+98,athens-2004,men,,TLS,gil da cruz trindade,None,Did not finish
+99,athens-2004,men,,FIN,jussi utriainen,None,Did not finish
+100,athens-2004,men,,BDI,jean paul gahimbare,None,Did not finish
+101,athens-2004,men,,NED,luc krotwaar,None,Did not start
+0,athens-2004,women,G,JPN,mizuki noguchi,2:26:20.00,
+1,athens-2004,women,S,KEN,catherine ndereba,2:26:32.00,
+2,athens-2004,women,B,USA,deena kastor,2:27:20.00,
+3,athens-2004,women,4,ETH,elfenesh alemu,2:28:15.00,
+4,athens-2004,women,5,JPN,reiko tosa,2:28:44.00,
+5,athens-2004,women,6,SCG,olivera jevtic,2:31:15.00,
+6,athens-2004,women,7,JPN,naoko sakamoto,2:31:43.00,
+7,athens-2004,women,8,RUS,lyudmila petrova,2:31:56.00,
+8,athens-2004,women,9,RUS,svetlana zakharova,2:32:04.00,
+9,athens-2004,women,10,ITA,bruna genovese,2:32:50.00,
+10,athens-2004,women,11,KEN,alice chelangat,2:33:52.00,
+11,athens-2004,women,12,CHN,shujing zhang,2:34:34.00,
+12,athens-2004,women,13,ROU,nuta olaru,2:34:45.00,
+13,athens-2004,women,14,LTU,zivile balciunaite,2:35:01.00,
+14,athens-2004,women,15,FRA,corinne raux,2:35:54.00,
+15,athens-2004,women,16,ITA,rosaria console,2:35:56.00,
+16,athens-2004,women,17,POL,malgorzata sobanska,2:36:43.00,
+17,athens-2004,women,18,GER,luminita zaituc,2:36:45.00,
+18,athens-2004,women,19,KOR,eunjeong lee,2:37:23.00,
+19,athens-2004,women,20,ROU,constantina tomescu,2:37:31.00,
+20,athens-2004,women,21,PRK,yong ok jong,2:37:52.00,
+21,athens-2004,women,22,CHN,helan li,2:37:53.00,
+22,athens-2004,women,23,KOR,yun-hui jeong,2:38:57.00,
+23,athens-2004,women,24,NOR,stine larsen,2:39:55.00,
+24,athens-2004,women,25,GBR,liz yelling,2:40:13.00,
+25,athens-2004,women,26,ESP,maria abel,2:40:13.00,
+26,athens-2004,women,27,MAR,hafida izem,2:40:46.00,
+27,athens-2004,women,28,CZE,anna pichrtova,2:40:58.00,
+28,athens-2004,women,29,GBR,tracey morris,2:41:00.00,
+29,athens-2004,women,30,MAR,kenza wahbi,2:41:36.00,
+30,athens-2004,women,31,AUS,kerryn mccann,2:41:41.00,
+31,athens-2004,women,32,ESP,beatriz ros,2:41:51.00,
+32,athens-2004,women,33,CHN,chunxiu zhou,2:42:54.00,
+33,athens-2004,women,34,USA,jennifer rhines,2:43:52.00,
+34,athens-2004,women,35,KOR,kyung hee choi,2:44:05.00,
+35,athens-2004,women,36,ECU,sandra ruales,2:44:28.00,
+36,athens-2004,women,37,ESP,maria dolores pulido,2:44:33.00,
+37,athens-2004,women,38,MEX,margarita tapia,2:46:14.00,
+38,athens-2004,women,39,USA,colleen de reuck,2:46:30.00,
+39,athens-2004,women,40,RUS,albina mayorova,2:47:23.00,
+40,athens-2004,women,41,POL,grazyna syrek,2:47:26.00,
+41,athens-2004,women,42,ISR,nili avramski,2:48:08.00,
+42,athens-2004,women,43,MAD,clarisse rasoarizay,2:48:14.00,
+43,athens-2004,women,44,EST,jane salumae,2:48:47.00,
+44,athens-2004,women,45,HUN,simona staicu,2:48:57.00,
+45,athens-2004,women,46,MEX,angelica sanchez,2:49:04.00,
+46,athens-2004,women,47,POR,helena sampaio,2:49:18.00,
+47,athens-2004,women,48,HUN,beata rakonczai,2:49:41.00,
+48,athens-2004,women,49,DEN,annemette jensen,2:50:01.00,
+49,athens-2004,women,50,GRE,yeoryia abatzidou,2:50:01.00,
+50,athens-2004,women,51,NZL,liza hunter-galvan,2:50:23.00,
+51,athens-2004,women,52,FRA,hafida gadi,2:50:29.00,
+52,athens-2004,women,53,TJK,gulsara dadabaeva,2:50:45.00,
+53,athens-2004,women,54,RWA,epiphanie nyirabarame,2:52:50.00,
+54,athens-2004,women,55,ARG,sandra torres,2:54:48.00,
+55,athens-2004,women,56,PRK,bun hui jo,2:55:54.00,
+56,athens-2004,women,57,TPE,yu-fang hsu,2:55:58.00,
+57,athens-2004,women,58,CHI,erika olivera,2:57:14.00,
+58,athens-2004,women,59,CUB,mariela gonzalez,3:02:20.00,
+59,athens-2004,women,60,HUN,ida kovacs,3:03:21.00,
+60,athens-2004,women,61,MDA,svetlana tkach-shepeleva,3:03:29.00,
+61,athens-2004,women,62,POR,ana dias,3:08:11.00,
+62,athens-2004,women,63,LTU,inga juodeskiene,3:09:18.00,
+63,athens-2004,women,64,LES,mamokete lechela,3:11:56.00,
+64,athens-2004,women,65,TLS,agueda amaral,3:18:25.00,
+65,athens-2004,women,66,MGL,otgonbayar luvsanlundeg,3:48:42.00,
+66,athens-2004,women,,GBR,paula radcliffe,None,Did not finish
+67,athens-2004,women,,KEN,margaret okayo,None,Did not finish
+68,athens-2004,women,,GER,ulrike maisch,None,Did not finish
+69,athens-2004,women,,POL,monika drybulska,None,Did not finish
+70,athens-2004,women,,PRK,bong-sil ham,None,Did not finish
+71,athens-2004,women,,FRA,rakiya maraoui quetier,None,Did not finish
+72,athens-2004,women,,ALG,nasria azaidj,None,Did not finish
+73,athens-2004,women,,BRA,marcia narloch,None,Did not finish
+74,athens-2004,women,,BRA,marlene fortunato,None,Did not finish
+75,athens-2004,women,,ETH,asha gigi,None,Did not finish
+76,athens-2004,women,,ROU,lidia simon,None,Did not finish
+77,athens-2004,women,,BRN,nadia ejjafini,None,Did not finish
+78,athens-2004,women,,TAN,banuelia mrashani,None,Did not finish
+79,athens-2004,women,,ETH,workenesh tola,None,Did not finish
+80,athens-2004,women,,TUR,lale ozturk,None,Did not finish
+81,athens-2004,women,,KGZ,irina bogacheva,None,Did not finish
+0,sydney-2000,men,G,ETH,gezahegne abera,2:10:11.00,
+1,sydney-2000,men,S,KEN,erick wainaina,2:10:31.00,
+2,sydney-2000,men,B,ETH,tesfaye tola,2:11:10.00,
+3,sydney-2000,men,4,GBR,jon brown,2:11:17.00,
+4,sydney-2000,men,5,ITA,giacomo leone,2:12:14.00,
+5,sydney-2000,men,6,ESP,martin fiz,2:13:06.00,
+6,sydney-2000,men,7,MAR,abdel kader el-mouaziz,2:13:49.00,
+7,sydney-2000,men,8,FRA,mohamed ouaadi,2:14:04.00,
+8,sydney-2000,men,9,ZIM,tendai chimusasa,2:14:19.00,
+9,sydney-2000,men,10,AUS,stephen moneghetti,2:14:50.00,
+10,sydney-2000,men,11,POR,antonio pinto,2:15:17.00,
+11,sydney-2000,men,12,RSA,hendrick ramaala,2:16:19.00,
+12,sydney-2000,men,13,NED,kamiel maase,2:16:24.00,
+13,sydney-2000,men,14,ECU,silvio guerra,2:16:27.00,
+14,sydney-2000,men,15,RWA,mathias ntawulikura,2:16:39.00,
+15,sydney-2000,men,16,LES,thabiso paul moqhali,2:16:43.00,
+16,sydney-2000,men,17,ANG,joao n'tyamba,2:16:43.00,
+17,sydney-2000,men,18,POR,domingos castro,2:16:52.00,
+18,sydney-2000,men,19,GBR,keith cullen,2:16:59.00,
+19,sydney-2000,men,20,RSA,josia thugwane,2:16:59.00,
+20,sydney-2000,men,21,JPN,shinji kawashima,2:17:21.00,
+21,sydney-2000,men,22,ETH,simretu alemayehu,2:17:21.00,
+22,sydney-2000,men,23,ALG,kamal kohil,2:17:46.00,
+23,sydney-2000,men,24,KOR,bong-ju lee,2:17:57.00,
+24,sydney-2000,men,25,NED,greg van hest,2:18:00.00,
+25,sydney-2000,men,26,RUS,pavel kokin,2:18:02.00,
+26,sydney-2000,men,27,MEX,andres espinosa,2:18:02.00,
+27,sydney-2000,men,28,AUS,rod de highden,2:18:04.00,
+28,sydney-2000,men,29,PRK,jung-ok kim,2:18:04.00,
+29,sydney-2000,men,30,PRK,jong chol kim,2:18:04.00,
+30,sydney-2000,men,31,VIN,pamenos avorsant ballantyne,2:19:08.00,
+31,sydney-2000,men,32,TTO,ronnie holassie,2:19:24.00,
+32,sydney-2000,men,33,AUT,michael buchleitner,2:19:26.00,
+33,sydney-2000,men,34,RUS,dmitriy kapitonov,2:19:38.00,
+34,sydney-2000,men,35,EST,pavel loskutov,2:19:41.00,
+35,sydney-2000,men,36,SUI,viktor rothlin,2:20:06.00,
+36,sydney-2000,men,37,GER,michael fietz,2:20:09.00,
+37,sydney-2000,men,38,TUN,tahar mansouri,2:20:33.00,
+38,sydney-2000,men,39,CRC,jose luis molina,2:20:37.00,
+39,sydney-2000,men,40,VEN,carlos tarazona,2:20:39.00,
+40,sydney-2000,men,41,JPN,nobuyuki sato,2:20:52.00,
+41,sydney-2000,men,42,ESP,alberto juzdado,2:21:18.00,
+42,sydney-2000,men,43,RSA,johannes maremane,2:21:25.00,
+43,sydney-2000,men,44,CAN,bruce deacon,2:21:38.00,
+44,sydney-2000,men,45,KOR,nam-gyun jeong,2:22:23.00,
+45,sydney-2000,men,46,URU,néstor garcía,2:22:30.00,
+46,sydney-2000,men,47,EGY,ahmed soliman,2:22:47.00,
+47,sydney-2000,men,48,NAM,lucketz swartbooi,2:22:55.00,
+48,sydney-2000,men,49,AND,antoni bernado,2:23:03.00,
+49,sydney-2000,men,50,POR,luis novo,2:23:04.00,
+50,sydney-2000,men,51,SWZ,lucky willie bhembe,2:23:38.00,
+51,sydney-2000,men,52,MAR,boubker elafoui,2:23:53.00,
+52,sydney-2000,men,53,ESP,abel anton rodrigo,2:24:04.00,
+53,sydney-2000,men,54,GER,lothar carsten eich,2:24:11.00,
+54,sydney-2000,men,55,MDA,valeri vlas,2:24:35.00,
+55,sydney-2000,men,56,GBR,mark steinle,2:24:42.00,
+56,sydney-2000,men,57,UGA,alex malinga,2:24:53.00,
+57,sydney-2000,men,58,ARG,hernan oscar cortinez,2:25:01.00,
+58,sydney-2000,men,59,PRK,jae son kil,2:25:13.00,
+59,sydney-2000,men,60,BUL,petko stefanov,2:26:24.00,
+60,sydney-2000,men,61,TAN,amnaay zebedayo bayo,2:26:24.00,
+61,sydney-2000,men,62,SLO,roman kejzar,2:26:38.00,
+62,sydney-2000,men,63,GRE,panagiotis charamis,2:26:55.00,
+63,sydney-2000,men,64,MEX,benjamin paredes,2:27:17.00,
+64,sydney-2000,men,65,KOR,seng-do baek,2:28:25.00,
+65,sydney-2000,men,66,AUS,lee troop,2:29:32.00,
+66,sydney-2000,men,67,CPV,antonio carlos zeferino,2:29:46.00,
+67,sydney-2000,men,68,TJK,sergey zabavskiy,2:30:29.00,
+68,sydney-2000,men,69,USA,rod dehaven,2:30:46.00,
+69,sydney-2000,men,70,KGZ,nazirdin akylbekov,2:31:26.00,
+70,sydney-2000,men,71,IOA,calisto da costa,2:33:11.00,
+71,sydney-2000,men,72,BOL,marco ivan condori colque,2:34:11.00,
+72,sydney-2000,men,73,SRI,sarath prasanna gamage,2:34:39.00,
+73,sydney-2000,men,74,SMR,gian luigi macina,2:35:42.00,
+74,sydney-2000,men,75,BRA,vanderlei de lima,2:37:08.00,
+75,sydney-2000,men,76,BIH,zeljko petrovic,2:38:29.00,
+76,sydney-2000,men,77,BOT,tiyapo maso,2:38:53.00,
+77,sydney-2000,men,78,BIH,djuro kodzo,2:39:14.00,
+78,sydney-2000,men,79,VEN,jose alejandro semprun,3:00:02.00,
+79,sydney-2000,men,80,CAM,rithya to,3:03:56.00,
+80,sydney-2000,men,81,FSM,elias rodriquez,3:09:14.00,
+81,sydney-2000,men,,QAT,rashid khaleel jamal,None,Did not finish
+82,sydney-2000,men,,JPN,takayuki inubushi,None,Did not finish
+83,sydney-2000,men,,SVK,robert stefko,None,Did not finish
+84,sydney-2000,men,,LBA,adel adili,None,Did not finish
+85,sydney-2000,men,,TAN,angelo peter simon,None,Did not finish
+86,sydney-2000,men,,FRA,abdellah behar,None,Did not finish
+87,sydney-2000,men,,COD,willy kalombo,None,Did not finish
+88,sydney-2000,men,,BRA,eder fialho,None,Did not finish
+89,sydney-2000,men,,BRA,osmiro de souza silva,None,Did not finish
+90,sydney-2000,men,,COL,jose alirio carrasco,None,Did not finish
+91,sydney-2000,men,,ARU,richard rodriguez,None,Did not finish
+92,sydney-2000,men,,ITA,vincenzo modica,None,Did not finish
+93,sydney-2000,men,,BDI,patrick ndayisenga,None,Did not finish
+94,sydney-2000,men,,KEN,kenneth cheruiyot,None,Did not finish
+95,sydney-2000,men,,POL,piotr gladki,None,Did not finish
+96,sydney-2000,men,,ITA,stefano baldini,None,Did not finish
+97,sydney-2000,men,,DJI,omar daher gadid,None,Did not finish
+98,sydney-2000,men,,KEN,elijah lagat,None,Did not finish
+99,sydney-2000,men,,TAN,fokasi wilbrod fullah,None,Did not finish
+0,sydney-2000,women,G,JPN,naoko takahashi,2:23:14.00,
+1,sydney-2000,women,S,ROU,lidia simon,2:23:22.00,
+2,sydney-2000,women,B,KEN,joyce chepchumba,2:24:45.00,
+3,sydney-2000,women,4,KEN,esther wanjiru,2:26:17.00,
+4,sydney-2000,women,5,RUS,madina biktagirova,2:26:33.00,
+5,sydney-2000,women,6,ETH,elfenesh alemu,2:26:54.00,
+6,sydney-2000,women,7,JPN,eri yamaguchi,2:27:03.00,
+7,sydney-2000,women,8,PRK,bong-sil ham,2:27:07.00,
+8,sydney-2000,women,9,ETH,fatuma roba,2:27:38.00,
+9,sydney-2000,women,10,CHN,xiujuan ren,2:27:55.00,
+10,sydney-2000,women,11,AUS,kerryn mccann,2:28:37.00,
+11,sydney-2000,women,12,ITA,maura viceconte,2:29:26.00,
+12,sydney-2000,women,13,KEN,tegla loroupe,2:29:45.00,
+13,sydney-2000,women,14,KGZ,irina bogacheva,2:29:55.00,
+14,sydney-2000,women,15,JPN,ari ichihashi,2:30:34.00,
+15,sydney-2000,women,16,MEX,adriana fernandez,2:30:51.00,
+16,sydney-2000,women,17,HUN,judit nagy-földing,2:30:54.00,
+17,sydney-2000,women,18,ITA,ornella ferrara,2:31:32.00,
+18,sydney-2000,women,19,USA,christine clark,2:31:35.00,
+19,sydney-2000,women,20,PRK,yong ok jong,2:31:40.00,
+20,sydney-2000,women,21,POR,manuela machado,2:32:29.00,
+21,sydney-2000,women,22,NED,nadja wijenberg-ilyina,2:32:29.00,
+22,sydney-2000,women,23,RUS,liubov morgunova,2:32:35.00,
+23,sydney-2000,women,24,GER,sonja krolik,2:33:45.00,
+24,sydney-2000,women,25,ECU,martha tenorio,2:33:54.00,
+25,sydney-2000,women,26,GBR,marian sutton,2:34:33.00,
+26,sydney-2000,women,27,CHI,erika olivera,2:35:07.00,
+27,sydney-2000,women,28,PRK,chang ok kim,2:35:32.00,
+28,sydney-2000,women,29,ROU,camelia alina gherasim,2:36:16.00,
+29,sydney-2000,women,30,ESP,ana isabel alonso,2:36:45.00,
+30,sydney-2000,women,31,RSA,colleen de reuck,2:36:48.00,
+31,sydney-2000,women,32,PER,maria portilla,2:36:50.00,
+32,sydney-2000,women,33,ESP,griselda gonzalez,2:38:28.00,
+33,sydney-2000,women,34,KOR,mi-ja o,2:38:42.00,
+34,sydney-2000,women,35,AUS,susan elizabeth hobson,2:38:44.00,
+35,sydney-2000,women,36,ETH,gadissie edato,2:42:29.00,
+36,sydney-2000,women,37,TUR,serap aktas,2:42:40.00,
+37,sydney-2000,women,38,SUI,daria nauer,2:43:00.00,
+38,sydney-2000,women,39,ESP,maria luisa munoz,2:45:40.00,
+39,sydney-2000,women,40,COL,inglandini gonzalez,2:47:26.00,
+40,sydney-2000,women,41,TJK,gulsara dadabaeva,2:51:03.00,
+41,sydney-2000,women,42,HON,gina lizeth coello tache,3:02:32.00,
+42,sydney-2000,women,43,IOA,agueda amaral,3:10:55.00,
+43,sydney-2000,women,44,GUM,rhonda davidson-alley,3:13:58.00,
+44,sydney-2000,women,45,LAO,sirivanh ketavong,3:34:27.00,
+45,sydney-2000,women,,KAZ,garifa kuku,None,Did not finish
+46,sydney-2000,women,,BEL,marleen renders,None,Did not finish
+47,sydney-2000,women,,ROU,anuta catuna,None,Did not finish
+48,sydney-2000,women,,ISL,martha ernstsdottir,None,Did not finish
+49,sydney-2000,women,,AUS,nickey carroll,None,Did not finish
+50,sydney-2000,women,,NAM,elizabeth mongudhi,None,Did not finish
+51,sydney-2000,women,,MDA,valentina enache,None,Did not finish
+52,sydney-2000,women,,RUS,valentina yegorova,None,Did not finish
+53,sydney-2000,women,,GER,claudia dreher,None,Did not start
+0,atlanta-1996,men,G,RSA,josia thugwane,2:12:36.00,
+1,atlanta-1996,men,S,KOR,bong-ju lee,2:12:39.00,
+2,atlanta-1996,men,B,KEN,erick wainaina,2:12:44.00,
+3,atlanta-1996,men,4,ESP,martin fiz,2:13:20.00,
+4,atlanta-1996,men,5,GBR,richard david nerurkar,2:13:39.00,
+5,atlanta-1996,men,6,MEX,german silva martinez,2:14:29.00,
+6,atlanta-1996,men,7,AUS,stephen moneghetti,2:14:35.00,
+7,atlanta-1996,men,8,MEX,benjamin paredes,2:14:55.00,
+8,atlanta-1996,men,9,ITA,danilo goffi,2:15:08.00,
+9,atlanta-1996,men,10,BRA,luis antonio dos santos,2:15:55.00,
+10,atlanta-1996,men,11,COL,carlos mario grisales,2:15:56.00,
+11,atlanta-1996,men,12,KOR,yi-yong kim,2:16:17.00,
+12,atlanta-1996,men,13,ZIM,tendai chimusasa,2:16:31.00,
+13,atlanta-1996,men,14,POR,antonio pinto,2:16:41.00,
+14,atlanta-1996,men,15,MEX,dionicio ceron,2:16:48.00,
+15,atlanta-1996,men,16,COD,willy kalombo,2:17:01.00,
+16,atlanta-1996,men,17,POL,leszek beblo,2:17:04.00,
+17,atlanta-1996,men,18,ESP,alberto juzdado,2:17:24.00,
+18,atlanta-1996,men,19,JPN,hiromi taniguchi,2:17:26.00,
+19,atlanta-1996,men,20,ITA,salvatore bettiol,2:17:27.00,
+20,atlanta-1996,men,21,CAN,peter fonseca,2:17:28.00,
+21,atlanta-1996,men,22,ECU,rolando vera,2:17:40.00,
+22,atlanta-1996,men,23,AUS,rod de highden,2:17:42.00,
+23,atlanta-1996,men,24,CRC,jose luis molina,2:17:49.00,
+24,atlanta-1996,men,25,POR,domingos castro,2:18:03.00,
+25,atlanta-1996,men,26,TUN,tahar mansouri,2:18:06.00,
+26,atlanta-1996,men,27,RSA,lawrence peu,2:18:09.00,
+27,atlanta-1996,men,28,USA,keith brantly,2:18:17.00,
+28,atlanta-1996,men,29,LES,thabiso ralekhetla,2:18:26.00,
+29,atlanta-1996,men,30,BUL,hristo stefanov,2:18:29.00,
+30,atlanta-1996,men,31,USA,robert kempainen,2:18:38.00,
+31,atlanta-1996,men,32,FIN,harri johannes hanninen,2:18:41.00,
+32,atlanta-1996,men,33,RSA,gert thys,2:18:55.00,
+33,atlanta-1996,men,34,AUS,sean quilty,2:19:35.00,
+34,atlanta-1996,men,35,CAN,carey nelson,2:19:39.00,
+35,atlanta-1996,men,36,GRE,spyridon andriopoulos,2:19:41.00,
+36,atlanta-1996,men,37,RUS,oleg strizhakov,2:19:51.00,
+37,atlanta-1996,men,38,PRK,jung-ok kim,2:19:54.00,
+38,atlanta-1996,men,39,CAN,bruce deacon,2:19:56.00,
+39,atlanta-1996,men,40,PRK,jong-ok kim,2:20:19.00,
+40,atlanta-1996,men,41,USA,mark coogan,2:20:27.00,
+41,atlanta-1996,men,42,DJI,hussein ahmed salah,2:20:33.00,
+42,atlanta-1996,men,43,UKR,pyotro sarafyniuk,2:20:37.00,
+43,atlanta-1996,men,44,MAR,abdel kader el-mouaziz,2:20:39.00,
+44,atlanta-1996,men,45,NED,albert van vlaanderen,2:20:48.00,
+45,atlanta-1996,men,46,POR,manuel matias,2:20:58.00,
+46,atlanta-1996,men,47,BRA,vanderlei de lima,2:21:01.00,
+47,atlanta-1996,men,48,GER,konrad waldemar dobler,2:21:12.00,
+48,atlanta-1996,men,49,SCG,borislav devic,2:21:22.00,
+49,atlanta-1996,men,50,ITA,davide milesi,2:21:45.00,
+50,atlanta-1996,men,51,LAT,aleksandrs prokopčuks,2:21:50.00,
+51,atlanta-1996,men,52,KEN,lameck aguta,2:22:04.00,
+52,atlanta-1996,men,53,ESP,diego garcia,2:22:11.00,
+53,atlanta-1996,men,54,JPN,masaki oya,2:22:13.00,
+54,atlanta-1996,men,55,GBR,peter whitehead,2:22:37.00,
+55,atlanta-1996,men,56,KEN,ezequiel bitok,2:23:03.00,
+56,atlanta-1996,men,57,TPE,gi-sheng hsu,2:23:04.00,
+57,atlanta-1996,men,58,EST,pavel loskutov,2:23:14.00,
+58,atlanta-1996,men,59,VEN,ruben maza,2:23:24.00,
+59,atlanta-1996,men,60,GBR,steve brace,2:23:28.00,
+60,atlanta-1996,men,61,POL,grzegorz gajdus,2:23:41.00,
+61,atlanta-1996,men,62,SWZ,isaac simelane,2:23:43.00,
+62,atlanta-1996,men,63,KGZ,nazirdin akylbekov,2:23:59.00,
+63,atlanta-1996,men,64,SWE,anders szalkai,2:24:27.00,
+64,atlanta-1996,men,65,MAW,john mwathiwa,2:24:45.00,
+65,atlanta-1996,men,66,RUS,leonid shvetsov,2:24:49.00,
+66,atlanta-1996,men,67,BEL,eddy hellebuyck,2:25:04.00,
+67,atlanta-1996,men,68,SUD,ahmed adam salah,2:25:12.00,
+68,atlanta-1996,men,69,TAN,ikaji salim,2:25:29.00,
+69,atlanta-1996,men,70,LTU,pavelas fedorenko,2:25:41.00,
+70,atlanta-1996,men,71,PER,miguel mallqui,2:25:56.00,
+71,atlanta-1996,men,72,INA,ethel hudson,2:26:02.00,
+72,atlanta-1996,men,73,BRA,diamantino dos santos,2:26:53.00,
+73,atlanta-1996,men,74,NEP,tika bogati,2:27:04.00,
+74,atlanta-1996,men,75,TTO,ronnie holassie,2:27:20.00,
+75,atlanta-1996,men,76,NAM,joseph tjitunga,2:27:52.00,
+76,atlanta-1996,men,77,MDA,valeri vlas,2:28:36.00,
+77,atlanta-1996,men,78,SWZ,daniel sibandze,2:28:49.00,
+78,atlanta-1996,men,79,URU,waldemar cotelo,2:28:50.00,
+79,atlanta-1996,men,80,BUL,petko stefanov,2:29:06.00,
+80,atlanta-1996,men,81,ETH,abebe mekonnen,2:29:45.00,
+81,atlanta-1996,men,82,GUA,luis martinez,2:29:55.00,
+82,atlanta-1996,men,83,NZL,sean wade,2:30:35.00,
+83,atlanta-1996,men,84,MAR,abderrahim benredouane,2:30:49.00,
+84,atlanta-1996,men,85,NIG,abdou manzo,2:30:57.00,
+85,atlanta-1996,men,86,CHI,marcelo barrientos,2:31:05.00,
+86,atlanta-1996,men,87,AND,antoni bernado,2:31:28.00,
+87,atlanta-1996,men,88,LBA,adel adili,2:32:12.00,
+88,atlanta-1996,men,89,VEN,carlos tarazona,2:32:35.00,
+89,atlanta-1996,men,90,BDI,tharcisse gashaka,2:32:55.00,
+90,atlanta-1996,men,91,BOL,policarpio calizaya,2:33:08.00,
+91,atlanta-1996,men,92,TAN,simon qamunga,2:33:11.00,
+92,atlanta-1996,men,93,JPN,kenjiro jitsui,2:33:27.00,
+93,atlanta-1996,men,94,CPV,antonio carlos zeferino,2:34:13.00,
+94,atlanta-1996,men,95,VIN,pamenos avorsant ballantyne,2:34:16.00,
+95,atlanta-1996,men,96,COD,kaleka mutoke,2:34:40.00,
+96,atlanta-1996,men,97,CAF,ernest ndissipou,2:35:55.00,
+97,atlanta-1996,men,98,MAR,ali ettounsi,2:36:01.00,
+98,atlanta-1996,men,99,NCA,william aguirre,2:37:02.00,
+99,atlanta-1996,men,100,PHI,roy vence,2:37:10.00,
+100,atlanta-1996,men,101,YEM,mohamed brahim,2:40:41.00,
+101,atlanta-1996,men,102,COL,julio hernandez,2:41:56.00,
+102,atlanta-1996,men,103,MRI,ajay chuttoo,2:42:07.00,
+103,atlanta-1996,men,104,JAM,nils antonio,2:44:10.00,
+104,atlanta-1996,men,105,CAM,rithya to,2:47:01.00,
+105,atlanta-1996,men,106,PUR,maximo oliveras,2:47:15.00,
+106,atlanta-1996,men,107,BIH,islam djugum,2:47:38.00,
+107,atlanta-1996,men,108,ISV,marlon selwyn williams,2:48:26.00,
+108,atlanta-1996,men,109,BIZ,eugene muslar,2:51:41.00,
+109,atlanta-1996,men,110,SOM,abdi isak,2:59:55.00,
+110,atlanta-1996,men,111,AFG,a baser wasiqi,4:24:17.00,
+111,atlanta-1996,men,,ETH,tumo turbo,None,Did not finish
+112,atlanta-1996,men,,RWA,patrick ishyaka,None,Did not finish
+113,atlanta-1996,men,,ETH,belayneh dinsamo,None,Did not finish
+114,atlanta-1996,men,,ARG,antonio fabian silio,None,Did not finish
+115,atlanta-1996,men,,MAD,victor razafindrakoto,None,Did not finish
+116,atlanta-1996,men,,LTU,ceslovas kundrotas,None,Did not finish
+117,atlanta-1996,men,,GER,stephan timo freigang,None,Did not finish
+118,atlanta-1996,men,,TAN,julius sumaye,None,Did not finish
+119,atlanta-1996,men,,BOT,benjamin keleketu,None,Did not finish
+120,atlanta-1996,men,,LTU,dainius virbickas,None,Did not finish
+121,atlanta-1996,men,,FIN,risto ulmala,None,Did not finish
+122,atlanta-1996,men,,DJI,omar moussa,None,Did not finish
+123,atlanta-1996,men,,KOR,wan-ki kim,None,Did not finish
+0,atlanta-1996,women,G,ETH,fatuma roba,2:26:05.00,
+1,atlanta-1996,women,S,RUS,valentina yegorova,2:28:05.00,
+2,atlanta-1996,women,B,JPN,yuko arimori,2:28:39.00,
+3,atlanta-1996,women,4,GER,katrin dörre,2:28:45.00,
+4,atlanta-1996,women,5,ESP,rocio rios,2:30:50.00,
+5,atlanta-1996,women,6,ROU,lidia simon,2:31:04.00,
+6,atlanta-1996,women,7,POR,manuela machado,2:31:11.00,
+7,atlanta-1996,women,8,GER,sonja krolik,2:31:16.00,
+8,atlanta-1996,women,9,CHN,xiujuan ren,2:31:21.00,
+9,atlanta-1996,women,10,USA,anne marie lauck,2:31:30.00,
+10,atlanta-1996,women,11,POL,malgorzata sobanska,2:31:52.00,
+11,atlanta-1996,women,12,JPN,izumi maki,2:32:35.00,
+12,atlanta-1996,women,13,ITA,ornella ferrara,2:33:09.00,
+13,atlanta-1996,women,14,ESP,monica pont,2:33:27.00,
+14,atlanta-1996,women,15,KEN,angeline kanana,2:34:19.00,
+15,atlanta-1996,women,16,GBR,liz mccolgan,2:34:30.00,
+16,atlanta-1996,women,17,JPN,junko asari,2:34:31.00,
+17,atlanta-1996,women,18,SUI,franziska rochat-moser,2:34:48.00,
+18,atlanta-1996,women,19,ARG,griselda gonzalez,2:35:12.00,
+19,atlanta-1996,women,20,PRK,song ok jong,2:35:31.00,
+20,atlanta-1996,women,21,KGZ,irina bogacheva,2:35:44.00,
+21,atlanta-1996,women,22,COL,inglandini gonzalez,2:35:45.00,
+22,atlanta-1996,women,23,TUR,serap aktas,2:36:14.00,
+23,atlanta-1996,women,24,BLR,yelena mazovka,2:36:22.00,
+24,atlanta-1996,women,25,BEL,marleen renders,2:36:27.00,
+25,atlanta-1996,women,26,PRK,chang ok kim,2:36:31.00,
+26,atlanta-1996,women,27,POR,albertina dias,2:36:39.00,
+27,atlanta-1996,women,28,AUS,kerryn mccann,2:36:41.00,
+28,atlanta-1996,women,29,POL,aniela nikiel,2:36:44.00,
+29,atlanta-1996,women,30,KOR,mi-ja o,2:36:54.00,
+30,atlanta-1996,women,31,USA,linda somers,2:36:58.00,
+31,atlanta-1996,women,32,CAN,danuta bartoszek,2:37:06.00,
+32,atlanta-1996,women,33,MEX,mari carmen diaz,2:37:14.00,
+33,atlanta-1996,women,34,SUI,nelly glauser,2:37:19.00,
+34,atlanta-1996,women,35,RUS,ramilia burangulova,2:38:04.00,
+35,atlanta-1996,women,36,HUN,judit nagy-földing,2:38:43.00,
+36,atlanta-1996,women,37,CHI,erika olivera,2:39:06.00,
+37,atlanta-1996,women,38,SGP,yvonne danson,2:39:18.00,
+38,atlanta-1996,women,39,BRA,marcia narloch,2:39:33.00,
+39,atlanta-1996,women,40,LTU,stefanija statkuviene,2:39:51.00,
+40,atlanta-1996,women,41,NED,antje van schuppen,2:40:46.00,
+41,atlanta-1996,women,42,GRE,maria polyzou,2:41:33.00,
+42,atlanta-1996,women,43,MEX,guadaloupe loma,2:41:56.00,
+43,atlanta-1996,women,44,ROU,anuta catuna,2:42:01.00,
+44,atlanta-1996,women,45,GBR,karen macleod,2:42:08.00,
+45,atlanta-1996,women,46,NZL,lorraine mary moller,2:42:21.00,
+46,atlanta-1996,women,47,POR,maria albertina machado,2:43:44.00,
+47,atlanta-1996,women,48,NOR,anita haakenstad,2:43:58.00,
+48,atlanta-1996,women,49,ESP,ana isabel alonso,2:44:12.00,
+49,atlanta-1996,women,50,BLR,natasha galushko,2:44:21.00,
+50,atlanta-1996,women,51,MEX,adriana fernandez,2:44:23.00,
+51,atlanta-1996,women,52,CAN,may allison,2:44:38.00,
+52,atlanta-1996,women,53,SLO,helena javornik,2:46:58.00,
+53,atlanta-1996,women,54,PER,marilu salazar,2:48:58.00,
+54,atlanta-1996,women,55,SCG,suzana ciric,2:49:30.00,
+55,atlanta-1996,women,56,FRA,nadia prasad,2:50:05.00,
+56,atlanta-1996,women,57,AUS,sue malaxos,2:50:46.00,
+57,atlanta-1996,women,58,GBR,suzanne rigg,2:52:09.00,
+58,atlanta-1996,women,59,NAM,elizabeth mongudhi,2:56:19.00,
+59,atlanta-1996,women,60,BRA,solange de souza,2:56:23.00,
+60,atlanta-1996,women,61,TJK,gulsara dadabaeva,3:09:08.00,
+61,atlanta-1996,women,62,NEP,bimala ranamagar,3:16:19.00,
+62,atlanta-1996,women,63,MGL,davaajargal erkhemsaikhany,3:19:06.00,
+63,atlanta-1996,women,64,LAO,sirivanh ketavong,3:25:16.00,
+64,atlanta-1996,women,65,GUM,marie benito,3:27:28.00,
+65,atlanta-1996,women,,MDA,valentina enache,None,Disqualified
+66,atlanta-1996,women,,CAF,virginie gloum,None,Disqualified
+67,atlanta-1996,women,,GER,uta pippig,None,Did not finish
+68,atlanta-1996,women,,ROU,cristina pomacu,None,Did not finish
+69,atlanta-1996,women,,DEN,gitte karlshoj,None,Did not finish
+70,atlanta-1996,women,,KOR,sun-deok gang,None,Did not finish
+71,atlanta-1996,women,,UKR,lyubov klochko,None,Did not finish
+72,atlanta-1996,women,,POL,kamila gradus,None,Did not finish
+73,atlanta-1996,women,,FIN,kirsi rauta,None,Did not finish
+74,atlanta-1996,women,,ITA,maura viceconte,None,Did not finish
+75,atlanta-1996,women,,BRA,carmen de oliveira,None,Did not finish
+76,atlanta-1996,women,,RUS,alla zhilyayeva,None,Did not finish
+77,atlanta-1996,women,,ECU,martha tenorio,None,Did not finish
+78,atlanta-1996,women,,RSA,elana meyer,None,Did not finish
+79,atlanta-1996,women,,EST,jane salumae,None,Did not finish
+80,atlanta-1996,women,,KOR,mi-gyeong lee,None,Did not finish
+81,atlanta-1996,women,,AUS,lisa martin-ondieki-o'dea,None,Did not finish
+82,atlanta-1996,women,,BLR,madina biktagirova,None,Did not finish
+83,atlanta-1996,women,,MLT,carol galea,None,Did not finish
+84,atlanta-1996,women,,ITA,maria curatolo,None,Did not finish
+85,atlanta-1996,women,,KEN,joyce chepchumba,None,Did not finish
+86,atlanta-1996,women,,KEN,selina chirchir,None,Did not finish
+87,atlanta-1996,women,,USA,jenny spangler,None,Did not finish
+0,barcelona-1992,men,G,KOR,young-cho hwang,2:13:23.00,
+1,barcelona-1992,men,S,JPN,koichi morishita,2:13:45.00,
+2,barcelona-1992,men,B,GER,stephan timo freigang,2:14:00.00,
+3,barcelona-1992,men,4,JPN,takeyuki nakayama,2:14:02.00,
+4,barcelona-1992,men,5,ITA,salvatore bettiol,2:14:15.00,
+5,barcelona-1992,men,6,MAR,salah kokaich,2:14:25.00,
+6,barcelona-1992,men,7,POL,jan huruk,2:14:32.00,
+7,barcelona-1992,men,8,JPN,hiromi taniguchi,2:14:42.00,
+8,barcelona-1992,men,9,ESP,diego garcia,2:14:56.00,
+9,barcelona-1992,men,10,KOR,jae-yong kim,2:15:01.00,
+10,barcelona-1992,men,11,FIN,harri johannes hanninen,2:15:19.00,
+11,barcelona-1992,men,12,USA,steven anthony spence,2:15:21.00,
+12,barcelona-1992,men,13,USA,ed eyestone,2:15:23.00,
+13,barcelona-1992,men,14,KEN,boniface merande,2:15:46.00,
+14,barcelona-1992,men,15,NED,albert van vlaanderen,2:15:47.00,
+15,barcelona-1992,men,16,NZL,rex albert wilson,2:15:51.00,
+16,barcelona-1992,men,17,USA,robert kempainen,2:15:53.00,
+17,barcelona-1992,men,18,ESP,rodrigo gavela rodriguez,2:16:23.00,
+18,barcelona-1992,men,19,TCH,karel david,2:16:34.00,
+19,barcelona-1992,men,20,POL,leszek beblo,2:16:38.00,
+20,barcelona-1992,men,21,POL,wieslaw perszke,2:16:38.00,
+21,barcelona-1992,men,22,EUN,iakov tolstikov,2:17:04.00,
+22,barcelona-1992,men,23,ETH,tena megere,2:17:07.00,
+23,barcelona-1992,men,24,BRA,osmiro de souza silva,2:17:16.00,
+24,barcelona-1992,men,25,RSA,abel mokibe,2:17:24.00,
+25,barcelona-1992,men,26,AUS,rob de castella,2:17:44.00,
+26,barcelona-1992,men,27,GBR,steve brace,2:17:49.00,
+27,barcelona-1992,men,28,KOR,wan-ki kim,2:18:32.00,
+28,barcelona-1992,men,29,MEX,jose isidro rico rangel,2:18:52.00,
+29,barcelona-1992,men,30,DJI,hussein ahmed salah,2:19:04.00,
+30,barcelona-1992,men,31,FRA,dominique chauvelier,2:19:09.00,
+31,barcelona-1992,men,32,ESP,jose esteban montiel gomez,2:19:15.00,
+32,barcelona-1992,men,33,LES,thabiso paul moqhali,2:19:28.00,
+33,barcelona-1992,men,34,TAN,juma ikangaa,2:19:34.00,
+34,barcelona-1992,men,35,NZL,derek froude,2:19:37.00,
+35,barcelona-1992,men,36,KEN,douglas wakiihuri,2:19:38.00,
+36,barcelona-1992,men,37,KEN,ibrahim hussein,2:19:49.00,
+37,barcelona-1992,men,38,HUN,gyula borka,2:20:46.00,
+38,barcelona-1992,men,39,GBR,david long,2:20:51.00,
+39,barcelona-1992,men,40,SLO,miroslav vindis,2:21:03.00,
+40,barcelona-1992,men,41,GBR,paul davies-hale,2:21:15.00,
+41,barcelona-1992,men,42,SWZ,elphas ginindza,2:21:15.00,
+42,barcelona-1992,men,43,ECU,rolando vera,2:21:30.00,
+43,barcelona-1992,men,44,ITA,alessio faustini,2:21:37.00,
+44,barcelona-1992,men,45,FRA,luis soares,2:21:57.00,
+45,barcelona-1992,men,46,CMR,paul kuete,2:22:43.00,
+46,barcelona-1992,men,47,AUT,helmut schmuck,2:23:38.00,
+47,barcelona-1992,men,48,AUS,stephen moneghetti,2:23:42.00,
+48,barcelona-1992,men,49,GER,konrad waldemar dobler,2:23:44.00,
+49,barcelona-1992,men,50,COD,willy kalombo,2:23:47.00,
+50,barcelona-1992,men,51,IRL,john treacy,2:24:11.00,
+51,barcelona-1992,men,52,PHI,herman suizo,2:25:18.00,
+52,barcelona-1992,men,53,ARU,kimball peter reynierse,2:25:31.00,
+53,barcelona-1992,men,54,URU,nelson e. zamora villalba,2:25:32.00,
+54,barcelona-1992,men,55,SUI,daniel boltz,2:25:50.00,
+55,barcelona-1992,men,56,BRA,joseildo rocha da silva,2:26:00.00,
+56,barcelona-1992,men,57,BOL,juan rodrigo camacho,2:26:01.00,
+57,barcelona-1992,men,58,ZIM,cephas matafi,2:26:17.00,
+58,barcelona-1992,men,59,ALG,mohamed salmi,2:26:56.00,
+59,barcelona-1992,men,60,RWA,ildephonse sehirwa,2:27:44.00,
+60,barcelona-1992,men,61,ETH,zerehune gizaw,2:28:25.00,
+61,barcelona-1992,men,62,CHI,jaime enrique ojeda paredes,2:28:39.00,
+62,barcelona-1992,men,63,MAW,smartex godfrey tambala,2:29:02.00,
+63,barcelona-1992,men,64,FRA,pascal zilliox,2:30:02.00,
+64,barcelona-1992,men,65,CRC,luis lopez rocer,2:30:26.00,
+65,barcelona-1992,men,66,SMR,gian luigi macina,2:30:45.00,
+66,barcelona-1992,men,67,NIG,abdou manzo,2:31:15.00,
+67,barcelona-1992,men,68,LIE,roland wille,2:31:32.00,
+68,barcelona-1992,men,69,NAM,tuihaleni frank kayele,2:31:41.00,
+69,barcelona-1992,men,70,NEP,haribahadur rokaya,2:32:26.00,
+70,barcelona-1992,men,71,SRI,kuruppu a. karunaratne,2:32:26.00,
+71,barcelona-1992,men,72,IRL,thomas joseph hughes,2:32:55.00,
+72,barcelona-1992,men,73,NCA,william aguirre,2:34:18.00,
+73,barcelona-1992,men,74,CAF,ferdinand amadi,2:35:39.00,
+74,barcelona-1992,men,75,LBA,mohamed khamis taher,2:35:46.00,
+75,barcelona-1992,men,76,HAI,dieudonne lamothe,2:36:11.00,
+76,barcelona-1992,men,77,MYA,myint kan,2:37:39.00,
+77,barcelona-1992,men,78,ISV,calvin dallas,2:38:11.00,
+78,barcelona-1992,men,79,BRN,saad mubarak ali ali,2:39:19.00,
+79,barcelona-1992,men,80,PRK,okhyon ryu,2:40:51.00,
+80,barcelona-1992,men,81,MAD,alain clerk razahasoa,2:41:41.00,
+81,barcelona-1992,men,82,UGA,michael lopeyok,2:42:54.00,
+82,barcelona-1992,men,83,BOT,benjamin keleketu,2:45:57.00,
+83,barcelona-1992,men,84,SYR,moussa alhariri,2:47:06.00,
+84,barcelona-1992,men,85,VIE,văn hùng lưu,2:56:42.00,
+85,barcelona-1992,men,86,MDV,hussein haleem,3:04:16.00,
+86,barcelona-1992,men,87,MGL,tuul pyambuugiin,4:00:44.00,
+87,barcelona-1992,men,,DJI,talan omar abdillahi,None,Did not finish
+88,barcelona-1992,men,,HON,polin belisle,None,Did not finish
+89,barcelona-1992,men,,ITA,gelindo bordin,None,Did not finish
+90,barcelona-1992,men,,TAN,john burra,None,Did not finish
+91,barcelona-1992,men,,POR,dionisio castro,None,Did not finish
+92,barcelona-1992,men,,MEX,dionicio ceron,None,Did not finish
+93,barcelona-1992,men,,CUB,ignacio alberto cuba carrero,None,Did not finish
+94,barcelona-1992,men,,NED,tonnie dirks,None,Did not finish
+95,barcelona-1992,men,,BRA,diamantino dos santos,None,Did not finish
+96,barcelona-1992,men,,PUR,jorge gonzalez rivera,None,Did not finish
+97,barcelona-1992,men,,CAN,peter kevin maher,None,Did not finish
+98,barcelona-1992,men,,ETH,abebe mekonnen,None,Did not finish
+99,barcelona-1992,men,,MTN,mohamed ould khalifa,None,Did not finish
+100,barcelona-1992,men,,POR,joaquim pinheiro,None,Did not finish
+101,barcelona-1992,men,,POR,antonio pinto,None,Did not finish
+102,barcelona-1992,men,,FIJ,bineshwar prasad,None,Did not finish
+103,barcelona-1992,men,,COL,carlos mario grisales,None,Did not finish
+104,barcelona-1992,men,,IRL,andrew ronan,None,Did not finish
+105,barcelona-1992,men,,RSA,zithulele sinqe,None,Did not finish
+106,barcelona-1992,men,,NAM,lucketz swartbooi,None,Did not finish
+107,barcelona-1992,men,,HUN,csaba szucs,None,Did not finish
+108,barcelona-1992,men,,TAN,simon robert naali,None,Did not finish
+109,barcelona-1992,men,,RSA,jan tau,None,Did not finish
+110,barcelona-1992,men,,MEX,salvador garcía,None,Did not start
+111,barcelona-1992,men,,EUN,vladimir bukhanov,None,Did not start
+0,barcelona-1992,women,G,EUN,valentina yegorova,2:32:41.00,
+1,barcelona-1992,women,S,JPN,yuko arimori,2:32:49.00,
+2,barcelona-1992,women,B,NZL,lorraine mary moller,2:33:59.00,
+3,barcelona-1992,women,4,JPN,sachiko yamashita,2:36:26.00,
+4,barcelona-1992,women,5,GER,katrin dörre,2:36:48.00,
+5,barcelona-1992,women,6,PRK,gyong-ae mun,2:37:03.00,
+6,barcelona-1992,women,7,POR,manuela machado,2:38:22.00,
+7,barcelona-1992,women,8,EUN,ramilia burangulova,2:38:46.00,
+8,barcelona-1992,women,9,RSA,colleen de reuck,2:39:03.00,
+9,barcelona-1992,women,10,USA,cathy o'brien,2:39:42.00,
+10,barcelona-1992,women,11,HUN,karolina szabo,2:40:10.00,
+11,barcelona-1992,women,12,USA,francie larrieu-smith,2:41:09.00,
+12,barcelona-1992,women,13,GBR,sally rose eastall,2:41:20.00,
+13,barcelona-1992,women,14,FIN,ritva k. lemettinen,2:41:48.00,
+14,barcelona-1992,women,15,GER,birgit jerschabek,2:42:45.00,
+15,barcelona-1992,women,16,GBR,marie antoinette marot,2:42:55.00,
+16,barcelona-1992,women,17,BRA,marcia narloch,2:44:32.00,
+17,barcelona-1992,women,18,ITA,emma scaunich,2:46:14.00,
+18,barcelona-1992,women,19,CAN,odette lapierre,2:46:18.00,
+19,barcelona-1992,women,20,ITA,anna villani,2:46:44.00,
+20,barcelona-1992,women,21,USA,janis klecker,2:47:17.00,
+21,barcelona-1992,women,22,POL,wanda panfil,2:47:27.00,
+22,barcelona-1992,women,23,ITA,bettina sabatini,2:50:09.00,
+23,barcelona-1992,women,24,TCH,alena peterkova,2:53:30.00,
+24,barcelona-1992,women,25,KOR,mi-ok lee,2:54:21.00,
+25,barcelona-1992,women,26,POL,malgorzata birbach,2:54:33.00,
+26,barcelona-1992,women,27,GBR,sally ellis,2:54:41.00,
+27,barcelona-1992,women,28,KEN,pascaline wangui,2:56:46.00,
+28,barcelona-1992,women,29,JPN,yumi kokamo,2:58:18.00,
+29,barcelona-1992,women,30,ETH,addis gezahegn,2:58:57.00,
+30,barcelona-1992,women,31,BRA,janete mayal,3:00:23.00,
+31,barcelona-1992,women,32,ROU,elena murgoci,3:01:46.00,
+32,barcelona-1992,women,33,CRC,vilma pena sanchez,3:03:34.00,
+33,barcelona-1992,women,34,PER,ena guevara,3:05:50.00,
+34,barcelona-1992,women,35,ISV,ana gutierrez wittmann,3:14:02.00,
+35,barcelona-1992,women,36,GUM,jen allred,3:14:45.00,
+36,barcelona-1992,women,37,COD,christine bakombo,3:29:10.00,
+37,barcelona-1992,women,,FRA,maria lelut-rebelo,None,Did not finish
+38,barcelona-1992,women,,AUS,lisa martin-ondieki-o'dea,None,Did not finish
+39,barcelona-1992,women,,VIE,thị tèo đặng,None,Did not finish
+40,barcelona-1992,women,,MEX,olga appell,None,Did not finish
+41,barcelona-1992,women,,NZL,marguerite gay buist,None,Did not finish
+42,barcelona-1992,women,,POR,arnaldo cunha,None,Did not finish
+43,barcelona-1992,women,,ARU,cornelia marina melis,None,Did not finish
+44,barcelona-1992,women,,CAN,lizanne bussieres,None,Did not finish
+45,barcelona-1992,women,,SUI,franziska rochat-moser,None,Did not finish
+46,barcelona-1992,women,,EUN,madina biktagirova,None,Disqualified
+0,seoul-1988,men,G,ITA,gelindo bordin,2:10:32.00,
+1,seoul-1988,men,S,KEN,douglas wakiihuri,2:10:47.00,
+2,seoul-1988,men,B,DJI,hussein ahmed salah,2:10:59.00,
+3,seoul-1988,men,4,JPN,takeyuki nakayama,2:11:05.00,
+4,seoul-1988,men,5,AUS,stephen moneghetti,2:11:49.00,
+5,seoul-1988,men,6,GBR,charles spedding,2:12:19.00,
+6,seoul-1988,men,7,TAN,juma ikangaa,2:13:06.00,
+7,seoul-1988,men,8,AUS,rob de castella,2:13:07.00,
+8,seoul-1988,men,9,JPN,toshihiko seko,2:13:41.00,
+9,seoul-1988,men,10,URS,ravil kashapov,2:13:49.00,
+10,seoul-1988,men,11,MEX,jesus herrera,2:13:58.00,
+11,seoul-1988,men,12,NZL,john campbell,2:14:08.00,
+12,seoul-1988,men,13,NED,gerard nijboer,2:14:40.00,
+13,seoul-1988,men,14,USA,peter dickson pfitzinger,2:14:44.00,
+14,seoul-1988,men,15,NED,martin ten kate,2:14:53.00,
+15,seoul-1988,men,16,ITA,orlando pizzolato,2:15:20.00,
+16,seoul-1988,men,17,JPN,masanari shintaku,2:15:42.00,
+17,seoul-1988,men,18,KOR,won-tak kim,2:15:44.00,
+18,seoul-1988,men,19,ITA,piergiovanni poli,2:16:07.00,
+19,seoul-1988,men,20,HAI,dieudonne lamothe,2:16:15.00,
+20,seoul-1988,men,21,GBR,david long,2:16:18.00,
+21,seoul-1988,men,22,DEN,henrik hove jorgensen,2:16:40.00,
+22,seoul-1988,men,23,FRG,ralf salzmann,2:16:54.00,
+23,seoul-1988,men,24,IRL,richard hooper,2:17:16.00,
+24,seoul-1988,men,25,YUG,miroslav vindis,2:17:47.00,
+25,seoul-1988,men,26,CHN,shang-yan cai,2:17:54.00,
+26,seoul-1988,men,27,POR,joaquim silva,2:18:05.00,
+27,seoul-1988,men,28,CAN,arthur boileau,2:18:20.00,
+28,seoul-1988,men,29,USA,ed eyestone,2:19:09.00,
+29,seoul-1988,men,30,MAR,noureddine sobhi,2:19:56.00,
+30,seoul-1988,men,31,KOR,jae-seong yu,2:20:11.00,
+31,seoul-1988,men,32,TUR,mehmet terzi,2:20:12.00,
+32,seoul-1988,men,33,GBR,kevin forster,2:20:45.00,
+33,seoul-1988,men,34,BOT,bigboy josie matlapeng,2:20:51.00,
+34,seoul-1988,men,35,ALG,allaoua khellil,2:21:12.00,
+35,seoul-1988,men,36,LUX,justin gloden,2:22:14.00,
+36,seoul-1988,men,37,FRA,alexandre gonzalez,2:22:24.00,
+37,seoul-1988,men,38,CHN,guo-wei zhang,2:22:49.00,
+38,seoul-1988,men,39,COL,pedro ortiz,2:23:34.00,
+39,seoul-1988,men,40,CRC,ronaldo lanzoni,2:23:45.00,
+40,seoul-1988,men,41,AUS,bradley camp,2:23:49.00,
+41,seoul-1988,men,42,CAF,adolphe ambowode,2:23:52.00,
+42,seoul-1988,men,43,TAN,john burra,2:24:17.00,
+43,seoul-1988,men,44,SWZ,samuel hlawe,2:24:42.00,
+44,seoul-1988,men,45,CRC,juan andres,2:24:49.00,
+45,seoul-1988,men,46,CAN,peter kevin maher,2:24:49.00,
+46,seoul-1988,men,47,NIG,abdou manzo,2:25:05.00,
+47,seoul-1988,men,48,BRA,diamantino dos santos,2:25:13.00,
+48,seoul-1988,men,49,DJI,omar moussa,2:25:25.00,
+49,seoul-1988,men,50,MEX,carlos retiz,2:25:34.00,
+50,seoul-1988,men,51,ASA,gary fanelli,2:25:35.00,
+51,seoul-1988,men,52,IRL,john woods,2:25:38.00,
+52,seoul-1988,men,53,SWZ,gideon mthembu,2:25:56.00,
+53,seoul-1988,men,54,NEP,baikuntha manandhar,2:25:57.00,
+54,seoul-1988,men,55,TCH,karel david,2:26:12.00,
+55,seoul-1988,men,56,BRA,ivo machado rodrigues,2:26:27.00,
+56,seoul-1988,men,57,MEX,martin mondragon,2:27:10.00,
+57,seoul-1988,men,58,SWZ,vusie olamini,2:28:06.00,
+58,seoul-1988,men,59,NIG,inni aboubacar,2:28:15.00,
+59,seoul-1988,men,60,NGR,yohanna waziri,2:29:14.00,
+60,seoul-1988,men,61,LES,nqheku nteso,2:29:44.00,
+61,seoul-1988,men,62,UGA,benjamin longiros,2:30:29.00,
+62,seoul-1988,men,63,UGA,vincent ruguga,2:31:04.00,
+63,seoul-1988,men,64,ESP,alfonso abellan limares,2:31:10.00,
+64,seoul-1988,men,65,SRI,vithanakande lek samarasinghe,2:31:29.00,
+65,seoul-1988,men,66,NEP,tika bogati,2:31:49.00,
+66,seoul-1988,men,67,CAN,dave edge,2:32:19.00,
+67,seoul-1988,men,68,CRC,luis lopez rocer,2:32:43.00,
+68,seoul-1988,men,69,BOL,juan rodrigo camacho,2:34:41.00,
+69,seoul-1988,men,70,NGR,abbas mohammed,2:35:26.00,
+70,seoul-1988,men,71,TUR,ahmet altun,2:37:44.00,
+71,seoul-1988,men,72,ZIM,james gombedza,2:38:13.00,
+72,seoul-1988,men,73,COD,kamana koji,2:38:34.00,
+73,seoul-1988,men,74,ANG,joao carvalho,2:40:45.00,
+74,seoul-1988,men,75,PNG,aaron dupnai,2:41:47.00,
+75,seoul-1988,men,76,FIJ,bineshwar prasad,2:41:50.00,
+76,seoul-1988,men,77,ISV,calvin dallas,2:42:19.00,
+77,seoul-1988,men,78,RWA,telesphore dusabe,2:42:52.00,
+78,seoul-1988,men,79,BIZ,eugene muslar,2:43:29.00,
+79,seoul-1988,men,80,NIG,hassan karimou,2:43:51.00,
+80,seoul-1988,men,81,ISV,wallace williams,2:44:40.00,
+81,seoul-1988,men,82,LES,mohala mohlolo,2:44:44.00,
+82,seoul-1988,men,83,OMA,awadh shaban al-sameer,2:46:59.00,
+83,seoul-1988,men,84,JAM,derek adamson,2:47:57.00,
+84,seoul-1988,men,85,NEP,krishna bahadur basnet,2:47:57.00,
+85,seoul-1988,men,86,GUM,fred schumann,2:49:52.00,
+86,seoul-1988,men,87,MAW,john mwathiwa,2:51:43.00,
+87,seoul-1988,men,88,ISV,marlon selwyn williams,2:52:06.00,
+88,seoul-1988,men,89,COD,kaleka mutoke,2:55:21.00,
+89,seoul-1988,men,90,GUM,james walker,2:56:32.00,
+90,seoul-1988,men,91,SOM,mohiddin mohamed kulmiye,2:58:10.00,
+91,seoul-1988,men,92,UGA,jackson fred ogwang,2:59:35.00,
+92,seoul-1988,men,93,IRI,naser babapur,3:00:20.00,
+93,seoul-1988,men,94,GUM,ricardo joseph taitano,3:03:19.00,
+94,seoul-1988,men,95,SLE,baba ibrahim suma-keita,3:04:00.00,
+95,seoul-1988,men,96,GUI,alassane bah,3:06:27.00,
+96,seoul-1988,men,97,VIE,nguyen van thuyet,3:10:57.00,
+97,seoul-1988,men,98,BIZ,polin belisle,3:14:02.00,
+98,seoul-1988,men,,KEN,ibrahim hussein,None,Did not finish
+99,seoul-1988,men,,GDR,jorg peter,None,Did not finish
+100,seoul-1988,men,,IRL,john treacy,None,Did not finish
+101,seoul-1988,men,,MAR,moustafa el-nechchadi,None,Did not finish
+102,seoul-1988,men,,NOR,geir kvernmo,None,Did not finish
+103,seoul-1988,men,,SUI,bruno lafranchi,None,Did not finish
+104,seoul-1988,men,,FRA,alain lazare,None,Did not finish
+105,seoul-1988,men,,POR,paulo catarino,None,Did not finish
+106,seoul-1988,men,,CHI,omar domingo aguilar,None,Did not finish
+107,seoul-1988,men,,BEL,dirk van der herten,None,Did not finish
+108,seoul-1988,men,,USA,mark conover,None,Did not finish
+109,seoul-1988,men,,KOR,seong-nak gwon,None,Did not finish
+110,seoul-1988,men,,ESP,honorato hernández,None,Did not finish
+111,seoul-1988,men,,TCH,martin vrabel,None,Did not finish
+112,seoul-1988,men,,SOL,john maeke,None,Did not finish
+113,seoul-1988,men,,MAW,george mambosasa,None,Did not finish
+114,seoul-1988,men,,MDV,abdul haji abdul latheef,None,Did not finish
+115,seoul-1988,men,,MDV,hussein haleem,None,Did not finish
+116,seoul-1988,men,,SOM,ahmed mohamed ismail,None,Did not finish
+117,seoul-1988,men,,KEN,joseph kipsang,None,Did not finish
+0,seoul-1988,women,G,POR,rosa mota,2:25:40.00,
+1,seoul-1988,women,S,AUS,lisa martin-ondieki-o'dea,2:25:53.00,
+2,seoul-1988,women,B,GDR,katrin dörre,2:26:21.00,
+3,seoul-1988,women,4,URS,tetiana polovynska,2:27:05.00,
+4,seoul-1988,women,5,CHN,you-feng zhao,2:27:06.00,
+5,seoul-1988,women,6,ITA,laura fogli,2:27:49.00,
+6,seoul-1988,women,7,LUX,daniele kaber,2:29:23.00,
+7,seoul-1988,women,8,ITA,maria curatolo,2:30:14.00,
+8,seoul-1988,women,9,URS,zoya ivanova,2:30:25.00,
+9,seoul-1988,women,10,GBR,angela joyce pain,2:30:51.00,
+10,seoul-1988,women,11,CAN,odette lapierre,2:30:56.00,
+11,seoul-1988,women,12,GBR,susan tooby,2:31:33.00,
+12,seoul-1988,women,13,HUN,karolina szabo,2:32:26.00,
+13,seoul-1988,women,14,FRA,françoise bonnet,2:32:36.00,
+14,seoul-1988,women,15,KOR,mi-ok lee,2:32:51.00,
+15,seoul-1988,women,16,URS,raisa smekhnova,2:33:19.00,
+16,seoul-1988,women,17,USA,nancy jane ditz,2:33:42.00,
+17,seoul-1988,women,18,FRA,maria lelut-rebelo,2:33:47.00,
+18,seoul-1988,women,19,FRA,jocelyne villeton,2:34:02.00,
+19,seoul-1988,women,20,POR,conceiçao ferreira,2:34:23.00,
+20,seoul-1988,women,21,FRG,kerstin pressler,2:34:26.00,
+21,seoul-1988,women,22,POL,wanda panfil,2:34:35.00,
+22,seoul-1988,women,23,ITA,antonella bizioli,2:34:38.00,
+23,seoul-1988,women,24,SWE,evy palm,2:34:41.00,
+24,seoul-1988,women,25,JPN,eriko asai,2:34:41.00,
+25,seoul-1988,women,26,CAN,lizanne bussieres,2:35:03.00,
+26,seoul-1988,women,27,FRG,gabriela wolf,2:35:11.00,
+27,seoul-1988,women,28,JPN,kumi araki,2:35:15.00,
+28,seoul-1988,women,29,JPN,misako miyahara,2:35:26.00,
+29,seoul-1988,women,30,CHN,huandi zhong,2:36:02.00,
+30,seoul-1988,women,31,CAN,ellen rochefort,2:36:44.00,
+31,seoul-1988,women,32,GBR,susan sarah crehan,2:36:57.00,
+32,seoul-1988,women,33,NZL,lorraine mary moller,2:37:52.00,
+33,seoul-1988,women,34,NED,carolina beurskens,2:37:52.00,
+34,seoul-1988,women,35,BEL,magda ilands,2:38:02.00,
+35,seoul-1988,women,36,NOR,sidsel grottenberg,2:38:17.00,
+36,seoul-1988,women,37,KOR,eun-ju im,2:38:21.00,
+37,seoul-1988,women,38,RWA,marcianne mukamurenzi,2:40:12.00,
+38,seoul-1988,women,39,USA,margaret keyes groos,2:40:59.00,
+39,seoul-1988,women,40,USA,cathy o'brien,2:41:04.00,
+40,seoul-1988,women,41,FIN,tuija toivonen,2:43:00.00,
+41,seoul-1988,women,42,FIN,sinikka keskitalo,2:43:00.00,
+42,seoul-1988,women,43,MEX,blanca jaime,2:43:00.00,
+43,seoul-1988,women,44,BRA,angelica almeida,2:43:40.00,
+44,seoul-1988,women,45,TCH,ludmila melicherova,2:43:56.00,
+45,seoul-1988,women,46,IRL,ailish smyth,2:44:17.00,
+46,seoul-1988,women,47,SUI,genoveva eichenmann,2:44:37.00,
+47,seoul-1988,women,48,SUI,rosmarie muller,2:47:31.00,
+48,seoul-1988,women,49,KEN,pascaline wangui,2:47:42.00,
+49,seoul-1988,women,50,RWA,apollinarie nyinawabéra,2:49:18.00,
+50,seoul-1988,women,51,MRI,maryse justin,2:50:00.00,
+51,seoul-1988,women,52,CAY,michelle bush,2:51:30.00,
+52,seoul-1988,women,53,GUA,maria pilar menendez de cox,2:51:33.00,
+53,seoul-1988,women,54,CHN,juan li,2:53:08.00,
+54,seoul-1988,women,55,ZIM,linda elizabeth hunter,2:53:17.00,
+55,seoul-1988,women,56,ARU,cornelia marina melis,2:53:24.00,
+56,seoul-1988,women,57,IRL,marie murphy-rollins,2:54:37.00,
+57,seoul-1988,women,58,ESA,kriscia lorena garcia blanco,3:04:21.00,
+58,seoul-1988,women,59,GUM,julie ogborn,3:06:05.00,
+59,seoul-1988,women,60,NEP,rajkumari pandey,3:10:31.00,
+60,seoul-1988,women,61,NEP,menuka rawat,3:11:17.00,
+61,seoul-1988,women,62,GRN,arlene vincent-mark,3:23:56.00,
+62,seoul-1988,women,63,GUM,lourdes klitzke,3:25:32.00,
+63,seoul-1988,women,64,GUM,mariana ysrael,3:42:23.00,
+64,seoul-1988,women,,NOR,grete waitz-andersen,None,Did not finish
+65,seoul-1988,women,,BEL,agnes pardaens,None,Did not finish
+66,seoul-1988,women,,KOR,mi-kyong kim,None,Did not finish
+67,seoul-1988,women,,NOR,bente moe,None,Did not finish
+68,seoul-1988,women,,MYA,mar mar min,None,Did not finish
+69,seoul-1988,women,,POR,arnaldo cunha,None,Did not finish
+70,seoul-1988,women,,GDR,birgit stephan,None,Did not start
+71,seoul-1988,women,,CYP,katerina pratsi,None,Did not start
+0,los-angeles-1984,men,G,POR,carlos lopes,2:09:21.00,
+1,los-angeles-1984,men,S,IRL,john treacy,2:09:56.00,
+2,los-angeles-1984,men,B,GBR,charles spedding,2:09:58.00,
+3,los-angeles-1984,men,4,JPN,takeshi so,2:10:55.00,
+4,los-angeles-1984,men,5,AUS,rob de castella,2:11:09.00,
+5,los-angeles-1984,men,6,TAN,juma ikangaa,2:11:10.00,
+6,los-angeles-1984,men,7,KEN,joseph nzau,2:11:28.00,
+7,los-angeles-1984,men,8,DJI,djama robleh,2:11:39.00,
+8,los-angeles-1984,men,9,IRL,jeremy kiernan,2:12:20.00,
+9,los-angeles-1984,men,10,NZL,rodney dixon,2:12:57.00,
+10,los-angeles-1984,men,11,USA,peter dickson pfitzinger,2:13:53.00,
+11,los-angeles-1984,men,12,GBR,robin evan hugh jones,2:13:57.00,
+12,los-angeles-1984,men,13,PUR,jorge gonzalez rivera,2:14:00.00,
+13,los-angeles-1984,men,14,JPN,toshihiko seko,2:14:13.00,
+14,los-angeles-1984,men,15,USA,alberto bauday salazar,2:14:19.00,
+15,los-angeles-1984,men,16,TUR,mehmet terzi,2:14:20.00,
+16,los-angeles-1984,men,17,JPN,shigeru so,2:14:38.00,
+17,los-angeles-1984,men,18,FRG,ralf salzmann,2:15:29.00,
+18,los-angeles-1984,men,19,DEN,henrik hove jorgensen,2:15:55.00,
+19,los-angeles-1984,men,20,DJI,hussein ahmed salah,2:15:59.00,
+20,los-angeles-1984,men,21,TAN,agapius amo,2:16:25.00,
+21,los-angeles-1984,men,22,TAN,gidemas shahanga,2:16:27.00,
+22,los-angeles-1984,men,23,BRA,eloi schleder,2:16:35.00,
+23,los-angeles-1984,men,24,BEL,karel lismont,2:17:07.00,
+24,los-angeles-1984,men,25,DEN,allan zackariasen,2:17:10.00,
+25,los-angeles-1984,men,26,GRE,mikhail koussis,2:17:38.00,
+26,los-angeles-1984,men,27,FIN,pertti tiainen,2:17:43.00,
+27,los-angeles-1984,men,28,FRA,alain lazare,2:17:52.00,
+28,los-angeles-1984,men,29,UGA,vincent ruguga,2:17:54.00,
+29,los-angeles-1984,men,30,BEL,armand parmentier,2:18:10.00,
+30,los-angeles-1984,men,31,PUR,cesar mercado,2:19:09.00,
+31,los-angeles-1984,men,32,DJI,abdillahi charmaké,2:19:11.00,
+32,los-angeles-1984,men,33,NOR,oyvind dahl,2:19:28.00,
+33,los-angeles-1984,men,34,NZL,derek froude,2:19:44.00,
+34,los-angeles-1984,men,35,ITA,giovanni d'aleo,2:20:12.00,
+35,los-angeles-1984,men,36,MEX,jesus herrera,2:20:33.00,
+36,los-angeles-1984,men,37,KOR,hong-yul lee,2:20:56.00,
+37,los-angeles-1984,men,38,BOL,juan rodrigo camacho,2:21:04.00,
+38,los-angeles-1984,men,39,NED,cor vriend,2:21:08.00,
+39,los-angeles-1984,men,40,LES,frans ntaole,2:21:09.00,
+40,los-angeles-1984,men,41,BEL,johan geirnaert,2:21:35.00,
+41,los-angeles-1984,men,42,FRA,jacques boxberger,2:22:00.00,
+42,los-angeles-1984,men,43,ITA,marco marchei,2:22:38.00,
+43,los-angeles-1984,men,44,CAN,arthur boileau,2:22:43.00,
+44,los-angeles-1984,men,45,SWZ,samuel hlawe,2:22:45.00,
+45,los-angeles-1984,men,46,NEP,baikuntha manandhar,2:22:51.00,
+46,los-angeles-1984,men,47,SOM,ahmed mohamed ismail,2:23:27.00,
+47,los-angeles-1984,men,48,KOR,hong-nak chae,2:23:33.00,
+48,los-angeles-1984,men,49,KEN,joseph maisiba-otieno,2:24:13.00,
+49,los-angeles-1984,men,50,SUI,bruno lafranchi,2:24:38.00,
+50,los-angeles-1984,men,51,IRL,richard hooper,2:24:41.00,
+51,los-angeles-1984,men,52,JAM,derek adamson,2:25:02.00,
+52,los-angeles-1984,men,53,PUR,claudio caban,2:27:16.00,
+53,los-angeles-1984,men,54,LUX,marc agosta,2:27:41.00,
+54,los-angeles-1984,men,55,BOT,wilson theleso,2:29:20.00,
+55,los-angeles-1984,men,56,CHI,alejandro silva,2:29:53.00,
+56,los-angeles-1984,men,57,TPE,chang-ming chen,2:29:57.00,
+57,los-angeles-1984,men,58,KOR,won-sick kim,2:30:57.00,
+58,los-angeles-1984,men,59,ARG,ruben aguilar,2:31:18.00,
+59,los-angeles-1984,men,60,ISR,shemtov sabag,2:31:34.00,
+60,los-angeles-1984,men,61,LES,vincent rakabaele,2:32:15.00,
+61,los-angeles-1984,men,62,CYP,marios kassianidis,2:32:51.00,
+62,los-angeles-1984,men,63,NEP,arjun pandit,2:32:53.00,
+63,los-angeles-1984,men,64,JOR,ismael mahmoud ghassab,2:33:30.00,
+64,los-angeles-1984,men,65,CAN,alain bordeleau,2:34:27.00,
+65,los-angeles-1984,men,66,PNG,tau john tokwepota,2:36:36.00,
+66,los-angeles-1984,men,67,ZIM,patrick nyambariro-nhauro,2:37:18.00,
+67,los-angeles-1984,men,68,KEN,kimurgor ngeny,2:37:19.00,
+68,los-angeles-1984,men,69,NEP,amira prasad yadav,2:38:10.00,
+69,los-angeles-1984,men,70,CAF,adolphe ambowode,2:41:26.00,
+70,los-angeles-1984,men,71,HON,carlos avila,2:42:03.00,
+71,los-angeles-1984,men,72,MAD,jules randrianarivelo,2:43:05.00,
+72,los-angeles-1984,men,73,SOM,abdul lahij ahmed,2:44:39.00,
+73,los-angeles-1984,men,74,MAW,george mambosasa,2:46:14.00,
+74,los-angeles-1984,men,75,ISV,marlon selwyn williams,2:46:50.00,
+75,los-angeles-1984,men,76,BOT,johnson mbangiwa,2:48:12.00,
+76,los-angeles-1984,men,77,PHI,leonardo illut,2:49:39.00,
+77,los-angeles-1984,men,78,HAI,dieudonne lamothe,2:52:18.00,
+78,los-angeles-1984,men,,MAW,matthews kambale,None,Did not finish
+79,los-angeles-1984,men,,QAT,ibrahim al-taher,None,Did not finish
+80,los-angeles-1984,men,,COL,domingo tibaduiza reyes,None,Did not finish
+81,los-angeles-1984,men,,TUR,mehmet yurdadon,None,Did not finish
+82,los-angeles-1984,men,,SWE,tommy persson,None,Did not finish
+83,los-angeles-1984,men,,BOT,bigboy josie matlapeng,None,Did not finish
+84,los-angeles-1984,men,,OMA,awadh shaban al-sameer,None,Did not finish
+85,los-angeles-1984,men,,CAN,dave edge,None,Did not finish
+86,los-angeles-1984,men,,POR,cidalio caetano,None,Did not finish
+87,los-angeles-1984,men,,USA,john b. tuttle,None,Did not finish
+88,los-angeles-1984,men,,UGA,wilson achia,None,Did not finish
+89,los-angeles-1984,men,,AUT,gerhard hartmann,None,Did not finish
+90,los-angeles-1984,men,,NED,cornelis lambregts,None,Did not finish
+91,los-angeles-1984,men,,ZIM,tommy lazarus,None,Did not finish
+92,los-angeles-1984,men,,CRC,ronaldo lanzoni,None,Did not finish
+93,los-angeles-1984,men,,NED,gerard nijboer,None,Did not finish
+94,los-angeles-1984,men,,ESP,cuevas santiago de la parte de las,None,Did not finish
+95,los-angeles-1984,men,,TUR,ahmet altun,None,Did not finish
+96,los-angeles-1984,men,,ESP,juan carlos traspaderne,None,Did not finish
+97,los-angeles-1984,men,,SWE,kjell-erik stahl,None,Did not finish
+98,los-angeles-1984,men,,MEX,rodolfo gomez,None,Did not finish
+99,los-angeles-1984,men,,GBR,geoffrey smith,None,Did not finish
+100,los-angeles-1984,men,,NOR,stig roar huseby,None,Did not finish
+101,los-angeles-1984,men,,POR,delfim moreira,None,Did not finish
+102,los-angeles-1984,men,,MEX,miguel angel cruz,None,Did not finish
+103,los-angeles-1984,men,,CHI,omar domingo aguilar,None,Did not finish
+104,los-angeles-1984,men,,LBR,nimley twegbe,None,Did not finish
+105,los-angeles-1984,men,,COD,masini situ-kumbanga,None,Did not finish
+106,los-angeles-1984,men,,CYP,filippos filippou,None,Did not finish
+107,los-angeles-1984,men,,FIN,martti vainio,None,Did not start
+0,los-angeles-1984,women,G,USA,joan benoit,2:24:52.00,
+1,los-angeles-1984,women,S,NOR,grete waitz-andersen,2:26:18.00,
+2,los-angeles-1984,women,B,POR,rosa mota,2:26:57.00,
+3,los-angeles-1984,women,4,NOR,ingrid kristiansen-christensen,2:27:34.00,
+4,los-angeles-1984,women,5,NZL,lorraine mary moller,2:28:34.00,
+5,los-angeles-1984,women,6,GBR,priscilla welch,2:28:54.00,
+6,los-angeles-1984,women,7,AUS,lisa martin-ondieki-o'dea,2:29:03.00,
+7,los-angeles-1984,women,8,CAN,sylvia ruegger,2:29:09.00,
+8,los-angeles-1984,women,9,ITA,laura fogli,2:29:28.00,
+9,los-angeles-1984,women,10,FIN,tuija toivonen,2:32:07.00,
+10,los-angeles-1984,women,11,GBR,joyce esther smith,2:32:48.00,
+11,los-angeles-1984,women,12,ITA,alba milana,2:33:01.00,
+12,los-angeles-1984,women,13,DEN,dorthe skovshoved rasmussen,2:33:40.00,
+13,los-angeles-1984,women,14,GBR,sarah louise rowell,2:34:08.00,
+14,los-angeles-1984,women,15,FIN,sinikka keskitalo,2:35:15.00,
+15,los-angeles-1984,women,16,FRG,charlotte teske-bernhardt,2:35:56.00,
+16,los-angeles-1984,women,17,CAN,annemarie malone,2:36:33.00,
+17,los-angeles-1984,women,18,SWE,marie-louise hamrin,2:36:41.00,
+18,los-angeles-1984,women,19,JPN,nanae sasaki,2:37:04.00,
+19,los-angeles-1984,women,20,ITA,paola moro,2:37:06.00,
+20,los-angeles-1984,women,21,BEL,ria van landeghem,2:37:11.00,
+21,los-angeles-1984,women,22,NED,carolina beurskens,2:37:51.00,
+22,los-angeles-1984,women,23,IRL,regina joyce,2:37:57.00,
+23,los-angeles-1984,women,24,BEL,marie christine deurbroeck,2:38:01.00,
+24,los-angeles-1984,women,25,MEX,maria trujillo,2:38:50.00,
+25,los-angeles-1984,women,26,NOR,bente moe,2:40:52.00,
+26,los-angeles-1984,women,27,NZL,mary o'connor,2:41:22.00,
+27,los-angeles-1984,women,28,IRL,carey may,2:41:27.00,
+28,los-angeles-1984,women,29,BEL,francine peeters,2:42:22.00,
+29,los-angeles-1984,women,30,ISR,zehava shmueli,2:42:27.00,
+30,los-angeles-1984,women,31,HKG,lai-chu ng,2:42:38.00,
+31,los-angeles-1984,women,32,CHI,monica regonesi,2:44:44.00,
+32,los-angeles-1984,women,33,PUR,naydi nazario,2:45:49.00,
+33,los-angeles-1984,women,34,HKG,yuko gordon,2:46:12.00,
+34,los-angeles-1984,women,35,PER,ena guevara,2:46:50.00,
+35,los-angeles-1984,women,36,USA,julie ann brown,2:47:33.00,
+36,los-angeles-1984,women,37,SUI,gaby andersen-schiess,2:48:42.00,
+37,los-angeles-1984,women,38,POR,rita borralho,2:50:58.00,
+38,los-angeles-1984,women,39,POR,conceiçao ferreira,2:50:58.00,
+39,los-angeles-1984,women,40,MEX,maria cardenas,2:51:03.00,
+40,los-angeles-1984,women,41,MEX,maría luisa ronquillo,2:51:04.00,
+41,los-angeles-1984,women,42,BOL,nelly wright,2:51:35.00,
+42,los-angeles-1984,women,43,KEN,mary wagaki,2:52:00.00,
+43,los-angeles-1984,women,44,BRA,eleonora costa soares de mendonca,2:52:19.00,
+44,los-angeles-1984,women,,NGR,ifeoma mbanugo,None,Did not finish
+45,los-angeles-1984,women,,NZL,anne audain,None,Did not finish
+46,los-angeles-1984,women,,CAN,jacqueline gareau,None,Did not finish
+47,los-angeles-1984,women,,HON,leda diaz de cano,None,Did not finish
+48,los-angeles-1984,women,,USA,mary julie isphording,None,Did not finish
+49,los-angeles-1984,women,,JPN,akemi masuda,None,Did not finish
+0,montreal-1976,men,G,GDR,waldemar cierpinski,2:09:55.00,
+1,montreal-1976,men,S,USA,frank charles shorter,2:10:45.80,
+2,montreal-1976,men,B,BEL,karel lismont,2:11:12.60,
+3,montreal-1976,men,4,USA,donald franklin kardong,2:11:15.80,
+4,montreal-1976,men,5,FIN,lasse viren,2:13:10.80,
+5,montreal-1976,men,6,CAN,jerome drayton,2:13:30.00,
+6,montreal-1976,men,7,URS,leonid moseyev,2:13:33.40,
+7,montreal-1976,men,8,ITA,franco fava,2:14:24.60,
+8,montreal-1976,men,9,URS,aleksandr gotsky,2:15:34.00,
+9,montreal-1976,men,10,BEL,rik schoofs,2:15:52.40,
+10,montreal-1976,men,11,IND,singh singh,2:16:22.00,
+11,montreal-1976,men,12,PRK,sop-choe chang,2:16:33.20,
+12,montreal-1976,men,13,ITA,massimo magnani,2:16:56.40,
+13,montreal-1976,men,14,SWE,goran bengtsson,2:17:39.60,
+14,montreal-1976,men,15,POL,kazimierz orzel,2:17:43.40,
+15,montreal-1976,men,16,FIN,hakan spik,2:17:50.60,
+16,montreal-1976,men,17,NZL,jack foster,2:17:53.40,
+17,montreal-1976,men,18,MEX,mario cuevas,2:18:08.80,
+18,montreal-1976,men,19,MEX,rodolfo gomez,2:18:21.20,
+19,montreal-1976,men,20,JPN,shigeru so,2:18:26.00,
+20,montreal-1976,men,21,JPN,moriyasu mizukami,2:18:44.20,
+21,montreal-1976,men,22,POR,ana cleto pereira pinto,2:18:53.40,
+22,montreal-1976,men,23,PUR,jose de jesus,2:19:34.80,
+23,montreal-1976,men,24,URS,yuri velikorodnykh,2:19:45.60,
+24,montreal-1976,men,25,NED,josephus j.m. hermens,2:19:48.20,
+25,montreal-1976,men,26,GBR,george jeffery norman,2:20:04.80,
+26,montreal-1976,men,27,FIN,jukka olavi toivola,2:20:26.60,
+27,montreal-1976,men,28,DEN,jorgen pilegaard jensen,2:20:44.60,
+28,montreal-1976,men,29,GRE,mikhail koussis,2:21:42.00,
+29,montreal-1976,men,30,CAN,thomas howard,2:22:08.80,
+30,montreal-1976,men,31,GBR,keith angus,2:22:18.60,
+31,montreal-1976,men,32,JPN,akio usami,2:22:29.60,
+32,montreal-1976,men,33,CUB,rigoberto mendoza perez,2:22:43.20,
+33,montreal-1976,men,34,FRA,fernand kolbeck,2:22:56.80,
+34,montreal-1976,men,35,AUS,christopher wardlaw,2:23:56.80,
+35,montreal-1976,men,36,CAN,wayne yetman,2:24:17.40,
+36,montreal-1976,men,37,TUR,huseyin aktas,2:24:30.00,
+37,montreal-1976,men,38,TUR,veli balli,2:24:47.00,
+38,montreal-1976,men,39,IRL,james mcnamara,2:24:57.20,
+39,montreal-1976,men,40,USA,william henry rodgers,2:25:14.80,
+40,montreal-1976,men,41,HON,hipolito lopez,2:26:00.00,
+41,montreal-1976,men,42,IRL,daniel mcdaid,2:27:07.20,
+42,montreal-1976,men,43,PAR,eusebio cardoso,2:27:22.80,
+43,montreal-1976,men,44,PRK,chang-son kim,2:27:38.80,
+44,montreal-1976,men,45,GBR,barrington watson,2:28:32.20,
+45,montreal-1976,men,46,ESP,agustin fernandez diaz,2:28:37.80,
+46,montreal-1976,men,47,POL,jerzy gros,2:28:45.80,
+47,montreal-1976,men,48,COL,jairo cubillos ramirez,2:29:04.40,
+48,montreal-1976,men,49,HON,luis antonio raudales,2:29:25.00,
+49,montreal-1976,men,50,NEP,baikuntha manandhar,2:30:07.00,
+50,montreal-1976,men,51,ESP,antonio banos alonso,2:31:01.60,
+51,montreal-1976,men,52,PRK,chun-son koh,2:31:54.80,
+52,montreal-1976,men,53,PUR,victor serrano,2:34:59.60,
+53,montreal-1976,men,54,FRG,günther mielke,2:35:44.80,
+54,montreal-1976,men,55,IRL,nigel cusack,2:35:47.20,
+55,montreal-1976,men,56,PNG,tau john tokwepota,2:38:04.60,
+56,montreal-1976,men,57,PHI,victor idava,2:38:23.20,
+57,montreal-1976,men,58,BER,raymond swan,2:39:18.40,
+58,montreal-1976,men,59,PNG,john kokinai,2:41:49.00,
+59,montreal-1976,men,60,BOL,lucio guachalla,2:45:31.80,
+60,montreal-1976,men,,COL,rafael mora zamora,None,Did not finish
+61,montreal-1976,men,,HAI,thancule dezart,None,Did not finish
+62,montreal-1976,men,,AUS,david chettle,None,Did not finish
+63,montreal-1976,men,,ESP,santiago manguan pascual,None,Did not finish
+64,montreal-1976,men,,AUS,ross haywood,None,Did not finish
+65,montreal-1976,men,,ITA,giuseppe cindolo,None,Did not finish
+66,montreal-1976,men,,NZL,kevin ryan,None,Did not finish
+67,montreal-1976,men,,BEL,gaston roelants,None,Did not start
+68,montreal-1976,men,,HAI,olmeus charles,None,Did not start
+69,montreal-1976,men,,POR,carlos lopes,None,Did not start
+70,montreal-1976,men,,ROU,ilie floroiu,None,Did not start
+0,munich-1972,men,G,USA,frank charles shorter,2:12:19.80,
+1,munich-1972,men,S,BEL,karel lismont,2:14:31.80,
+2,munich-1972,men,B,ETH,mamo wolde,2:15:08.40,
+3,munich-1972,men,4,USA,kenneth clark moore,2:15:39.80,
+4,munich-1972,men,5,JPN,kenji kimihara,2:16:27.00,
+5,munich-1972,men,6,GBR,ronald hill,2:16:30.60,
+6,munich-1972,men,7,GBR,don macgregor,2:16:34.40,
+7,munich-1972,men,8,NZL,jack foster,2:16:56.20,
+8,munich-1972,men,9,USA,jack stangl bacheler,2:17:38.20,
+9,munich-1972,men,10,ETH,lengissa bedane,2:18:36.80,
+10,munich-1972,men,11,FIN,seppo olavi nikkari,2:18:49.40,
+11,munich-1972,men,12,JPN,akio usami,2:18:58.00,
+12,munich-1972,men,13,AUS,derek clayton,2:19:49.60,
+13,munich-1972,men,14,URS,yuri velikorodnykh,2:20:02.20,
+14,munich-1972,men,15,URS,anatolijus baranovas,2:20:10.40,
+15,munich-1972,men,16,FRG,paul angenvoorth,2:20:19.00,
+16,munich-1972,men,17,SWZ,richard mabusa,2:20:39.60,
+17,munich-1972,men,18,ETH,demisse wolde,2:20:44.00,
+18,munich-1972,men,19,FIN,reino ensio paukkonen,2:21:06.40,
+19,munich-1972,men,20,GBR,colin kirkham,2:21:54.80,
+20,munich-1972,men,21,ITA,antonio brutti,2:22:12.00,
+21,munich-1972,men,22,NZL,david closs mckenzie,2:22:19.20,
+22,munich-1972,men,23,IRL,daniel mcdaid,2:22:25.20,
+23,munich-1972,men,24,ITA,renato martini,2:22:41.40,
+24,munich-1972,men,25,GDR,eckhard lesse,2:22:49.60,
+25,munich-1972,men,26,MEX,jacinto sabinal,2:22:56.60,
+26,munich-1972,men,27,HUN,gyula toth,2:22:59.80,
+27,munich-1972,men,28,FRA,fernand kolbeck,2:23:01.20,
+28,munich-1972,men,29,COL,hernan barreneche,2:23:40.00,
+29,munich-1972,men,30,DEN,jorgen pilegaard jensen,2:24:00.20,
+30,munich-1972,men,31,FRG,manfred steffny,2:24:25.40,
+31,munich-1972,men,32,FRG,lutz philipp,2:24:25.40,
+32,munich-1972,men,33,HUN,ferenc szekeres,2:25:17.60,
+33,munich-1972,men,34,NZL,terence manners,2:25:29.20,
+34,munich-1972,men,35,URS,igor shcherbak,2:25:37.40,
+35,munich-1972,men,36,JPN,yoshiaki unetani,2:25:59.00,
+36,munich-1972,men,37,PRK,chang-son kim,2:26:45.60,
+37,munich-1972,men,38,ITA,francesco de menego,2:26:52.20,
+38,munich-1972,men,39,ESP,agustin fernandez diaz,2:27:14.20,
+39,munich-1972,men,40,POL,edward stawiarz,2:28:12.40,
+40,munich-1972,men,41,POR,armando aldegalega,2:28:24.60,
+41,munich-1972,men,42,IRL,desmond mcgann,2:28:31.60,
+42,munich-1972,men,43,GUA,carlos cuque,2:28:37.00,
+43,munich-1972,men,44,SUI,alfons sidler,2:29:09.20,
+44,munich-1972,men,45,MEX,alfredo penaloza,2:29:51.00,
+45,munich-1972,men,46,BEL,walter van renterghem,2:29:58.40,
+46,munich-1972,men,47,IRL,donie walsh,2:31:12.00,
+47,munich-1972,men,48,COL,alvaro mejia flores,2:31:56.40,
+48,munich-1972,men,49,PRK,man hyong ryu,2:32:29.40,
+49,munich-1972,men,50,ESP,carlos perez alonso,2:33:22.60,
+50,munich-1972,men,51,MEX,rafael tadeo polomares,2:35:48.40,
+51,munich-1972,men,52,COL,víctor mora,2:37:34.60,
+52,munich-1972,men,53,ARG,fernando molina,2:38:18.60,
+53,munich-1972,men,54,GUA,julio f. quevedo elias,2:40:38.60,
+54,munich-1972,men,55,ARG,ramon cabrera,2:42:37.20,
+55,munich-1972,men,56,MAW,matthews kambale,2:45:50.00,
+56,munich-1972,men,57,MYA,thein hla,2:48:53.20,
+57,munich-1972,men,58,BOL,ricardo condorri,2:56:11.40,
+58,munich-1972,men,59,UGA,fulgence rwabu,2:57:04.40,
+59,munich-1972,men,60,NEP,bhakta bahadur sapkota,2:57:58.80,
+60,munich-1972,men,61,BOL,crispin quispe,3:07:22.80,
+61,munich-1972,men,62,HAI,maurice charlotin,3:29:21.00,
+62,munich-1972,men,,ARG,nazario araujo,None,Did not finish
+63,munich-1972,men,,FIN,pekka matti tiihonen,None,Did not finish
+64,munich-1972,men,,BOL,juvenal rocha,None,Did not finish
+65,munich-1972,men,,SOM,jama awil aden,None,Did not finish
+66,munich-1972,men,,BEL,gaston roelants,None,Did not finish
+67,munich-1972,men,,SRI,lucien rosa,None,Did not finish
+68,munich-1972,men,,TAN,julius wakachu,None,Did not finish
+69,munich-1972,men,,TUR,ismail akcay,None,Did not finish
+70,munich-1972,men,,NEP,jit bahadur khatri chhetri,None,Did not finish
+71,munich-1972,men,,NCA,rudolfo gomez,None,Did not finish
+72,munich-1972,men,,KEN,richard juma,None,Did not finish
+73,munich-1972,men,,SUD,shag musa medani,None,Did not finish
+74,munich-1972,men,,TCH,josef jansky,None,Did not start
+75,munich-1972,men,,TUR,huseyin aktas,None,Did not start
+0,mexico-city-1968,men,G,ETH,mamo wolde,2:20:26.40,
+1,mexico-city-1968,men,S,JPN,kenji kimihara,2:23:31.00,
+2,mexico-city-1968,men,B,NZL,michael robert ryan,2:23:45.00,
+3,mexico-city-1968,men,4,TUR,ismail akcay,2:25:18.80,
+4,mexico-city-1968,men,5,GBR,william arthur adcocks,2:25:33.00,
+5,mexico-city-1968,men,6,ETH,gebru merawi,2:27:16.80,
+6,mexico-city-1968,men,7,AUS,derek clayton,2:27:23.80,
+7,mexico-city-1968,men,8,GBR,timothy frederick johnston,2:28:04.40,
+8,mexico-city-1968,men,9,JPN,akio usami,2:28:06.20,
+9,mexico-city-1968,men,10,CAN,andrew boychuk,2:28:40.20,
+10,mexico-city-1968,men,11,BEL,gaston roelants,2:29:04.80,
+11,mexico-city-1968,men,12,IRL,patrick joseph mcmahon,2:29:21.00,
+12,mexico-city-1968,men,13,MEX,alfredo penaloza,2:29:48.80,
+13,mexico-city-1968,men,14,USA,kenneth clark moore,2:29:49.40,
+14,mexico-city-1968,men,15,GDR,jürgen busch,2:30:42.60,
+15,mexico-city-1968,men,16,USA,george l. young,2:31:15.00,
+16,mexico-city-1968,men,17,FRG,manfred steffny,2:31:23.80,
+17,mexico-city-1968,men,18,MYA,sumbwegam thin,2:32:22.00,
+18,mexico-city-1968,men,19,KEN,nabiba naftali temu,2:32:36.00,
+19,mexico-city-1968,men,20,BEL,maurice peiren,2:32:49.00,
+20,mexico-city-1968,men,21,ITA,antonio ambu,2:33:19.60,
+21,mexico-city-1968,men,22,USA,ronald h. daws,2:33:53.00,
+22,mexico-city-1968,men,23,FRG,karlheinz sievers,2:34:11.80,
+23,mexico-city-1968,men,24,HUN,gyula toth,2:34:49.00,
+24,mexico-city-1968,men,25,TUR,huseyin aktas,2:35:09.50,
+25,mexico-city-1968,men,26,MEX,pablo garrido lugo,2:35:47.80,
+26,mexico-city-1968,men,27,NED,adrianus johannes steylen,2:37:42.00,
+27,mexico-city-1968,men,28,URS,anatoli sukharkov,2:38:07.40,
+28,mexico-city-1968,men,29,KOR,myung-jung lee,2:38:52.20,
+29,mexico-city-1968,men,30,BUL,ivaylo sharankov,2:39:49.60,
+30,mexico-city-1968,men,31,ITA,gioacchino de palma,2:39:58.20,
+31,mexico-city-1968,men,32,SUI,josef gwerder,2:40:16.00,
+32,mexico-city-1968,men,33,FRG,hubert riesner,2:41:29.00,
+33,mexico-city-1968,men,34,DEN,georg bruno meyer olsen,2:42:24.60,
+34,mexico-city-1968,men,35,ZAM,douglas zinkala,2:42:51.00,
+35,mexico-city-1968,men,36,CHI,ezequiel baeza,2:43:15.60,
+36,mexico-city-1968,men,37,NZL,david closs mckenzie,2:43:36.60,
+37,mexico-city-1968,men,38,KOR,bong-lee kim,2:43:56.00,
+38,mexico-city-1968,men,39,GUA,carlos cuque,2:45:20.40,
+39,mexico-city-1968,men,40,ZAM,godwin kalimbwe,2:45:26.80,
+40,mexico-city-1968,men,41,IRL,michael molloy,2:48:13.60,
+41,mexico-city-1968,men,42,BUL,nikolai simeonov,2:48:30.40,
+42,mexico-city-1968,men,43,AUS,john farrington,2:50:16.80,
+43,mexico-city-1968,men,44,SUI,helmut kunisch,2:50:58.20,
+44,mexico-city-1968,men,45,SLE,albert massaquoi,2:52:28.00,
+45,mexico-city-1968,men,46,KOR,sang-hoon lee,2:52:46.20,
+46,mexico-city-1968,men,47,MYA,thein hla,2:54:03.60,
+47,mexico-city-1968,men,48,KEN,paul mose,2:55:17.00,
+48,mexico-city-1968,men,49,PHI,benjamin silva-netto,2:56:19.40,
+49,mexico-city-1968,men,50,GUY,harry prowell,2:57:01.40,
+50,mexico-city-1968,men,51,SRI,wimalasena perera,2:59:05.80,
+51,mexico-city-1968,men,52,GUA,fulgencio hernandez car,3:00:40.20,
+52,mexico-city-1968,men,53,ECU,gustavo gutierrez,3:03:07.00,
+53,mexico-city-1968,men,54,NGR,martin ande,3:03:47.60,
+54,mexico-city-1968,men,55,UGA,mustafa musa,3:04:53.80,
+55,mexico-city-1968,men,56,ZAM,enoch muemba,3:06:16.00,
+56,mexico-city-1968,men,57,TAN,john stephen akhwari,3:25:17.00,
+57,mexico-city-1968,men,,SUI,edgar friedl,None,Did not finish
+58,mexico-city-1968,men,,KUW,mraljeb ayed mansoor,None,Did not finish
+59,mexico-city-1968,men,,URS,mukhamed sadyk shakirov,None,Did not finish
+60,mexico-city-1968,men,,KUW,saoud obaid daifallah,None,Did not finish
+61,mexico-city-1968,men,,ESP,carlos perez alonso,None,Did not finish
+62,mexico-city-1968,men,,GBR,james noel carroll alder,None,Did not finish
+63,mexico-city-1968,men,,JPN,seiichiro sasaki,None,Did not finish
+64,mexico-city-1968,men,,CAN,jerome drayton,None,Did not finish
+65,mexico-city-1968,men,,FRA,guy texereau,None,Did not finish
+66,mexico-city-1968,men,,YUG,nedo farcic,None,Did not finish
+67,mexico-city-1968,men,,FRA,rene christian combes,None,Did not finish
+68,mexico-city-1968,men,,URU,armando gonzalez iguini,None,Did not finish
+69,mexico-city-1968,men,,ETH,abebe bikila,None,Did not finish
+70,mexico-city-1968,men,,CRC,juan rafael angel perez cordoba,None,Did not finish
+71,mexico-city-1968,men,,HUN,lajos mecser,None,Did not finish
+72,mexico-city-1968,men,,HUN,jozsef suto,None,Did not finish
+73,mexico-city-1968,men,,MEX,jose garcia caspar,None,Did not finish
+74,mexico-city-1968,men,,FIN,pentti juhani rummakko,None,Did not finish
+75,mexico-city-1968,men,,COL,hernan barreneche,None,Did not start
+76,mexico-city-1968,men,,FIN,jouko kuha,None,Did not start
+77,mexico-city-1968,men,,ITA,ettore milone,None,Did not start
+78,mexico-city-1968,men,,URS,yury volkov,None,Did not start
+79,mexico-city-1968,men,,NED,ton eykenboom,None,Did not start
+80,mexico-city-1968,men,,GDR,jurgen haase,None,Did not start
+81,mexico-city-1968,men,,POL,edward stawiarz,None,Did not start
+82,mexico-city-1968,men,,TUN,mohamed gammoudi,None,Did not start
+0,tokyo-1964,men,G,ETH,abebe bikila,2:12:11.20,
+1,tokyo-1964,men,S,GBR,benjamin basil heatley,2:16:19.20,
+2,tokyo-1964,men,B,JPN,kokichi tsuburaya,2:16:22.80,
+3,tokyo-1964,men,4,GBR,brian leonard kilby,2:17:02.40,
+4,tokyo-1964,men,5,HUN,jozsef suto,2:17:55.80,
+5,tokyo-1964,men,6,USA,leonard graves edelen,2:18:12.40,
+6,tokyo-1964,men,7,BEL,aurele van den driessche,2:18:42.60,
+7,tokyo-1964,men,8,JPN,kenji kimihara,2:19:49.00,
+8,tokyo-1964,men,9,AUS,ronald clarke,2:20:26.80,
+9,tokyo-1964,men,10,ETH,demisse wolde,2:21:25.20,
+10,tokyo-1964,men,11,KOR,sang-hoon lee,2:22:02.80,
+11,tokyo-1964,men,12,MAR,bakir ben aissa,2:22:27.00,
+12,tokyo-1964,men,13,FIN,eino ilmari oksanen,2:22:36.00,
+13,tokyo-1964,men,14,USA,billy mills,2:22:55.40,
+14,tokyo-1964,men,15,JPN,toru terasawa,2:23:09.00,
+15,tokyo-1964,men,16,KOR,yun-bum kim,2:24:40.60,
+16,tokyo-1964,men,17,ITA,giorgio jegher,2:24:45.20,
+17,tokyo-1964,men,18,TCH,vaclav chudomel,2:24:46.80,
+18,tokyo-1964,men,19,GBR,ronald hill,2:25:34.40,
+19,tokyo-1964,men,20,FIN,paavo kalervo pyystynen,2:26:00.60,
+20,tokyo-1964,men,21,MEX,fidel negrete gamboa,2:26:07.00,
+21,tokyo-1964,men,22,URS,nikolai tikhomirov,2:26:07.40,
+22,tokyo-1964,men,23,USA,peter joseph mcardle,2:26:24.40,
+23,tokyo-1964,men,24,GER,heinrich hagen,2:26:39.80,
+24,tokyo-1964,men,25,TCH,pavel kantorek,2:26:47.20,
+25,tokyo-1964,men,26,URS,nikolai abramov,2:27:09.40,
+26,tokyo-1964,men,27,NZL,raymond leslie puckett,2:27:34.00,
+27,tokyo-1964,men,28,FIN,eino olavi valle,2:27:34.80,
+28,tokyo-1964,men,29,NZL,jeffrey lynn julian,2:27:57.60,
+29,tokyo-1964,men,30,CHI,ricardo vidal,2:28:01.60,
+30,tokyo-1964,men,31,AUS,robert andrew vagg,2:28:41.00,
+31,tokyo-1964,men,32,SUI,guido vogele,2:29:17.80,
+32,tokyo-1964,men,33,IND,balkrishan akotkar,2:29:27.40,
+33,tokyo-1964,men,34,LUX,jean aniset,2:29:52.60,
+34,tokyo-1964,men,35,MYA,sumbwegam thin,2:30:35.80,
+35,tokyo-1964,men,36,ROU,constantin grecescu,2:30:42.60,
+36,tokyo-1964,men,37,HUN,janos pinter,2:30:50.20,
+37,tokyo-1964,men,38,GER,gerhard honicke,2:33:23.00,
+38,tokyo-1964,men,39,GER,manfred naumann,2:33:42.00,
+39,tokyo-1964,men,40,ITA,antonio ambu,2:34:37.60,
+40,tokyo-1964,men,41,SUI,oscar leupi,2:35:05.40,
+41,tokyo-1964,men,42,NZL,ivan keats,2:36:16.80,
+42,tokyo-1964,men,43,IND,harbans lal,2:37:05.80,
+43,tokyo-1964,men,44,POR,armando aldegalega,2:38:02.20,
+44,tokyo-1964,men,45,KEN,chrisantus nyakwayo,2:38:38.60,
+45,tokyo-1964,men,46,ZAM,constantino kapambwe,2:39:28.40,
+46,tokyo-1964,men,47,TAN,omari abdallah,2:40:06.00,
+47,tokyo-1964,men,48,PAK,muhammad youssef,2:40:46.00,
+48,tokyo-1964,men,49,KEN,nabiba naftali temu,2:40:46.60,
+49,tokyo-1964,men,50,KOR,hyeong-gyeol ju,2:41:08.20,
+50,tokyo-1964,men,51,ZIM,mathias kanda,2:41:09.00,
+51,tokyo-1964,men,52,AUS,anthony cook,2:42:03.60,
+52,tokyo-1964,men,53,MEX,victor peralta jimenez,2:44:23.60,
+53,tokyo-1964,men,54,ZAM,trev haynes,2:45:08.60,
+54,tokyo-1964,men,55,PUR,abraham fornes,2:46:22.60,
+55,tokyo-1964,men,56,ZIM,robson mrombe,2:49:30.80,
+56,tokyo-1964,men,57,ZAM,laurent daniel chifita,2:51:53.20,
+57,tokyo-1964,men,58,THA,chanom sirirangsri,2:59:25.60,
+58,tokyo-1964,men,,IRL,james joseph hogan,None,Did not finish
+59,tokyo-1964,men,,NEP,ganga bahadur thapa,None,Did not finish
+60,tokyo-1964,men,,NEP,bhupendra silwal,None,Did not finish
+61,tokyo-1964,men,,URS,viktor baikov,None,Did not finish
+62,tokyo-1964,men,,TUN,mohamed hadheb hannachi,None,Did not finish
+63,tokyo-1964,men,,KEN,andrew soi,None,Did not finish
+64,tokyo-1964,men,,ARG,osvaldo roberto suarez,None,Did not finish
+65,tokyo-1964,men,,ETH,mamo wolde,None,Did not finish
+66,tokyo-1964,men,,TUN,hedhili ben boubaker,None,Did not finish
+67,tokyo-1964,men,,VNM,nguyen van ly,None,Did not finish
+68,tokyo-1964,men,,BOL,alberto garabito,None,Did not start
+69,tokyo-1964,men,,BOL,alejo montano,None,Did not start
+70,tokyo-1964,men,,FRA,jean-louis brugier,None,Did not start
+71,tokyo-1964,men,,LBA,suliman fighi hassan,None,Did not start
+72,tokyo-1964,men,,ROU,dumitru chitoban,None,Did not start
+73,tokyo-1964,men,,CAN,bruce kidd,None,Did not start
+74,tokyo-1964,men,,HUN,lajos mecser,None,Did not start
+75,tokyo-1964,men,,MAD,jean randrianjatovo,None,Did not start
+76,tokyo-1964,men,,PRK,man hyong ryu,None,Did not start
+77,tokyo-1964,men,,SRI,ranatunge j. karunananda,None,Did not start
+78,tokyo-1964,men,,TUN,mohamed gammoudi,None,Did not start
+0,melbourne-1956,men,G,FRA,alain mimoun,2:25:00.00,
+1,melbourne-1956,men,S,YUG,franjo mihalic,2:26:32.00,
+2,melbourne-1956,men,B,FIN,veikko leo karvonen,2:27:47.00,
+3,melbourne-1956,men,4,KOR,chang-hoon lee,2:28:45.00,
+4,melbourne-1956,men,5,JPN,yoshiaki kawashima,2:29:19.00,
+5,melbourne-1956,men,6,TCH,emil zatopek,2:29:34.00,
+6,melbourne-1956,men,7,URS,ivan filin,2:30:37.00,
+7,melbourne-1956,men,8,SWE,evert nyberg,2:31:12.00,
+8,melbourne-1956,men,9,SWE,thomas nilsson,2:33:33.00,
+9,melbourne-1956,men,10,FIN,eino ilmari oksanen,2:36:10.00,
+10,melbourne-1956,men,11,SWE,arnold vaide,2:36:21.00,
+11,melbourne-1956,men,12,KOR,choong-sik choi,2:36:53.00,
+12,melbourne-1956,men,13,FIN,paavo edvard kotila,2:38:59.00,
+13,melbourne-1956,men,14,RSA,mercer john davies,2:39:48.00,
+14,melbourne-1956,men,15,GBR,henry john hicks,2:39:55.00,
+15,melbourne-1956,men,16,JPN,hideo hamamura,2:40:53.00,
+16,melbourne-1956,men,17,NZL,albert william richards,2:41:34.00,
+17,melbourne-1956,men,18,AUS,john frederick russell,2:41:44.00,
+18,melbourne-1956,men,19,GER,lothar beckert,2:42:10.00,
+19,melbourne-1956,men,20,USA,nicholas costes,2:42:20.00,
+20,melbourne-1956,men,21,USA,john joseph kelley,2:43:40.00,
+21,melbourne-1956,men,22,PAK,muhammad havildar aslam,2:44:33.00,
+22,melbourne-1956,men,23,AUT,adolf gruber,2:46:20.00,
+23,melbourne-1956,men,24,BEL,aurele van den driessche,2:47:18.00,
+24,melbourne-1956,men,25,AUS,keith ollerenshaw,2:48:12.00,
+25,melbourne-1956,men,26,MYA,naw myintung,2:49:32.00,
+26,melbourne-1956,men,27,TCH,pavel kantorek,2:52:05.00,
+27,melbourne-1956,men,28,GER,kurt hartung,2:52:14.00,
+28,melbourne-1956,men,29,ETH,bashay feleke,2:53:37.00,
+29,melbourne-1956,men,30,PAK,abdul rashid,2:57:47.00,
+30,melbourne-1956,men,31,KEN,kanuti sum,2:58:42.00,
+31,melbourne-1956,men,32,ETH,gebre birkay,2:58:49.00,
+32,melbourne-1956,men,33,JPN,kurao hiroshima,3:04:17.00,
+33,melbourne-1956,men,,URS,boris grishayev,None,Did not finish
+34,melbourne-1956,men,,RSA,jan barnard,None,Did not finish
+35,melbourne-1956,men,,AUS,leslie john perry,None,Did not finish
+36,melbourne-1956,men,,GBR,fred norris,None,Did not finish
+37,melbourne-1956,men,,URS,albert ivanov,None,Did not finish
+38,melbourne-1956,men,,KOR,hwa-dong im,None,Did not finish
+39,melbourne-1956,men,,CHI,juan silva,None,Did not finish
+40,melbourne-1956,men,,GBR,ronald sydney clark,None,Did not finish
+41,melbourne-1956,men,,GER,klaus porbadnik,None,Did not finish
+42,melbourne-1956,men,,ITA,rino lavelli,None,Did not finish
+43,melbourne-1956,men,,CHI,eduardo fontecilla,None,Did not finish
+44,melbourne-1956,men,,USA,dean allan thackwray,None,Did not finish
+45,melbourne-1956,men,,IRI,ali baghbanbashi,None,Did not finish
+46,melbourne-1956,men,,PUR,rudy mendez,None,Did not start
+47,melbourne-1956,men,,ETH,demissie gamatcho,None,Did not start
+0,helsinki-1952,men,G,TCH,emil zatopek,2:23:03.20,
+1,helsinki-1952,men,S,ARG,reinaldo gorno,2:25:35.00,
+2,helsinki-1952,men,B,SWE,gustaf jansson,2:26:07.00,
+3,helsinki-1952,men,4,KOR,yoon-chil choi,2:26:36.00,
+4,helsinki-1952,men,5,FIN,veikko leo karvonen,2:26:41.80,
+5,helsinki-1952,men,6,ARG,delfo cabrera,2:26:42.40,
+6,helsinki-1952,men,7,HUN,jozsef dobronyi,2:28:04.80,
+7,helsinki-1952,men,8,FIN,erkki mikael puolakka,2:29:35.00,
+8,helsinki-1952,men,9,GBR,geoffrey lionel iden,2:30:42.00,
+9,helsinki-1952,men,10,RSA,wallace henry hayward,2:31:50.20,
+10,helsinki-1952,men,11,RSA,thomas sidney andrew luyt,2:32:41.00,
+11,helsinki-1952,men,12,SWE,gustav östling,2:32:48.40,
+12,helsinki-1952,men,13,USA,victor f. dyrgall,2:32:52.40,
+13,helsinki-1952,men,14,CHI,luis celedon,2:33:45.80,
+14,helsinki-1952,men,15,NED,janus van der zande,2:33:50.00,
+15,helsinki-1952,men,16,NOR,viktor olsen,2:33:58.40,
+16,helsinki-1952,men,17,FIN,mikko hietanen,2:34:01.00,
+17,helsinki-1952,men,18,BEL,charles paul dewachtere,2:34:32.00,
+18,helsinki-1952,men,19,RSA,william charles keith,2:34:38.00,
+19,helsinki-1952,men,20,URS,yakov moskachenkov,2:34:43.80,
+20,helsinki-1952,men,21,HUN,mihaly esztergomi,2:35:10.00,
+21,helsinki-1952,men,22,GUA,doroteo flores,2:35:40.00,
+22,helsinki-1952,men,23,BEL,jean maurice simonet,2:35:43.00,
+23,helsinki-1952,men,24,NOR,jacob kjersem,2:36:14.00,
+24,helsinki-1952,men,25,JPN,katsuo nishida,2:36:19.00,
+25,helsinki-1952,men,26,JPN,keizo yamada,2:38:11.20,
+26,helsinki-1952,men,27,URS,feodosi vanin,2:38:22.00,
+27,helsinki-1952,men,28,URS,grigory suchkov,2:38:28.80,
+28,helsinki-1952,men,29,SWE,henry norrstrom,2:38:57.40,
+29,helsinki-1952,men,30,GER,dietrich (dieter) engelhardt,2:39:37.20,
+30,helsinki-1952,men,31,ROU,cristea dinu,2:39:42.20,
+31,helsinki-1952,men,32,BEL,jean leblond,2:40:37.00,
+32,helsinki-1952,men,33,KOR,choong-sik choi,2:41:23.00,
+33,helsinki-1952,men,34,NOR,john systad,2:41:29.80,
+34,helsinki-1952,men,35,TCH,jaroslav sourek,2:41:40.40,
+35,helsinki-1952,men,36,USA,tom jones,2:42:50.00,
+36,helsinki-1952,men,37,AUS,bob prentice,2:43:13.40,
+37,helsinki-1952,men,38,PAK,muhammad havildar aslam,2:43:38.20,
+38,helsinki-1952,men,39,AUT,adolf gruber,2:45:02.00,
+39,helsinki-1952,men,40,CAN,paul albert collins,2:45:58.00,
+40,helsinki-1952,men,41,ROU,vasile teodosiu,2:46:00.80,
+41,helsinki-1952,men,42,DEN,erik gunnar simonsen,2:46:41.40,
+42,helsinki-1952,men,43,GER,ludwig warnemunde,2:50:00.00,
+43,helsinki-1952,men,44,USA,ted corbitt,2:51:09.00,
+44,helsinki-1952,men,45,AUS,claude smeal,2:52:23.00,
+45,helsinki-1952,men,46,ITA,asfo bussotti,2:52:55.00,
+46,helsinki-1952,men,47,POL,winand osinski,2:54:38.20,
+47,helsinki-1952,men,48,DEN,svend erik olaf sorensen,2:55:21.00,
+48,helsinki-1952,men,49,IRL,joseph west,2:56:22.80,
+49,helsinki-1952,men,50,SUI,rudolf morgenthaler,2:56:33.00,
+50,helsinki-1952,men,51,EGY,hassan abdel gani abdelfattah,2:56:56.00,
+51,helsinki-1952,men,52,IND,surat singh matur,2:58:09.20,
+52,helsinki-1952,men,53,ITA,artidoro berti,2:58:36.20,
+53,helsinki-1952,men,,TUR,ahmet aytar,None,Did not finish
+54,helsinki-1952,men,,PAK,muhammad ben aras,None,Did not finish
+55,helsinki-1952,men,,FRA,lionel charles r. billas,None,Did not finish
+56,helsinki-1952,men,,KOR,chong-oh hong,None,Did not finish
+57,helsinki-1952,men,,GBR,stanley ernest walter cox,None,Did not finish
+58,helsinki-1952,men,,ARG,corsino fernandez,None,Did not finish
+59,helsinki-1952,men,,CHI,raúl inostroza,None,Did not finish
+60,helsinki-1952,men,,YUG,franjo krajcar,None,Did not finish
+61,helsinki-1952,men,,ITA,egilberto martufi,None,Did not finish
+62,helsinki-1952,men,,GBR,james henry peters,None,Did not finish
+63,helsinki-1952,men,,ROU,constantin radu,None,Did not finish
+64,helsinki-1952,men,,JPN,yoshitaka uchikawa,None,Did not finish
+65,helsinki-1952,men,,GUA,luis velasquez,None,Did not finish
+66,helsinki-1952,men,,AUS,leslie john perry,None,Did not start
+67,helsinki-1952,men,,SUI,hans frischknecht,None,Did not start
+0,london-1948,men,G,ARG,delfo cabrera,2:34:51.60,
+1,london-1948,men,S,GBR,thomas john henry richards,2:35:07.60,
+2,london-1948,men,B,BEL,etienne gailly,2:35:33.60,
+3,london-1948,men,4,RSA,johannes lodewyk coleman,2:36:06.00,
+4,london-1948,men,5,ARG,eusebio c. guinez,2:36:36.00,
+5,london-1948,men,6,RSA,thomas sidney andrew luyt,2:38:11.00,
+6,london-1948,men,7,SWE,gustav östling,2:38:40.60,
+7,london-1948,men,8,NOR,john systad,2:38:41.00,
+8,london-1948,men,9,ARG,alberto sensini,2:39:30.00,
+9,london-1948,men,10,DEN,henning karl larsen,2:41:22.00,
+10,london-1948,men,11,FIN,viljo heino,2:41:32.00,
+11,london-1948,men,12,SWE,anders melin,2:42:20.00,
+12,london-1948,men,13,FIN,jussi kurikkala,2:42:48.00,
+13,london-1948,men,14,USA,theodore john vogel,2:45:27.00,
+14,london-1948,men,15,CHI,enrique inostroza,2:47:48.00,
+15,london-1948,men,16,CAN,lloyd evans,2:48:07.00,
+16,london-1948,men,17,CAN,gerard cote,2:48:31.00,
+17,london-1948,men,18,GRE,stelios kyriakidis,2:49:00.00,
+18,london-1948,men,19,HUN,jozsef kiss,2:50:20.00,
+19,london-1948,men,20,TUR,şevki koru,2:51:07.00,
+20,london-1948,men,21,USA,john adelbert kelley,2:51:56.00,
+21,london-1948,men,22,SUI,kaspar schiesser,2:52:09.00,
+22,london-1948,men,23,CAN,walter a. fedorick,2:52:12.00,
+23,london-1948,men,24,USA,aulis olavi manninen,2:56:49.00,
+24,london-1948,men,25,KOR,chong-oh hong,2:56:54.00,
+25,london-1948,men,26,IRL,frank mulvihill,2:57:35.00,
+26,london-1948,men,27,KOR,yun-bok su,2:59:36.00,
+27,london-1948,men,28,SWE,sven hakansson,3:00:09.00,
+28,london-1948,men,29,SUI,jakob jutz,3:03:55.00,
+29,london-1948,men,30,GBR,stanley f. jones,3:09:16.00,
+30,london-1948,men,,KOR,yoon-chil choi,None,Did not finish
+31,london-1948,men,,FRA,arsene piesset,None,Did not finish
+32,london-1948,men,,GRE,athanasios ragazos,None,Did not finish
+33,london-1948,men,,CHN,wenao luo,None,Did not finish
+34,london-1948,men,,GBR,john thomas holden,None,Did not finish
+35,london-1948,men,,SUI,hans frischknecht,None,Did not finish
+36,london-1948,men,,IND,chhota singh,None,Did not finish
+37,london-1948,men,,FRA,rene josset,None,Did not finish
+38,london-1948,men,,FIN,mikko hietanen,None,Did not finish
+39,london-1948,men,,ITA,salvatore constantino,None,Did not finish
+40,london-1948,men,,FRA,pierre cousin,None,Did not finish
+41,london-1948,men,,ESP,josé maría blay,None,Did not start
+42,london-1948,men,,LUX,charles heirendt,None,Did not start
+43,london-1948,men,,HUN,istvan simon,None,Did not start
+0,berlin-1936,men,G,JPN,kitei son,2:29:19.20,
+1,berlin-1936,men,S,GBR,ernest harper,2:31:23.20,
+2,berlin-1936,men,B,JPN,shoryu nan,2:31:42.00,
+3,berlin-1936,men,4,FIN,erkki jaakko tamila,2:32:45.00,
+4,berlin-1936,men,5,FIN,väinö muinonen,2:33:46.00,
+5,berlin-1936,men,6,RSA,johannes lodewyk coleman,2:36:17.00,
+6,berlin-1936,men,7,GBR,donald mcnab robertson,2:37:06.20,
+7,berlin-1936,men,8,RSA,henry alfred gibson,2:38:04.00,
+8,berlin-1936,men,9,FIN,mauno asarias tarkiainen,2:39:33.00,
+9,berlin-1936,men,10,SWE,thore enochsson,2:43:12.00,
+10,berlin-1936,men,11,GRE,stelios kyriakidis,2:43:20.00,
+11,berlin-1936,men,12,FRA,nouba khaleb,2:45:34.00,
+12,berlin-1936,men,13,SWE,henry palme,2:46:08.40,
+13,berlin-1936,men,14,AUT,franz tuschek,2:46:29.00,
+14,berlin-1936,men,15,CAN,jimmy bartlett,2:48:21.40,
+15,berlin-1936,men,16,FRA,françois duval,2:48:39.80,
+16,berlin-1936,men,17,POR,manuel dias,2:49:00.00,
+17,berlin-1936,men,18,USA,john adelbert kelley,2:49:32.40,
+18,berlin-1936,men,19,TCH,miloslav lunak,2:50:26.00,
+19,berlin-1936,men,20,BEL,felix meekens,2:51:19.00,
+20,berlin-1936,men,21,TCH,jan takac,2:51:20.00,
+21,berlin-1936,men,22,AUT,rudolf wöber,2:51:28.00,
+22,berlin-1936,men,23,ROU,ludovic gall,2:55:02.00,
+23,berlin-1936,men,24,BEL,robert nevens,2:55:51.00,
+24,berlin-1936,men,25,DEN,anders hartington andersen,2:56:31.00,
+25,berlin-1936,men,26,PER,gabriel mendoza,2:57:17.80,
+26,berlin-1936,men,27,RSA,thomas forcer lalande,2:57:20.00,
+27,berlin-1936,men,28,LAT,arturs mottmillers,2:58:02.00,
+28,berlin-1936,men,29,GER,eduard brasecke,2:59:33.40,
+29,berlin-1936,men,30,CAN,percival wyer,3:00:11.00,
+30,berlin-1936,men,31,FRA,fernand le heurteur,3:01:11.00,
+31,berlin-1936,men,32,AUT,wilhelm rothmayer,3:02:32.00,
+32,berlin-1936,men,33,POL,bronislaw gancarz,3:03:11.00,
+33,berlin-1936,men,34,SUI,max beer,3:06:26.00,
+34,berlin-1936,men,35,PER,guillermo suarez,3:08:18.00,
+35,berlin-1936,men,36,BUL,boris haralampiev,3:08:53.80,
+36,berlin-1936,men,37,IND,arul c.s. swami,3:10:44.00,
+37,berlin-1936,men,38,TCH,josef sulc,3:11:47.40,
+38,berlin-1936,men,39,SUI,franz eha,3:18:17.00,
+39,berlin-1936,men,40,CHN,zhenglin wang,3:25:36.40,
+40,berlin-1936,men,41,YUG,stane sporn,3:30:47.00,
+41,berlin-1936,men,42,PER,josé farias rios,3:33:24.00,
+42,berlin-1936,men,,CHI,juan acosta,None,Did not finish
+43,berlin-1936,men,,GER,franz barsicke,None,Did not finish
+44,berlin-1936,men,,USA,tarzan brown,None,Did not finish
+45,berlin-1936,men,,ITA,giannino bulzone,None,Did not finish
+46,berlin-1936,men,,GER,paul de bruyn,None,Did not finish
+47,berlin-1936,men,,POL,kazimierz fialka,None,Did not finish
+48,berlin-1936,men,,ITA,aurelio genghini,None,Did not finish
+49,berlin-1936,men,,USA,billy mcmahon,None,Did not finish
+50,berlin-1936,men,,POR,jaime mendes,None,Did not finish
+51,berlin-1936,men,,GBR,bert norris,None,Did not finish
+52,berlin-1936,men,,ARG,luis oliva,None,Did not finish
+53,berlin-1936,men,,JPN,tamao shiwaku,None,Did not finish
+54,berlin-1936,men,,CAN,harold webster,None,Did not finish
+55,berlin-1936,men,,ARG,juan carlos zabala,None,Did not finish
+56,berlin-1936,men,,BEL,jean chapelle,None,Did not start
+57,berlin-1936,men,,CAN,vincent callard,None,Did not start
+58,berlin-1936,men,,COL,jorge perry,None,Did not start
+59,berlin-1936,men,,SUI,ernst hirt,None,Did not start
+0,los-angeles-1932,men,G,ARG,juan carlos zabala,2:31:36.00,
+1,los-angeles-1932,men,S,GBR,samuel ferris,2:31:55.00,
+2,los-angeles-1932,men,B,FIN,armas adam toivonen,2:32:12.00,
+3,los-angeles-1932,men,4,GBR,duncan macleod wright,2:32:41.00,
+4,los-angeles-1932,men,5,JPN,seiichiro tsuda,2:35:42.00,
+5,los-angeles-1932,men,6,JPN,onbai kin,2:37:28.00,
+6,los-angeles-1932,men,7,USA,whitey michelsen,2:39:38.00,
+7,los-angeles-1932,men,8,TCH,oskar heks,2:41:35.00,
+8,los-angeles-1932,men,9,JPN,taika gon,2:42:52.00,
+9,los-angeles-1932,men,10,DEN,anders hartington andersen,2:44:38.00,
+10,los-angeles-1932,men,11,USA,hans oldag,2:47:26.00,
+11,los-angeles-1932,men,12,CAN,cliff bricker,2:47:58.00,
+12,los-angeles-1932,men,13,ITA,michele fanelli,2:49:09.00,
+13,los-angeles-1932,men,14,CAN,john c. miles,2:50:32.00,
+14,los-angeles-1932,men,15,GER,paul de bruyn,2:52:39.00,
+15,los-angeles-1932,men,16,FRA,françois begeot,2:53:34.00,
+16,los-angeles-1932,men,17,ARG,fernando chacarelli,2:55:49.00,
+17,los-angeles-1932,men,18,CAN,eddie cudworth,2:58:35.00,
+18,los-angeles-1932,men,19,BRA,joão clemente da silva,3:02:06.00,
+19,los-angeles-1932,men,20,MEX,margarito pomposo banos,3:10:51.00,
+20,los-angeles-1932,men,,ARG,josé ribas,None,Did not finish
+21,los-angeles-1932,men,,BRA,matheus marcondes,None,Did not finish
+22,los-angeles-1932,men,,COL,jorge perry,None,Did not finish
+23,los-angeles-1932,men,,FIN,ville kyrönen,None,Did not finish
+24,los-angeles-1932,men,,FIN,lauri virtanen,None,Did not finish
+25,los-angeles-1932,men,,ITA,francesco roccati,None,Did not finish
+26,los-angeles-1932,men,,MEX,santiago hernández,None,Did not finish
+27,los-angeles-1932,men,,USA,james p. henigan,None,Did not finish
+28,los-angeles-1932,men,,AUT,franz tuschek,None,Did not start
+29,los-angeles-1932,men,,CUB,rene bonich,None,Did not start
+30,los-angeles-1932,men,,BRA,adalberto cardoso,None,Did not start
+31,los-angeles-1932,men,,EST,alfred maasik,None,Did not start
+32,los-angeles-1932,men,,NZL,billy savidan,None,Did not start
+0,amsterdam-1928,men,G,FRA,boughera el ouafi,2:32:57.00,
+1,amsterdam-1928,men,S,CHI,manuel plaza reyes,2:33:23.00,
+2,amsterdam-1928,men,B,FIN,martti b. marttelin,2:35:02.00,
+3,amsterdam-1928,men,4,JPN,kanematsu yamada,2:35:29.00,
+4,amsterdam-1928,men,5,USA,joseph ray,2:36:04.00,
+5,amsterdam-1928,men,6,JPN,seiichiro tsuda,2:36:20.00,
+6,amsterdam-1928,men,7,FIN,yrjo korholin-koski,2:36:40.00,
+7,amsterdam-1928,men,8,GBR,samuel ferris,2:37:41.00,
+8,amsterdam-1928,men,9,USA,whitey michelsen,2:38:56.00,
+9,amsterdam-1928,men,10,CAN,cliff bricker,2:39:24.00,
+10,amsterdam-1928,men,11,GBR,harry wood,2:41:15.00,
+11,amsterdam-1928,men,12,FIN,verner johan laaksonen,2:41:35.00,
+12,amsterdam-1928,men,13,GBR,harry william payne,2:42:29.00,
+13,amsterdam-1928,men,14,FIN,eino rastas,2:43:08.00,
+14,amsterdam-1928,men,15,FIN,väinö jeremias sipilä,2:43:08.00,
+15,amsterdam-1928,men,16,TCH,alois krof,2:43:18.00,
+16,amsterdam-1928,men,17,CAN,john c. miles,2:43:32.00,
+17,amsterdam-1928,men,18,BEL,léon p. broers,2:44:37.00,
+18,amsterdam-1928,men,19,GER,hans ludwig stelges,2:45:27.00,
+19,amsterdam-1928,men,20,GBR,duncan macleod wright,2:45:30.00,
+20,amsterdam-1928,men,21,GBR,herb bignall,2:45:44.00,
+21,amsterdam-1928,men,22,GBR,ernest harper,2:45:44.00,
+22,amsterdam-1928,men,23,FRA,jean gérault,2:46:08.00,
+23,amsterdam-1928,men,24,FIN,ilmari kuokka,2:46:34.00,
+24,amsterdam-1928,men,25,SWE,gustav kinn,2:47:35.00,
+25,amsterdam-1928,men,26,CAN,silas mclellan,2:49:33.00,
+26,amsterdam-1928,men,27,USA,clarence harrison de mar,2:50:42.00,
+27,amsterdam-1928,men,28,FRA,marcel denis,2:51:15.00,
+28,amsterdam-1928,men,29,FRA,guillaume tell,2:51:18.00,
+29,amsterdam-1928,men,30,NED,henri h. landheer,2:51:59.00,
+30,amsterdam-1928,men,31,GER,paul hempel,2:52:01.00,
+31,amsterdam-1928,men,32,MEX,aurelio terrazas,2:52:22.00,
+32,amsterdam-1928,men,33,TCH,frantisek zyka,2:52:42.00,
+33,amsterdam-1928,men,34,ITA,giuseppe ferrera,2:53:10.00,
+34,amsterdam-1928,men,35,MEX,josé torres,2:54:00.00,
+35,amsterdam-1928,men,36,NOR,johan stöa,2:54:15.00,
+36,amsterdam-1928,men,37,BEL,gérardus steurs,2:54:48.00,
+37,amsterdam-1928,men,38,LAT,arturs mottmillers,2:56:45.00,
+38,amsterdam-1928,men,39,USA,james p. henigan,2:56:50.00,
+39,amsterdam-1928,men,40,RSA,matthew steytler,2:57:21.00,
+40,amsterdam-1928,men,41,USA,harvey frick,2:57:24.00,
+41,amsterdam-1928,men,42,BEL,jean linssen,2:58:08.00,
+42,amsterdam-1928,men,43,CAN,frank hughes,2:58:12.00,
+43,amsterdam-1928,men,44,USA,william agee,2:58:50.00,
+44,amsterdam-1928,men,45,CAN,percival wyer,2:58:52.00,
+45,amsterdam-1928,men,46,GER,georg hörger,2:59:01.00,
+46,amsterdam-1928,men,47,GER,kurt schneider,2:59:36.00,
+47,amsterdam-1928,men,48,JPN,juichi nagatani,3:03:34.00,
+48,amsterdam-1928,men,49,HUN,jozsef galambos,3:05:58.00,
+49,amsterdam-1928,men,50,GER,paul gerhardt,3:09:30.00,
+50,amsterdam-1928,men,51,DEN,gottlieb bach,3:10:30.00,
+51,amsterdam-1928,men,52,ESP,emilio ferrer,3:11:05.00,
+52,amsterdam-1928,men,53,YUG,dimitrije stefanovic,3:11:35.00,
+53,amsterdam-1928,men,54,NED,joop vermeulen,3:13:47.00,
+54,amsterdam-1928,men,55,NED,pleun van leenen,3:14:37.00,
+55,amsterdam-1928,men,56,BEL,joseph charles marien,3:16:13.00,
+56,amsterdam-1928,men,57,NED,willem van der steen,3:19:53.00,
+57,amsterdam-1928,men,,ITA,romeo bertini,None,Did not finish
+58,amsterdam-1928,men,,LAT,vilis cimmermanis,None,Did not finish
+59,amsterdam-1928,men,,ITA,attilio conton,None,Did not finish
+60,amsterdam-1928,men,,ROU,vintilă cristescu,None,Did not finish
+61,amsterdam-1928,men,,SWE,axel a. b. elofs,None,Did not finish
+62,amsterdam-1928,men,,NED,bram groeneweg,None,Did not finish
+63,amsterdam-1928,men,,EST,karl laas,None,Did not finish
+64,amsterdam-1928,men,,DEN,aksel christian madsen,None,Did not finish
+65,amsterdam-1928,men,,ITA,stefano natale,None,Did not finish
+66,amsterdam-1928,men,,NED,teun sprong,None,Did not finish
+67,amsterdam-1928,men,,GER,franz wanderer,None,Did not finish
+68,amsterdam-1928,men,,DEN,hans orla emil olsen,None,Did not finish
+69,amsterdam-1928,men,,DEN,holger henry nielsen,None,Did not start
+70,amsterdam-1928,men,,CAN,harold webster,None,Did not start
+71,amsterdam-1928,men,,CHI,o. molina,None,Did not start
+72,amsterdam-1928,men,,ESP,dionisio carreras,None,Did not start
+73,amsterdam-1928,men,,FRA,l. nicolas,None,Did not start
+74,amsterdam-1928,men,,FRA,seghir beddari,None,Did not start
+75,amsterdam-1928,men,,LAT,karlis bukass,None,Did not start
+76,amsterdam-1928,men,,HUN,pal kiraly,None,Did not start
+77,amsterdam-1928,men,,HUN,antal lovas,None,Did not start
+78,amsterdam-1928,men,,TCH,karel stastný,None,Did not start
+0,paris-1924,men,G,FIN,albin oskar stenroos,2:41:22.60,
+1,paris-1924,men,S,ITA,romeo bertini,2:47:19.60,
+2,paris-1924,men,B,USA,clarence harrison de mar,2:48:14.00,
+3,paris-1924,men,4,FIN,lauri a. halonen,2:49:47.40,
+4,paris-1924,men,5,GBR,samuel ferris,2:52:26.00,
+5,paris-1924,men,6,CHI,manuel plaza reyes,2:52:54.00,
+6,paris-1924,men,7,FRA,boughera el ouafi,2:54:19.60,
+7,paris-1924,men,8,SWE,gustav kinn,2:54:33.40,
+8,paris-1924,men,9,ESP,dionisio carreras,2:57:18.40,
+9,paris-1924,men,10,EST,jüri lossman,2:57:54.60,
+10,paris-1924,men,11,DEN,axel jensen,2:58:44.80,
+11,paris-1924,men,12,FRA,jean baptiste manhes,3:00:34.00,
+12,paris-1924,men,13,CAN,jack cuthbert,3:00:44.60,
+13,paris-1924,men,14,CAN,victor macauley,3:02:05.40,
+14,paris-1924,men,15,BEL,marcel alavoine,3:03:20.00,
+15,paris-1924,men,16,USA,frank e. wendling,3:05:09.80,
+16,paris-1924,men,17,GBR,arthur farrimond,3:05:15.00,
+17,paris-1924,men,18,USA,frank i. zuna,3:05:52.20,
+18,paris-1924,men,19,RSA,harry phillips,3:07:13.00,
+19,paris-1924,men,20,BEL,auguste broos,3:14:03.00,
+20,paris-1924,men,21,SWE,waldemar karlsson,3:14:21.40,
+21,paris-1924,men,22,ITA,tullio biscuola,3:19:05.00,
+22,paris-1924,men,23,USA,billy churchill,3:19:18.00,
+23,paris-1924,men,24,FRA,mohammed ghermati,3:20:27.00,
+24,paris-1924,men,25,USA,chuck mellor,3:24:07.00,
+25,paris-1924,men,26,BEL,pierre-georges leclercq,3:27:54.00,
+26,paris-1924,men,27,GBR,jack mckenna,3:30:40.00,
+27,paris-1924,men,28,HUN,antal lovas,3:35:34.00,
+28,paris-1924,men,29,IND,mahadeo singh,3:37:36.00,
+29,paris-1924,men,30,EST,elmar reimann,3:40:52.00,
+30,paris-1924,men,,GRE,vyron athanasiadis,None,Did not finish
+31,paris-1924,men,,GBR,ernest leatherland,None,Did not finish
+32,paris-1924,men,,BEL,gérardus steurs,None,Did not finish
+33,paris-1924,men,,NED,cornelis brouwer,None,Did not finish
+34,paris-1924,men,,HUN,pal kiraly,None,Did not finish
+35,paris-1924,men,,FIN,hannes kolehmainen,None,Did not finish
+36,paris-1924,men,,GBR,duncan macleod wright,None,Did not finish
+37,paris-1924,men,,GBR,bobby mills,None,Did not finish
+38,paris-1924,men,,NED,teun sprong,None,Did not finish
+39,paris-1924,men,,FIN,väinö vilho hietakari,None,Did not finish
+40,paris-1924,men,,TCH,emil kalous,None,Did not finish
+41,paris-1924,men,,JPN,yahei miura,None,Did not finish
+42,paris-1924,men,,GRE,herkules p. sakellaropoulos,None,Did not finish
+43,paris-1924,men,,FRA,georges verger,None,Did not finish
+44,paris-1924,men,,ITA,ettore blasi,None,Did not finish
+45,paris-1924,men,,ITA,alberto cavallero,None,Did not finish
+46,paris-1924,men,,TCH,josef eberle,None,Did not finish
+47,paris-1924,men,,GRE,alexandros kranis,None,Did not finish
+48,paris-1924,men,,FIN,ville kyrönen,None,Did not finish
+49,paris-1924,men,,BEL,félicien van de putte,None,Did not finish
+50,paris-1924,men,,JPN,shizo kanaguri,None,Did not finish
+51,paris-1924,men,,FIN,gabriel ruotsalainen,None,Did not finish
+52,paris-1924,men,,ECU,belisario villacis,None,Did not finish
+53,paris-1924,men,,USA,ralph williams,None,Did not finish
+54,paris-1924,men,,TCH,boris honzátko,None,Did not finish
+55,paris-1924,men,,ITA,angelo malvicini,None,Did not finish
+56,paris-1924,men,,JPN,kikunosuke tashiro,None,Did not finish
+57,paris-1924,men,,ITA,ernesto alciati,None,Did not finish
+58,paris-1924,men,,AUT,josef franz,None,Did not start
+59,paris-1924,men,,AUT,r. uri,None,Did not start
+60,paris-1924,men,,BEL,j. polspoel dit standaert,None,Did not start
+61,paris-1924,men,,DEN,helge breckwoldt,None,Did not start
+62,paris-1924,men,,HUN,józsef bese,None,Did not start
+63,paris-1924,men,,HUN,jános hrenvoyszky,None,Did not start
+64,paris-1924,men,,HUN,a. kadar,None,Did not start
+65,paris-1924,men,,NOR,trygve tangen,None,Did not start
+66,paris-1924,men,,TCH,b. zapletal,None,Did not start
+67,paris-1924,men,,AUT,rudolf kühnel,None,Did not start
+68,paris-1924,men,,DEN,anders sofus rose,None,Did not start
+69,paris-1924,men,,ESP,josé andía,None,Did not start
+70,paris-1924,men,,TCH,frantisek zyka,None,Did not start
+0,antwerp-1920,men,G,FIN,hannes kolehmainen,2:32:35.80,
+1,antwerp-1920,men,S,EST,jüri lossman,2:32:48.60,
+2,antwerp-1920,men,B,ITA,valerio arri,2:36:32.80,
+3,antwerp-1920,men,4,BEL,auguste broos,2:39:25.80,
+4,antwerp-1920,men,5,FIN,juho tuomikoski,2:40:18.80,
+5,antwerp-1920,men,6,DEN,anders sofus rose,2:41:18.00,
+6,antwerp-1920,men,7,USA,joseph organ,2:41:30.00,
+7,antwerp-1920,men,8,DEN,rudolf carl hansen,2:41:39.40,
+8,antwerp-1920,men,9,FIN,urho tallgren,2:42:40.00,
+9,antwerp-1920,men,10,FIN,taavetti heikki kolehmainen,2:44:03.20,
+10,antwerp-1920,men,11,USA,carl linder,2:44:21.20,
+11,antwerp-1920,men,12,USA,chuck mellor,2:45:30.00,
+12,antwerp-1920,men,13,CAN,james dellow,2:46:47.00,
+13,antwerp-1920,men,14,GBR,bobby mills,2:48:05.00,
+14,antwerp-1920,men,15,CAN,art scholes,2:48:30.00,
+15,antwerp-1920,men,16,JPN,shizo kanaguri,2:48:45.40,
+16,antwerp-1920,men,17,SWE,gustav kinn,2:49:10.40,
+17,antwerp-1920,men,18,FRA,albert moché,2:50:00.20,
+18,antwerp-1920,men,19,IND,phadeppa chaugule,2:50:45.40,
+19,antwerp-1920,men,20,JPN,zensaku motegi,2:51:09.40,
+20,antwerp-1920,men,21,JPN,kenzo yashima,2:57:02.00,
+21,antwerp-1920,men,22,CAN,norman general,2:58:01.00,
+22,antwerp-1920,men,23,SWE,rudolf wåhlin,2:59:23.00,
+23,antwerp-1920,men,24,JPN,yahei miura,2:59:37.00,
+24,antwerp-1920,men,25,FRA,henri teyssedou,3:00:04.00,
+25,antwerp-1920,men,26,NED,hendricus wessel,3:00:17.00,
+26,antwerp-1920,men,27,BEL,charles melis,3:00:51.00,
+27,antwerp-1920,men,28,SWE,william grüner,3:01:48.00,
+28,antwerp-1920,men,29,GBR,george piper,3:02:10.00,
+29,antwerp-1920,men,30,AUS,sinton hewitt,3:03:27.00,
+30,antwerp-1920,men,31,GBR,leslie housden,3:14:07.00,
+31,antwerp-1920,men,32,GRE,herkules p. sakellaropoulos,3:14:25.00,
+32,antwerp-1920,men,33,CHI,juan bascunan,3:17:47.00,
+33,antwerp-1920,men,34,BEL,oscar blansaer,3:20:00.00,
+34,antwerp-1920,men,35,GBR,eric robertson,3:55:00.00,
+35,antwerp-1920,men,,RSA,chris gitsham,None,Did not finish
+36,antwerp-1920,men,,ITA,ettore blasi,None,Did not finish
+37,antwerp-1920,men,,FRA,louis ichard,None,Did not finish
+38,antwerp-1920,men,,ITA,antonio persico,None,Did not finish
+39,antwerp-1920,men,,CAN,art smoke,None,Did not finish
+40,antwerp-1920,men,,DEN,axel jensen,None,Did not finish
+41,antwerp-1920,men,,USA,arthur roth,None,Did not finish
+42,antwerp-1920,men,,GRE,peter trivoulidis,None,Did not finish
+43,antwerp-1920,men,,NED,christiaan huijgens,None,Did not finish
+44,antwerp-1920,men,,BEL,désiré van remortel,None,Did not finish
+45,antwerp-1920,men,,SWE,hans schuster,None,Did not finish
+46,antwerp-1920,men,,FRA,amédée trichard,None,Did not finish
+47,antwerp-1920,men,,IND,sadashir datar,None,Did not finish
+48,antwerp-1920,men,,BEL,m. vrielynck,None,Did not start
+49,antwerp-1920,men,,USA,jack weber,None,Did not start
+50,antwerp-1920,men,,FRA,ahmed djebella,None,Did not start
+51,antwerp-1920,men,,ITA,pericle pagliani,None,Did not start
+52,antwerp-1920,men,,RSA,len richardson,None,Did not start
+53,antwerp-1920,men,,USA,frank i. zuna,None,Did not start
+0,stockholm-1912,men,G,RSA,ken mcarthur,2:36:54.80,
+1,stockholm-1912,men,S,RSA,chris gitsham,2:37:52.00,
+2,stockholm-1912,men,B,USA,gaston strobino,2:38:42.40,
+3,stockholm-1912,men,4,USA,andrew sockalexis,2:42:07.90,
+4,stockholm-1912,men,5,CAN,james duffy,2:42:18.80,
+5,stockholm-1912,men,6,SWE,sigfrid jacobsson,2:43:24.90,
+6,stockholm-1912,men,7,USA,john james gallagher,2:44:19.40,
+7,stockholm-1912,men,8,USA,joseph erxleben,2:45:47.20,
+8,stockholm-1912,men,9,USA,richard francis piggott,2:46:40.70,
+9,stockholm-1912,men,10,USA,joe forshaw,2:49:49.40,
+10,stockholm-1912,men,11,CAN,ed fabre,2:50:36.20,
+11,stockholm-1912,men,12,USA,clarence harrison de mar,2:50:46.60,
+12,stockholm-1912,men,13,FRA,renon boissière,2:51:06.60,
+13,stockholm-1912,men,14,GBR,henry harold green,2:52:11.40,
+14,stockholm-1912,men,15,CAN,william charles forsyth,2:52:23.00,
+15,stockholm-1912,men,16,USA,lewis tewanima,2:52:41.40,
+16,stockholm-1912,men,17,USA,harry j. smith,2:52:53.80,
+17,stockholm-1912,men,18,USA,thomas h. lilley,2:59:35.40,
+18,stockholm-1912,men,19,GBR,arthur townsend,3:00:05.00,
+19,stockholm-1912,men,20,AUT,felix kwieton,3:00:48.00,
+20,stockholm-1912,men,21,GBR,frederick thomas lord,3:01:39.20,
+21,stockholm-1912,men,22,SWE,jacob westberg,3:02:05.20,
+22,stockholm-1912,men,23,NOR,axel g. simonsen,3:04:59.40,
+23,stockholm-1912,men,24,SWE,carl nicanor andersson,3:06:13.00,
+24,stockholm-1912,men,25,GBR,edgar william lloyd,3:09:25.00,
+25,stockholm-1912,men,26,GRE,herkules p. sakellaropoulos,3:11:37.00,
+26,stockholm-1912,men,27,SWE,hjalmar dahlberg,3:13:32.20,
+27,stockholm-1912,men,28,SWE,ivar lundberg,3:16:35.20,
+28,stockholm-1912,men,29,DEN,johannes laurs christensen,3:21:57.40,
+29,stockholm-1912,men,30,DEN,olaf lodal,3:21:57.60,
+30,stockholm-1912,men,31,HUN,ödön karpati,3:25:21.60,
+31,stockholm-1912,men,32,SWE,carl nilsson,3:26:56.40,
+32,stockholm-1912,men,33,AUT,emmerich rath,3:27:03.80,
+33,stockholm-1912,men,34,NOR,otto osen,3:36:35.20,
+34,stockholm-1912,men,,ANZ,stuart poulter,None,Did not finish
+35,stockholm-1912,men,,AUT,karl hack,None,Did not finish
+36,stockholm-1912,men,,BOH,boris honzátko,None,Did not finish
+37,stockholm-1912,men,,BOH,vladimir penc,None,Did not finish
+38,stockholm-1912,men,,BOH,františek slavík,None,Did not finish
+39,stockholm-1912,men,,CAN,james corkery,None,Did not finish
+40,stockholm-1912,men,,FIN,aarne kallberg,None,Did not finish
+41,stockholm-1912,men,,FIN,taavetti heikki kolehmainen,None,Did not finish
+42,stockholm-1912,men,,FRA,louis pauteix,None,Did not finish
+43,stockholm-1912,men,,GBR,henry fredreick barrett,None,Did not finish
+44,stockholm-1912,men,,GBR,james george beale,None,Did not finish
+45,stockholm-1912,men,,GBR,septimus francom,None,Did not finish
+46,stockholm-1912,men,,GBR,tim kellaway,None,Did not finish
+47,stockholm-1912,men,,HUN,henrik ripszam,None,Did not finish
+48,stockholm-1912,men,,ITA,francesco ruggero,None,Did not finish
+49,stockholm-1912,men,,ITA,carlo speroni,None,Did not finish
+50,stockholm-1912,men,,JPN,shizo kanaguri,None,Did not finish
+51,stockholm-1912,men,,NOR,oscar fonbæk,None,Did not finish
+52,stockholm-1912,men,,POR,francisco lázaro,None,Did not finish
+53,stockholm-1912,men,,RSA,arthur st. norman,None,Did not finish
+54,stockholm-1912,men,,RUS,andrejs kapmals,None,Did not finish
+55,stockholm-1912,men,,RUS,andrejs kruklins,None,Did not finish
+56,stockholm-1912,men,,RUS,nikolajs rasso,None,Did not finish
+57,stockholm-1912,men,,RUS,elmar reimann,None,Did not finish
+58,stockholm-1912,men,,RUS,aleksandrs upmals,None,Did not finish
+59,stockholm-1912,men,,SRB,dragutin tomaå evic,None,Did not finish
+60,stockholm-1912,men,,SWE,alexis ahlgren,None,Did not finish
+61,stockholm-1912,men,,SWE,j. thure bergvall,None,Did not finish
+62,stockholm-1912,men,,SWE,william grüner,None,Did not finish
+63,stockholm-1912,men,,SWE,david guttman,None,Did not finish
+64,stockholm-1912,men,,SWE,ivan lönnberg,None,Did not finish
+65,stockholm-1912,men,,SWE,gustaf törnros,None,Did not finish
+66,stockholm-1912,men,,USA,gavin john eugene reynolds,None,Did not finish
+67,stockholm-1912,men,,USA,mike ryan,None,Did not finish
+68,stockholm-1912,men,,CAN,jack tait,None,Did not start
+69,stockholm-1912,men,,FRA,ali ben allel,None,Did not start
+70,stockholm-1912,men,,FRA,jean capelle,None,Did not start
+71,stockholm-1912,men,,FRA,paul coulond,None,Did not start
+72,stockholm-1912,men,,FRA,jean lespielle,None,Did not start
+73,stockholm-1912,men,,FRA,henry lorgnat,None,Did not start
+74,stockholm-1912,men,,FRA,edmond neyrinck,None,Did not start
+75,stockholm-1912,men,,FRA,ahmed djebella,None,Did not start
+76,stockholm-1912,men,,GBR,charlie davenport,None,Did not start
+77,stockholm-1912,men,,GBR,george day,None,Did not start
+78,stockholm-1912,men,,GBR,henry lewis,None,Did not start
+79,stockholm-1912,men,,GBR,samuel raynes,None,Did not start
+80,stockholm-1912,men,,ITA,nino cazzaniga,None,Did not start
+81,stockholm-1912,men,,ITA,orlando cesaroni,None,Did not start
+82,stockholm-1912,men,,NOR,alfred nilsen,None,Did not start
+83,stockholm-1912,men,,NOR,ole olsen,None,Did not start
+84,stockholm-1912,men,,NOR,johannes pedersen,None,Did not start
+85,stockholm-1912,men,,POR,matias de carvalho,None,Did not start
+86,stockholm-1912,men,,RUS,aleksandr krachenin,None,Did not start
+87,stockholm-1912,men,,RUS,iosif zaytsev,None,Did not start
+88,stockholm-1912,men,,RUS,rené wilde,None,Did not start
+89,stockholm-1912,men,,SRB,zivko vastitsch,None,Did not start
+90,stockholm-1912,men,,CAN,alexander decouteau,None,Did not start
+91,stockholm-1912,men,,CAN,george goulding,None,Did not start
+92,stockholm-1912,men,,CAN,joe keeper,None,Did not start
+93,stockholm-1912,men,,CHI,alfonso sanchez rodriguez,None,Did not start
+94,stockholm-1912,men,,FRA,gaston heuet,None,Did not start
+95,stockholm-1912,men,,RSA,len richardson,None,Did not start
+96,stockholm-1912,men,,RUS,mikhail nikolsky,None,Did not start
+97,stockholm-1912,men,,RUS,nikolay khorkov,None,Did not start
+0,london-1908,men,G,USA,john joseph hayes,2:55:18.40,
+1,london-1908,men,S,RSA,charles a. hefferon,2:56:06.00,
+2,london-1908,men,B,USA,joe forshaw,2:57:10.40,
+3,london-1908,men,4,USA,alton roy welton,2:59:44.40,
+4,london-1908,men,5,CAN,william wood,3:01:44.00,
+5,london-1908,men,6,CAN,fred simpson,3:04:28.20,
+6,london-1908,men,7,CAN,harry lawson,3:06:47.20,
+7,london-1908,men,8,SWE,johan fritiof svanberg,3:07:50.80,
+8,london-1908,men,9,USA,lewis tewanima,3:09:15.00,
+9,london-1908,men,10,FIN,kalle nieminen,3:09:50.80,
+10,london-1908,men,11,CAN,jack caffery,3:12:46.00,
+11,london-1908,men,12,GBR,billy clarke,3:16:08.60,
+12,london-1908,men,13,GBR,ernie barnes,3:17:30.80,
+13,london-1908,men,14,USA,sidney hatch,3:17:52.40,
+14,london-1908,men,15,GBR,frederick thomas lord,3:19:08.80,
+15,london-1908,men,16,CAN,william goldsboro,3:20:07.00,
+16,london-1908,men,17,GBR,james george beale,3:20:14.00,
+17,london-1908,men,18,BOH,arnost nejedly,3:26:26.20,
+18,london-1908,men,19,RUS,georg lind,3:26:38.80,
+19,london-1908,men,20,NED,willem w. wakker,3:28:49.00,
+20,london-1908,men,21,SWE,gustaf törnros,3:30:20.80,
+21,london-1908,men,22,CAN,george goulding,3:33:26.40,
+22,london-1908,men,23,DEN,julius ferdinand jorgensen,3:47:44.00,
+23,london-1908,men,24,CAN,arthur burn,3:50:17.00,
+24,london-1908,men,25,AUT,emmerich rath,3:50:30.40,
+25,london-1908,men,26,DEN,rudy hansen,3:53:15.00,
+26,london-1908,men,27,CAN,george lister,4:22:45.00,
+27,london-1908,men,,ITA,dorando pietri,None,Disqualified
+28,london-1908,men,,ANZ,william victor aitken,None,Did not finish
+29,london-1908,men,,CAN,tom longboat,None,Did not finish
+30,london-1908,men,,GBR,fred appleby,None,Did not finish
+31,london-1908,men,,GRE,nikolaos kouloumberdas,None,Did not finish
+32,london-1908,men,,GBR,jack t. price,None,Did not finish
+33,london-1908,men,,GRE,anastasios koutoulakis,None,Did not finish
+34,london-1908,men,,CAN,jack tait,None,Did not finish
+35,london-1908,men,,GBR,bertie thompson,None,Did not finish
+36,london-1908,men,,NED,arie vosbergen,None,Did not finish
+37,london-1908,men,,BEL,françois celis,None,Did not finish
+38,london-1908,men,,GBR,henry fredreick barrett,None,Did not finish
+39,london-1908,men,,GER,fritz reiser,None,Did not finish
+40,london-1908,men,,NED,george johan marcel buff,None,Did not finish
+41,london-1908,men,,GBR,alex duncan,None,Did not finish
+42,london-1908,men,,ITA,umberto blasi,None,Did not finish
+43,london-1908,men,,GBR,thomas jack,None,Did not finish
+44,london-1908,men,,ANZ,george b. blake,None,Did not finish
+45,london-1908,men,,ANZ,joseph m. lynch,None,Did not finish
+46,london-1908,men,,NED,wilhelmus braams,None,Did not finish
+47,london-1908,men,,GBR,albert wyatt,None,Did not finish
+48,london-1908,men,,CAN,edward cotter,None,Did not finish
+49,london-1908,men,,CAN,fred noseworthy,None,Did not finish
+50,london-1908,men,,RSA,james mitchell baker,None,Did not finish
+51,london-1908,men,,SWE,johan lindqvist,None,Did not finish
+52,london-1908,men,,SWE,seth l. landqvist,None,Did not finish
+53,london-1908,men,,USA,thomas patrick morrissey,None,Did not finish
+54,london-1908,men,,USA,mike ryan,None,Did not finish
+55,london-1908,men,,HUN,lajos merényi,None,Did not start
+56,london-1908,men,,ITA,augusto cocca,None,Did not start
+57,london-1908,men,,RSA,alfred mole,None,Did not start
+58,london-1908,men,,RSA,g. e. stevens,None,Did not start
+59,london-1908,men,,USA,alexander thibeau,None,Did not start
+60,london-1908,men,,USA,james lee,None,Did not start
+61,london-1908,men,,USA,james o'mara,None,Did not start
+62,london-1908,men,,NED,willem theunissen,None,Did not start
+63,london-1908,men,,AUT,felix kwieton,None,Did not start
+64,london-1908,men,,GBR,samuel stevenson,None,Did not start
+65,london-1908,men,,GER,paul nettlebeck,None,Did not start
+66,london-1908,men,,SWE,j. thure bergvall,None,Did not start
+67,london-1908,men,,SWE,ivar lundberg,None,Did not start
+68,london-1908,men,,SWE,j. georg petersson,None,Did not start
+69,london-1908,men,,USA,fred lorz,None,Did not start
+70,london-1908,men,,GER,hermann müller,None,Did not start
+0,st-louis-1904,men,G,USA,tom hicks,3:28:53.00,
+1,st-louis-1904,men,S,FRA,albert corey,3:34:52.00,
+2,st-louis-1904,men,B,USA,arthur newton,3:47:33.00,
+3,st-louis-1904,men,4,CUB,felix carvajal,None,
+4,st-louis-1904,men,5,GRE,dimitrios veloulis,None,
+5,st-louis-1904,men,6,USA,david j. kneeland,None,
+6,st-louis-1904,men,7,USA,henry brawley,None,
+7,st-louis-1904,men,8,USA,sidney hatch,None,
+8,st-louis-1904,men,9,RSA,len taunyane,None,
+9,st-louis-1904,men,10,GRE,khristos zekhouritis,None,
+10,st-louis-1904,men,11,USA,harry devlin,None,
+11,st-louis-1904,men,12,RSA,jan mashiani,None,
+12,st-louis-1904,men,13,USA,john furla,None,
+13,st-louis-1904,men,14,GRE,andrew oikonomou,None,
+14,st-louis-1904,men,,USA,frank pierce,None,Did not finish
+15,st-louis-1904,men,,USA,samuel mellor,None,Did not finish
+16,st-louis-1904,men,,USA,edward p. carr,None,Did not finish
+17,st-louis-1904,men,,USA,michael  spring,None,Did not finish
+18,st-louis-1904,men,,USA,fred lorz,None,Did not finish
+19,st-louis-1904,men,,USA,john lordan,None,Did not finish
+20,st-louis-1904,men,,USA,william garcia,None,Did not finish
+21,st-louis-1904,men,,NFL,bob fowler,None,Did not finish
+22,st-louis-1904,men,,USA,thomas kennedy,None,Did not finish
+23,st-louis-1904,men,,USA,guy porter,None,Did not finish
+24,st-louis-1904,men,,USA,john foy,None,Did not finish
+25,st-louis-1904,men,,RSA,bertie harris,None,Did not finish
+26,st-louis-1904,men,,GRE,georgios vamkaitis,None,Did not finish
+27,st-louis-1904,men,,GRE,kharilaos giannakas,None,Did not finish
+28,st-louis-1904,men,,GRE,georgios drosos,None,Did not finish
+29,st-louis-1904,men,,GRE,georgios louridas,None,Did not finish
+30,st-louis-1904,men,,GRE,ioannis loungitsas,None,Did not finish
+31,st-louis-1904,men,,GRE,petros pipilis,None,Did not finish
+32,st-louis-1904,men,,GRE,dimitrios tsokas,None,Did not start
+33,st-louis-1904,men,,USA,john kennedy,None,Did not start
+34,st-louis-1904,men,,USA,konstantinos lontos,None,Did not start
+35,st-louis-1904,men,,USA,louis crancer,None,Did not start
+36,st-louis-1904,men,,USA,william meyer,None,Did not start
+37,st-louis-1904,men,,USA,william heritage,None,Did not start
+38,st-louis-1904,men,,GBR,john daly,None,Did not start
+39,st-louis-1904,men,,CAN,billy sherring,None,Did not start
+0,paris-1900,men,G,LUX,michel theato,2:59:45.00,
+1,paris-1900,men,S,FRA,emile champion,3:04:17.00,
+2,paris-1900,men,B,SWE,ernst fast,3:37:14.00,
+3,paris-1900,men,4,FRA,eugene besse,4:00:43.00,
+4,paris-1900,men,5,USA,arthur newton,4:04:12.00,
+5,paris-1900,men,6,CAN,dick grant,None,
+6,paris-1900,men,7,CAN,ronald macdonald,None,
+7,paris-1900,men,,FRA,georges daunis-touquet,None,Did not finish
+8,paris-1900,men,,FRA,auguste marchais,None,Did not finish
+9,paris-1900,men,,GBR,william saward,None,Did not finish
+10,paris-1900,men,,GBR,ion pool,None,Did not finish
+11,paris-1900,men,,GBR,frederick randall,None,Did not finish
+12,paris-1900,men,,SWE,johan nyström,None,Did not finish
+13,paris-1900,men,,GBR,w. taylor,None,Did not finish
+14,paris-1900,men,,FRA,- martens,None,Did not start
+15,paris-1900,men,,ITA,ettore zilia,None,Did not start
+16,paris-1900,men,,HUN,jakub wolf,None,Did not start
+17,paris-1900,men,,GBR,john maguire,None,Did not start
+18,paris-1900,men,,ITA,emilio banfi,None,Did not start
+19,paris-1900,men,,USA,john cregan,None,Did not start
+20,paris-1900,men,,CAN,alex grant,None,Did not start
+0,athens-1896,men,G,GRE,spyridon louis,2:58:50.00,
+1,athens-1896,men,S,GRE,kharilaos vasilakos,3:06:03.00,
+2,athens-1896,men,B,HUN,gyula kellner,3:06:35.00,
+3,athens-1896,men,4,GRE,ioannis vrettos,None,
+4,athens-1896,men,5,GRE,eleftherios papasymeon,None,
+5,athens-1896,men,6,GRE,dimitrios deligiannis,None,
+6,athens-1896,men,7,GRE,evangelos gerakakis,None,
+7,athens-1896,men,8,GRE,stamatios masouris,None,
+8,athens-1896,men,9,GRE,sokratis lagoudakis,None,
+9,athens-1896,men,,AUS,edwin flack,None,Did not finish
+10,athens-1896,men,,FRA,albin lermusiaux,None,Did not finish
+11,athens-1896,men,,GRE,georgios lavrentis,None,Did not finish
+12,athens-1896,men,,GRE,georgios grigoriou,None,Did not finish
+13,athens-1896,men,,USA,arthur blake,None,Did not finish
+14,athens-1896,men,,GRE,ilias kafetzis,None,Did not finish
+15,athens-1896,men,,GRE,dimitrios khristopoulos,None,Did not finish
+16,athens-1896,men,,GRE,spyridon belokas,None,Disqualified
+17,athens-1896,men,,GRE,- vathis,None,Did not start
+18,athens-1896,men,,GRE,- vanitakis,None,Did not start
+19,athens-1896,men,,HUN,gyula malcsiner,None,Did not start
+20,athens-1896,men,,ITA,carlo airoldi,None,Did not start
+21,athens-1896,men,,GER,karl galle,None,Did not start
