@@ -1,0 +1,501 @@
+,BibNumber,FullName,SortName,AgeOnRaceDay,Gender,City,StateAbbrev,StateName,Zip,CountryOfResAbbrev,CountryOfResName,CountryOfCtzAbbrev,CountryOfCtzName,OfficialTime,RankOverall,RankOverGender,RankOverDivision,EventGroup,SubGroupLabel,SubGroup,year,gender
+0,11,Geoffrey Kirui,"Kirui, Geoffrey",24,M,Keringet,,,,KEN,Kenya,KEN,Kenya,2:09:37,1,1,1,Runners,,,2017,male
+1,17,Galen Rupp,"Rupp, Galen",30,M,Portland,OR ,Oregon,,USA,United States of America,USA,United States of America,2:09:58,2,2,2,Runners,,,2017,male
+2,23,Suguru Osako,"Osako, Suguru",25,M,Machida-City,,,,JPN,Japan,JPN,Japan,2:10:28,3,3,3,Runners,,,2017,male
+3,21,Shadrack Biwott,"Biwott, Shadrack",32,M,Mammoth Lakes,CA ,California,,USA,United States of America,USA,United States of America,2:12:08,4,4,4,Runners,,,2017,male
+4,9,Wilson Chebet,"Chebet, Wilson",31,M,Marakwet,,,,KEN,Kenya,KEN,Kenya,2:12:35,5,5,5,Runners,,,2017,male
+5,15,Abdi Abdirahman,"Abdirahman, Abdi",40,M,Phoenix,AZ ,Arizona,,USA,United States of America,USA,United States of America,2:12:45,6,6,1,Runners,,,2017,male
+6,63,Augustus K. Maiyo,"Maiyo, Augustus K.",33,M,Colorado Springs,CO ,Colorado,80906,USA,United States of America,USA,United States of America,2:13:16,7,7,6,Runners,,,2017,male
+7,7,Dino Sefir,"Sefir, Dino",28,M,Addis Ababa,,,,ETH,Ethiopia,ETH,Ethiopia,2:14:26,8,8,7,Runners,,,2017,male
+8,18,Luke Puskedra,"Puskedra, Luke",27,M,Eugene,OR ,Oregon,,USA,United States of America,USA,United States of America,2:14:45,9,9,8,Runners,,,2017,male
+9,20,Jared Ward,"Ward, Jared",28,M,Kaysville,UT ,Utah,,USA,United States of America,USA,United States of America,2:15:28,10,10,9,Runners,,,2017,male
+10,22,Sean Quigley,"Quigley, Sean",32,M,Braintree,MA ,Massachusetts,,USA,United States of America,USA,United States of America,2:15:34,11,11,10,Runners,,,2017,male
+11,6,Yemane Tsegay,"Tsegay, Yemane",32,M,Addis Ababa,,,,ETH,Ethiopia,ETH,Ethiopia,2:16:47,12,12,11,Runners,,,2017,male
+12,14,Meb Keflezighi,"Keflezighi, Meb",41,M,San Diego,CA ,California,,USA,United States of America,USA,United States of America,2:17:00,13,13,2,Runners,,,2017,male
+13,16,Cutbert Nyasango,"Nyasango, Cutbert",34,M,Harara,,,,ZIM,Zimbabwe,ZIM,Zimbabwe,2:17:40,14,14,12,Runners,,,2017,male
+14,10,Wesley Korir,"Korir, Wesley",34,M,Kitale,,,,KEN,Kenya,KEN,Kenya,2:18:14,15,15,13,Runners,,,2017,male
+15,35,Thomas R. Puzey,"Puzey, Thomas R.",32,M,Flagstaff,AZ ,Arizona,86005,USA,United States of America,USA,United States of America,2:18:20,16,16,14,Runners,,,2017,male
+16,76,Rachid Kisri,"Kisri, Rachid",41,M,Briarcliff Manor,NY ,New York,10510,USA,United States of America,MAR,Morocco,2:18:32,17,17,3,Runners,,,2017,male
+17,3,Emmanuel Mutai,"Mutai, Emmanuel",32,M,Lessos,,,,KEN,Kenya,KEN,Kenya,2:19:33,18,18,15,Runners,,,2017,male
+18,30,Pardon Ndhlovu,"Ndhlovu, Pardon",29,M,Vilas,NC ,North Carolina,28692,USA,United States of America,ZIM,Zimbabwe,2:20:12,19,19,16,Runners,,,2017,male
+19,31,Brian Harvey,"Harvey, Brian",29,M,Boston,MA ,Massachusetts,02114,USA,United States of America,USA,United States of America,2:20:18,20,20,17,Runners,,,2017,male
+20,81,Christopher K. Chipsiya,"Chipsiya, Christopher K.",42,M,Zacatecas,,,98612,MEX,Mexico,KEN,Kenya,2:22:20,22,21,4,Runners,,,2017,male
+21,101,Scott Mindel,"Mindel, Scott",30,M,Arlington,MA ,Massachusetts,02474,USA,United States of America,USA,United States of America,2:22:27,23,22,18,Runners,,,2017,male
+22,182,Ryan J Place,"Place, Ryan J",31,M,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,2:23:05,26,23,19,Runners,,,2017,male
+23,33,Luke Humphrey,"Humphrey, Luke",36,M,Beverly Hills,MI ,Michigan,48025,USA,United States of America,USA,United States of America,2:23:12,27,24,20,Runners,,,2017,male
+24,28,Eric Ashe,"Ashe, Eric",28,M,Boston,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:23:26,28,25,21,Runners,,,2017,male
+25,53,Christian C. Thompson,"Thompson, Christian C.",28,M,Chattanooga,TN ,Tennessee,37421,USA,United States of America,USA,United States of America,2:23:51,29,26,22,Runners,,,2017,male
+26,43,Jorge Maravilla,"Maravilla, Jorge",39,M,Mill Valley,CA ,California,94941,USA,United States of America,USA,United States of America,2:24:27,30,27,23,Runners,,,2017,male
+27,37,Zachary Ornelas,"Ornelas, Zachary",25,M,Ann Arbor,MI ,Michigan,48103,USA,United States of America,USA,United States of America,2:24:40,31,28,24,Runners,,,2017,male
+28,54,Jason M. Ayr,"Ayr, Jason M.",29,M,Allston,MA ,Massachusetts,02143,USA,United States of America,USA,United States of America,2:24:49,32,29,25,Runners,,,2017,male
+29,39,Mike Morgan,"Morgan, Mike",37,M,Rochester Hills,MI ,Michigan,48307,USA,United States of America,USA,United States of America,2:25:02,33,30,26,Runners,,,2017,male
+30,134,Keith Pierce,"Pierce, Keith",36,M,Lewisville,TX ,Texas,75077,USA,United States of America,USA,United States of America,2:25:06,35,31,27,Runners,,,2017,male
+31,132,Cesar A. Martins,"Martins, Cesar A.",45,M,Sao Paulo - Sp,,,05625-060,BRA,Brazil,BRA,Brazil,2:25:15,36,32,1,Runners,,,2017,male
+32,151,Stephen Vangampleare,"Vangampleare, Stephen",26,M,Colorado Springs,CO ,Colorado,80919,USA,United States of America,USA,United States of America,2:25:35,37,33,28,Runners,,,2017,male
+33,77,Eric Loeffler,"Loeffler, Eric",40,M,Minneapolis,MN ,Minnesota,55406,USA,United States of America,USA,United States of America,2:26:00,38,34,5,Runners,,,2017,male
+34,123,Joseph K. Carpenter,"Carpenter, Joseph K.",27,M,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,2:26:40,39,35,29,Runners,,,2017,male
+35,44,Bret Fransen,"Fransen, Bret",35,M,Phoenix,AZ ,Arizona,85086,USA,United States of America,USA,United States of America,2:26:49,40,36,30,Runners,,,2017,male
+36,723,Jacob Puzey,"Puzey, Jacob",34,M,Calgary,AB ,Alberta,T3L 2Z2,CAN,Canada,CAN,Canada,2:26:52,41,37,31,Runners,,,2017,male
+37,34,Jonathan B. Kotter,"Kotter, Jonathan B.",32,M,Holladay,UT ,Utah,84124,USA,United States of America,USA,United States of America,2:26:58,42,38,32,Runners,,,2017,male
+38,57,Kaito Iwasa,"Iwasa, Kaito",19,M,Tokyo,,,105-0004,JPN,Japan,JPN,Japan,2:27:11,43,39,33,Runners,,,2017,male
+39,86,Michael R. Wardian,"Wardian, Michael R.",43,M,Arlington,VA ,Virginia,22203,USA,United States of America,USA,United States of America,2:27:35,45,40,6,Runners,,,2017,male
+40,130,Matthew A. Flaherty,"Flaherty, Matthew A.",31,M,Bloomington,IN ,Indiana,47408,USA,United States of America,USA,United States of America,2:27:40,46,41,34,Runners,,,2017,male
+41,153,David Mckay,"Mckay, David",30,M,Washington,DC ,District Of Columbia,20009,USA,United States of America,USA,United States of America,2:27:45,47,42,35,Runners,,,2017,male
+42,56,Matthew Fischer,"Fischer, Matthew",24,M,Brighton,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:28:18,48,43,36,Runners,,,2017,male
+43,104,Patrick Reaves,"Reaves, Patrick",32,M,Portland,OR ,Oregon,97229,USA,United States of America,USA,United States of America,2:28:19,49,44,37,Runners,,,2017,male
+44,51,Jonnathan Varela,"Varela, Jonnathan",37,M,Spring,TX ,Texas,77380,USA,United States of America,CRC,Costa Rica,2:28:39,50,45,38,Runners,,,2017,male
+45,112,Jordan Tropf,"Tropf, Jordan",25,M,Baltimore,MD ,Maryland,21231,USA,United States of America,USA,United States of America,2:28:43,51,46,39,Runners,,,2017,male
+46,135,Peter Bromka,"Bromka, Peter",35,M,Portland,OR ,Oregon,97214,USA,United States of America,USA,United States of America,2:28:44,52,47,40,Runners,,,2017,male
+47,120,Daniel Bishop,"Bishop, Daniel",26,M,Salt Lake City,UT ,Utah,84106,USA,United States of America,USA,United States of America,2:28:45,53,48,41,Runners,,,2017,male
+48,809,Nick Aguila,"Aguila, Nick",27,M,Manchester,NH ,New Hampshire,03104,USA,United States of America,USA,United States of America,2:29:42,55,49,42,Runners,,,2017,male
+49,103,Shinya Ohashi,"Ohashi, Shinya",23,M,Miyagi,,,,JPN,Japan,JPN,Japan,2:29:54,56,50,43,Runners,,,2017,male
+50,78,"Said Boudalia, Sr.","Boudalia, Said Sr.",48,M,Belluno,,,32038,ITA,Italy,ITA,Italy,2:30:11,57,51,2,Runners,,,2017,male
+51,219,Alexander J. Taylor,"Taylor, Alexander J.",37,M,Lincoln,MA ,Massachusetts,01773,USA,United States of America,USA,United States of America,2:30:19,58,52,44,Runners,,,2017,male
+52,141,Jeroen Veldhuis,"Veldhuis, Jeroen",41,M,Amsterdam,,,1060TL,NED,Netherlands,NED,Netherlands,2:30:25,59,53,7,Runners,,,2017,male
+53,40,Tim Chichester,"Chichester, Tim",28,M,Hornell,NY ,New York,14843,USA,United States of America,USA,United States of America,2:30:31,60,54,45,Runners,,,2017,male
+54,300,Paddy C O'Leary,"O'Leary, Paddy C",29,M,San Francisco,CA ,California,94133,USA,United States of America,IRL,Ireland,2:30:34,61,55,46,Runners,,,2017,male
+55,75,Clint Wells,"Wells, Clint",41,M,Boulder,CO ,Colorado,80302,USA,United States of America,USA,United States of America,2:30:41,62,56,8,Runners,,,2017,male
+56,27,Christopher A. Zablocki,"Zablocki, Christopher A.",28,M,Essex,CT ,Connecticut,06426,USA,United States of America,USA,United States of America,2:31:04,64,57,47,Runners,,,2017,male
+57,195,Samuel R. Gray,"Gray, Samuel R.",21,M,Exeter,NH ,New Hampshire,03833,USA,United States of America,USA,United States of America,2:31:10,65,58,48,Runners,,,2017,male
+58,248,Peter Gilmore,"Gilmore, Peter",27,M,Boston,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:31:13,66,59,49,Runners,,,2017,male
+59,162,Juan R. Fallas Navarro,"Fallas Navarro, Juan R.",31,M,Shasta Lake,CA ,California,96019,USA,United States of America,CRC,Costa Rica,2:31:19,67,60,50,Runners,,,2017,male
+60,392,Jason Thomas,"Thomas, Jason",22,M,Urbandale,IA ,Iowa,50323,USA,United States of America,USA,United States of America,2:31:37,68,61,51,Runners,,,2017,male
+61,226,Fergal M. Whitty,"Whitty, Fergal M.",41,M,Dublin,,,D15,IRL,Ireland,IRL,Ireland,2:31:37,69,62,9,Runners,,,2017,male
+62,122,Wesley C Turner,"Turner, Wesley C",30,M,Danville,VA ,Virginia,24541,USA,United States of America,USA,United States of America,2:31:56,71,63,52,Runners,,,2017,male
+63,211,Rejean Chiasson,"Chiasson, Rejean",33,M,Toronto,ON ,Ontario,M8Y 0B5,CAN,Canada,CAN,Canada,2:31:57,72,64,53,Runners,,,2017,male
+64,703,Andrew Skurka,"Skurka, Andrew",36,M,Boulder,CO ,Colorado,80303,USA,United States of America,USA,United States of America,2:32:01,73,65,54,Runners,,,2017,male
+65,355,Johan Trimaille,"Trimaille, Johan",30,M,Quebec,QC ,Quebec,G1R 1E4,CAN,Canada,FRA,France,2:32:14,74,66,55,Runners,,,2017,male
+66,370,Aroon H. Arias Navarro,"Arias Navarro, Aroon H.",29,M,Monterrey Nuevo Leon,,,64634,MEX,Mexico,MEX,Mexico,2:32:24,76,67,56,Runners,,,2017,male
+67,152,Alan Ash,"Ash, Alan",25,M,Atmore,AL ,Alabama,36502,USA,United States of America,USA,United States of America,2:32:25,77,68,57,Runners,,,2017,male
+68,114,Charles A. Remillard,"Remillard, Charles A.",23,M,Brooklyn,NY ,New York,11221,USA,United States of America,USA,United States of America,2:32:44,78,69,58,Runners,,,2017,male
+69,128,Sam D Krieg,"Krieg, Sam D",40,M,Pocatello,ID ,Idaho,83201,USA,United States of America,USA,United States of America,2:32:46,79,70,10,Runners,,,2017,male
+70,157,Ian Neill,"Neill, Ian",32,M,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,2:32:51,80,71,59,Runners,,,2017,male
+71,288,Sean Clark,"Clark, Sean",31,M,Glenside,PA ,Pennsylvania,19038,USA,United States of America,USA,United States of America,2:33:03,81,72,60,Runners,,,2017,male
+72,1505,Michael P Ellenberger,"Ellenberger, Michael P",25,M,Chicago,IL ,Illinois,60625,USA,United States of America,USA,United States of America,2:33:03,82,73,61,Runners,,,2017,male
+73,205,Jack R Klecker,"Klecker, Jack R",25,M,Boston,MA ,Massachusetts,02120,USA,United States of America,USA,United States of America,2:33:12,83,74,62,Runners,,,2017,male
+74,677,Chris Retzlaff,"Retzlaff, Chris",20,M,Fort Collins,CO ,Colorado,80521,USA,United States of America,USA,United States of America,2:33:21,84,75,63,Runners,,,2017,male
+75,158,Jordan Kinley,"Kinley, Jordan",32,M,Salem,MA ,Massachusetts,01970,USA,United States of America,USA,United States of America,2:33:27,86,76,64,Runners,,,2017,male
+76,146,Christopher A Ashford,"Ashford, Christopher A",36,M,Birmingham,,,B17 0AD,GBR,United Kingdom,GBR,United Kingdom,2:33:45,87,77,65,Runners,,,2017,male
+77,240,Adrian S. Macdonald,"Macdonald, Adrian S.",28,M,Fort Collins,CO ,Colorado,80521,USA,United States of America,USA,United States of America,2:33:55,88,78,66,Runners,,,2017,male
+78,143,Mark T Jones,"Jones, Mark T",30,M,Boulder,CO ,Colorado,80301,USA,United States of America,USA,United States of America,2:33:56,89,79,67,Runners,,,2017,male
+79,173,David W Metzger,"Metzger, David W",30,M,Roslindale,MA ,Massachusetts,02131,USA,United States of America,USA,United States of America,2:34:01,90,80,68,Runners,,,2017,male
+80,144,Chadwick D. Trammell,"Trammell, Chadwick D.",32,M,Anchorage,AK ,Alaska,99507,USA,United States of America,USA,United States of America,2:34:09,91,81,69,Runners,,,2017,male
+81,740,Alexander Varner,"Varner, Alexander",31,M,San Rafael,CA ,California,94901,USA,United States of America,USA,United States of America,2:34:22,92,82,70,Runners,,,2017,male
+82,107,John Parrott,"Parrott, John",30,M,Restoule,ON ,Ontario,P0H 2R0,CAN,Canada,CAN,Canada,2:34:30,93,83,71,Runners,,,2017,male
+83,148,William Vanos,"Vanos, William",45,M,Orlando,FL ,Florida,32801,USA,United States of America,USA,United States of America,2:34:40,94,84,3,Runners,,,2017,male
+84,316,Jeff Wysong,"Wysong, Jeff",26,M,Chicago,IL ,Illinois,60622,USA,United States of America,USA,United States of America,2:34:47,96,85,72,Runners,,,2017,male
+85,161,Wayne Blas,"Blas, Wayne",39,M,Lansing,KS ,Kansas,66043,USA,United States of America,USA,United States of America,2:34:49,97,86,73,Runners,,,2017,male
+86,603,Sam N. Kuchwara,"Kuchwara, Sam N.",25,M,Dickson City,PA ,Pennsylvania,18519,USA,United States of America,USA,United States of America,2:35:03,99,87,74,Runners,,,2017,male
+87,231,Adam D Roach,"Roach, Adam D",33,M,Pebble Beach,CA ,California,93953,USA,United States of America,USA,United States of America,2:35:15,100,88,75,Runners,,,2017,male
+88,229,Chris C. Stone,"Stone, Chris C.",36,M,Edmonton,AB ,Alberta,T6W 0H1,CAN,Canada,CAN,Canada,2:35:26,101,89,76,Runners,,,2017,male
+89,459,Ryan Cox,"Cox, Ryan",26,M,Anchorage,AK ,Alaska,99503,USA,United States of America,USA,United States of America,2:35:40,102,90,77,Runners,,,2017,male
+90,136,Ian Nurse,"Nurse, Ian",39,M,Brookline,MA ,Massachusetts,02446,USA,United States of America,USA,United States of America,2:35:41,103,91,78,Runners,,,2017,male
+91,358,Scott E Byers,"Byers, Scott E",36,M,Miami,FL ,Florida,33143,USA,United States of America,USA,United States of America,2:35:44,104,92,79,Runners,,,2017,male
+92,280,Jacob D Kirk,"Kirk, Jacob D",24,M,Anchorage,AK ,Alaska,99507,USA,United States of America,USA,United States of America,2:35:49,105,93,80,Runners,,,2017,male
+93,46,Hiroki Kai,"Kai, Hiroki",22,M,Tokyo,,,105-0004,JPN,Japan,JPN,Japan,2:35:51,106,94,81,Runners,,,2017,male
+94,82,"Holger U. Freudenberger, III","Freudenberger, Holger U. III",40,M,Bad Rappenau,,,74906,GER,Germany,GER,Germany,2:35:58,107,95,11,Runners,,,2017,male
+95,899,Nicholas Wimmer,"Wimmer, Nicholas",26,M,Minneapolis,MN ,Minnesota,55408,USA,United States of America,USA,United States of America,2:36:01,108,96,82,Runners,,,2017,male
+96,274,Matthew Thor,"Thor, Matthew",30,M,Chicago,IL ,Illinois,60608,USA,United States of America,USA,United States of America,2:36:07,109,97,83,Runners,,,2017,male
+97,278,Patrick J Klein,"Klein, Patrick J",28,M,Prairie Du Chien,WI ,Wisconsin,53821,USA,United States of America,USA,United States of America,2:36:12,111,98,84,Runners,,,2017,male
+98,722,Nicholas N. Roche,"Roche, Nicholas N.",23,M,Portland,OR ,Oregon,97210,USA,United States of America,USA,United States of America,2:36:18,112,99,85,Runners,,,2017,male
+99,618,Johannes S. Grosskopf,"Grosskopf, Johannes S.",30,M,Schwaebisch Gmuend,,,73529,GER,Germany,GER,Germany,2:36:25,113,100,86,Runners,,,2017,male
+100,208,Pat Mclaughlin,"Mclaughlin, Pat",27,M,Maple Glen,PA ,Pennsylvania,19002,USA,United States of America,USA,United States of America,2:36:28,114,101,87,Runners,,,2017,male
+101,181,Brian L Dixon,"Dixon, Brian L",25,M,Saint Louis,MO ,Missouri,63108,USA,United States of America,USA,United States of America,2:36:29,116,102,88,Runners,,,2017,male
+102,577,David Dixon,"Dixon, David",25,M,Cleveland,OH ,Ohio,44103,USA,United States of America,USA,United States of America,2:36:29,117,103,89,Runners,,,2017,male
+103,156,Sean P. Hyland,"Hyland, Sean P.",32,M,Andover,MA ,Massachusetts,01810,USA,United States of America,USA,United States of America,2:36:33,119,104,90,Runners,,,2017,male
+104,201,Aaron Sherf,"Sherf, Aaron",27,M,Norman,OK ,Oklahoma,73072,USA,United States of America,USA,United States of America,2:36:36,121,105,91,Runners,,,2017,male
+105,470,Kristopher Shold,"Shold, Kristopher",36,M,Jacksonville,FL ,Florida,32204,USA,United States of America,USA,United States of America,2:36:40,122,106,92,Runners,,,2017,male
+106,187,Cameron Rieger,"Rieger, Cameron",25,M,Chicago,IL ,Illinois,60657,USA,United States of America,USA,United States of America,2:36:41,123,107,93,Runners,,,2017,male
+107,272,Chaiwat Engtrakul,"Engtrakul, Chaiwat",40,M,Louisville,CO ,Colorado,80027,USA,United States of America,USA,United States of America,2:36:47,124,108,12,Runners,,,2017,male
+108,177,Zach Cater-Cyker,"Cater-Cyker, Zach",32,M,Houston,TX ,Texas,77019,USA,United States of America,USA,United States of America,2:36:48,125,109,94,Runners,,,2017,male
+109,397,Andrew W. Cook,"Cook, Andrew W.",36,M,Flower Mound,TX ,Texas,75022,USA,United States of America,USA,United States of America,2:36:57,126,110,95,Runners,,,2017,male
+110,606,Tyler Hansen,"Hansen, Tyler",35,M,Santa Barbara,CA ,California,93101,USA,United States of America,USA,United States of America,2:36:57,127,111,96,Runners,,,2017,male
+111,496,Robert A Norcross III,"Norcross, Robert A III",35,M,Mansfield,MA ,Massachusetts,02048,USA,United States of America,USA,United States of America,2:37:00,128,112,97,Runners,,,2017,male
+112,2185,Guillermo Pineda Morales Sr.,"Pineda Morales, Guillermo Sr.",44,M,Ridgewood,NY ,New York,11385,USA,United States of America,USA,United States of America,2:37:01,129,113,13,Runners,,,2017,male
+113,563,Ryan W Guldan,"Guldan, Ryan W",33,M,Denver,CO ,Colorado,80206,USA,United States of America,USA,United States of America,2:37:11,130,114,98,Runners,,,2017,male
+114,711,Erik D Mcmillan,"Mcmillan, Erik D",19,M,Usaf Academy,CO ,Colorado,80841,USA,United States of America,USA,United States of America,2:37:15,131,115,99,Runners,,,2017,male
+115,871,Hayden B Legg,"Legg, Hayden B",26,M,Columbia,MO ,Missouri,65201,USA,United States of America,USA,United States of America,2:37:22,132,116,100,Runners,,,2017,male
+116,79,Iain Hunter,"Hunter, Iain",45,M,Provo,UT ,Utah,84604,USA,United States of America,USA,United States of America,2:37:28,133,117,4,Runners,,,2017,male
+117,733,Abinazer Aghegnehu,"Aghegnehu, Abinazer",31,M,Los Altos,CA ,California,94024,USA,United States of America,USA,United States of America,2:37:32,135,118,101,Runners,,,2017,male
+118,419,Patrick D Cutter,"Cutter, Patrick D",28,M,Rochester,NY ,New York,14612,USA,United States of America,USA,United States of America,2:37:34,136,119,102,Runners,,,2017,male
+119,868,Jordan H Kurtz,"Kurtz, Jordan H",21,M,Vacaville,CA ,California,95688,USA,United States of America,USA,United States of America,2:37:47,137,120,103,Runners,,,2017,male
+120,29,Louis Serafini,"Serafini, Louis",25,M,Brighton,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:37:49,138,121,104,Runners,,,2017,male
+121,528,Emmett Saulnier,"Saulnier, Emmett",21,M,Charlottesville,VA ,Virginia,22903,USA,United States of America,USA,United States of America,2:37:51,139,122,105,Runners,,,2017,male
+122,119,J A Penny,"Penny, J A",29,M,Johnson City,TN ,Tennessee,37601,USA,United States of America,USA,United States of America,2:37:51,140,123,106,Runners,,,2017,male
+123,202,Bradley Alban,"Alban, Bradley",28,M,Johnson City,TN ,Tennessee,37604,USA,United States of America,USA,United States of America,2:37:52,141,124,107,Runners,,,2017,male
+124,323,Michael Tooley,"Tooley, Michael",35,M,Richmond,VA ,Virginia,23233,USA,United States of America,USA,United States of America,2:38:02,142,125,108,Runners,,,2017,male
+125,294,Nathan E Brigham,"Brigham, Nathan E",34,M,Baltimore,MD ,Maryland,21212,USA,United States of America,USA,United States of America,2:38:05,143,126,109,Runners,,,2017,male
+126,87,Uli Steidl,"Steidl, Uli",45,M,Seattle,WA ,Washington,98144,USA,United States of America,USA,United States of America,2:38:06,144,127,5,Runners,,,2017,male
+127,1643,Brett S Klosterhoff,"Klosterhoff, Brett S",25,M,Atlanta,GA ,Georgia,30308,USA,United States of America,USA,United States of America,2:38:15,145,128,110,Runners,,,2017,male
+128,746,Michael Quesnell,"Quesnell, Michael",23,M,Madison,WI ,Wisconsin,53711,USA,United States of America,USA,United States of America,2:38:15,146,129,111,Runners,,,2017,male
+129,1728,Spencer C. Castro,"Castro, Spencer C.",28,M,Salt Lake City,UT ,Utah,84102,USA,United States of America,USA,United States of America,2:38:18,147,130,112,Runners,,,2017,male
+130,210,Marty Mccormick,"Mccormick, Marty",36,M,Arlington,VA ,Virginia,22213,USA,United States of America,USA,United States of America,2:38:24,149,131,113,Runners,,,2017,male
+131,812,Matthew Hillyard,"Hillyard, Matthew",30,M,Sunnyvale,CA ,California,94086,USA,United States of America,USA,United States of America,2:38:26,150,132,114,Runners,,,2017,male
+132,266,Allan R Spangler,"Spangler, Allan R",30,M,Anchorage,AK ,Alaska,99502,USA,United States of America,USA,United States of America,2:38:30,151,133,115,Runners,,,2017,male
+133,494,Logan Broadbent,"Broadbent, Logan",29,M,Cleveland,OH ,Ohio,44109,USA,United States of America,USA,United States of America,2:38:31,152,134,116,Runners,,,2017,male
+134,411,Jeffrey R Tissue,"Tissue, Jeffrey R",27,M,Denver,CO ,Colorado,80206,USA,United States of America,USA,United States of America,2:38:33,153,135,117,Runners,,,2017,male
+135,5201,Jerome Ross,"Ross, Jerome",41,M,Anchorage,AK ,Alaska,99503,USA,United States of America,USA,United States of America,2:38:36,154,136,14,Runners,,,2017,male
+136,519,Samuel Trudel,"Trudel, Samuel",27,M,Montreal,QC ,Quebec,H2K 2W5,CAN,Canada,CAN,Canada,2:38:37,155,137,118,Runners,,,2017,male
+137,172,Eric S Leishman,"Leishman, Eric S",26,M,Chapleau,ON ,Ontario,P0M 1K0,CAN,Canada,CAN,Canada,2:38:37,156,138,119,Runners,,,2017,male
+138,138,Hermann Achmuller,"Achmuller, Hermann",46,M,Brixen,,,39042,ITA,Italy,ITA,Italy,2:38:40,157,139,6,Runners,,,2017,male
+139,516,Javier Munoz Garcia,"Munoz Garcia, Javier",33,M,Albacete,,,02006,ESP,Spain,ESP,Spain,2:38:44,159,140,120,Runners,,,2017,male
+140,347,Knox Robinson,"Robinson, Knox",42,M,Brooklyn,NY ,New York,11221,USA,United States of America,USA,United States of America,2:38:48,161,141,15,Runners,,,2017,male
+141,339,Christopher Capps,"Capps, Christopher",26,M,Charlotte,NC ,North Carolina,28269,USA,United States of America,USA,United States of America,2:38:51,162,142,121,Runners,,,2017,male
+142,3816,Scott D. McArthur,"McArthur, Scott D.",27,M,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,2:38:53,163,143,122,Runners,,,2017,male
+143,1397,Nicholas Graves,"Graves, Nicholas",21,M,San Francisco,CA ,California,94117,USA,United States of America,USA,United States of America,2:38:57,164,144,123,Runners,,,2017,male
+144,239,Gedion Yitref,"Yitref, Gedion",27,M,Evanston,IL ,Illinois,60202,USA,United States of America,USA,United States of America,2:38:59,165,145,124,Runners,,,2017,male
+145,145,Carlos A Siqueiros,"Siqueiros, Carlos A",36,M,San Jose,CA ,California,95121,USA,United States of America,USA,United States of America,2:38:59,166,146,125,Runners,,,2017,male
+146,450,Elenilton V. Rangel,"Rangel, Elenilton V.",43,M,Ribeirao Preto,,,14015020,BRA,Brazil,BRA,Brazil,2:39:02,167,147,16,Runners,,,2017,male
+147,742,Matthew Urbanski,"Urbanski, Matthew",36,M,Seattle,WA ,Washington,98122,USA,United States of America,USA,United States of America,2:39:13,168,148,126,Runners,,,2017,male
+148,125,Paul J Piper,"Piper, Paul J",35,M,London,,,TW13 4RE,GBR,United Kingdom,GBR,United Kingdom,2:39:13,169,149,127,Runners,,,2017,male
+149,588,Thomas J Deeg,"Deeg, Thomas J",36,M,Marstons Mills,MA ,Massachusetts,02648,USA,United States of America,USA,United States of America,2:39:16,170,150,128,Runners,,,2017,male
+150,297,Nicholas Klastava,"Klastava, Nicholas",35,M,Perry Hall,MD ,Maryland,21128,USA,United States of America,USA,United States of America,2:39:19,171,151,129,Runners,,,2017,male
+151,142,Matthew J Wiersum,"Wiersum, Matthew J",29,M,Minneapolis,MN ,Minnesota,55391,USA,United States of America,USA,United States of America,2:39:23,172,152,130,Runners,,,2017,male
+152,2263,Kevin Huwe,"Huwe, Kevin",30,M,Chattanooga,TN ,Tennessee,37406,USA,United States of America,USA,United States of America,2:39:29,173,153,131,Runners,,,2017,male
+153,372,Nick Bedbury,"Bedbury, Nick",28,M,East Syracuse,NY ,New York,13057,USA,United States of America,USA,United States of America,2:39:30,174,154,132,Runners,,,2017,male
+154,281,Clayton J. Pierce,"Pierce, Clayton J.",25,M,Boston,MA ,Massachusetts,02118,USA,United States of America,USA,United States of America,2:39:32,175,155,133,Runners,,,2017,male
+155,550,Aaron J Heun,"Heun, Aaron J",33,M,Broomfield,CO ,Colorado,80020,USA,United States of America,USA,United States of America,2:39:32,176,156,134,Runners,,,2017,male
+156,250,James L Miller,"Miller, James L",25,M,Oak Ridge,TN ,Tennessee,37830,USA,United States of America,USA,United States of America,2:39:33,177,157,135,Runners,,,2017,male
+157,332,Patrick K. Tongue,"Tongue, Patrick K.",28,M,Zeiningen,,,4314,SUI,Switzerland,AUS,Australia,2:39:36,178,158,136,Runners,,,2017,male
+158,1071,Marc C Samland,"Samland, Marc C",23,M,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,2:39:38,179,159,137,Runners,,,2017,male
+159,80,Kojo Kyereme,"Kyereme, Kojo",42,M,Epsom,,,KT17 2SA,GBR,United Kingdom,GBR,United Kingdom,2:39:39,180,160,17,Runners,,,2017,male
+160,191,Fan Zhou,"Zhou, Fan",28,M,Boston,MA ,Massachusetts,02118,USA,United States of America,USA,United States of America,2:39:40,181,161,138,Runners,,,2017,male
+161,437,Jon Kuehler,"Kuehler, Jon",29,M,Denver,CO ,Colorado,80205,USA,United States of America,USA,United States of America,2:39:48,182,162,139,Runners,,,2017,male
+162,334,Christopher Battoo,"Battoo, Christopher",29,M,Boston,MA ,Massachusetts,02215,USA,United States of America,TRI,Trinidad and Tobago,2:39:54,183,163,140,Runners,,,2017,male
+163,477,Jay D Hudson,"Hudson, Jay D",37,M,Rockville,MD ,Maryland,20852,USA,United States of America,USA,United States of America,2:39:55,184,164,141,Runners,,,2017,male
+164,672,Brian D Fowler,"Fowler, Brian D",35,M,Raleigh,NC ,North Carolina,27612,USA,United States of America,USA,United States of America,2:39:57,185,165,142,Runners,,,2017,male
+165,690,Cory Irwin,"Irwin, Cory",27,M,Columbus,OH ,Ohio,43203,USA,United States of America,USA,United States of America,2:39:57,186,166,143,Runners,,,2017,male
+166,333,Ryan S Sloan,"Sloan, Ryan S",29,M,Jacksonville,FL ,Florida,32217,USA,United States of America,USA,United States of America,2:40:03,188,167,144,Runners,,,2017,male
+167,111,David Savard-Gagnon,"Savard-Gagnon, David",35,M,Baie-St-Paul,QC ,Quebec,G3Z1W8,CAN,Canada,CAN,Canada,2:40:04,189,168,145,Runners,,,2017,male
+168,479,Jon Lindenauer,"Lindenauer, Jon",29,M,N. Billerica,MA ,Massachusetts,01862,USA,United States of America,USA,United States of America,2:40:17,191,169,146,Runners,,,2017,male
+169,2815,Jacob B Law,"Law, Jacob B",27,M,Louisville,KY ,Kentucky,402017,USA,United States of America,USA,United States of America,2:40:18,192,170,147,Runners,,,2017,male
+170,260,Eoin Craigie,"Craigie, Eoin",38,M,Montreal,QC ,Quebec,H3K 2L3,CAN,Canada,CAN,Canada,2:40:19,193,171,148,Runners,,,2017,male
+171,781,Paul S. Young,"Young, Paul S.",25,M,Normandy Park,WA ,Washington,98166,USA,United States of America,USA,United States of America,2:40:23,194,172,149,Runners,,,2017,male
+172,439,Jay List,"List, Jay",40,M,Amherst,NY ,New York,14226,USA,United States of America,USA,United States of America,2:40:32,195,173,18,Runners,,,2017,male
+173,434,Scott G. Cichon,"Cichon, Scott G.",31,M,Pittsburg,KS ,Kansas,66762,USA,United States of America,USA,United States of America,2:40:33,196,174,150,Runners,,,2017,male
+174,485,Stephen A Eles,"Eles, Stephen A",37,M,Houghton,MI ,Michigan,49931,USA,United States of America,USA,United States of America,2:40:36,197,175,151,Runners,,,2017,male
+175,233,Jim Johnson,"Johnson, Jim",39,M,Madison,NH ,New Hampshire,03849,USA,United States of America,USA,United States of America,2:40:37,198,176,152,Runners,,,2017,male
+176,435,Sam D Teigen,"Teigen, Sam D",42,M,Hawthorne,NJ ,New Jersey,07506,USA,United States of America,USA,United States of America,2:40:39,199,177,19,Runners,,,2017,male
+177,473,William F Guzick,"Guzick, William F",28,M,Boston,MA ,Massachusetts,02163,USA,United States of America,USA,United States of America,2:40:43,200,178,153,Runners,,,2017,male
+178,159,Bryan T Burk,"Burk, Bryan T",26,M,Spring Arbor,MI ,Michigan,49283,USA,United States of America,USA,United States of America,2:40:44,201,179,154,Runners,,,2017,male
+179,460,Steven Medd,"Medd, Steven",38,M,Houghton-Le-Spring,,,DH4 4UW,GBR,United Kingdom,GBR,United Kingdom,2:40:45,202,180,155,Runners,,,2017,male
+180,902,Patrick Caron,"Caron, Patrick",19,M,Needham,MA ,Massachusetts,02492-2043,USA,United States of America,USA,United States of America,2:40:45,203,181,156,Runners,,,2017,male
+181,408,"Miguel Angel Cifuentes Fetiva, Sr.","Cifuentes Fetiva, Miguel Angel Sr.",38,M,Bogota,,,,COL,Colombia,COL,Colombia,2:40:46,204,182,157,Runners,,,2017,male
+182,129,Brent Woodle,"Woodle, Brent",32,M,Carrollton,TX ,Texas,75010,USA,United States of America,USA,United States of America,2:40:48,205,183,158,Runners,,,2017,male
+183,311,Stephen Curley,"Curley, Stephen",24,M,Norwood,MA ,Massachusetts,02062,USA,United States of America,USA,United States of America,2:40:54,206,184,159,Runners,,,2017,male
+184,150,Gavin Finlay,"Finlay, Gavin",37,M,Durham,NC ,North Carolina,27705,USA,United States of America,IRL,Ireland,2:40:58,207,185,160,Runners,,,2017,male
+185,657,Wouter Hoogkamer,"Hoogkamer, Wouter",35,M,Longmont,CO ,Colorado,80503,USA,United States of America,NED,Netherlands,2:41:03,208,186,161,Runners,,,2017,male
+186,251,Jann Post,"Post, Jann",36,M,Raaholt,,,2070,NOR,Norway,NOR,Norway,2:41:03,209,187,162,Runners,,,2017,male
+187,430,Stan Chaisson,"Chaisson, Stan",34,M,Charlottetown,PE ,Prince Edward Island,C1E 1V3,CAN,Canada,CAN,Canada,2:41:15,210,188,163,Runners,,,2017,male
+188,487,Andrew C Keller,"Keller, Andrew C",28,M,Wayne,PA ,Pennsylvania,19087,USA,United States of America,USA,United States of America,2:41:26,212,189,164,Runners,,,2017,male
+189,403,Daniel Dolney,"Dolney, Daniel",34,M,Chicago,IL ,Illinois,60601,USA,United States of America,USA,United States of America,2:41:30,213,190,165,Runners,,,2017,male
+190,404,Sebastian Wojciechowski,"Wojciechowski, Sebastian",33,M,Warszawa,,,02-793,POL,Poland,POL,Poland,2:41:31,214,191,166,Runners,,,2017,male
+191,1614,Jack Mcafee,"Mcafee, Jack",33,M,Knoxville,TN ,Tennessee,37919,USA,United States of America,USA,United States of America,2:41:35,215,192,167,Runners,,,2017,male
+192,3949,John Butcher,"Butcher, John",23,M,Mahomet,IL ,Illinois,61853,USA,United States of America,USA,United States of America,2:41:37,216,193,168,Runners,,,2017,male
+193,207,Stuart M. Farmer,"Farmer, Stuart M.",40,M,London,,,SW15 2NJ,GBR,United Kingdom,GBR,United Kingdom,2:41:39,217,194,20,Runners,,,2017,male
+194,927,Matthew Leonard,"Leonard, Matthew",26,M,Higginsville,MO ,Missouri,64037,USA,United States of America,USA,United States of America,2:41:41,218,195,169,Runners,,,2017,male
+195,84,David Bedoya,"Bedoya, David",40,M,Somerville,MA ,Massachusetts,02143,USA,United States of America,USA,United States of America,2:41:44,219,196,21,Runners,,,2017,male
+196,493,Pierre Kardous,"Kardous, Pierre",28,M,Marseille,,,13003,FRA,France,FRA,France,2:41:45,220,197,170,Runners,,,2017,male
+197,350,Tim Meigs,"Meigs, Tim",50,M,Raleigh,NC ,North Carolina,27614,USA,United States of America,USA,United States of America,2:41:48,221,198,1,Runners,,,2017,male
+198,483,Patrick Woodford,"Woodford, Patrick",24,M,Roanoke,VA ,Virginia,24015,USA,United States of America,USA,United States of America,2:41:48,222,199,171,Runners,,,2017,male
+199,647,Felix L Cancre,"Cancre, Felix L",22,M,Lexington,MA ,Massachusetts,02421,USA,United States of America,USA,United States of America,2:41:55,223,200,172,Runners,,,2017,male
+200,466,Simo Leone,"Leone, Simo",28,M,Skokie,IL ,Illinois,60076,USA,United States of America,FIN,Finland,2:41:57,224,201,173,Runners,,,2017,male
+201,912,Matthew Rouse,"Rouse, Matthew",31,M,San Diego,CA ,California,92124,USA,United States of America,USA,United States of America,2:41:58,225,202,174,Runners,,,2017,male
+202,447,Carson W Truesdell,"Truesdell, Carson W",21,M,Grand Blanc,MI ,Michigan,48439,USA,United States of America,USA,United States of America,2:42:00,226,203,175,Runners,,,2017,male
+203,3487,Micah J Aldrich,"Aldrich, Micah J",27,M,Indianapolis,IN ,Indiana,46201,USA,United States of America,USA,United States of America,2:42:02,227,204,176,Runners,,,2017,male
+204,345,Eric Schuler,"Schuler, Eric",23,M,Laurel,MD ,Maryland,20723,USA,United States of America,USA,United States of America,2:42:08,228,205,177,Runners,,,2017,male
+205,693,Benjamin Madrigal,"Madrigal, Benjamin",30,M,Madera,CA ,California,93637,USA,United States of America,MEX,Mexico,2:42:13,229,206,178,Runners,,,2017,male
+206,756,Matt Hall,"Hall, Matt",44,M,London,,,SE13 7FG,GBR,United Kingdom,GBR,United Kingdom,2:42:15,230,207,22,Runners,,,2017,male
+207,508,Sergey Ovsyannikov,"Ovsyannikov, Sergey",38,M,Perm,,,614077,RUS,Russian Federation,RUS,Russian Federation,2:42:17,232,208,179,Runners,,,2017,male
+208,551,Matthew Seifert,"Seifert, Matthew",30,M,Shawnee,KS ,Kansas,66216,USA,United States of America,USA,United States of America,2:42:18,233,209,180,Runners,,,2017,male
+209,458,Lewis Kivett,"Kivett, Lewis",34,M,Evansville,IN ,Indiana,47715,USA,United States of America,USA,United States of America,2:42:22,234,210,181,Runners,,,2017,male
+210,1674,Harrison Sullivan,"Sullivan, Harrison",23,M,Washington,DC ,District Of Columbia,20011,USA,United States of America,USA,United States of America,2:42:24,235,211,182,Runners,,,2017,male
+211,379,Fabian Meier,"Meier, Fabian",32,M,Aarau,,,5000,SUI,Switzerland,SUI,Switzerland,2:42:25,236,212,183,Runners,,,2017,male
+212,227,Ryan Lok,"Lok, Ryan",26,M,Oakland,CA ,California,94602,USA,United States of America,USA,United States of America,2:42:27,237,213,184,Runners,,,2017,male
+213,108,Matthew M Beamer,"Beamer, Matthew M",29,M,Chicago,IL ,Illinois,60607,USA,United States of America,USA,United States of America,2:42:30,238,214,185,Runners,,,2017,male
+214,106,Conrad J Laskowski,"Laskowski, Conrad J",30,M,Gaithersburg,MD ,Maryland,20878,USA,United States of America,USA,United States of America,2:42:33,239,215,186,Runners,,,2017,male
+215,828,Steve Rosinski,"Rosinski, Steve",31,M,Charlottesville,VA ,Virginia,22901,USA,United States of America,USA,United States of America,2:42:34,240,216,187,Runners,,,2017,male
+216,865,Erik C Rasmussen,"Rasmussen, Erik C",41,M,Wilmington,NC ,North Carolina,28411,USA,United States of America,USA,United States of America,2:42:35,241,217,23,Runners,,,2017,male
+217,864,Erick White,"White, Erick",24,M,Atlanta,GA ,Georgia,30329,USA,United States of America,USA,United States of America,2:42:35,242,218,188,Runners,,,2017,male
+218,168,Jesus A. Campos Reyes,"Campos Reyes, Jesus A.",32,M,Fresno,CA ,California,93727,USA,United States of America,USA,United States of America,2:42:37,243,219,189,Runners,,,2017,male
+219,959,James Lloyd,"Lloyd, James",24,M,San Diego,CA ,California,92110,USA,United States of America,USA,United States of America,2:42:38,244,220,190,Runners,,,2017,male
+220,2272,Alexander R. Lohr,"Lohr, Alexander R.",29,M,Portland,OR ,Oregon,97229,USA,United States of America,USA,United States of America,2:42:40,245,221,191,Runners,,,2017,male
+221,262,Samuel Bell,"Bell, Samuel",40,M,Beavercreek,OH ,Ohio,45440,USA,United States of America,USA,United States of America,2:42:42,246,222,24,Runners,,,2017,male
+222,624,James P Jackson,"Jackson, James P",27,M,Denver,CO ,Colorado,80220,USA,United States of America,USA,United States of America,2:42:43,247,223,192,Runners,,,2017,male
+223,188,Jason T. Reilly,"Reilly, Jason T.",34,M,East Greenwich,RI ,Rhode Island,02818,USA,United States of America,USA,United States of America,2:42:43,248,224,193,Runners,,,2017,male
+224,1284,Joel D Wegener,"Wegener, Joel D",43,M,Minneapolis,MN ,Minnesota,55406,USA,United States of America,USA,United States of America,2:42:45,249,225,25,Runners,,,2017,male
+225,754,Shane P. Smith,"Smith, Shane P.",26,M,Seattle,WA ,Washington,98144,USA,United States of America,USA,United States of America,2:42:47,250,226,194,Runners,,,2017,male
+226,253,Caleb Bowen,"Bowen, Caleb",23,M,Culloden,WV ,West Virginia,25510,USA,United States of America,USA,United States of America,2:42:48,251,227,195,Runners,,,2017,male
+227,492,Robert A. Outlaw,"Outlaw, Robert A.",39,M,Chattanooga,TN ,Tennessee,37405,USA,United States of America,USA,United States of America,2:42:48,252,228,196,Runners,,,2017,male
+228,204,Christopher P. Legh,"Legh, Christopher P.",44,M,Lyons,CO ,Colorado,80540,USA,United States of America,AUS,Australia,2:42:55,253,229,26,Runners,,,2017,male
+229,1970,Michael J Fitzpatrick,"Fitzpatrick, Michael J",39,M,Boston,MA ,Massachusetts,02115,USA,United States of America,USA,United States of America,2:42:56,254,230,197,Runners,,,2017,male
+230,1371,Alex Samarin,"Samarin, Alex",30,M,San Diego,CA ,California,92101,USA,United States of America,USA,United States of America,2:42:56,255,231,198,Runners,,,2017,male
+231,527,Christopher Bain,"Bain, Christopher",39,M,Cabin John,MD ,Maryland,20818,USA,United States of America,USA,United States of America,2:42:56,256,232,199,Runners,,,2017,male
+232,1726,Jordan Rose,"Rose, Jordan",29,M,New York,NY ,New York,10024,USA,United States of America,USA,United States of America,2:42:58,257,233,200,Runners,,,2017,male
+233,326,Eddie Valentine,"Valentine, Eddie",37,M,Portland,OR ,Oregon,97202,USA,United States of America,USA,United States of America,2:42:59,258,234,201,Runners,,,2017,male
+234,223,Mario P Carreira Sr.,"Carreira, Mario P Sr.",49,M,Porto,,,4100-060,POR,Portugal,POR,Portugal,2:43:01,259,235,7,Runners,,,2017,male
+235,583,Roger Donaghy,"Donaghy, Roger",38,M,Melrose,MA ,Massachusetts,02176,USA,United States of America,USA,United States of America,2:43:02,260,236,202,Runners,,,2017,male
+236,2100,Aaron Hoover,"Hoover, Aaron",35,M,Golden,CO ,Colorado,80401,USA,United States of America,USA,United States of America,2:43:09,261,237,203,Runners,,,2017,male
+237,406,Cale Allen,"Allen, Cale",27,M,Denver,CO ,Colorado,80209,USA,United States of America,USA,United States of America,2:43:10,262,238,204,Runners,,,2017,male
+238,541,"Van Mccarty, IV","Mccarty, Van IV",46,M,San Luis Obispo,CA ,California,93401,USA,United States of America,USA,United States of America,2:43:13,263,239,8,Runners,,,2017,male
+239,304,"Louis L. Saviano, III","Saviano, Louis L. III",26,M,Sandown,NH ,New Hampshire,03873,USA,United States of America,USA,United States of America,2:43:13,264,240,205,Runners,,,2017,male
+240,312,Jason A Howell,"Howell, Jason A",34,M,Newburgh,IN ,Indiana,47630,USA,United States of America,USA,United States of America,2:43:14,265,241,206,Runners,,,2017,male
+241,526,Matthew Reisenauer,"Reisenauer, Matthew",28,M,Seattle,WA ,Washington,98103,USA,United States of America,USA,United States of America,2:43:14,266,242,207,Runners,,,2017,male
+242,109,Brian McNamara,"McNamara, Brian",34,M,Cambridge,MA ,Massachusetts,02140,USA,United States of America,USA,United States of America,2:43:14,267,243,208,Runners,,,2017,male
+243,476,Ning Rui,"Rui, Ning",32,M,Gaithersburg,MD ,Maryland,20877,USA,United States of America,CHN,China,2:43:21,269,244,209,Runners,,,2017,male
+244,235,Michael J Thielman,"Thielman, Michael J",26,M,Manassas,VA ,Virginia,20109,USA,United States of America,USA,United States of America,2:43:21,270,245,210,Runners,,,2017,male
+245,117,Kyle Fraser,"Fraser, Kyle",36,M,West Milwaukee,WI ,Wisconsin,53214,USA,United States of America,USA,United States of America,2:43:21,271,246,211,Runners,,,2017,male
+246,943,Christopher Jackson,"Jackson, Christopher",34,M,Greensboro,NC ,North Carolina,27403,USA,United States of America,USA,United States of America,2:43:23,272,247,212,Runners,,,2017,male
+247,2126,Steven L Childres,"Childres, Steven L",25,M,Ellicott City,MD ,Maryland,21043,USA,United States of America,USA,United States of America,2:43:29,273,248,213,Runners,,,2017,male
+248,530,Matthew J. Paullin,"Paullin, Matthew J.",35,M,Berea,OH ,Ohio,44017,USA,United States of America,USA,United States of America,2:43:31,274,249,214,Runners,,,2017,male
+249,213,Andrew T. Kaehr,"Kaehr, Andrew T.",27,M,Chicago,IL ,Illinois,60614,USA,United States of America,USA,United States of America,2:43:34,275,250,215,Runners,,,2017,male
+250,1619,Christiaan Franken,"Franken, Christiaan",35,M,Amsterdam,,,1078HX,NED,Netherlands,NED,Netherlands,2:43:35,276,251,216,Runners,,,2017,male
+251,133,Andrew J Dionne,"Dionne, Andrew J",28,M,Syracuse,NY ,New York,13224,USA,United States of America,USA,United States of America,2:43:35,277,252,217,Runners,,,2017,male
+252,2473,Daniel Haughton,"Haughton, Daniel",27,M,Philadelphia,PA ,Pennsylvania,19146,USA,United States of America,USA,United States of America,2:43:38,278,253,218,Runners,,,2017,male
+253,1270,Jake McHaffie,"McHaffie, Jake",27,M,Yorba Linda,CA ,California,92887,USA,United States of America,USA,United States of America,2:43:41,279,254,219,Runners,,,2017,male
+254,1785,Edward Waller,"Waller, Edward",29,M,Newton,MA ,Massachusetts,02460,USA,United States of America,GBR,United Kingdom,2:43:42,280,255,220,Runners,,,2017,male
+255,957,"Ronaldo V. Motta, Sr.","Motta, Ronaldo V. Sr.",37,M,Rio De Janeiro,,,20241-150,BRA,Brazil,BRA,Brazil,2:43:45,282,256,221,Runners,,,2017,male
+256,199,Dustin M Whitlow,"Whitlow, Dustin M",30,M,Arlington,VA ,Virginia,22201,USA,United States of America,USA,United States of America,2:43:47,283,257,222,Runners,,,2017,male
+257,368,Dustin L Sprague,"Sprague, Dustin L",42,M,Kettering,OH ,Ohio,45429,USA,United States of America,USA,United States of America,2:43:48,284,258,27,Runners,,,2017,male
+258,302,Duncan Roberts,"Roberts, Duncan",41,M,Portland,OR ,Oregon,97239,USA,United States of America,USA,United States of America,2:43:50,285,259,28,Runners,,,2017,male
+259,299,Tom C Ritchie Jr.,"Ritchie, Tom C Jr.",43,M,Anchorage,AK ,Alaska,99507,USA,United States of America,USA,United States of America,2:43:51,286,260,29,Runners,,,2017,male
+260,238,Isaiah L Bragg,"Bragg, Isaiah L",25,M,Xenia,OH ,Ohio,45385,USA,United States of America,USA,United States of America,2:43:52,287,261,223,Runners,,,2017,male
+261,381,Norberto Robles,"Robles, Norberto",30,M,Peoria,AZ ,Arizona,85345,USA,United States of America,USA,United States of America,2:43:52,288,262,224,Runners,,,2017,male
+262,1083,Jeremy Wallace,"Wallace, Jeremy",38,M,Las Vegas,NV ,Nevada,89123,USA,United States of America,USA,United States of America,2:43:53,289,263,225,Runners,,,2017,male
+263,947,Reynaldo Lazo,"Lazo, Reynaldo",35,M,San Jose,,,,CRC,Costa Rica,CRC,Costa Rica,2:43:54,290,264,226,Runners,,,2017,male
+264,635,Eric Hunziker,"Hunziker, Eric",47,M,Cincinnati,OH ,Ohio,45230,USA,United States of America,USA,United States of America,2:43:54,291,265,9,Runners,,,2017,male
+265,1793,Tyler Ames,"Ames, Tyler",26,M,Columbus,OH ,Ohio,43201,USA,United States of America,USA,United States of America,2:43:56,292,266,227,Runners,,,2017,male
+266,282,Christopher Harmon,"Harmon, Christopher",29,M,Portland,ME ,Maine,04101,USA,United States of America,USA,United States of America,2:43:57,293,267,228,Runners,,,2017,male
+267,2321,Ian H Driver,"Driver, Ian H",33,M,San Francisco,CA ,California,94122,USA,United States of America,USA,United States of America,2:43:58,294,268,229,Runners,,,2017,male
+268,348,Jonathan B. Hilty,"Hilty, Jonathan B.",34,M,Seattle,WA ,Washington,98199,USA,United States of America,USA,United States of America,2:43:59,295,269,230,Runners,,,2017,male
+269,1488,Ian Mullikin,"Mullikin, Ian",29,M,San Antonio,TX ,Texas,78259,USA,United States of America,USA,United States of America,2:44:00,296,270,231,Runners,,,2017,male
+270,1243,Mark Puleo,"Puleo, Mark",21,M,Woburn,MA ,Massachusetts,01801,USA,United States of America,USA,United States of America,2:44:02,297,271,232,Runners,,,2017,male
+271,688,Chunfeng She,"She, Chunfeng",43,M,Charlotte,NC ,North Carolina,28277,USA,United States of America,CHN,China,2:44:02,298,272,30,Runners,,,2017,male
+272,1014,Samuel M Lapp,"Lapp, Samuel M",22,M,State College,PA ,Pennsylvania,16801,USA,United States of America,USA,United States of America,2:44:03,299,273,233,Runners,,,2017,male
+273,4355,Christopher M. Smith,"Smith, Christopher M.",28,M,Denver,CO ,Colorado,80218,USA,United States of America,USA,United States of America,2:44:05,300,274,234,Runners,,,2017,male
+274,338,Joshua D. McGettigan,"McGettigan, Joshua D.",30,M,London,,,N7 9JJ,GBR,United Kingdom,GBR,United Kingdom,2:44:06,301,275,235,Runners,,,2017,male
+275,489,Todd J Smith,"Smith, Todd J",42,M,Bristol,VT ,Vermont,05443,USA,United States of America,USA,United States of America,2:44:07,303,276,31,Runners,,,2017,male
+276,464,Tomas L. Valcke,"Valcke, Tomas L.",41,M,Gent,,,9050,BEL,Belgium,BEL,Belgium,2:44:09,304,277,32,Runners,,,2017,male
+277,327,Christopher Klucznik,"Klucznik, Christopher",34,M,Needham,MA ,Massachusetts,02492,USA,United States of America,USA,United States of America,2:44:11,305,278,236,Runners,,,2017,male
+278,194,Kenny Rayner,"Rayner, Kenny",26,M,Arlington,VA ,Virginia,22201,USA,United States of America,USA,United States of America,2:44:16,306,279,237,Runners,,,2017,male
+279,2707,Jerry A Lanning,"Lanning, Jerry A",22,M,Fort Collins,CO ,Colorado,80523,USA,United States of America,USA,United States of America,2:44:24,307,280,238,Runners,,,2017,male
+280,915,Esteban Zuniga Ruiz,"Zuniga Ruiz, Esteban",31,M,San Jose,,,1403-2050,CRC,Costa Rica,CRC,Costa Rica,2:44:25,308,281,239,Runners,,,2017,male
+281,629,Terry Davidson,"Davidson, Terry",45,M,Randolph,NJ ,New Jersey,07869,USA,United States of America,USA,United States of America,2:44:27,309,282,10,Runners,,,2017,male
+282,730,Luke M Wieker,"Wieker, Luke M",27,M,Stillwater,MN ,Minnesota,55082,USA,United States of America,USA,United States of America,2:44:30,310,283,240,Runners,,,2017,male
+283,1390,Michael Rabe,"Rabe, Michael",37,M,Anchorage,AK ,Alaska,99501,USA,United States of America,USA,United States of America,2:44:31,311,284,241,Runners,,,2017,male
+284,1238,C Adam Pfander,"Pfander, C Adam",23,M,Brookline,MA ,Massachusetts,02467,USA,United States of America,USA,United States of America,2:44:32,312,285,242,Runners,,,2017,male
+285,431,Justin Krebs,"Krebs, Justin",42,M,York,PA ,Pennsylvania,17403,USA,United States of America,USA,United States of America,2:44:32,313,286,33,Runners,,,2017,male
+286,426,Todd Buckingham,"Buckingham, Todd",28,M,East Lansing,MI ,Michigan,48823,USA,United States of America,USA,United States of America,2:44:32,314,287,243,Runners,,,2017,male
+287,1041,Malcolm Thomas,"Thomas, Malcolm",36,M,Boston,MA ,Massachusetts,02128,USA,United States of America,USA,United States of America,2:44:32,315,288,244,Runners,,,2017,male
+288,769,Ekkehard Ernst,"Ernst, Ekkehard",44,M,Petit Lancy,,,1213,SUI,Switzerland,GER,Germany,2:44:33,316,289,34,Runners,,,2017,male
+289,83,Christian Mercier,"Mercier, Christian",42,M,Quebec,QC ,Quebec,G1X 0A3,CAN,Canada,CAN,Canada,2:44:34,317,290,35,Runners,,,2017,male
+290,264,Matt J. Carroll,"Carroll, Matt J.",32,M,Auckland,,,1140,NZL,New Zealand,AUS,Australia,2:44:34,318,291,245,Runners,,,2017,male
+291,1682,Eric M Conklin,"Conklin, Eric M",28,M,Cornelius,NC ,North Carolina,28031,USA,United States of America,USA,United States of America,2:44:34,319,292,246,Runners,,,2017,male
+292,744,Clark Selters,"Selters, Clark",26,M,Claremont,CA ,California,91711,USA,United States of America,USA,United States of America,2:44:34,320,293,247,Runners,,,2017,male
+293,747,Akira Nishimura,"Nishimura, Akira",41,M,Ann Arbor,MI ,Michigan,48103,USA,United States of America,JPN,Japan,2:44:34,321,294,36,Runners,,,2017,male
+294,502,Mathieu Girard,"Girard, Mathieu",37,M,Montr�al,QC ,Quebec,h2c2v9,CAN,Canada,CAN,Canada,2:44:35,322,295,248,Runners,,,2017,male
+295,549,Michael Kilbourne,"Kilbourne, Michael",39,M,Augusta,GA ,Georgia,30907,USA,United States of America,USA,United States of America,2:44:39,323,296,249,Runners,,,2017,male
+296,854,Jeffrey Tomaszewski,"Tomaszewski, Jeffrey",42,M,Coronado,CA ,California,92118,USA,United States of America,USA,United States of America,2:44:39,324,297,37,Runners,,,2017,male
+297,1985,Brian Calavan,"Calavan, Brian",32,M,San Francisco,CA ,California,94122,USA,United States of America,USA,United States of America,2:44:44,325,298,250,Runners,,,2017,male
+298,745,Jean Pommier,"Pommier, Jean",53,M,Cupertino,CA ,California,95014,USA,United States of America,USA,United States of America,2:44:50,326,299,2,Runners,,,2017,male
+299,371,Douglas Fernandez,"Fernandez, Douglas",56,M,Richmond,VA ,Virginia,23294,USA,United States of America,VEN,Venezuela,2:44:52,327,300,1,Runners,,,2017,male
+300,958,Matt Ozahowski,"Ozahowski, Matt",31,M,Thetford,VT ,Vermont,05074,USA,United States of America,USA,United States of America,2:44:52,328,301,251,Runners,,,2017,male
+301,414,"Alvaro Montoya, Sr.","Montoya, Alvaro Sr.",36,M,Chicago,IL ,Illinois,60614,USA,United States of America,CHI,Chile,2:44:53,329,302,252,Runners,,,2017,male
+302,759,Alfredo Lopez Borboy,"Lopez Borboy, Alfredo",34,M,Lima,,,LIMA41,PER,Peru,PER,Peru,2:44:55,330,303,253,Runners,,,2017,male
+303,905,Fred P Goris,"Goris, Fred P",29,M,New York,NY ,New York,10009,USA,United States of America,USA,United States of America,2:44:56,331,304,254,Runners,,,2017,male
+304,206,Zack Jordan,"Jordan, Zack",23,M,Ball Ground,GA ,Georgia,30107,USA,United States of America,USA,United States of America,2:45:00,332,305,255,Runners,,,2017,male
+305,399,David Krall,"Krall, David",36,M,Madison,WI ,Wisconsin,53711,USA,United States of America,USA,United States of America,2:45:00,333,306,256,Runners,,,2017,male
+306,449,Daniel A. Costello,"Costello, Daniel A.",21,M,Hayle,,,TR27 4DL,GBR,United Kingdom,GBR,United Kingdom,2:45:03,334,307,257,Runners,,,2017,male
+307,139,Tim Harder,"Harder, Tim",31,M,Somerville,MA ,Massachusetts,02143,USA,United States of America,USA,United States of America,2:45:05,335,308,258,Runners,,,2017,male
+308,360,Rafael Cueto,"Cueto, Rafael",52,M,Santo Domingo,,,30123,DOM,Dominican Republic,DOM,Dominican Republic,2:45:10,336,309,3,Runners,,,2017,male
+309,384,Eric Plennevaux,"Plennevaux, Eric",42,M,Marcy L'Etoile,,,69280,FRA,France,BEL,Belgium,2:45:11,337,310,38,Runners,,,2017,male
+310,252,Alan F. Talhelm,"Talhelm, Alan F.",35,M,Durham,NC ,North Carolina,27705,USA,United States of America,USA,United States of America,2:45:12,338,311,259,Runners,,,2017,male
+311,295,Dale Hunter,"Hunter, Dale",37,M,Seattle,WA ,Washington,98103,USA,United States of America,USA,United States of America,2:45:14,339,312,260,Runners,,,2017,male
+312,771,Aaron Schwartzbard,"Schwartzbard, Aaron",39,M,Washington,DC ,District Of Columbia,20008,USA,United States of America,USA,United States of America,2:45:16,340,313,261,Runners,,,2017,male
+313,1391,Daniel Widtfeldt,"Widtfeldt, Daniel",29,M,Dallas,TX ,Texas,75219,USA,United States of America,USA,United States of America,2:45:21,341,314,262,Runners,,,2017,male
+314,2132,Fernando De Samaniego Steta,"De Samaniego Steta, Fernando",32,M,San Francisco,CA ,California,94109,USA,United States of America,USA,United States of America,2:45:22,342,315,263,Runners,,,2017,male
+315,169,Bryn P. Reynolds,"Reynolds, Bryn P.",29,M,London,,,SW11 2QU,GBR,United Kingdom,GBR,United Kingdom,2:45:22,343,316,264,Runners,,,2017,male
+316,1092,Christopher Calzetta,"Calzetta, Christopher",35,M,Monterey,CA ,California,93940,USA,United States of America,USA,United States of America,2:45:22,344,317,265,Runners,,,2017,male
+317,619,Walter Takano Sr.,"Takano, Walter Sr.",47,M,Lima,,,L27,PER,Peru,PER,Peru,2:45:22,345,318,11,Runners,,,2017,male
+318,538,Morgan B. Scoville,"Scoville, Morgan B.",34,M,Houston,TX ,Texas,77007,USA,United States of America,USA,United States of America,2:45:24,346,319,266,Runners,,,2017,male
+319,160,Eric Mendoza,"Mendoza, Eric",32,M,Dorchester,MA ,Massachusetts,02124,USA,United States of America,USA,United States of America,2:45:24,347,320,267,Runners,,,2017,male
+320,271,Ian A Blackwell,"Blackwell, Ian A",30,M,Arlington,VA ,Virginia,22201,USA,United States of America,USA,United States of America,2:45:25,348,321,268,Runners,,,2017,male
+321,935,Pascal Kardous,"Kardous, Pascal",30,M,Paris,,,75019,FRA,France,FRA,France,2:45:27,349,322,269,Runners,,,2017,male
+322,387,Patrick Bell,"Bell, Patrick",47,M,Richmond,VA ,Virginia,23220,USA,United States of America,USA,United States of America,2:45:27,350,323,12,Runners,,,2017,male
+323,1657,Nicholas Parton,"Parton, Nicholas",31,M,Colorado Springs,CO ,Colorado,80904,USA,United States of America,USA,United States of America,2:45:31,351,324,270,Runners,,,2017,male
+324,1286,Matt L Preslar,"Preslar, Matt L",44,M,Cloudcroft,NM ,New Mexico,88317,USA,United States of America,USA,United States of America,2:45:33,352,325,39,Runners,,,2017,male
+325,843,Issam Krieche,"Krieche, Issam",47,M,Mansfield,MA ,Massachusetts,02048,USA,United States of America,USA,United States of America,2:45:34,353,326,13,Runners,,,2017,male
+326,1451,Ian Vanderven,"Vanderven, Ian",26,M,Skaneateles,NY ,New York,13152,USA,United States of America,USA,United States of America,2:45:35,354,327,271,Runners,,,2017,male
+327,734,Benjamin Atkins,"Atkins, Benjamin",43,M,Westlake Village,CA ,California,91361,USA,United States of America,USA,United States of America,2:45:35,355,328,40,Runners,,,2017,male
+328,963,Jean-Baptiste Theard,"Theard, Jean-Baptiste",35,M,London,,,N1 7TU,GBR,United Kingdom,FRA,France,2:45:35,356,329,272,Runners,,,2017,male
+329,877,"Franklin A. Castillo, Sr.","Castillo, Franklin A. Sr.",32,M,"Doral, Florida",,,33195-6503,PAN,Panama,PAN,Panama,2:45:37,357,330,273,Runners,,,2017,male
+330,743,Rodney Sarkovics,"Sarkovics, Rodney",46,M,Fishers,IN ,Indiana,46037,USA,United States of America,USA,United States of America,2:45:38,358,331,14,Runners,,,2017,male
+331,819,Bruno Morlan,"Morlan, Bruno",27,M,Brea,CA ,California,92821,USA,United States of America,MEX,Mexico,2:45:40,360,332,274,Runners,,,2017,male
+332,595,Ken Ginnan,"Ginnan, Ken",39,M,Vancouver,BC ,British Columbia,V6E 4V2,CAN,Canada,CAN,Canada,2:45:43,361,333,275,Runners,,,2017,male
+333,1214,Robert Christie,"Christie, Robert",44,M,Geneseo,NY ,New York,14454,USA,United States of America,USA,United States of America,2:45:43,362,334,41,Runners,,,2017,male
+334,349,Oliver Landeo Carranza Sr.,"Landeo Carranza, Oliver Sr.",32,M,Lima,,,LIMA01,PER,Peru,PER,Peru,2:45:44,363,335,276,Runners,,,2017,male
+335,916,Eric Wyler,"Wyler, Eric",28,M,Watertown,MA ,Massachusetts,02472,USA,United States of America,USA,United States of America,2:45:44,364,336,277,Runners,,,2017,male
+336,1144,"Diego M. Ferrari, Sr.","Ferrari, Diego M. Sr.",30,M,Sao Paulo,,,04726-040,BRA,Brazil,BRA,Brazil,2:45:44,365,337,278,Runners,,,2017,male
+337,331,Preston Gardner,"Gardner, Preston",39,M,Centerville,UT ,Utah,84014,USA,United States of America,USA,United States of America,2:45:45,366,338,279,Runners,,,2017,male
+338,85,Neil F. Pearson,"Pearson, Neil F.",44,M,Leichhardt,,,2040,AUS,Australia,GBR,United Kingdom,2:45:47,368,339,42,Runners,,,2017,male
+339,708,Jamaal Ryan,"Ryan, Jamaal",40,M,San Diego,CA ,California,92130,USA,United States of America,USA,United States of America,2:45:49,369,340,43,Runners,,,2017,male
+340,1241,Jay Mullen,"Mullen, Jay",32,M,Anchorage,AK ,Alaska,99501,USA,United States of America,USA,United States of America,2:45:52,370,341,280,Runners,,,2017,male
+341,972,Guy Dorval,"Dorval, Guy",56,M,Quebec,QC ,Quebec,G1S 2Z5,CAN,Canada,CAN,Canada,2:45:53,371,342,2,Runners,,,2017,male
+342,2315,Louis Moreau,"Moreau, Louis",24,M,Boulogne-Billancourt,,,92100,FRA,France,FRA,France,2:45:54,372,343,281,Runners,,,2017,male
+343,1249,Corbyn N. Jahn,"Jahn, Corbyn N.",26,M,Anchorage,AK ,Alaska,99507,USA,United States of America,USA,United States of America,2:45:55,373,344,282,Runners,,,2017,male
+344,704,Jerome Perkins,"Perkins, Jerome",26,M,Centennial,CO ,Colorado,80121,USA,United States of America,USA,United States of America,2:45:58,374,345,283,Runners,,,2017,male
+345,594,Tomoaki Uchiki,"Uchiki, Tomoaki",43,M,Saitama,,,336-0021,JPN,Japan,USA,United States of America,2:45:59,375,346,44,Runners,,,2017,male
+346,775,Austin Susmann,"Susmann, Austin",31,M,Wellesley,MA ,Massachusetts,02482,USA,United States of America,USA,United States of America,2:46:00,376,347,284,Runners,,,2017,male
+347,589,Stephen Kress,"Kress, Stephen",31,M,New York,NY ,New York,10016,USA,United States of America,USA,United States of America,2:46:01,377,348,285,Runners,,,2017,male
+348,4608,Bo Brewer,"Brewer, Bo",28,M,Dunwoody,GA ,Georgia,30338,USA,United States of America,USA,United States of America,2:46:05,378,349,286,Runners,,,2017,male
+349,602,Craig P Schmitt,"Schmitt, Craig P",38,M,Red Deer,AB ,Alberta,T4N 5 E2,CAN,Canada,CAN,Canada,2:46:09,379,350,287,Runners,,,2017,male
+350,787,Brian B. Strandby,"Strandby, Brian B.",40,M,Kolding,,,6000,DEN,Denmark,DEN,Denmark,2:46:11,380,351,45,Runners,,,2017,male
+351,1090,Colin Mcquade,"Mcquade, Colin",41,M,Riverview,NB ,New Brunswick,E1B2W5,CAN,Canada,CAN,Canada,2:46:13,381,352,46,Runners,,,2017,male
+352,1011,Henry E Reichard,"Reichard, Henry E",20,M,Woodsboro,MD ,Maryland,21798,USA,United States of America,USA,United States of America,2:46:14,383,353,288,Runners,,,2017,male
+353,325,Anders R. Hesselbjerg,"Hesselbjerg, Anders R.",33,M,2200 Copenhagen N.,,,2200,DEN,Denmark,DEN,Denmark,2:46:15,384,354,289,Runners,,,2017,male
+354,1590,Leonardo E. Sanabria,"Sanabria, Leonardo E.",46,M,Bogota,,,110931,COL,Colombia,COL,Colombia,2:46:16,385,355,15,Runners,,,2017,male
+355,560,Carlos H Vizcarra,"Vizcarra, Carlos H",43,M,Los Angeles,CA ,California,90033,USA,United States of America,USA,United States of America,2:46:19,386,356,47,Runners,,,2017,male
+356,1008,Andrew R Mcevoy,"Mcevoy, Andrew R",46,M,Melbourne,,,3190,AUS,Australia,AUS,Australia,2:46:20,387,357,16,Runners,,,2017,male
+357,2916,Ryuzo Shimoda,"Shimoda, Ryuzo",33,M,Tokyo,,,115-0053,JPN,Japan,JPN,Japan,2:46:20,388,358,290,Runners,,,2017,male
+358,259,Aaqib Syed,"Syed, Aaqib",21,M,West Point,NY ,New York,10997,USA,United States of America,USA,United States of America,2:46:21,389,359,291,Runners,,,2017,male
+359,752,Tyler J Burke,"Burke, Tyler J",32,M,Washington,DC ,District Of Columbia,20009,USA,United States of America,USA,United States of America,2:46:21,390,360,292,Runners,,,2017,male
+360,472,Robert S Ashby,"Ashby, Robert S",48,M,Brunswick,ME ,Maine,04011,USA,United States of America,USA,United States of America,2:46:22,391,361,17,Runners,,,2017,male
+361,1032,Patrick M. Callahan,"Callahan, Patrick M.",44,M,Needham,MA ,Massachusetts,02492,USA,United States of America,USA,United States of America,2:46:22,392,362,48,Runners,,,2017,male
+362,2975,Michael S Morrison,"Morrison, Michael S",42,M,Lincoln,NE ,Nebraska,68506,USA,United States of America,USA,United States of America,2:46:22,393,363,49,Runners,,,2017,male
+363,1089,Matthew Jones,"Jones, Matthew",28,M,London,,,SE17HL,GBR,United Kingdom,GBR,United Kingdom,2:46:23,394,364,293,Runners,,,2017,male
+364,608,Jose F. Galaviz,"Galaviz, Jose F.",53,M,Monterrey,,,64460,MEX,Mexico,MEX,Mexico,2:46:25,395,365,4,Runners,,,2017,male
+365,1833,Dante Zappala,"Zappala, Dante",41,M,Philadelphia,PA ,Pennsylvania,19119,USA,United States of America,USA,United States of America,2:46:25,396,366,50,Runners,,,2017,male
+366,605,Darryl E. Vanderwoude,"Vanderwoude, Darryl E.",29,M,Edmonton,AB ,Alberta,T6G 2W1,CAN,Canada,CAN,Canada,2:46:27,397,367,294,Runners,,,2017,male
+367,443,Steven J. Knight,"Knight, Steven J.",32,M,Mudgee,,,2850,AUS,Australia,AUS,Australia,2:46:28,398,368,295,Runners,,,2017,male
+368,552,Jonathan Cyganik,"Cyganik, Jonathan",24,M,Boston,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:46:31,399,369,296,Runners,,,2017,male
+369,1448,Hiromasa Aono,"Aono, Hiromasa",35,M,Arlington,MA ,Massachusetts,02474,USA,United States of America,JPN,Japan,2:46:32,400,370,297,Runners,,,2017,male
+370,423,Steven T. Waite,"Waite, Steven T.",26,M,Fresno,CA ,California,93727,USA,United States of America,USA,United States of America,2:46:33,401,371,298,Runners,,,2017,male
+371,242,Robert H Wiegand Jr.,"Wiegand, Robert H Jr.",39,M,Chicago,IL ,Illinois,60614,USA,United States of America,USA,United States of America,2:46:35,402,372,299,Runners,,,2017,male
+372,105,Sebastien Bazeille,"Bazeille, Sebastien",35,M,Cabries,,,13480,FRA,France,FRA,France,2:46:35,403,373,300,Runners,,,2017,male
+373,1795,Sean Mccauley,"Mccauley, Sean",25,M,Canterbury,NH ,New Hampshire,03224,USA,United States of America,USA,United States of America,2:46:39,404,374,301,Runners,,,2017,male
+374,1792,Matthew P Orlando,"Orlando, Matthew P",24,M,Boston,MA ,Massachusetts,02118,USA,United States of America,USA,United States of America,2:46:39,405,375,302,Runners,,,2017,male
+375,557,Alex J Ratliff,"Ratliff, Alex J",22,M,Macomb,MI ,Michigan,48042,USA,United States of America,USA,United States of America,2:46:40,406,376,303,Runners,,,2017,male
+376,222,Zachery Smith,"Smith, Zachery",22,M,Phoenix,AZ ,Arizona,85048,USA,United States of America,USA,United States of America,2:46:44,407,377,304,Runners,,,2017,male
+377,909,Mike Canan,"Canan, Mike",36,M,Cincinnati,OH ,Ohio,45212,USA,United States of America,USA,United States of America,2:46:47,408,378,305,Runners,,,2017,male
+378,2162,Joshua D. Whitcraft,"Whitcraft, Joshua D.",32,M,New York,NY ,New York,10021,USA,United States of America,USA,United States of America,2:46:48,409,379,306,Runners,,,2017,male
+379,2518,Aaron Manning,"Manning, Aaron",23,M,Toronto,ON ,Ontario,M5V 4B3,CAN,Canada,CAN,Canada,2:46:49,410,380,307,Runners,,,2017,male
+380,542,Manuel A Gonzalez,"Gonzalez, Manuel A",27,M,Cambridge,MA ,Massachusetts,02139-3769,USA,United States of America,USA,United States of America,2:46:50,411,381,308,Runners,,,2017,male
+381,2774,Kyle W Mckinley,"Mckinley, Kyle W",20,M,Stillwater,OK ,Oklahoma,74074,USA,United States of America,USA,United States of America,2:46:50,412,382,309,Runners,,,2017,male
+382,500,Aaron L Anderson,"Anderson, Aaron L",33,M,Germantown,MD ,Maryland,20874,USA,United States of America,USA,United States of America,2:46:52,413,383,310,Runners,,,2017,male
+383,666,Nikolas S Bowie,"Bowie, Nikolas S",29,M,Cambridge,MA ,Massachusetts,02140,USA,United States of America,USA,United States of America,2:46:53,414,384,311,Runners,,,2017,male
+384,2014,Anthony Diamond,"Diamond, Anthony",26,M,Philadelphia,PA ,Pennsylvania,19130,USA,United States of America,USA,United States of America,2:46:53,415,385,312,Runners,,,2017,male
+385,2123,William Hartje,"Hartje, William",24,M,Neptune Beach,FL ,Florida,32266,USA,United States of America,USA,United States of America,2:46:56,416,386,313,Runners,,,2017,male
+386,859,Patrick Ollinger,"Ollinger, Patrick",29,M,Decatur,GA ,Georgia,30033,USA,United States of America,USA,United States of America,2:46:56,417,387,314,Runners,,,2017,male
+387,929,Harsha Thirumurthy,"Thirumurthy, Harsha",40,M,Chapel Hill,NC ,North Carolina,27516,USA,United States of America,USA,United States of America,2:46:59,418,388,51,Runners,,,2017,male
+388,1818,Joshua Mcclung,"Mcclung, Joshua",33,M,Birmingham,AL ,Alabama,35210,USA,United States of America,USA,United States of America,2:47:02,420,389,315,Runners,,,2017,male
+389,422,Jean-Marc Mac-Thiong,"Mac-Thiong, Jean-Marc",42,M,Mont-Royal,QC ,Quebec,H4P1E2,CAN,Canada,CAN,Canada,2:47:03,421,390,52,Runners,,,2017,male
+390,249,Miles Aitken,"Aitken, Miles",33,M,Washington,DC ,District Of Columbia,20015,USA,United States of America,USA,United States of America,2:47:03,422,391,316,Runners,,,2017,male
+391,1787,Derrick J. Hamel,"Hamel, Derrick J.",33,M,Northwood,NH ,New Hampshire,03261,USA,United States of America,USA,United States of America,2:47:03,423,392,317,Runners,,,2017,male
+392,176,Bryan Huberty,"Huberty, Bryan",38,M,Miami Beach,FL ,Florida,33140,USA,United States of America,USA,United States of America,2:47:06,424,393,318,Runners,,,2017,male
+393,1687,Colin Coomer,"Coomer, Colin",28,M,Prairie Village,KS ,Kansas,66208,USA,United States of America,USA,United States of America,2:47:06,425,394,319,Runners,,,2017,male
+394,558,Jonathan M Kimura,"Kimura, Jonathan M",36,M,Cupertino,CA ,California,95014,USA,United States of America,USA,United States of America,2:47:06,426,395,320,Runners,,,2017,male
+395,1017,Nathaniel Couture,"Couture, Nathaniel",36,M,Fredericton,NB ,New Brunswick,E3B 2M9,CAN,Canada,CAN,Canada,2:47:07,427,396,321,Runners,,,2017,male
+396,310,Drew T Nesbitt,"Nesbitt, Drew T",32,M,Lancaster,PA ,Pennsylvania,17601,USA,United States of America,USA,United States of America,2:47:08,428,397,322,Runners,,,2017,male
+397,2663,Alan M Groudle,"Groudle, Alan M",33,M,Lewiston,ME ,Maine,04241,USA,United States of America,USA,United States of America,2:47:14,429,398,323,Runners,,,2017,male
+398,377,William C Adams,"Adams, William C",33,M,Arlington,VA ,Virginia,22201,USA,United States of America,USA,United States of America,2:47:15,430,399,324,Runners,,,2017,male
+399,1310,Antonio Bolanos Sr.,"Bolanos, Antonio Sr.",27,M,San Jose,,,10109,CRC,Costa Rica,CRC,Costa Rica,2:47:16,431,400,325,Runners,,,2017,male
+400,2838,Tyler Hamilton,"Hamilton, Tyler",27,M,Toronto,ON ,Ontario,M6J 3X3,CAN,Canada,CAN,Canada,2:47:18,432,401,326,Runners,,,2017,male
+401,224,Mohd Syahidan Bin Alias,"Bin Alias, Mohd Syahidan",29,M,Shah Alam,,,40460,MAS,Malaysia,MAS,Malaysia,2:47:18,433,402,327,Runners,,,2017,male
+402,4047,Dave R. Brown,"Brown, Dave R.",27,M,Washington,DC ,District Of Columbia,20024,USA,United States of America,USA,United States of America,2:47:18,434,403,328,Runners,,,2017,male
+403,599,Mario Fraioli Jr.,"Fraioli, Mario Jr.",34,M,Kentfield,CA ,California,94904,USA,United States of America,USA,United States of America,2:47:21,435,404,329,Runners,,,2017,male
+404,2163,Jim Park,"Park, Jim",50,M,Buffalo,NY ,New York,14222,USA,United States of America,USA,United States of America,2:47:22,436,405,5,Runners,,,2017,male
+405,1324,Charles C Graysmark,"Graysmark, Charles C",43,M,Duluth,MN ,Minnesota,55812,USA,United States of America,USA,United States of America,2:47:22,437,406,53,Runners,,,2017,male
+406,1293,Timothy G Appman,"Appman, Timothy G",23,M,Pittsburgh,PA ,Pennsylvania,15237,USA,United States of America,USA,United States of America,2:47:23,438,407,330,Runners,,,2017,male
+407,185,Hugh F Parker,"Parker, Hugh F",26,M,New York,NY ,New York,10128,USA,United States of America,USA,United States of America,2:47:24,439,408,331,Runners,,,2017,male
+408,699,Erik Reed,"Reed, Erik",28,M,East Liverpool,OH ,Ohio,43920,USA,United States of America,USA,United States of America,2:47:26,440,409,332,Runners,,,2017,male
+409,804,Kiefer K Hotek,"Hotek, Kiefer K",26,M,Minneapolis,MN ,Minnesota,55408,USA,United States of America,USA,United States of America,2:47:26,441,410,333,Runners,,,2017,male
+410,523,Matt Collins,"Collins, Matt",26,M,New York,NY ,New York,10022,USA,United States of America,USA,United States of America,2:47:27,442,411,334,Runners,,,2017,male
+411,1552,Joe R. Viavattine,"Viavattine, Joe R.",22,M,Vadnais Heights,MN ,Minnesota,55127,USA,United States of America,USA,United States of America,2:47:28,443,412,335,Runners,,,2017,male
+412,1069,Raul E Ochoa,"Ochoa, Raul E",41,M,San Mateo,CA ,California,94401,USA,United States of America,ARG,Argentina,2:47:28,444,413,54,Runners,,,2017,male
+413,518,John Mark Goodman,"Goodman, John Mark",37,M,Birmingham,AL ,Alabama,35213,USA,United States of America,USA,United States of America,2:47:28,445,414,336,Runners,,,2017,male
+414,1298,Ben Gibbs,"Gibbs, Ben",34,M,University Heights,OH ,Ohio,44118,USA,United States of America,USA,United States of America,2:47:30,446,415,337,Runners,,,2017,male
+415,1126,Hossein Baghdadi,"Baghdadi, Hossein",38,M,Portland,OR ,Oregon,97219,USA,United States of America,USA,United States of America,2:47:30,447,416,338,Runners,,,2017,male
+416,616,Charlie Johnson,"Johnson, Charlie",37,M,Tallahassee,FL ,Florida,32308,USA,United States of America,USA,United States of America,2:47:31,448,417,339,Runners,,,2017,male
+417,1815,"Bruno L. Oliveira, Sr.","Oliveira, Bruno L. Sr.",28,M,S�o Paulo,,,05833-130,BRA,Brazil,BRA,Brazil,2:47:32,450,418,340,Runners,,,2017,male
+418,831,Ryne Carney,"Carney, Ryne",26,M,Washington,DC ,District Of Columbia,20024,USA,United States of America,USA,United States of America,2:47:33,451,419,341,Runners,,,2017,male
+419,845,Dan Lesser,"Lesser, Dan",40,M,San Diego,CA ,California,92130,USA,United States of America,USA,United States of America,2:47:33,452,420,55,Runners,,,2017,male
+420,1649,John W Spellman IV,"Spellman, John W IV",27,M,Miami,FL ,Florida,33131,USA,United States of America,USA,United States of America,2:47:35,453,421,342,Runners,,,2017,male
+421,2087,Adam S Tenforde,"Tenforde, Adam S",36,M,Milton,MA ,Massachusetts,02186,USA,United States of America,USA,United States of America,2:47:36,454,422,343,Runners,,,2017,male
+422,803,Corey Pires,"Pires, Corey",21,M,North Easton,MA ,Massachusetts,02356,USA,United States of America,USA,United States of America,2:47:36,455,423,344,Runners,,,2017,male
+423,1351,Will Cunha,"Cunha, Will",28,M,Pittsburgh,PA ,Pennsylvania,15217,USA,United States of America,USA,United States of America,2:47:39,457,424,345,Runners,,,2017,male
+424,570,Campbell Ilfrey,"Ilfrey, Campbell",43,M,Louisville,CO ,Colorado,80027,USA,United States of America,USA,United States of America,2:47:40,458,425,56,Runners,,,2017,male
+425,2932,Christopher Rego,"Rego, Christopher",28,M,Colorado Springs,CO ,Colorado,80918,USA,United States of America,USA,United States of America,2:47:41,459,426,346,Runners,,,2017,male
+426,52,Matt K. McSween,"McSween, Matt K.",26,M,Grand Rapids,MI ,Michigan,49525,USA,United States of America,USA,United States of America,2:47:41,460,427,347,Runners,,,2017,male
+427,1346,Benjamin R. Coughlin,"Coughlin, Benjamin R.",27,M,Holden,MA ,Massachusetts,01520,USA,United States of America,USA,United States of America,2:47:42,461,428,348,Runners,,,2017,male
+428,306,Jon Gauthier,"Gauthier, Jon",30,M,Salt Lake City,UT ,Utah,84105,USA,United States of America,USA,United States of America,2:47:42,462,429,349,Runners,,,2017,male
+429,1232,Brandon T Mathews,"Mathews, Brandon T",32,M,Locust Grove,VA ,Virginia,22508,USA,United States of America,USA,United States of America,2:47:43,463,430,350,Runners,,,2017,male
+430,1770,Seth R Waltz,"Waltz, Seth R",36,M,Brighton,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:47:44,464,431,351,Runners,,,2017,male
+431,2274,Jeff Koranda,"Koranda, Jeff",31,M,Chicago,IL ,Illinois,60608,USA,United States of America,USA,United States of America,2:47:44,465,432,352,Runners,,,2017,male
+432,867,Krystian Kochanek,"Kochanek, Krystian",36,M,Warsaw,,,03-982,POL,Poland,POL,Poland,2:47:48,466,433,353,Runners,,,2017,male
+433,1722,Jack Wallace,"Wallace, Jack",27,M,Richmond,CA ,California,94804,USA,United States of America,USA,United States of America,2:47:50,467,434,354,Runners,,,2017,male
+434,491,"Juan Manuel Martinez Solano, Jr.","Martinez Solano, Juan Manuel Jr.",28,M,Bogota,,,111031,COL,Colombia,COL,Colombia,2:47:51,468,435,355,Runners,,,2017,male
+435,1158,Daniel Kelley,"Kelley, Daniel",39,M,Lynnfield,MA ,Massachusetts,01940,USA,United States of America,USA,United States of America,2:47:56,470,436,356,Runners,,,2017,male
+436,322,Jonathan Autrey,"Autrey, Jonathan",34,M,Memphis,TN ,Tennessee,38117,USA,United States of America,USA,United States of America,2:47:57,471,437,357,Runners,,,2017,male
+437,2418,Seth T Woodring,"Woodring, Seth T",19,M,Fort Collins,CO ,Colorado,80521,USA,United States of America,USA,United States of America,2:47:57,472,438,358,Runners,,,2017,male
+438,1329,Adam C Groff,"Groff, Adam C",40,M,Hanover,NH ,New Hampshire,03755,USA,United States of America,USA,United States of America,2:47:59,473,439,57,Runners,,,2017,male
+439,200,Paul S. O'Callaghan,"O'Callaghan, Paul S.",39,M,Tadworth,,,KT205LS,GBR,United Kingdom,GBR,United Kingdom,2:47:59,474,440,359,Runners,,,2017,male
+440,818,Robert J. Greenberg,"Greenberg, Robert J.",40,M,Victoria,,,3144,AUS,Australia,AUS,Australia,2:47:59,475,441,58,Runners,,,2017,male
+441,245,Steve Hobbs,"Hobbs, Steve",44,M,London,,,E9 7BY,GBR,United Kingdom,GBR,United Kingdom,2:48:01,476,442,59,Runners,,,2017,male
+442,255,Evan Jurkovich,"Jurkovich, Evan",31,M,Washington,DC ,District Of Columbia,20010,USA,United States of America,USA,United States of America,2:48:03,477,443,360,Runners,,,2017,male
+443,298,Chikara Yanada,"Yanada, Chikara",32,M,Anan Shi,,,7791401,JPN,Japan,JPN,Japan,2:48:03,478,444,361,Runners,,,2017,male
+444,1591,Stuart Hicks,"Hicks, Stuart",41,M,Eastleigh,,,SO50 7BZ,GBR,United Kingdom,GBR,United Kingdom,2:48:06,479,445,60,Runners,,,2017,male
+445,354,Jeff Sadler,"Sadler, Jeff",28,M,Austin,TX ,Texas,78749,USA,United States of America,USA,United States of America,2:48:13,481,446,362,Runners,,,2017,male
+446,1545,"Cesar Camara Ortiz, Sr.","Camara Ortiz, Cesar Sr.",34,M,Guadalajara Jalisco,,,44150,MEX,Mexico,MEX,Mexico,2:48:15,482,447,363,Runners,,,2017,male
+447,3544,Byron L. Critchfield,"Critchfield, Byron L.",29,M,Fountain,CO ,Colorado,80817,USA,United States of America,USA,United States of America,2:48:17,483,448,364,Runners,,,2017,male
+448,1623,Brian M. Halusan,"Halusan, Brian M.",47,M,New York,NY ,New York,10026,USA,United States of America,USA,United States of America,2:48:18,484,449,18,Runners,,,2017,male
+449,725,"Oscar J. Acosta, Sr.","Acosta, Oscar J. Sr.",29,M,Bogota,,,111221,COL,Colombia,COL,Colombia,2:48:20,485,450,365,Runners,,,2017,male
+450,5811,Rob Hampton,"Hampton, Rob",42,M,Allentown,PA ,Pennsylvania,18104,USA,United States of America,USA,United States of America,2:48:25,486,451,61,Runners,,,2017,male
+451,776,Rich M Power,"Power, Rich M",53,M,Rochester,MI ,Michigan,48307,USA,United States of America,USA,United States of America,2:48:25,487,452,6,Runners,,,2017,male
+452,2125,Luis Fern�ndez Jim�nez,"Fern�ndez Jim�nez, Luis",32,M,Tres Rios,,,30305,CRC,Costa Rica,CRC,Costa Rica,2:48:27,488,453,366,Runners,,,2017,male
+453,1875,Jordan English,"English, Jordan",27,M,Kansas City,MO ,Missouri,64158,USA,United States of America,USA,United States of America,2:48:28,489,454,367,Runners,,,2017,male
+454,2038,Taylor W Rogers,"Rogers, Taylor W",34,M,London,,,N1 2BA,GBR,United Kingdom,USA,United States of America,2:48:29,490,455,368,Runners,,,2017,male
+455,4942,Nicholas P Inniger,"Inniger, Nicholas P",35,M,Rogers,AR ,Arkansas,72758,USA,United States of America,USA,United States of America,2:48:32,491,456,369,Runners,,,2017,male
+456,1139,Douglas R. Baldwin,"Baldwin, Douglas R.",52,M,St. Paul,MN ,Minnesota,55104,USA,United States of America,USA,United States of America,2:48:32,492,457,7,Runners,,,2017,male
+457,1359,Christopher G Valicka,"Valicka, Christopher G",33,M,Albuquerque,NM ,New Mexico,87113,USA,United States of America,USA,United States of America,2:48:33,493,458,370,Runners,,,2017,male
+458,2213,Ian Kloehn,"Kloehn, Ian",22,M,Menomonee Falls,WI ,Wisconsin,53051,USA,United States of America,USA,United States of America,2:48:34,494,459,371,Runners,VI,"Visually Impaired (T11, T12, T13)",2017,male
+459,1773,Kevin C Hartstein,"Hartstein, Kevin C",27,M,Hanover,NH ,New Hampshire,03755,USA,United States of America,USA,United States of America,2:48:34,495,460,372,Runners,,,2017,male
+460,824,Travis E. King,"King, Travis E.",32,M,Seattle,WA ,Washington,98103,USA,United States of America,USA,United States of America,2:48:35,496,461,373,Runners,,,2017,male
+461,400,John L Scudder,"Scudder, John L",40,M,Apo,AE ,Armed Forces Europe,09128,USA,United States of America,USA,United States of America,2:48:36,497,462,62,Runners,,,2017,male
+462,780,Bernd Kuhlenschmidt,"Kuhlenschmidt, Bernd",31,M,Geneva,,,1202,SUI,Switzerland,GER,Germany,2:48:37,498,463,374,Runners,,,2017,male
+463,234,John L. Corona,"Corona, John L.",24,M,Portsmouth,NH ,New Hampshire,03801,USA,United States of America,USA,United States of America,2:48:38,499,464,375,Runners,,,2017,male
+464,1597,Vivian J. Foley,"Foley, Vivian J.",47,M,Cork,,,0001,IRL,Ireland,IRL,Ireland,2:48:41,500,465,19,Runners,,,2017,male
+465,1627,Jim Moore,"Moore, Jim",45,M,Austin,TX ,Texas,78732,USA,United States of America,USA,United States of America,2:48:41,501,466,20,Runners,,,2017,male
+466,1258,Katsuhiro Togami,"Togami, Katsuhiro",39,M,Brookline,MA ,Massachusetts,02446,USA,United States of America,JPN,Japan,2:48:43,503,467,376,Runners,,,2017,male
+467,514,Daniel Kwon,"Kwon, Daniel",30,M,New York,NY ,New York,10024,USA,United States of America,USA,United States of America,2:48:45,504,468,377,Runners,,,2017,male
+468,1836,Scott Bradley,"Bradley, Scott",33,M,Rochester,NY ,New York,14609,USA,United States of America,USA,United States of America,2:48:47,505,469,378,Runners,,,2017,male
+469,265,Robert Jongh,"Jongh, Robert",45,M,Rijen,,,5122 KD,NED,Netherlands,NED,Netherlands,2:48:47,506,470,21,Runners,,,2017,male
+470,908,Michael D Fisher,"Fisher, Michael D",33,M,Asheville,NC ,North Carolina,28806,USA,United States of America,USA,United States of America,2:48:48,507,471,379,Runners,,,2017,male
+471,607,Xiao Wang,"Wang, Xiao",31,M,Seattle,WA ,Washington,98121,USA,United States of America,USA,United States of America,2:48:49,509,472,380,Runners,,,2017,male
+472,1457,Ryan Gordyan,"Gordyan, Ryan",28,M,Chicago,IL ,Illinois,60611,USA,United States of America,USA,United States of America,2:48:50,510,473,381,Runners,,,2017,male
+473,258,Norman H Mininger,"Mininger, Norman H",32,M,Lansing,KS ,Kansas,66043,USA,United States of America,USA,United States of America,2:48:51,511,474,382,Runners,,,2017,male
+474,1460,Ray A Avalos Jr.,"Avalos, Ray A Jr.",33,M,San Jose,CA ,California,95119,USA,United States of America,USA,United States of America,2:48:53,512,475,383,Runners,,,2017,male
+475,801,Jeroen L. Geeraert,"Geeraert, Jeroen L.",27,M,Boulder,CO ,Colorado,80303,USA,United States of America,USA,United States of America,2:48:53,513,476,384,Runners,,,2017,male
+476,1686,Felipe Iii L. Sajulga,"Sajulga, Felipe Iii L.",35,M,Malaybalay City,,,8700,PHI,Philippines,PHI,Philippines,2:48:56,514,477,385,Runners,,,2017,male
+477,407,Nicholas Synan,"Synan, Nicholas",26,M,New York,NY ,New York,10028,USA,United States of America,USA,United States of America,2:48:57,515,478,386,Runners,,,2017,male
+478,586,Stephen H Garner IV,"Garner, Stephen H IV",27,M,Yarmouthport,MA ,Massachusetts,02675,USA,United States of America,USA,United States of America,2:48:58,516,479,387,Runners,,,2017,male
+479,1767,Daniel Lautzenheiser,"Lautzenheiser, Daniel",31,M,Washington,DC ,District Of Columbia,20002,USA,United States of America,USA,United States of America,2:48:59,517,480,388,Runners,,,2017,male
+480,1330,Blake Pearson,"Pearson, Blake",38,M,Homewood,AL ,Alabama,35209,USA,United States of America,USA,United States of America,2:48:59,518,481,389,Runners,,,2017,male
+481,2457,Michal Golaszewski,"Golaszewski, Michal",40,M,Legionowo,,,05-120,POL,Poland,POL,Poland,2:49:00,519,482,63,Runners,,,2017,male
+482,1749,Daniel O. Comite,"Comite, Daniel O.",28,M,Charleston,SC ,South Carolina,29403,USA,United States of America,USA,United States of America,2:49:02,520,483,390,Runners,,,2017,male
+483,1097,Erik J Schrandt,"Schrandt, Erik J",20,M,Madison,WI ,Wisconsin,53703,USA,United States of America,USA,United States of America,2:49:02,521,484,391,Runners,,,2017,male
+484,2184,Harrell W Chesson,"Chesson, Harrell W",48,M,Atlanta,GA ,Georgia,30329,USA,United States of America,USA,United States of America,2:49:02,522,485,22,Runners,,,2017,male
+485,1658,Noah McColl,"McColl, Noah",29,M,New York,NY ,New York,11249,USA,United States of America,CAN,Canada,2:49:04,523,486,392,Runners,,,2017,male
+486,1528,Jake Austin,"Austin, Jake",25,M,Elliottsburg,PA ,Pennsylvania,17024,USA,United States of America,USA,United States of America,2:49:05,524,487,393,Runners,,,2017,male
+487,55,Paul M. Matuszak,"Matuszak, Paul M.",30,M,Philadelphia,PA ,Pennsylvania,19148,USA,United States of America,USA,United States of America,2:49:08,525,488,394,Runners,,,2017,male
+488,1021,Kyle Coffee,"Coffee, Kyle",26,M,Brighton,MA ,Massachusetts,02135,USA,United States of America,USA,United States of America,2:49:09,526,489,395,Runners,,,2017,male
+489,739,Will Swenson,"Swenson, Will",45,M,Andover,MA ,Massachusetts,01810,USA,United States of America,USA,United States of America,2:49:10,527,490,23,Runners,,,2017,male
+490,268,Scott R Mckeel,"Mckeel, Scott R",27,M,Grand Haven,MI ,Michigan,49417,USA,United States of America,USA,United States of America,2:49:10,528,491,396,Runners,,,2017,male
+491,1259,Alden W Hall,"Hall, Alden W",47,M,Lebanon,NH ,New Hampshire,03766,USA,United States of America,USA,United States of America,2:49:14,529,492,24,Runners,,,2017,male
+492,656,John P Berger,"Berger, John P",37,M,Minneapolis,MN ,Minnesota,55417,USA,United States of America,USA,United States of America,2:49:15,530,493,397,Runners,,,2017,male
+493,2804,Alvin Begay,"Begay, Alvin",27,M,Ganado,AZ ,Arizona,86505,USA,United States of America,USA,United States of America,2:49:17,531,494,398,Runners,,,2017,male
+494,1136,Mark T. Rabasco,"Rabasco, Mark T.",22,M,Pittsfield,MA ,Massachusetts,01201,USA,United States of America,USA,United States of America,2:49:17,532,495,399,Runners,,,2017,male
+495,356,David J. Freeman,"Freeman, David J.",50,M,Epsom Downs,,,KT17 3LG,GBR,United Kingdom,GBR,United Kingdom,2:49:17,533,496,8,Runners,,,2017,male
+496,601,Yoshinori Fukuchi,"Fukuchi, Yoshinori",46,M,Tokyo,,,1460084,JPN,Japan,JPN,Japan,2:49:17,534,497,25,Runners,,,2017,male
+497,5714,"Alexsandro S. Lima, Sr.","Lima, Alexsandro S. Sr.",35,M,Salvador,,,41650295,BRA,Brazil,BRA,Brazil,2:49:21,535,498,400,Runners,,,2017,male
+498,1271,Douglas Baasch,"Baasch, Douglas",30,M,Jacksonville,FL ,Florida,32207,USA,United States of America,USA,United States of America,2:49:21,536,499,401,Runners,,,2017,male
+499,178,Alexander Looi,"Looi, Alexander",28,M,Burlington,VT ,Vermont,05401-4021,USA,United States of America,USA,United States of America,2:49:21,537,500,402,Runners,,,2017,male

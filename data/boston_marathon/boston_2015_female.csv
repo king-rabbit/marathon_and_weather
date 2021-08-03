@@ -1,0 +1,501 @@
+,BibNumber,FullName,SortName,AgeOnRaceDay,Gender,City,StateAbbrev,StateName,Zip,CountryOfResAbbrev,CountryOfResName,CountryOfCtzAbbrev,CountryOfCtzName,OfficialTime,RankOverall,RankOverGender,RankOverDivision,EventGroup,SubGroupLabel,SubGroup,year,gender
+0,F11,Caroline Rotich,"Rotich, Caroline",30,F,Nyahururu,,,,KEN,Kenya,KEN,Kenya,2:24:55,31,1,1,Runners,,,2015,female
+1,F2,Mare Dibaba,"Dibaba, Mare",25,F,Shoa,,,,ETH,Ethiopia,ETH,Ethiopia,2:24:59,32,2,2,Runners,,,2015,female
+2,F1,Buzunesh Deba,"Deba, Buzunesh",27,F,Arsi,,,,ETH,Ethiopia,ETH,Ethiopia,2:25:09,34,3,3,Runners,,,2015,female
+3,F10,Desiree Linden,"Linden, Desiree",31,F,Rochester Mills,MI ,Michigan,,USA,United States of America,USA,United States of America,2:25:39,40,4,4,Runners,,,2015,female
+4,F8,Sharon Cherop,"Cherop, Sharon",31,F,Marakwet,,,,KEN,Kenya,KEN,Kenya,2:26:05,44,5,5,Runners,,,2015,female
+5,F9,Caroline Kilel,"Kilel, Caroline",34,F,Bomet,,,,KEN,Kenya,KEN,Kenya,2:26:40,52,6,6,Runners,,,2015,female
+6,F3,Aberu Kebede,"Kebede, Aberu",28,F,Shoa,,,,ETH,Ethiopia,ETH,Ethiopia,2:26:52,54,7,7,Runners,,,2015,female
+7,F6,Shure Demise,"Demise, Shure",19,F,Bore,,,,ETH,Ethiopia,ETH,Ethiopia,2:27:14,58,8,8,Runners,,,2015,female
+8,F4,Shalane Flanagan,"Flanagan, Shalane",33,F,Portland,OR ,Oregon,,USA,United States of America,USA,United States of America,2:27:47,62,9,9,Runners,,,2015,female
+9,F16,Joyce Chepkirui,"Chepkirui, Joyce",26,F,Iten,,,,KEN,Kenya,KEN,Kenya,2:29:07,75,10,10,Runners,,,2015,female
+10,F5,Aleksandra Duliba,"Duliba, Aleksandra",27,F,Minsk,,,,BLR,Belarus,BLR,Belarus,2:29:23,78,11,11,Runners,,,2015,female
+11,F14,Lisa Nemec,"Nemec, Lisa",30,F,Zagreb,,,,CRO,Croatia,CRO,Croatia,2:35:18,146,12,12,Runners,,,2015,female
+12,F18,Adriana Nelson,"Nelson, Adriana",35,F,Fort Collins,CO ,Colorado,,USA,United States of America,USA,United States of America,2:38:47,224,13,13,Runners,,,2015,female
+13,F22,Megumi Amako,"Amako, Megumi",24,F,Tokyo,,,108-8485,JPN,Japan,JPN,Japan,2:39:08,236,14,14,Runners,,,2015,female
+14,F21,Hilary K. Dionne,"Dionne, Hilary K.",29,F,Charlestown,MA ,Massachusetts,02129,USA,United States of America,USA,United States of America,2:40:42,304,15,15,Runners,,,2015,female
+15,F24,Lauren Philbrook,"Philbrook, Lauren",27,F,State College,PA ,Pennsylvania,16801,USA,United States of America,USA,United States of America,2:41:17,330,16,16,Runners,,,2015,female
+16,F25,Caitlin E. Phillips,"Phillips, Caitlin E.",32,F,New York,NY ,New York,10023,USA,United States of America,USA,United States of America,2:44:28,473,17,17,Runners,,,2015,female
+17,1339,Lissa Zimmer,"Zimmer, Lissa",23,F,Vancouver,BC ,British Columbia,V6G 2A6,CAN,Canada,USA,United States of America,2:44:56,498,18,18,Runners,,,2015,female
+18,775,Katie Misuraca,"Misuraca, Katie",34,F,Gloucester,MA ,Massachusetts,01930,USA,United States of America,USA,United States of America,2:46:22,598,19,19,Runners,,,2015,female
+19,1502,Madeline E. Duhon,"Duhon, Madeline E.",26,F,Somerville,MA ,Massachusetts,02143,USA,United States of America,USA,United States of America,2:46:34,609,20,20,Runners,,,2015,female
+20,F119,Liza Hunter-Galvan,"Hunter-Galvan, Liza",45,F,San Antonio,TX ,Texas,78255,USA,United States of America,NZL,New Zealand,2:46:44,627,21,1,Runners,,,2015,female
+21,4793,Elizabeth Ryan,"Ryan, Elizabeth",24,F,Cambridge,MA ,Massachusetts,02141,USA,United States of America,USA,United States of America,2:47:15,665,22,21,Runners,,,2015,female
+22,F29,Mayumi Uchiyama,"Uchiyama, Mayumi",22,F,Tokyo,,,105-0004,JPN,Japan,JPN,Japan,2:47:17,667,23,22,Runners,,,2015,female
+23,2482,Ji Li,"Li, Ji",33,F,Guang Dong,,,518060,CHN,China,CHN,China,2:48:07,737,24,23,Runners,,,2015,female
+24,F28,Amber Green,"Green, Amber",34,F,Saint George,UT ,Utah,84770,USA,United States of America,USA,United States of America,2:48:07,738,25,24,Runners,,,2015,female
+25,1282,Emily D'Addario,"D'Addario, Emily",24,F,Boston,MA ,Massachusetts,02215,USA,United States of America,USA,United States of America,2:48:10,742,26,25,Runners,,,2015,female
+26,F101,Nuta Olaru,"Olaru, Nuta",44,F,Longmont,CO ,Colorado,80503,USA,United States of America,USA,United States of America,2:48:28,770,27,1,Runners,,,2015,female
+27,1254,Denise M Sandahl,"Sandahl, Denise M",34,F,Bow,NH ,New Hampshire,03304,USA,United States of America,USA,United States of America,2:48:32,779,28,26,Runners,,,2015,female
+28,F40,Andrea K. Rediger,"Rediger, Andrea K.",26,F,Minneapolis,MN ,Minnesota,55418,USA,United States of America,USA,United States of America,2:48:41,790,29,27,Runners,,,2015,female
+29,F104,Dorota Gruca,"Gruca, Dorota",44,F,Albuquerque,NM ,New Mexico,87111,USA,United States of America,POL,Poland,2:48:49,802,30,2,Runners,,,2015,female
+30,F27,Hiruni Wijayaratne,"Wijayaratne, Hiruni",24,F,Evansville,IN ,Indiana,47715,USA,United States of America,USA,United States of America,2:49:05,828,31,28,Runners,,,2015,female
+31,F106,Marie Davenport,"Davenport, Marie",40,F,Guilford,CT ,Connecticut,06437,USA,United States of America,USA,United States of America,2:49:06,832,32,3,Runners,,,2015,female
+32,F111,Kristin P. Barry,"Barry, Kristin P.",41,F,Scarborough,ME ,Maine,04074,USA,United States of America,USA,United States of America,2:49:32,880,33,4,Runners,,,2015,female
+33,1570,Kerri Leonhardt,"Leonhardt, Kerri",25,F,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,2:49:39,900,34,29,Runners,,,2015,female
+34,1840,Erin D Dillon,"Dillon, Erin D",30,F,Raleigh,NC ,North Carolina,27601,USA,United States of America,USA,United States of America,2:49:59,937,35,30,Runners,,,2015,female
+35,2532,Brittany A. Moran,"Moran, Brittany A.",27,F,Etobicoke,ON ,Ontario,M8Y 3Y9,CAN,Canada,CAN,Canada,2:49:59,939,36,31,Runners,,,2015,female
+36,2370,Christine E Shaw,"Shaw, Christine E",29,F,Manchester,NH ,New Hampshire,03104,USA,United States of America,USA,United States of America,2:50:06,952,37,32,Runners,,,2015,female
+37,2122,Kirsten N. Allan,"Allan, Kirsten N.",24,F,Aliso Viejo,CA ,California,92656,USA,United States of America,USA,United States of America,2:50:11,964,38,33,Runners,,,2015,female
+38,2722,Alison L. Nolan,"Nolan, Alison L.",25,F,Gainesville,FL ,Florida,32605,USA,United States of America,USA,United States of America,2:50:28,987,39,34,Runners,,,2015,female
+39,F105,Bean K. Wrenn,"Wrenn, Bean K.",41,F,Boulder,CO ,Colorado,80301,USA,United States of America,USA,United States of America,2:50:32,991,40,5,Runners,,,2015,female
+40,1698,Liza J. Howard,"Howard, Liza J.",26,F,New York,NY ,New York,10025,USA,United States of America,CAN,Canada,2:50:32,994,41,35,Runners,,,2015,female
+41,1189,Roberta Groner,"Groner, Roberta",37,F,Randolph,NJ ,New Jersey,07869,USA,United States of America,USA,United States of America,2:50:48,1028,42,36,Runners,,,2015,female
+42,3221,Alex Wang,"Wang, Alex",23,F,Ellicott City,MD ,Maryland,21042,USA,United States of America,USA,United States of America,2:50:52,1034,43,37,Runners,,,2015,female
+43,2345,Tania K. Morimoto,"Morimoto, Tania K.",25,F,Redwood City,CA ,California,94061,USA,United States of America,USA,United States of America,2:51:18,1070,44,38,Runners,,,2015,female
+44,2161,Sabina Piras,"Piras, Sabina",25,F,San Diego,CA ,California,92103,USA,United States of America,USA,United States of America,2:51:27,1081,45,39,Runners,,,2015,female
+45,2432,Anna E Dalton,"Dalton, Anna E",25,F,Anchorage,AK ,Alaska,99517,USA,United States of America,USA,United States of America,2:51:27,1082,46,40,Runners,,,2015,female
+46,3515,Jennifer De Hueck,"De Hueck, Jennifer",26,F,Pierre,SD ,South Dakota,57501,USA,United States of America,USA,United States of America,2:51:52,1133,47,41,Runners,,,2015,female
+47,F34,Natasha Yaremczuk,"Yaremczuk, Natasha",34,F,Paris,ON ,Ontario,N3L 2N4,CAN,Canada,CAN,Canada,2:51:53,1134,48,42,Runners,,,2015,female
+48,2890,Nicole Tassello,"Tassello, Nicole",23,F,Hamilton,NJ ,New Jersey,08610,USA,United States of America,USA,United States of America,2:51:54,1136,49,43,Runners,,,2015,female
+49,1347,Pauline McLean,"McLean, Pauline",37,F,Calgary,AB ,Alberta,T3L 0B2,CAN,Canada,CAN,Canada,2:52:13,1170,50,44,Runners,,,2015,female
+50,F31,Justyna I. Mudy-Mader,"Mudy-Mader, Justyna I.",30,F,Huntsville,AL ,Alabama,35816,USA,United States of America,POL,Poland,2:52:17,1176,51,45,Runners,,,2015,female
+51,1916,Katie Howery,"Howery, Katie",29,F,Middleton,WI ,Wisconsin,53562,USA,United States of America,USA,United States of America,2:52:18,1179,52,46,Runners,,,2015,female
+52,5759,Corina Canitz,"Canitz, Corina",48,F,Brookfield,WI ,Wisconsin,53045,USA,United States of America,USA,United States of America,2:52:22,1190,53,2,Runners,,,2015,female
+53,F113,Christine Irish,"Irish, Christine",40,F,North Yarmouth,ME ,Maine,04097,USA,United States of America,USA,United States of America,2:52:28,1200,54,6,Runners,,,2015,female
+54,2568,Angela H Switt,"Switt, Angela H",41,F,Toronto,ON ,Ontario,M8X 1S7,CAN,Canada,CAN,Canada,2:52:36,1218,55,7,Runners,,,2015,female
+55,2468,Lauren Sischo,"Sischo, Lauren",27,F,Southborough,MA ,Massachusetts,01772,USA,United States of America,USA,United States of America,2:52:47,1236,56,47,Runners,,,2015,female
+56,981,Jenny Hitchings,"Hitchings, Jenny",51,F,Sacramento,CA ,California,95818,USA,United States of America,USA,United States of America,2:52:51,1244,57,1,Runners,,,2015,female
+57,F38,Rosalie Teeuwen,"Teeuwen, Rosalie",35,F,Baton Rouge,LA ,Louisiana,70810,USA,United States of America,NED,Netherlands,2:53:21,1304,58,48,Runners,,,2015,female
+58,2048,Karen Lockyer,"Lockyer, Karen",37,F,Gonzales,LA ,Louisiana,70737,USA,United States of America,NZL,New Zealand,2:53:24,1310,59,49,Runners,,,2015,female
+59,F102,Svetlana V. Pretot,"Pretot, Svetlana V.",43,F,Eugene,OR ,Oregon,97401,USA,United States of America,FRA,France,2:53:26,1314,60,8,Runners,,,2015,female
+60,F41,Nicole M. Casey,"Casey, Nicole M.",29,F,Watertown,MA ,Massachusetts,02472,USA,United States of America,USA,United States of America,2:53:27,1318,61,50,Runners,,,2015,female
+61,6653,Rhea Deroian,"Deroian, Rhea",28,F,Hesperia,CA ,California,92345,USA,United States of America,USA,United States of America,2:53:40,1351,62,51,Runners,,,2015,female
+62,3243,Melissa M. Chenard,"Chenard, Melissa M.",38,F,Quebec,QC ,Quebec,G1R 1V9,CAN,Canada,CAN,Canada,2:53:44,1359,63,52,Runners,,,2015,female
+63,3048,Kathleen M. O'Neil,"O'Neil, Kathleen M.",29,F,Honolulu,HI ,Hawaii,96816,USA,United States of America,USA,United States of America,2:53:46,1367,64,53,Runners,,,2015,female
+64,4749,Maria I. Velez,"Velez, Maria I.",26,F,"Torreon, Coah",,,27130,MEX,Mexico,MEX,Mexico,2:53:52,1379,65,54,Runners,,,2015,female
+65,4674,Samantha Roecker,"Roecker, Samantha",23,F,Washington,DC ,District Of Columbia,20007,USA,United States of America,USA,United States of America,2:53:52,1382,66,55,Runners,,,2015,female
+66,1999,Joan Samuelson,"Samuelson, Joan",57,F,Freeport,ME ,Maine,04032,USA,United States of America,USA,United States of America,2:54:03,1414,67,1,Runners,,,2015,female
+67,1915,Kate A. Hails,"Hails, Kate A.",27,F,Pittsburgh,PA ,Pennsylvania,15217,USA,United States of America,USA,United States of America,2:54:08,1423,68,56,Runners,,,2015,female
+68,F112,Caroline S. Boller,"Boller, Caroline S.",40,F,Temecula,CA ,California,92592,USA,United States of America,GBR,United Kingdom,2:54:08,1425,69,9,Runners,,,2015,female
+69,5657,Amanda N. Basham,"Basham, Amanda N.",25,F,Portland,OR ,Oregon,97229,USA,United States of America,USA,United States of America,2:54:10,1430,70,57,Runners,,,2015,female
+70,F110,Denise Robson,"Robson, Denise",46,F,Dartmouth,NS ,Nova Scotia,B2W 4X2,CAN,Canada,CAN,Canada,2:54:11,1433,71,3,Runners,,,2015,female
+71,1819,Shauna R. Gersbach,"Gersbach, Shauna R.",29,F,North Vancouver,BC ,British Columbia,V7L 4Y1,CAN,Canada,CAN,Canada,2:54:15,1442,72,58,Runners,,,2015,female
+72,1552,Alyssa K. Bloomquist,"Bloomquist, Alyssa K.",25,F,Columbia,SC ,South Carolina,29209,USA,United States of America,USA,United States of America,2:54:20,1460,73,59,Runners,,,2015,female
+73,F114,Kara Waters,"Waters, Kara",40,F,Great Falls,VA ,Virginia,22066,USA,United States of America,USA,United States of America,2:54:30,1490,74,10,Runners,,,2015,female
+74,6176,Rachel Coogan,"Coogan, Rachel",24,F,Allston,MA ,Massachusetts,02134,USA,United States of America,USA,United States of America,2:54:37,1504,75,60,Runners,,,2015,female
+75,2284,Lucie J. Custance,"Custance, Lucie J.",35,F,London,,,SE11 4TX,GBR,United Kingdom,GBR,United Kingdom,2:54:39,1512,76,61,Runners,,,2015,female
+76,4031,Bridget K. Dawes,"Dawes, Bridget K.",38,F,Antelope,CA ,California,95843,USA,United States of America,USA,United States of America,2:54:49,1533,77,62,Runners,,,2015,female
+77,F109,Paula Keating,"Keating, Paula",48,F,Miramichi,NB ,New Brunswick,E1V 6B7,CAN,Canada,CAN,Canada,2:54:53,1539,78,4,Runners,,,2015,female
+78,5665,Dawn M. Sudol,"Sudol, Dawn M.",30,F,Cortland,NY ,New York,13045,USA,United States of America,USA,United States of America,2:54:59,1558,79,63,Runners,,,2015,female
+79,1580,Lindsay A. Willard,"Willard, Lindsay A.",36,F,Somerville,MA ,Massachusetts,02145,USA,United States of America,USA,United States of America,2:55:09,1587,80,64,Runners,,,2015,female
+80,1550,Jessica Marlier,"Marlier, Jessica",29,F,Chattanooga,TN ,Tennessee,37415,USA,United States of America,USA,United States of America,2:55:22,1622,81,65,Runners,,,2015,female
+81,F107,Rachel L. Glasson,"Glasson, Rachel L.",45,F,Lake Albert,,,2650,AUS,Australia,AUS,Australia,2:55:22,1625,82,5,Runners,,,2015,female
+82,3670,Jill Weinberg,"Weinberg, Jill",34,F,Chicago,IL ,Illinois,60611,USA,United States of America,USA,United States of America,2:55:25,1630,83,66,Runners,,,2015,female
+83,4149,Samantha R. Gries,"Gries, Samantha R.",26,F,Cleveland,WI ,Wisconsin,53015,USA,United States of America,USA,United States of America,2:55:25,1631,84,67,Runners,,,2015,female
+84,2010,Heather Schulz,"Schulz, Heather",40,F,Orlando,FL ,Florida,32820,USA,United States of America,USA,United States of America,2:55:25,1632,85,11,Runners,,,2015,female
+85,3827,Kara Lynne Leonard,"Leonard, Kara Lynne",36,F,Providence,RI ,Rhode Island,02908,USA,United States of America,USA,United States of America,2:55:30,1639,86,68,Runners,,,2015,female
+86,3042,Laura T. Rodriguez,"Rodriguez, Laura T.",35,F,Bronx,NY ,New York,10465,USA,United States of America,USA,United States of America,2:55:30,1640,87,69,Runners,,,2015,female
+87,F33,Steph Reilly,"Reilly, Steph",37,F,Northbridge,MA ,Massachusetts,01534,USA,United States of America,IRL,Ireland,2:55:44,1669,88,70,Runners,,,2015,female
+88,5547,Ildiko M. Gaal,"Gaal, Ildiko M.",23,F,Brookline,MA ,Massachusetts,02445,USA,United States of America,USA,United States of America,2:55:50,1681,89,71,Runners,,,2015,female
+89,5875,Paola Andrea Fierro Vargas,"Fierro Vargas, Paola Andrea",36,F,Bogota,,,80800,COL,Colombia,COL,Colombia,2:55:52,1688,90,72,Runners,,,2015,female
+90,1363,Katherine E Moore,"Moore, Katherine E",37,F,Vancouver,BC ,British Columbia,V6B6K5,CAN,Canada,CAN,Canada,2:56:00,1700,91,73,Runners,,,2015,female
+91,3499,Sarah Overpeck,"Overpeck, Sarah",32,F,Indianapolis,IN ,Indiana,46220,USA,United States of America,USA,United States of America,2:56:02,1705,92,74,Runners,,,2015,female
+92,1586,"Nina Wavik Ytterstad, Sr.","Ytterstad, Nina Wavik Sr.",52,F,Oslo,,,0595 OSLO,NOR,Norway,NOR,Norway,2:56:03,1707,93,2,Runners,,,2015,female
+93,F115,Kaye A. Starosciak,"Starosciak, Kaye A.",41,F,Canton,GA ,Georgia,30114,USA,United States of America,USA,United States of America,2:56:37,1807,94,12,Runners,,,2015,female
+94,3199,Elizabeth Panke,"Panke, Elizabeth",24,F,Chicago,IL ,Illinois,60611,USA,United States of America,USA,United States of America,2:56:41,1828,95,75,Runners,,,2015,female
+95,5674,Sarah A Gryniewicz,"Gryniewicz, Sarah A",25,F,Grosse Pointe Woods,MI ,Michigan,48236,USA,United States of America,USA,United States of America,2:56:42,1830,96,76,Runners,,,2015,female
+96,3249,Lauren Manuel,"Manuel, Lauren",32,F,Indianapolis,IN ,Indiana,46226,USA,United States of America,USA,United States of America,2:56:50,1855,97,77,Runners,,,2015,female
+97,9885,Zuzana Trnovcova,"Trnovcova, Zuzana",28,F,Medford,MA ,Massachusetts,02155,USA,United States of America,SVK,Slovakia,2:56:51,1858,98,78,Runners,,,2015,female
+98,3274,Julie A. Ulery,"Ulery, Julie A.",33,F,Brentwood,TN ,Tennessee,37027,USA,United States of America,USA,United States of America,2:56:58,1882,99,79,Runners,,,2015,female
+99,7580,Jessica E. Sheppard,"Sheppard, Jessica E.",31,F,Rosseau,ON ,Ontario,P0C 1J0,CAN,Canada,CAN,Canada,2:57:04,1907,100,80,Runners,,,2015,female
+100,6026,Emma L. McCarron,"McCarron, Emma L.",24,F,Mansfield,OH ,Ohio,44903,USA,United States of America,USA,United States of America,2:57:07,1921,101,81,Runners,,,2015,female
+101,4967,Amy T Steffen,"Steffen, Amy T",39,F,Madison,CT ,Connecticut,06443,USA,United States of America,USA,United States of America,2:57:08,1924,102,82,Runners,,,2015,female
+102,9766,Grace McCarron,"McCarron, Grace",27,F,Mansfield,OH ,Ohio,44903,USA,United States of America,USA,United States of America,2:57:09,1927,103,83,Runners,,,2015,female
+103,1328,Ariel E Heitzman,"Heitzman, Ariel E",30,F,Madison,WI ,Wisconsin,53719,USA,United States of America,USA,United States of America,2:57:13,1941,104,84,Runners,,,2015,female
+104,F108,Paula Wiltse,"Wiltse, Paula",47,F,Brockville,ON ,Ontario,K6V 5N3,CAN,Canada,CAN,Canada,2:57:13,1943,105,6,Runners,,,2015,female
+105,2145,Rachel M Sinasac,"Sinasac, Rachel M",29,F,Toronto,ON ,Ontario,M6S1N9,CAN,Canada,CAN,Canada,2:57:19,1961,106,85,Runners,,,2015,female
+106,4127,Katherine Ahokas,"Ahokas, Katherine",32,F,Huntsville,ON ,Ontario,P1H 0A1,CAN,Canada,CAN,Canada,2:57:22,1964,107,86,Runners,,,2015,female
+107,9037,Natalie Busby,"Busby, Natalie",25,F,New York,NY ,New York,10028,USA,United States of America,USA,United States of America,2:57:37,2023,108,87,Runners,,,2015,female
+108,F30,Mary K. Kelly,"Kelly, Mary K.",27,F,Broomall,PA ,Pennsylvania,19008,USA,United States of America,USA,United States of America,2:57:40,2038,109,88,Runners,,,2015,female
+109,2439,Tanya Holte,"Holte, Tanya",33,F,Fargo,ND ,North Dakota,58103,USA,United States of America,USA,United States of America,2:57:44,2062,110,89,Runners,,,2015,female
+110,1992,Joyce R. Miller,"Miller, Joyce R.",27,F,Beaufort,SC ,South Carolina,29907,USA,United States of America,IRL,Ireland,2:57:44,2063,111,90,Runners,,,2015,female
+111,4848,Laura Tabor,"Tabor, Laura",27,F,Boulder,CO ,Colorado,80304,USA,United States of America,USA,United States of America,2:57:51,2086,112,91,Runners,,,2015,female
+112,F42,Nicole Monette,"Monette, Nicole",29,F,Royal Oak,MI ,Michigan,48073,USA,United States of America,USA,United States of America,2:57:53,2092,113,92,Runners,,,2015,female
+113,10828,Laura McLean,"McLean, Laura",27,F,Toronto,ON ,Ontario,M5R 2Z5,CAN,Canada,CAN,Canada,2:57:56,2107,114,93,Runners,,,2015,female
+114,9536,Lindsey Pierret,"Pierret, Lindsey",27,F,St Louis Park,MN ,Minnesota,55416,USA,United States of America,USA,United States of America,2:57:59,2115,115,94,Runners,,,2015,female
+115,4398,Melissa Cooney,"Cooney, Melissa",35,F,Worcester,MA ,Massachusetts,01603,USA,United States of America,USA,United States of America,2:58:04,2135,116,95,Runners,,,2015,female
+116,7043,Stephanie L. Andre,"Andre, Stephanie L.",32,F,Bixby,OK ,Oklahoma,74008,USA,United States of America,USA,United States of America,2:58:08,2148,117,96,Runners,,,2015,female
+117,6493,Karen L Lenhoff,"Lenhoff, Karen L",36,F,Newark,DE ,Delaware,19711,USA,United States of America,USA,United States of America,2:58:11,2163,118,97,Runners,,,2015,female
+118,3259,Jennifer Brandon,"Brandon, Jennifer",37,F,Boulder,CO ,Colorado,80301,USA,United States of America,USA,United States of America,2:58:12,2168,119,98,Runners,,,2015,female
+119,10664,Allison Goldstein,"Goldstein, Allison",29,F,Jersey City,NJ ,New Jersey,07302,USA,United States of America,USA,United States of America,2:58:14,2182,120,99,Runners,,,2015,female
+120,4426,Sharon E. Ryder,"Ryder, Sharon E.",42,F,Burleigh Waters,,,4220,AUS,Australia,AUS,Australia,2:58:22,2208,121,13,Runners,,,2015,female
+121,5929,Laura P. Roberts,"Roberts, Laura P.",39,F,Saint Simons Island,GA ,Georgia,31522,USA,United States of America,USA,United States of America,2:58:23,2212,122,100,Runners,,,2015,female
+122,5910,Rachael Klehm,"Klehm, Rachael",23,F,Wellesley,MA ,Massachusetts,02481,USA,United States of America,USA,United States of America,2:58:23,2215,123,101,Runners,,,2015,female
+123,2545,Amber R Sargent,"Sargent, Amber R",27,F,Beatrice,NE ,Nebraska,68310,USA,United States of America,USA,United States of America,2:58:32,2255,124,102,Runners,,,2015,female
+124,5506,Polly Moody,"Moody, Polly",31,F,Calgary,AB ,Alberta,T3C 2V5,CAN,Canada,CAN,Canada,2:58:38,2285,125,103,Runners,,,2015,female
+125,7388,Tammi J. Braund,"Braund, Tammi J.",36,F,Cushing,WI ,Wisconsin,54006,USA,United States of America,USA,United States of America,2:58:40,2296,126,104,Runners,,,2015,female
+126,5444,Kristen Fayter,"Fayter, Kristen",32,F,Roseville,CA ,California,95661,USA,United States of America,USA,United States of America,2:58:41,2298,127,105,Runners,,,2015,female
+127,F23,Andrea H. Duke,"Duke, Andrea H.",36,F,San Antonio,TX ,Texas,78260,USA,United States of America,USA,United States of America,2:58:55,2352,128,106,Runners,,,2015,female
+128,7050,Emma Spencer,"Spencer, Emma",25,F,Somerville,MA ,Massachusetts,02143,USA,United States of America,USA,United States of America,2:58:55,2358,129,107,Runners,,,2015,female
+129,7490,Elizabeth Pittaway,"Pittaway, Elizabeth",30,F,Sydney,,,2066,AUS,Australia,AUS,Australia,2:58:56,2359,130,108,Runners,,,2015,female
+130,4154,Madelyn C Hribar,"Hribar, Madelyn C",31,F,Newburyport,MA ,Massachusetts,01950,USA,United States of America,USA,United States of America,2:58:56,2361,131,109,Runners,,,2015,female
+131,6400,Ann M. Ryan,"Ryan, Ann M.",31,F,Somerville,MA ,Massachusetts,02145,USA,United States of America,USA,United States of America,2:58:58,2371,132,110,Runners,,,2015,female
+132,5720,Kim Fairley,"Fairley, Kim",29,F,Nijmegen,,,6511 JR,NED,Netherlands,NED,Netherlands,2:58:58,2372,133,111,Runners,,,2015,female
+133,6605,Oksana Akhmedova,"Akhmedova, Oksana",27,F,Moscow,,,119017,RUS,Russian Federation,RUS,Russian Federation,2:59:00,2380,134,112,Runners,,,2015,female
+134,8821,Kristen A. Kieta,"Kieta, Kristen A.",25,F,Prince George,BC ,British Columbia,V2M 4Y8,CAN,Canada,USA,United States of America,2:59:03,2395,135,113,Runners,,,2015,female
+135,2827,Helen Wright,"Wright, Helen",35,F,Keighley,,,BD20 6SZ,GBR,United Kingdom,GBR,United Kingdom,2:59:06,2409,136,114,Runners,,,2015,female
+136,3844,Carolina Pena,"Pena, Carolina",41,F,New York,NY ,New York,10028,USA,United States of America,CHI,Chile,2:59:08,2413,137,14,Runners,,,2015,female
+137,4622,Tatiana Sheptock,"Sheptock, Tatiana",39,F,South Riding,VA ,Virginia,20152,USA,United States of America,USA,United States of America,2:59:08,2416,138,115,Runners,,,2015,female
+138,1417,Danya A. Crawford,"Crawford, Danya A.",34,F,Midway,UT ,Utah,84049,USA,United States of America,USA,United States of America,2:59:23,2490,139,116,Runners,,,2015,female
+139,8055,Nicole Valentine,"Valentine, Nicole",32,F,Louisville,CO ,Colorado,80027,USA,United States of America,USA,United States of America,2:59:24,2495,140,117,Runners,,,2015,female
+140,F37,Michele V. Palmer,"Palmer, Michele V.",33,F,San Francisco,CA ,California,94103,USA,United States of America,USA,United States of America,2:59:27,2500,141,118,Runners,,,2015,female
+141,7595,Melissa L Truitt,"Truitt, Melissa L",30,F,Tulsa,OK ,Oklahoma,74134,USA,United States of America,USA,United States of America,2:59:29,2509,142,119,Runners,,,2015,female
+142,5531,Christina Capriccioso,"Capriccioso, Christina",23,F,Ann Arbor,MI ,Michigan,48104,USA,United States of America,USA,United States of America,2:59:41,2564,143,120,Runners,,,2015,female
+143,2864,Dara Steele-Belkin,"Steele-Belkin, Dara",40,F,Atlanta,GA ,Georgia,30306,USA,United States of America,USA,United States of America,2:59:44,2577,144,15,Runners,,,2015,female
+144,5984,Meaghan J Iandolo,"Iandolo, Meaghan J",29,F,Andover,MA ,Massachusetts,01810,USA,United States of America,USA,United States of America,2:59:49,2599,145,121,Runners,,,2015,female
+145,1896,Christina M. Noordstar,"Noordstar, Christina M.",38,F,Tierra Verde,FL ,Florida,33715,USA,United States of America,USA,United States of America,2:59:52,2618,146,122,Runners,,,2015,female
+146,4382,Caitrin Demchko,"Demchko, Caitrin",25,F,Nanuet,NY ,New York,10954,USA,United States of America,USA,United States of America,2:59:53,2620,147,123,Runners,,,2015,female
+147,2753,Sarah S Rusk,"Rusk, Sarah S",34,F,Wilmington,DE ,Delaware,19810,USA,United States of America,USA,United States of America,2:59:58,2640,148,124,Runners,,,2015,female
+148,5253,Allison M. Parker,"Parker, Allison M.",33,F,Chicago,IL ,Illinois,60613,USA,United States of America,USA,United States of America,2:59:59,2641,149,125,Runners,,,2015,female
+149,1984,Jordan Nelsen,"Nelsen, Jordan",23,F,St. Augustine,FL ,Florida,32092,USA,United States of America,USA,United States of America,3:00:09,2687,150,126,Runners,,,2015,female
+150,5530,Skylar Musa,"Musa, Skylar",22,F,Annapolis,MD ,Maryland,21401,USA,United States of America,USA,United States of America,3:00:13,2697,151,127,Runners,,,2015,female
+151,519,Katie Edwards,"Edwards, Katie",33,F,South Glastonbury,CT ,Connecticut,06073,USA,United States of America,USA,United States of America,3:00:15,2704,152,128,Runners,,,2015,female
+152,6277,Laura F Bill,"Bill, Laura F",30,F,Rochester Hills,MI ,Michigan,48306,USA,United States of America,USA,United States of America,3:00:19,2725,153,129,Runners,,,2015,female
+153,6844,Lisa Ryan,"Ryan, Lisa",35,F,San Diego,CA ,California,92107,USA,United States of America,USA,United States of America,3:00:24,2750,154,130,Runners,,,2015,female
+154,6078,Pamela O'Sullivan,"O'Sullivan, Pamela",27,F,Babylon,NY ,New York,11702,USA,United States of America,USA,United States of America,3:00:29,2763,155,131,Runners,,,2015,female
+155,2544,Lauren C Reddy,"Reddy, Lauren C",28,F,Boston,MA ,Massachusetts,02116,USA,United States of America,USA,United States of America,3:00:38,2782,156,132,Runners,,,2015,female
+156,8784,Rachel A. Karmen,"Karmen, Rachel A.",27,F,Boston,MA ,Massachusetts,02127,USA,United States of America,USA,United States of America,3:00:42,2793,157,133,Runners,,,2015,female
+157,5808,Elizabeth Goya,"Goya, Elizabeth",40,F,San Francisco,CA ,California,94116,USA,United States of America,USA,United States of America,3:00:46,2808,158,16,Runners,,,2015,female
+158,6578,Brooke S. Williams,"Williams, Brooke S.",39,F,St. Charles,IL ,Illinois,60174,USA,United States of America,USA,United States of America,3:00:48,2815,159,134,Runners,,,2015,female
+159,1745,Caitlin O. Gaughan,"Gaughan, Caitlin O.",29,F,Scranton,PA ,Pennsylvania,18505,USA,United States of America,USA,United States of America,3:00:49,2816,160,135,Runners,,,2015,female
+160,6635,Lauren Hill,"Hill, Lauren",24,F,Lakewood,CO ,Colorado,80232,USA,United States of America,USA,United States of America,3:01:01,2850,161,136,Runners,,,2015,female
+161,4581,Jennifer A. Cronin,"Cronin, Jennifer A.",25,F,North Wales,PA ,Pennsylvania,19454,USA,United States of America,USA,United States of America,3:01:02,2852,162,137,Runners,,,2015,female
+162,1539,Leilani M. Rios,"Rios, Leilani M.",35,F,Coto De Caza,CA ,California,92679,USA,United States of America,USA,United States of America,3:01:03,2855,163,138,Runners,,,2015,female
+163,8348,Madeleine Gunter,"Gunter, Madeleine",25,F,Williamsburg,VA ,Virginia,23185,USA,United States of America,USA,United States of America,3:01:14,2893,164,139,Runners,,,2015,female
+164,5432,Silvana M. Rasch,"Rasch, Silvana M.",39,F,Guatemala,,,01010,GUA,Guatemala,GUA,Guatemala,3:01:23,2921,165,140,Runners,,,2015,female
+165,4699,Amanda Hicks,"Hicks, Amanda",31,F,Washington,DC ,District Of Columbia,20010,USA,United States of America,USA,United States of America,3:01:26,2931,166,141,Runners,,,2015,female
+166,7410,Megan Labare,"Labare, Megan",26,F,Carlsbad,CA ,California,92011,USA,United States of America,USA,United States of America,3:01:27,2935,167,142,Runners,,,2015,female
+167,6776,Karolyn A Bowley,"Bowley, Karolyn A",45,F,Middletown,RI ,Rhode Island,02842,USA,United States of America,USA,United States of America,3:01:30,2942,168,7,Runners,,,2015,female
+168,10017,Ruth Angelica Pena Reyes,"Pena Reyes, Ruth Angelica",30,F,"Edo. De Mexico, C.P. 54240",,,,MEX,Mexico,MEX,Mexico,3:01:37,2958,169,143,Runners,,,2015,female
+169,10100,Emma M Astrike-Davis,"Astrike-Davis, Emma M",19,F,Durham,NC ,North Carolina,27713,USA,United States of America,USA,United States of America,3:01:40,2969,170,144,Runners,,,2015,female
+170,4470,Jenna M Hotze,"Hotze, Jenna M",28,F,Council Bluffs,IA ,Iowa,51503,USA,United States of America,USA,United States of America,3:01:40,2970,171,145,Runners,,,2015,female
+171,5204,Tracy L Deeter,"Deeter, Tracy L",36,F,Unionville,CT ,Connecticut,06085,USA,United States of America,USA,United States of America,3:01:41,2973,172,146,Runners,,,2015,female
+172,11464,Maria A. Gramelspacher,"Gramelspacher, Maria A.",26,F,Evansville,IN ,Indiana,47714,USA,United States of America,USA,United States of America,3:01:42,2979,173,147,Runners,,,2015,female
+173,9645,Claire McComb,"McComb, Claire",23,F,Minnetonka,MN ,Minnesota,55343,USA,United States of America,USA,United States of America,3:01:45,2983,174,148,Runners,,,2015,female
+174,2606,Satomi Oka,"Oka, Satomi",47,F,Osaka Takatsuki City,,,5691034,JPN,Japan,JPN,Japan,3:01:48,2989,175,8,Runners,,,2015,female
+175,5117,A Danielle Bourgeois,"Bourgeois, A Danielle",33,F,Edmonton,AB ,Alberta,T5N1W9,CAN,Canada,CAN,Canada,3:01:51,2995,176,149,Runners,,,2015,female
+176,5761,Elizabeth Swierzbinski,"Swierzbinski, Elizabeth",27,F,Wilmington,DE ,Delaware,19804,USA,United States of America,USA,United States of America,3:01:51,2997,177,150,Runners,,,2015,female
+177,4806,Mallory D. Kennedy,"Kennedy, Mallory D.",31,F,Port Orange,FL ,Florida,32127,USA,United States of America,USA,United States of America,3:01:55,3017,178,151,Runners,,,2015,female
+178,9889,Kelly R Bergman,"Bergman, Kelly R",26,F,Plano,TX ,Texas,75074,USA,United States of America,USA,United States of America,3:02:04,3041,179,152,Runners,,,2015,female
+179,4317,Stephanie Knast,"Knast, Stephanie",25,F,Philadelphia,PA ,Pennsylvania,19130,USA,United States of America,USA,United States of America,3:02:04,3045,180,153,Runners,,,2015,female
+180,2005,Tara D. Klassen,"Klassen, Tara D.",39,F,Vancouver,BC ,British Columbia,V6T 1Z4,CAN,Canada,CAN,Canada,3:02:07,3058,181,154,Runners,,,2015,female
+181,6461,Kara Marlatt,"Marlatt, Kara",31,F,Minneapolis,MN ,Minnesota,55414,USA,United States of America,USA,United States of America,3:02:14,3084,182,155,Runners,,,2015,female
+182,3773,Alison R. Steele,"Steele, Alison R.",34,F,Longmont,CO ,Colorado,80504,USA,United States of America,USA,United States of America,3:02:15,3086,183,156,Runners,,,2015,female
+183,2813,Amelia B Landberg,"Landberg, Amelia B",30,F,Boston,MA ,Massachusetts,02116,USA,United States of America,USA,United States of America,3:02:28,3129,184,157,Runners,,,2015,female
+184,7005,Kimberly Sweetland,"Sweetland, Kimberly",41,F,Asheville,NC ,North Carolina,28806,USA,United States of America,USA,United States of America,3:02:36,3143,185,17,Runners,,,2015,female
+185,3915,Caitlin B. Thomas,"Thomas, Caitlin B.",26,F,Cardington,OH ,Ohio,43315,USA,United States of America,USA,United States of America,3:02:36,3144,186,158,Runners,,,2015,female
+186,6789,Dana Deingenis,"Deingenis, Dana",29,F,Quincy,MA ,Massachusetts,02169,USA,United States of America,USA,United States of America,3:02:36,3145,187,159,Runners,,,2015,female
+187,3143,Johannah Ludington,"Ludington, Johannah",26,F,Portland,OR ,Oregon,97219,USA,United States of America,USA,United States of America,3:02:37,3146,188,160,Runners,,,2015,female
+188,5713,Danielle Sansonetti,"Sansonetti, Danielle",35,F,"Melbourne, Victoria",,,3088,AUS,Australia,AUS,Australia,3:02:37,3150,189,161,Runners,,,2015,female
+189,5690,Kamilla Pontes,"Pontes, Kamilla",34,F,Sao Paulo,,,05685000,BRA,Brazil,BRA,Brazil,3:02:39,3158,190,162,Runners,,,2015,female
+190,12657,Kathleen Michaud,"Michaud, Kathleen",31,F,Stratham,NH ,New Hampshire,03885,USA,United States of America,USA,United States of America,3:02:41,3167,191,163,Runners,,,2015,female
+191,3438,Colleen C. Barry,"Barry, Colleen C.",27,F,Lowell,MA ,Massachusetts,01852,USA,United States of America,USA,United States of America,3:02:45,3184,192,164,Runners,,,2015,female
+192,3198,Laura A Frey,"Frey, Laura A",41,F,Raleigh,NC ,North Carolina,27616,USA,United States of America,USA,United States of America,3:02:47,3190,193,18,Runners,,,2015,female
+193,2280,Dina Kitayama,"Kitayama, Dina",25,F,Santa Monica,CA ,California,90404,USA,United States of America,USA,United States of America,3:02:47,3193,194,165,Runners,,,2015,female
+194,10579,Brittany Van Nielen,"Van Nielen, Brittany",30,F,Norfolk,VA ,Virginia,23507,USA,United States of America,USA,United States of America,3:02:51,3201,195,166,Runners,,,2015,female
+195,4118,Jennifer L. Carroll,"Carroll, Jennifer L.",39,F,Narvon,PA ,Pennsylvania,17555,USA,United States of America,USA,United States of America,3:02:57,3221,196,167,Runners,,,2015,female
+196,5900,Brenda J Hodge,"Hodge, Brenda J",43,F,York,PA ,Pennsylvania,17402,USA,United States of America,USA,United States of America,3:03:01,3235,197,19,Runners,,,2015,female
+197,7315,Lindsey Wild,"Wild, Lindsey",32,F,Minneapolis,MN ,Minnesota,55410,USA,United States of America,USA,United States of America,3:03:03,3244,198,168,Runners,,,2015,female
+198,1646,Dani Prince,"Prince, Dani",29,F,Indianapolis,IN ,Indiana,46217,USA,United States of America,USA,United States of America,3:03:13,3270,199,169,Runners,,,2015,female
+199,5658,Alice Sherwin,"Sherwin, Alice",27,F,Winnipeg,MB ,Manitoba,R3C 1N7,CAN,Canada,CAN,Canada,3:03:13,3271,200,170,Runners,,,2015,female
+200,13441,Kristi Gayagoy,"Gayagoy, Kristi",26,F,San Diego,CA ,California,92108,USA,United States of America,USA,United States of America,3:03:25,3305,201,171,Runners,,,2015,female
+201,3487,Danielle N Higgins,"Higgins, Danielle N",26,F,Tucson,AZ ,Arizona,85743,USA,United States of America,USA,United States of America,3:03:28,3315,202,172,Runners,,,2015,female
+202,15162,Robin Watkins,"Watkins, Robin",31,F,Washington,DC ,District Of Columbia,20001,USA,United States of America,USA,United States of America,3:03:29,3318,203,173,Runners,,,2015,female
+203,9952,Elizabeth A. Foster,"Foster, Elizabeth A.",27,F,Durham,NC ,North Carolina,27707,USA,United States of America,USA,United States of America,3:03:29,3319,204,174,Runners,,,2015,female
+204,4562,Valerie A Hubbard,"Hubbard, Valerie A",29,F,Onalaska,WI ,Wisconsin,54650,USA,United States of America,USA,United States of America,3:03:34,3338,205,175,Runners,,,2015,female
+205,7176,Allison M. Thompson,"Thompson, Allison M.",28,F,Vancouver,BC ,British Columbia,V5T 1T5,CAN,Canada,CAN,Canada,3:03:35,3340,206,176,Runners,,,2015,female
+206,5790,Catherine C. Chua,"Chua, Catherine C.",39,F,Richmond Hill,NY ,New York,11418,USA,United States of America,USA,United States of America,3:03:37,3345,207,177,Runners,,,2015,female
+207,5967,Ashley N. Glenn,"Glenn, Ashley N.",22,F,Colorado Springs,CO ,Colorado,80924,USA,United States of America,USA,United States of America,3:03:37,3346,208,178,Runners,,,2015,female
+208,6894,Marisol Franco,"Franco, Marisol",27,F,Durango,,,34190,MEX,Mexico,MEX,Mexico,3:03:44,3368,209,179,Runners,,,2015,female
+209,10270,Gabriela Castaneda,"Castaneda, Gabriela",35,F,Guatemala,,,01010,GUA,Guatemala,GUA,Guatemala,3:03:44,3373,210,180,Runners,,,2015,female
+210,7637,Karen A. Sobrino,"Sobrino, Karen A.",42,F,St Gallen,,,9015,SUI,Switzerland,RSA,South Africa,3:03:45,3377,211,20,Runners,,,2015,female
+211,11525,Katherine A Baker,"Baker, Katherine A",32,F,Durham,NC ,North Carolina,27713,USA,United States of America,USA,United States of America,3:03:48,3390,212,181,Runners,,,2015,female
+212,1854,Megan Betts,"Betts, Megan",28,F,Austin,TX ,Texas,78746,USA,United States of America,USA,United States of America,3:03:53,3402,213,182,Runners,,,2015,female
+213,6912,Katie Mutter,"Mutter, Katie",25,F,Syracuse,NY ,New York,13204,USA,United States of America,USA,United States of America,3:03:57,3410,214,183,Runners,,,2015,female
+214,4590,Jessica Stern,"Stern, Jessica",25,F,Santa Rosa Valley,CA ,California,93012,USA,United States of America,USA,United States of America,3:04:00,3413,215,184,Runners,,,2015,female
+215,5667,Laura E. Anderson,"Anderson, Laura E.",27,F,Rochester,NY ,New York,14620,USA,United States of America,USA,United States of America,3:04:03,3420,216,185,Runners,,,2015,female
+216,8106,Andee W. Swann,"Swann, Andee W.",37,F,Morristown,TN ,Tennessee,37814,USA,United States of America,USA,United States of America,3:04:10,3435,217,186,Runners,,,2015,female
+217,2410,Lauren Blankenship,"Blankenship, Lauren",30,F,Marietta,GA ,Georgia,30008,USA,United States of America,USA,United States of America,3:04:13,3437,218,187,Runners,,,2015,female
+218,8089,Lina Nguyen,"Nguyen, Lina",31,F,Cleveland,OH ,Ohio,44113,USA,United States of America,USA,United States of America,3:04:15,3439,219,188,Runners,,,2015,female
+219,6706,Marie Daniels,"Daniels, Marie",24,F,New York,NY ,New York,10023,USA,United States of America,USA,United States of America,3:04:15,3440,220,189,Runners,,,2015,female
+220,6216,Madeleine O'Meara,"O'Meara, Madeleine",27,F,San Francisco,CA ,California,94117,USA,United States of America,USA,United States of America,3:04:21,3455,221,190,Runners,,,2015,female
+221,5252,Shannon J. Siragusa,"Siragusa, Shannon J.",40,F,Simsbury,CT ,Connecticut,06070,USA,United States of America,USA,United States of America,3:04:21,3456,222,21,Runners,,,2015,female
+222,5666,Lisa Goetz,"Goetz, Lisa",34,F,Toronto,ON ,Ontario,M5V 0B8,CAN,Canada,CAN,Canada,3:04:21,3459,223,191,Runners,,,2015,female
+223,8517,Anna E. Savage,"Savage, Anna E.",32,F,Oviedo,FL ,Florida,32765,USA,United States of America,USA,United States of America,3:04:22,3461,224,192,Runners,,,2015,female
+224,F116,Carla McAlister,"McAlister, Carla",42,F,San Clemente,CA ,California,92672,USA,United States of America,USA,United States of America,3:04:24,3464,225,22,Runners,,,2015,female
+225,7661,Hannah E. Alderfer,"Alderfer, Hannah E.",24,F,Dover,OH ,Ohio,44622,USA,United States of America,USA,United States of America,3:04:27,3472,226,193,Runners,,,2015,female
+226,14118,Milah B Frownfelter,"Frownfelter, Milah B",37,F,Seattle,WA ,Washington,98109,USA,United States of America,USA,United States of America,3:04:27,3478,227,194,Runners,,,2015,female
+227,7096,Elizabeth M. Ehrhardt,"Ehrhardt, Elizabeth M.",21,F,Haddonfield,NJ ,New Jersey,08033,USA,United States of America,USA,United States of America,3:04:29,3481,228,195,Runners,,,2015,female
+228,8608,Kara Rubinich,"Rubinich, Kara",36,F,Downingtown,PA ,Pennsylvania,19335,USA,United States of America,USA,United States of America,3:04:31,3487,229,196,Runners,,,2015,female
+229,9946,Jessica N. Arellano,"Arellano, Jessica N.",20,F,Broomfield,CO ,Colorado,80023,USA,United States of America,USA,United States of America,3:04:34,3500,230,197,Runners,,,2015,female
+230,6603,Amy L. Doolittle-Crider,"Doolittle-Crider, Amy L.",35,F,Louisville,KY ,Kentucky,40217,USA,United States of America,USA,United States of America,3:04:38,3513,231,198,Runners,,,2015,female
+231,6768,Nichole Bukowski,"Bukowski, Nichole",36,F,Somerville,MA ,Massachusetts,02144,USA,United States of America,USA,United States of America,3:04:43,3530,232,199,Runners,,,2015,female
+232,9488,Allison Toppen,"Toppen, Allison",26,F,Colorado Springs,CO ,Colorado,80903,USA,United States of America,USA,United States of America,3:04:44,3532,233,200,Runners,,,2015,female
+233,11194,Beth Meadows,"Meadows, Beth",29,F,Nashville,TN ,Tennessee,37206,USA,United States of America,USA,United States of America,3:04:50,3550,234,201,Runners,,,2015,female
+234,6633,Andrea J. White,"White, Andrea J.",32,F,Ashland,OH ,Ohio,44805,USA,United States of America,USA,United States of America,3:04:51,3555,235,202,Runners,,,2015,female
+235,6579,Angela M. Tieri,"Tieri, Angela M.",30,F,San Francisco,CA ,California,94103,USA,United States of America,USA,United States of America,3:04:52,3558,236,203,Runners,,,2015,female
+236,10395,Kathryn M. Van Meter,"Van Meter, Kathryn M.",27,F,Alberton,,,1454,RSA,South Africa,USA,United States of America,3:04:55,3565,237,204,Runners,,,2015,female
+237,3115,Sara Maltby,"Maltby, Sara",36,F,Richmond Hill,GA ,Georgia,31324,USA,United States of America,USA,United States of America,3:04:57,3573,238,205,Runners,,,2015,female
+238,8667,Callie Bartel,"Bartel, Callie",29,F,Green Bay,WI ,Wisconsin,54301,USA,United States of America,USA,United States of America,3:04:59,3579,239,206,Runners,,,2015,female
+239,4746,Zanae E Baird,"Baird, Zanae E",27,F,Wichita,KS ,Kansas,67217,USA,United States of America,USA,United States of America,3:04:59,3581,240,207,Runners,,,2015,female
+240,7485,Brooke N. Benner,"Benner, Brooke N.",22,F,Columbus,OH ,Ohio,43220,USA,United States of America,USA,United States of America,3:05:01,3594,241,208,Runners,,,2015,female
+241,8362,Siobhan A. O'Connor,"O'Connor, Siobhan A.",27,F,Philadelphia,PA ,Pennsylvania,19123,USA,United States of America,USA,United States of America,3:05:04,3604,242,209,Runners,,,2015,female
+242,6423,Fabienne Nazarian,"Nazarian, Fabienne",42,F,Santiago,,,7650027,CHI,Chile,CHI,Chile,3:05:05,3609,243,23,Runners,,,2015,female
+243,5825,Dominique Stasulli,"Stasulli, Dominique",23,F,Lillington,NC ,North Carolina,27546,USA,United States of America,USA,United States of America,3:05:06,3613,244,210,Runners,,,2015,female
+244,7058,Karen Pulkkinen,"Pulkkinen, Karen",30,F,Beverly,MA ,Massachusetts,01915,USA,United States of America,USA,United States of America,3:05:06,3616,245,211,Runners,,,2015,female
+245,13332,Kristin Reese,"Reese, Kristin",25,F,San Francisco,CA ,California,94118,USA,United States of America,USA,United States of America,3:05:08,3620,246,212,Runners,,,2015,female
+246,7402,Rosemary E. Barber,"Barber, Rosemary E.",24,F,Richmond,VA ,Virginia,23220,USA,United States of America,USA,United States of America,3:05:11,3631,247,213,Runners,,,2015,female
+247,6152,Carolyn Yang,"Yang, Carolyn",30,F,Charlotte,NC ,North Carolina,28278,USA,United States of America,USA,United States of America,3:05:16,3648,248,214,Runners,,,2015,female
+248,7420,Megan Granski,"Granski, Megan",23,F,Ridgewood,NJ ,New Jersey,07450,USA,United States of America,USA,United States of America,3:05:20,3656,249,215,Runners,,,2015,female
+249,3881,Megan E. Papp,"Papp, Megan E.",24,F,Niantic,CT ,Connecticut,06357,USA,United States of America,USA,United States of America,3:05:23,3667,250,216,Runners,,,2015,female
+250,5664,Kristina Kaufmann,"Kaufmann, Kristina",34,F,Denver,CO ,Colorado,80205,USA,United States of America,USA,United States of America,3:05:25,3675,251,217,Runners,,,2015,female
+251,9127,Anne Elise Creamer,"Creamer, Anne Elise",24,F,Gainesville,FL ,Florida,32807,USA,United States of America,USA,United States of America,3:05:31,3690,252,218,Runners,,,2015,female
+252,4641,Jessica Gonzales,"Gonzales, Jessica",29,F,Long Island City,NY ,New York,11109,USA,United States of America,USA,United States of America,3:05:31,3694,253,219,Runners,,,2015,female
+253,7314,Sarah Lundine,"Lundine, Sarah",26,F,Villa Park,IL ,Illinois,60181,USA,United States of America,USA,United States of America,3:05:36,3711,254,220,Runners,,,2015,female
+254,4469,Marie E. Barnett,"Barnett, Marie E.",28,F,Brooklyn,NY ,New York,11211,USA,United States of America,USA,United States of America,3:05:37,3719,255,221,Runners,,,2015,female
+255,4623,Jillian A. Goodwin,"Goodwin, Jillian A.",25,F,Washington,DC ,District Of Columbia,20009,USA,United States of America,USA,United States of America,3:05:38,3723,256,222,Runners,,,2015,female
+256,4183,Phoebe Markle,"Markle, Phoebe",31,F,Arlington,VA ,Virginia,22206,USA,United States of America,USA,United States of America,3:05:41,3732,257,223,Runners,,,2015,female
+257,5600,Francesca Delucia,"Delucia, Francesca",27,F,New York,NY ,New York,10023,USA,United States of America,USA,United States of America,3:05:42,3736,258,224,Runners,,,2015,female
+258,3570,Natalie McPhillips,"McPhillips, Natalie",33,F,Brooklyn,NY ,New York,11209,USA,United States of America,USA,United States of America,3:05:43,3738,259,225,Runners,,,2015,female
+259,7153,Sabine Fischer-Daly,"Fischer-Daly, Sabine",35,F,Ithaca,NY ,New York,14850,USA,United States of America,USA,United States of America,3:05:44,3740,260,226,Runners,,,2015,female
+260,4334,Claire M Long,"Long, Claire M",23,F,Golden Beach,FL ,Florida,33160,USA,United States of America,USA,United States of America,3:05:44,3745,261,227,Runners,,,2015,female
+261,5826,Mirte Leloup,"Leloup, Mirte",29,F,Nijmegen,,,6511ME,NED,Netherlands,NED,Netherlands,3:05:46,3750,262,228,Runners,,,2015,female
+262,7419,Marisa A Lizak,"Lizak, Marisa A",35,F,Marina Del Rey,CA ,California,90292,USA,United States of America,USA,United States of America,3:05:50,3763,263,229,Runners,,,2015,female
+263,4421,Erica J Pitman,"Pitman, Erica J",32,F,Snohomish,WA ,Washington,98296,USA,United States of America,USA,United States of America,3:05:50,3764,264,230,Runners,,,2015,female
+264,3314,Jennifer L Vandongen,"Vandongen, Jennifer L",37,F,Bar Harbor,ME ,Maine,04609,USA,United States of America,USA,United States of America,3:05:51,3767,265,231,Runners,,,2015,female
+265,7030,Kelly Hawks,"Hawks, Kelly",30,F,Richmond,VA ,Virginia,23226,USA,United States of America,USA,United States of America,3:05:51,3768,266,232,Runners,,,2015,female
+266,8502,Carrie A. Endara,"Endara, Carrie A.",32,F,Morrisville,NC ,North Carolina,27560,USA,United States of America,USA,United States of America,3:05:54,3778,267,233,Runners,,,2015,female
+267,3028,Chrissy Graham,"Graham, Chrissy",41,F,Olney,MD ,Maryland,20832,USA,United States of America,USA,United States of America,3:06:05,3810,268,24,Runners,,,2015,female
+268,6634,Sydney L. Bruestle,"Bruestle, Sydney L.",24,F,Midland,MI ,Michigan,48640,USA,United States of America,USA,United States of America,3:06:07,3815,269,234,Runners,,,2015,female
+269,5073,Margaret P. Brennan,"Brennan, Margaret P.",37,F,Fairview,NC ,North Carolina,28730,USA,United States of America,USA,United States of America,3:06:07,3816,270,235,Runners,,,2015,female
+270,8081,Jenessa Rose,"Rose, Jenessa",25,F,San Diego,CA ,California,92127,USA,United States of America,USA,United States of America,3:06:08,3818,271,236,Runners,,,2015,female
+271,5457,Amy R. Campbell,"Campbell, Amy R.",27,F,Cary,IL ,Illinois,60013-1530,USA,United States of America,USA,United States of America,3:06:11,3827,272,237,Runners,,,2015,female
+272,7306,Amanda Potter,"Potter, Amanda",31,F,Boston,MA ,Massachusetts,02108,USA,United States of America,USA,United States of America,3:06:12,3833,273,238,Runners,,,2015,female
+273,2613,Megan C. Jaswell,"Jaswell, Megan C.",27,F,Wakefield,RI ,Rhode Island,02879,USA,United States of America,USA,United States of America,3:06:13,3837,274,239,Runners,,,2015,female
+274,8012,Michelle Eversman,"Eversman, Michelle",33,F,Eden Prairie,MN ,Minnesota,55344,USA,United States of America,USA,United States of America,3:06:16,3839,275,240,Runners,,,2015,female
+275,16140,Emily G Wagoner,"Wagoner, Emily G",19,F,Fishers,IN ,Indiana,46037,USA,United States of America,USA,United States of America,3:06:18,3847,276,241,Runners,,,2015,female
+276,1545,Evan Fisher,"Fisher, Evan",34,F,Alexandria,VA ,Virginia,22309,USA,United States of America,USA,United States of America,3:06:21,3853,277,242,Runners,,,2015,female
+277,6192,Cathi Campbell,"Campbell, Cathi",47,F,Allston,MA ,Massachusetts,02134,USA,United States of America,USA,United States of America,3:06:21,3857,278,9,Runners,,,2015,female
+278,5128,Cassandra Tripaldi,"Tripaldi, Cassandra",26,F,Walnutport,PA ,Pennsylvania,18088,USA,United States of America,USA,United States of America,3:06:26,3873,279,243,Runners,,,2015,female
+279,8161,Colleen Ryan,"Ryan, Colleen",42,F,Danvers,MA ,Massachusetts,01923-2723,USA,United States of America,USA,United States of America,3:06:30,3890,280,25,Runners,,,2015,female
+280,11430,Mary Beth Strickler,"Strickler, Mary Beth",40,F,Lavale,MD ,Maryland,21502,USA,United States of America,USA,United States of America,3:06:33,3901,281,26,Runners,,,2015,female
+281,19351,Kristen Comment,"Comment, Kristen",40,F,Kansas City,MO ,Missouri,64113,USA,United States of America,USA,United States of America,3:06:38,3926,282,27,Runners,,,2015,female
+282,9305,Ashley N Degen,"Degen, Ashley N",32,F,Overland Park,KS ,Kansas,66210,USA,United States of America,USA,United States of America,3:06:39,3929,283,244,Runners,,,2015,female
+283,3622,Melanie Charette,"Charette, Melanie",40,F,Blainville,QC ,Quebec,J7B1K2,CAN,Canada,CAN,Canada,3:06:39,3930,284,28,Runners,,,2015,female
+284,10916,Bronwyn Van Vugt,"Van Vugt, Bronwyn",33,F,San Francisco,CA ,California,94117,USA,United States of America,CAN,Canada,3:06:40,3933,285,245,Runners,,,2015,female
+285,8131,Kelsey Osborne,"Osborne, Kelsey",28,F,Newport News,VA ,Virginia,23606,USA,United States of America,USA,United States of America,3:06:42,3939,286,246,Runners,,,2015,female
+286,9431,Halle Cupp,"Cupp, Halle",34,F,Liberty Twp,OH ,Ohio,45044,USA,United States of America,USA,United States of America,3:06:42,3940,287,247,Runners,,,2015,female
+287,6604,Erin M. O'Mara,"O'Mara, Erin M.",30,F,Linden,MI ,Michigan,48451,USA,United States of America,USA,United States of America,3:06:43,3942,288,248,Runners,,,2015,female
+288,27552,Shannon L. Desrosiers,"Desrosiers, Shannon L.",33,F,Colton,NY ,New York,13625,USA,United States of America,CAN,Canada,3:06:45,3948,289,249,Runners,,,2015,female
+289,5607,Brianna L Rohne,"Rohne, Brianna L",31,F,St. Paul,MN ,Minnesota,55105,USA,United States of America,USA,United States of America,3:06:45,3954,290,250,Runners,,,2015,female
+290,7083,Megan Parker,"Parker, Megan",39,F,Portsmouth,NH ,New Hampshire,03801,USA,United States of America,USA,United States of America,3:06:54,3978,291,251,Runners,,,2015,female
+291,5562,Heidi Z. Skildum,"Skildum, Heidi Z.",28,F,Decorah,IA ,Iowa,52101,USA,United States of America,USA,United States of America,3:06:58,3992,292,252,Runners,,,2015,female
+292,7459,Marianne Boivin,"Boivin, Marianne",31,F,Levis,QC ,Quebec,G6V 3B4,CAN,Canada,CAN,Canada,3:06:59,3994,293,253,Runners,,,2015,female
+293,6102,Kelly A. Smith,"Smith, Kelly A.",32,F,Toronto,ON ,Ontario,M4E 3C1,CAN,Canada,CAN,Canada,3:06:59,3997,294,254,Runners,,,2015,female
+294,5840,Maria S. Bonzi,"Bonzi, Maria S.",42,F,Salta,,,4401,ARG,Argentina,ARG,Argentina,3:07:06,4012,295,29,Runners,,,2015,female
+295,9758,Ashley Turgeon,"Turgeon, Ashley",30,F,Calgary,AB ,Alberta,T3C2T2,CAN,Canada,CAN,Canada,3:07:07,4014,296,255,Runners,,,2015,female
+296,9175,Jacqueline Palmer,"Palmer, Jacqueline",27,F,Newark,DE ,Delaware,19713,USA,United States of America,USA,United States of America,3:07:07,4015,297,256,Runners,,,2015,female
+297,5378,Jacy D Kruzel,"Kruzel, Jacy D",28,F,New York,NY ,New York,10016,USA,United States of America,USA,United States of America,3:07:08,4018,298,257,Runners,,,2015,female
+298,9752,Elleree Erdos,"Erdos, Elleree",25,F,New York,NY ,New York,10012,USA,United States of America,USA,United States of America,3:07:08,4019,299,258,Runners,,,2015,female
+299,4794,Ashley E Manlove,"Manlove, Ashley E",33,F,Cleveland,OH ,Ohio,44120,USA,United States of America,USA,United States of America,3:07:08,4024,300,259,Runners,,,2015,female
+300,10389,Devin C. Nadar,"Nadar, Devin C.",24,F,Eugene,OR ,Oregon,97405,USA,United States of America,USA,United States of America,3:07:12,4029,301,260,Runners,,,2015,female
+301,10003,Kayla B. Strong,"Strong, Kayla B.",25,F,Layton,UT ,Utah,84041,USA,United States of America,USA,United States of America,3:07:14,4037,302,261,Runners,,,2015,female
+302,9753,Tiffany Kari,"Kari, Tiffany",34,F,Duluth,MN ,Minnesota,55803,USA,United States of America,USA,United States of America,3:07:15,4039,303,262,Runners,,,2015,female
+303,6921,Courtney Brohart,"Brohart, Courtney",25,F,Camlachie,ON ,Ontario,N0N 1E0,CAN,Canada,CAN,Canada,3:07:19,4051,304,263,Runners,,,2015,female
+304,3975,Sarah E. Kasabian-Larson,"Kasabian-Larson, Sarah E.",33,F,Alma,MI ,Michigan,48801,USA,United States of America,USA,United States of America,3:07:19,4056,305,264,Runners,,,2015,female
+305,8026,Katie M. Ainsley,"Ainsley, Katie M.",31,F,Phoenix,MD ,Maryland,21131,USA,United States of America,USA,United States of America,3:07:22,4064,306,265,Runners,,,2015,female
+306,7581,Sarah E Mahaney,"Mahaney, Sarah E",33,F,Montgomery,IL ,Illinois,60538,USA,United States of America,USA,United States of America,3:07:22,4068,307,266,Runners,,,2015,female
+307,8306,Carissa A Sinda,"Sinda, Carissa A",26,F,Denver,CO ,Colorado,80221,USA,United States of America,USA,United States of America,3:07:23,4074,308,267,Runners,,,2015,female
+308,10468,Angela J Battaglia,"Battaglia, Angela J",33,F,Los Angeles,CA ,California,90026,USA,United States of America,USA,United States of America,3:07:24,4076,309,268,Runners,,,2015,female
+309,5702,Cindy Conant,"Conant, Cindy",54,F,Kensington,MD ,Maryland,20895,USA,United States of America,USA,United States of America,3:07:24,4077,310,3,Runners,,,2015,female
+310,5841,Inna Vishik,"Vishik, Inna",30,F,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,3:07:26,4082,311,269,Runners,,,2015,female
+311,8088,Natty Plunkett,"Plunkett, Natty",24,F,Albuquerque,NM ,New Mexico,87108,USA,United States of America,USA,United States of America,3:07:27,4090,312,270,Runners,,,2015,female
+312,6387,Brittany L. Heninger,"Heninger, Brittany L.",26,F,Bristol,CT ,Connecticut,06010,USA,United States of America,USA,United States of America,3:07:30,4101,313,271,Runners,,,2015,female
+313,10499,Jamie L. Kretz,"Kretz, Jamie L.",25,F,Chicago,IL ,Illinois,60611,USA,United States of America,USA,United States of America,3:07:32,4107,314,272,Runners,,,2015,female
+314,3871,Lisa J. Phillips-Cook,"Phillips-Cook, Lisa J.",30,F,Montgomery,IL ,Illinois,60538,USA,United States of America,USA,United States of America,3:07:33,4114,315,273,Runners,,,2015,female
+315,7156,Jessica Bashaw,"Bashaw, Jessica",32,F,Cambridge,NY ,New York,12816,USA,United States of America,USA,United States of America,3:07:37,4123,316,274,Runners,,,2015,female
+316,4976,Dara E Dalmata,"Dalmata, Dara E",38,F,Hopkinton,MA ,Massachusetts,01748,USA,United States of America,USA,United States of America,3:07:37,4125,317,275,Runners,,,2015,female
+317,10042,Carolyn R Durfee,"Durfee, Carolyn R",27,F,Portsmouth,NH ,New Hampshire,03801,USA,United States of America,USA,United States of America,3:07:42,4138,318,276,Runners,,,2015,female
+318,10470,Brooke Adams,"Adams, Brooke",26,F,Randolph,NY ,New York,14772,USA,United States of America,USA,United States of America,3:07:45,4147,319,277,Runners,,,2015,female
+319,10462,Kendra A Sirak,"Sirak, Kendra A",26,F,Atlanta,GA ,Georgia,30306,USA,United States of America,USA,United States of America,3:07:46,4149,320,278,Runners,,,2015,female
+320,6070,Ruby J Bode,"Bode, Ruby J",34,F,Estes Park,CO ,Colorado,80517,USA,United States of America,USA,United States of America,3:07:46,4150,321,279,Runners,,,2015,female
+321,5585,Saeger Fischer,"Fischer, Saeger",30,F,Portsmouth,NH ,New Hampshire,03801,USA,United States of America,USA,United States of America,3:07:49,4160,322,280,Runners,,,2015,female
+322,11874,Kathryn Brake,"Brake, Kathryn",25,F,Overland Park,KS ,Kansas,66209,USA,United States of America,USA,United States of America,3:07:50,4165,323,281,Runners,,,2015,female
+323,3413,Julee Guinn,"Guinn, Julee",33,F,San Antonio,TX ,Texas,78209,USA,United States of America,USA,United States of America,3:07:52,4168,324,282,Runners,,,2015,female
+324,5108,Yazmin Vallejo Sarmiento,"Vallejo Sarmiento, Yazmin",30,F,Mexico,,,52929,MEX,Mexico,MEX,Mexico,3:07:53,4173,325,283,Runners,,,2015,female
+325,9149,Gretchen K. Bodeen,"Bodeen, Gretchen K.",34,F,Yakima,WA ,Washington,98903,USA,United States of America,USA,United States of America,3:07:54,4176,326,284,Runners,,,2015,female
+326,6037,Annie Jean,"Jean, Annie",33,F,Chelsea,QC ,Quebec,J9B 1P6,CAN,Canada,CAN,Canada,3:07:55,4177,327,285,Runners,,,2015,female
+327,8822,Nellie A. Triedman,"Triedman, Nellie A.",24,F,Chestnut Hill,MA ,Massachusetts,02467,USA,United States of America,USA,United States of America,3:07:55,4178,328,286,Runners,,,2015,female
+328,6060,Tracy M Gruman,"Gruman, Tracy M",37,F,Grapevine,TX ,Texas,76051,USA,United States of America,USA,United States of America,3:07:56,4184,329,287,Runners,,,2015,female
+329,10136,Rachel B. Cackett,"Cackett, Rachel B.",23,F,Eugene,OR ,Oregon,97401,USA,United States of America,USA,United States of America,3:07:56,4185,330,288,Runners,,,2015,female
+330,11251,Kacee Houle,"Houle, Kacee",25,F,Cedar Hills,UT ,Utah,84062,USA,United States of America,USA,United States of America,3:07:56,4187,331,289,Runners,,,2015,female
+331,4717,Kate Dochelli,"Dochelli, Kate",27,F,Richmond,VA ,Virginia,23220,USA,United States of America,USA,United States of America,3:07:57,4191,332,290,Runners,,,2015,female
+332,13457,Harper L Beasley,"Beasley, Harper L",20,F,Iowa City,IA ,Iowa,52245,USA,United States of America,USA,United States of America,3:07:58,4196,333,291,Runners,,,2015,female
+333,8241,Katie Strohschein,"Strohschein, Katie",31,F,Charlotte,NC ,North Carolina,28203,USA,United States of America,USA,United States of America,3:07:59,4198,334,292,Runners,,,2015,female
+334,5353,Danielle Graham,"Graham, Danielle",26,F,Philadelphia,PA ,Pennsylvania,19103,USA,United States of America,USA,United States of America,3:08:00,4205,335,293,Runners,,,2015,female
+335,7508,Emily J Ganley,"Ganley, Emily J",33,F,Boston,MA ,Massachusetts,02118,USA,United States of America,USA,United States of America,3:08:06,4222,336,294,Runners,,,2015,female
+336,8034,Catherine A Jubinski,"Jubinski, Catherine A",25,F,San Francisco,CA ,California,94109,USA,United States of America,USA,United States of America,3:08:07,4226,337,295,Runners,,,2015,female
+337,2601,Donna Mills-Honarvar,"Mills-Honarvar, Donna",40,F,San Antonio,TX ,Texas,78261,USA,United States of America,USA,United States of America,3:08:09,4235,338,30,Runners,,,2015,female
+338,6110,Amy L Crain,"Crain, Amy L",36,F,New York,NY ,New York,10002,USA,United States of America,USA,United States of America,3:08:11,4242,339,296,Runners,,,2015,female
+339,9489,Nicole J. Gareri,"Gareri, Nicole J.",34,F,Uniontown,OH ,Ohio,44685,USA,United States of America,USA,United States of America,3:08:12,4244,340,297,Runners,,,2015,female
+340,8936,Katherine Connolly,"Connolly, Katherine",22,F,Portland,ME ,Maine,04103,USA,United States of America,USA,United States of America,3:08:12,4245,341,298,Runners,,,2015,female
+341,7132,Jennifer Edwards,"Edwards, Jennifer",31,F,Seattle,WA ,Washington,98119,USA,United States of America,USA,United States of America,3:08:16,4260,342,299,Runners,,,2015,female
+342,12986,Julia J. Thomas,"Thomas, Julia J.",39,F,Ottawa,ON ,Ontario,K1G 1R7,CAN,Canada,CAN,Canada,3:08:16,4261,343,300,Runners,,,2015,female
+343,5675,Kaitlin M. O'Mara,"O'Mara, Kaitlin M.",26,F,Novi,MI ,Michigan,48375,USA,United States of America,USA,United States of America,3:08:17,4263,344,301,Runners,,,2015,female
+344,5579,Maryanna Ray,"Ray, Maryanna",35,F,Ripley,ME ,Maine,04930,USA,United States of America,USA,United States of America,3:08:17,4264,345,302,Runners,,,2015,female
+345,6614,Leah C. Schubel,"Schubel, Leah C.",24,F,Richmond,VA ,Virginia,23223,USA,United States of America,USA,United States of America,3:08:19,4274,346,303,Runners,,,2015,female
+346,2431,Carolyn Shaw,"Shaw, Carolyn",23,F,Mclean,VA ,Virginia,22102,USA,United States of America,USA,United States of America,3:08:19,4275,347,304,Runners,,,2015,female
+347,8900,Cheryl A Jeseritz,"Jeseritz, Cheryl A",36,F,Savage,MN ,Minnesota,55378,USA,United States of America,USA,United States of America,3:08:22,4283,348,305,Runners,,,2015,female
+348,11979,Kindsey P. Vaughn,"Vaughn, Kindsey P.",27,F,San Diego,CA ,California,92129,USA,United States of America,USA,United States of America,3:08:25,4290,349,306,Runners,,,2015,female
+349,7361,Tammy Putt,"Putt, Tammy",30,F,Allegany,NY ,New York,14706,USA,United States of America,USA,United States of America,3:08:25,4295,350,307,Runners,,,2015,female
+350,3361,Mary-Lynn B. Currier,"Currier, Mary-Lynn B.",51,F,Burlington,CT ,Connecticut,06013,USA,United States of America,USA,United States of America,3:08:26,4297,351,4,Runners,,,2015,female
+351,5568,Jessica E. Mueller,"Mueller, Jessica E.",31,F,Calgary,AB ,Alberta,T3B 2L5,CAN,Canada,CAN,Canada,3:08:26,4298,352,308,Runners,,,2015,female
+352,6750,Erynn J. Blake,"Blake, Erynn J.",39,F,Portland,OR ,Oregon,97206,USA,United States of America,USA,United States of America,3:08:30,4309,353,309,Runners,,,2015,female
+353,5402,Cynthia Bartus,"Bartus, Cynthia",36,F,Bethlehem,PA ,Pennsylvania,18015,USA,United States of America,USA,United States of America,3:08:30,4310,354,310,Runners,,,2015,female
+354,6199,Nicole Aha,"Aha, Nicole",22,F,Danville,CA ,California,94526,USA,United States of America,USA,United States of America,3:08:31,4313,355,311,Runners,,,2015,female
+355,9003,Emily Denny,"Denny, Emily",25,F,Trophy Club,TX ,Texas,76262,USA,United States of America,USA,United States of America,3:08:32,4319,356,312,Runners,,,2015,female
+356,3946,Monica M. Schoeneck,"Schoeneck, Monica M.",36,F,Muskego,WI ,Wisconsin,53150,USA,United States of America,USA,United States of America,3:08:32,4320,357,313,Runners,,,2015,female
+357,6939,Eleanor F. Williamson,"Williamson, Eleanor F.",43,F,Nashville,TN ,Tennessee,37215,USA,United States of America,USA,United States of America,3:08:34,4323,358,31,Runners,,,2015,female
+358,9200,Erin C. Masterson,"Masterson, Erin C.",31,F,Alexandria,VA ,Virginia,22302,USA,United States of America,USA,United States of America,3:08:34,4327,359,314,Runners,,,2015,female
+359,2857,Krista L Lederer,"Lederer, Krista L",35,F,Chicago,IL ,Illinois,60657,USA,United States of America,USA,United States of America,3:08:34,4328,360,315,Runners,,,2015,female
+360,13411,Amy Gannon,"Gannon, Amy",26,F,Shaker Heights,OH ,Ohio,44122,USA,United States of America,USA,United States of America,3:08:36,4337,361,316,Runners,,,2015,female
+361,8676,Tara Mooney,"Mooney, Tara",31,F,Atlanta,GA ,Georgia,30339,USA,United States of America,USA,United States of America,3:08:37,4339,362,317,Runners,,,2015,female
+362,2732,Suzanne Harrington,"Harrington, Suzanne",39,F,Sydney,,,2217,AUS,Australia,AUS,Australia,3:08:38,4342,363,318,Runners,,,2015,female
+363,9523,Elizabeth S. Choi,"Choi, Elizabeth S.",28,F,New York,NY ,New York,10075,USA,United States of America,USA,United States of America,3:08:43,4355,364,319,Runners,,,2015,female
+364,6991,Elizabeth Dollas,"Dollas, Elizabeth",38,F,Amesbury,MA ,Massachusetts,01913,USA,United States of America,USA,United States of America,3:08:43,4359,365,320,Runners,,,2015,female
+365,10554,Hope Cutler,"Cutler, Hope",20,F,Lexington,VA ,Virginia,24450,USA,United States of America,USA,United States of America,3:08:47,4373,366,321,Runners,,,2015,female
+366,6919,Mary Johnson,"Johnson, Mary",27,F,Hamden,CT ,Connecticut,06517,USA,United States of America,USA,United States of America,3:08:47,4375,367,322,Runners,,,2015,female
+367,8761,Erin Simone,"Simone, Erin",34,F,London,ON ,Ontario,N6J4E9,CAN,Canada,CAN,Canada,3:08:50,4383,368,323,Runners,,,2015,female
+368,8595,Jodi Theriault,"Theriault, Jodi",34,F,Portland,ME ,Maine,04103,USA,United States of America,USA,United States of America,3:08:52,4397,369,324,Runners,,,2015,female
+369,6541,Pamela Kennedy,"Kennedy, Pamela",36,F,San Francisco,CA ,California,94123,USA,United States of America,USA,United States of America,3:08:55,4400,370,325,Runners,,,2015,female
+370,10116,Amanda Watters,"Watters, Amanda",35,F,Ashland,MA ,Massachusetts,01721,USA,United States of America,USA,United States of America,3:08:55,4402,371,326,Runners,,,2015,female
+371,7035,Melissa Burgin,"Burgin, Melissa",30,F,Brooklyn,NY ,New York,11238,USA,United States of America,USA,United States of America,3:08:59,4415,372,327,Runners,,,2015,female
+372,7450,Kasey E. Manwaring,"Manwaring, Kasey E.",36,F,Philadelphia,PA ,Pennsylvania,19128,USA,United States of America,USA,United States of America,3:09:01,4424,373,328,Runners,,,2015,female
+373,8902,Pamela J. Van Hout,"Van Hout, Pamela J.",29,F,Kimberly,WI ,Wisconsin,54136,USA,United States of America,USA,United States of America,3:09:06,4435,374,329,Runners,,,2015,female
+374,8841,Aleah K Mickelson,"Mickelson, Aleah K",37,F,Yakima,WA ,Washington,98902,USA,United States of America,USA,United States of America,3:09:07,4439,375,330,Runners,,,2015,female
+375,8284,Colleen Lynn,"Lynn, Colleen",39,F,West Chester,PA ,Pennsylvania,19380,USA,United States of America,USA,United States of America,3:09:07,4440,376,331,Runners,,,2015,female
+376,6782,Lana J Wegner,"Wegner, Lana J",27,F,Wells,MN ,Minnesota,56097,USA,United States of America,USA,United States of America,3:09:09,4449,377,332,Runners,,,2015,female
+377,9883,Jennifer Matthews,"Matthews, Jennifer",41,F,Carlsbad,CA ,California,92009,USA,United States of America,USA,United States of America,3:09:09,4450,378,32,Runners,,,2015,female
+378,6308,Rebecca B. Tucker,"Tucker, Rebecca B.",35,F,Baton Rouge,LA ,Louisiana,70806,USA,United States of America,USA,United States of America,3:09:10,4454,379,333,Runners,,,2015,female
+379,4781,Cindy G. Lynch,"Lynch, Cindy G.",43,F,San Diego,CA ,California,92127,USA,United States of America,USA,United States of America,3:09:10,4456,380,33,Runners,,,2015,female
+380,10907,Katherine Nielsen,"Nielsen, Katherine",25,F,Tucson,AZ ,Arizona,85718,USA,United States of America,USA,United States of America,3:09:12,4460,381,334,Runners,,,2015,female
+381,13466,Kayleigh Skinner,"Skinner, Kayleigh",22,F,Jackson,MS ,Mississippi,39206,USA,United States of America,CAN,Canada,3:09:13,4466,382,335,Runners,,,2015,female
+382,7271,Kara H Diamond-Husmann,"Diamond-Husmann, Kara H",37,F,Denver,CO ,Colorado,80209,USA,United States of America,USA,United States of America,3:09:19,4486,383,336,Runners,,,2015,female
+383,4363,Leah A. Maher,"Maher, Leah A.",23,F,New Providence,PA ,Pennsylvania,17560,USA,United States of America,USA,United States of America,3:09:23,4504,384,337,Runners,,,2015,female
+384,8442,Casey Depasquale,"Depasquale, Casey",29,F,New York,NY ,New York,10019,USA,United States of America,USA,United States of America,3:09:25,4513,385,338,Runners,,,2015,female
+385,12374,Danielle Wagner,"Wagner, Danielle",35,F,Panama,,,,PAN,Panama,PAN,Panama,3:09:31,4539,386,339,Runners,,,2015,female
+386,7103,Meredith L. Lorch,"Lorch, Meredith L.",22,F,Atlanta,GA ,Georgia,30308,USA,United States of America,USA,United States of America,3:09:35,4551,387,340,Runners,,,2015,female
+387,9813,Teresa P. Inman,"Inman, Teresa P.",38,F,Winston Salem,NC ,North Carolina,27106,USA,United States of America,USA,United States of America,3:09:42,4579,388,341,Runners,,,2015,female
+388,9617,Kelli Proctor,"Proctor, Kelli",37,F,Waterford,PA ,Pennsylvania,16441,USA,United States of America,USA,United States of America,3:09:43,4583,389,342,Runners,,,2015,female
+389,8277,Angela M Colarusso,"Colarusso, Angela M",34,F,Hoboken,NJ ,New Jersey,07030,USA,United States of America,USA,United States of America,3:09:43,4585,390,343,Runners,,,2015,female
+390,9821,Emily Sabo,"Sabo, Emily",28,F,Edmonton,AB ,Alberta,T6R 2K7,CAN,Canada,CAN,Canada,3:09:44,4591,391,344,Runners,,,2015,female
+391,6850,Stephanie C. Hillman,"Hillman, Stephanie C.",29,F,Westerville,OH ,Ohio,43081,USA,United States of America,USA,United States of America,3:09:45,4595,392,345,Runners,,,2015,female
+392,9864,Caroline Lea,"Lea, Caroline",29,F,Mill Valley,CA ,California,94941,USA,United States of America,USA,United States of America,3:09:46,4599,393,346,Runners,,,2015,female
+393,F39,Jennifer R. Hughes,"Hughes, Jennifer R.",36,F,Salem,UT ,Utah,84653,USA,United States of America,USA,United States of America,3:09:48,4605,394,347,Runners,,,2015,female
+394,5509,Theresa Gosnell,"Gosnell, Theresa",43,F,Omaha,NE ,Nebraska,68114,USA,United States of America,USA,United States of America,3:09:50,4612,395,34,Runners,,,2015,female
+395,8593,Jennifer Lee,"Lee, Jennifer",44,F,Las Vegas,NV ,Nevada,89131,USA,United States of America,USA,United States of America,3:09:50,4614,396,35,Runners,,,2015,female
+396,6499,Katie Bien,"Bien, Katie",40,F,Bend,OR ,Oregon,97702,USA,United States of America,USA,United States of America,3:09:51,4619,397,36,Runners,,,2015,female
+397,11908,Cindy Huntington,"Huntington, Cindy",32,F,Portage,MI ,Michigan,49024,USA,United States of America,USA,United States of America,3:09:52,4620,398,348,Runners,,,2015,female
+398,12695,Aditi Krishna,"Krishna, Aditi",29,F,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,3:09:54,4629,399,349,Runners,,,2015,female
+399,3754,Ayako N. Kawakami,"Kawakami, Ayako N.",34,F,Irvine,CA ,California,92618,USA,United States of America,JPN,Japan,3:09:55,4632,400,350,Runners,,,2015,female
+400,10068,Candace N Delong,"Delong, Candace N",25,F,Stephens City,VA ,Virginia,22655,USA,United States of America,USA,United States of America,3:09:56,4636,401,351,Runners,,,2015,female
+401,9468,Kristine B. Walhovd,"Walhovd, Kristine B.",38,F,La Jolla,CA ,California,08519-2037,USA,United States of America,NOR,Norway,3:09:56,4637,402,352,Runners,,,2015,female
+402,5137,Katie Hand,"Hand, Katie",25,F,Brookline,MA ,Massachusetts,02445,USA,United States of America,USA,United States of America,3:09:57,4645,403,353,Runners,,,2015,female
+403,13432,Joni L Waldron,"Waldron, Joni L",31,F,Washington,DC ,District Of Columbia,20003,USA,United States of America,USA,United States of America,3:09:59,4652,404,354,Runners,,,2015,female
+404,9736,Kristen Flajslik,"Flajslik, Kristen",30,F,Hopkinton,MA ,Massachusetts,01748,USA,United States of America,USA,United States of America,3:10:00,4654,405,355,Runners,,,2015,female
+405,8056,Rachelle R Christensen,"Christensen, Rachelle R",33,F,Meridian,ID ,Idaho,83646,USA,United States of America,USA,United States of America,3:10:04,4665,406,356,Runners,,,2015,female
+406,7539,Lexy Millett,"Millett, Lexy",23,F,Saint Paul,MN ,Minnesota,55102,USA,United States of America,USA,United States of America,3:10:10,4676,407,357,Runners,,,2015,female
+407,9450,Abigail R. Huyser-Wierenga,"Huyser-Wierenga, Abigail R.",22,F,Edmonton,AB ,Alberta,T5N 2C8,CAN,Canada,CAN,Canada,3:10:13,4684,408,358,Runners,,,2015,female
+408,11526,Ashley M Kellam,"Kellam, Ashley M",25,F,Amherstburg,ON ,Ontario,N9V2V6,CAN,Canada,CAN,Canada,3:10:13,4685,409,359,Runners,,,2015,female
+409,12909,Caroline Sekaquaptewa,"Sekaquaptewa, Caroline",40,F,Tempe,AZ ,Arizona,85281,USA,United States of America,USA,United States of America,3:10:14,4687,410,37,Runners,,,2015,female
+410,8699,Kristyn Kadala,"Kadala, Kristyn",22,F,Berkeley,CA ,California,94704,USA,United States of America,USA,United States of America,3:10:15,4689,411,360,Runners,,,2015,female
+411,9191,Emily Babay,"Babay, Emily",27,F,Philadelphia,PA ,Pennsylvania,19147,USA,United States of America,USA,United States of America,3:10:15,4690,412,361,Runners,,,2015,female
+412,4947,Kerry A. Arouca,"Arouca, Kerry A.",27,F,Hanson,MA ,Massachusetts,02341,USA,United States of America,USA,United States of America,3:10:15,4696,413,362,Runners,,,2015,female
+413,6802,Louise A Turner,"Turner, Louise A",43,F,Scottsdale,AZ ,Arizona,85260,USA,United States of America,USA,United States of America,3:10:16,4697,414,38,Runners,,,2015,female
+414,8954,Lindsay M. Amherst,"Amherst, Lindsay M.",31,F,Pawtucket,RI ,Rhode Island,02860,USA,United States of America,USA,United States of America,3:10:17,4703,415,363,Runners,,,2015,female
+415,4101,Ashley Benson,"Benson, Ashley",27,F,Burlingame,CA ,California,94010,USA,United States of America,USA,United States of America,3:10:18,4707,416,364,Runners,,,2015,female
+416,11237,Rebecca Gusmer,"Gusmer, Rebecca",24,F,Minneapolis,MN ,Minnesota,55414,USA,United States of America,USA,United States of America,3:10:22,4718,417,365,Runners,,,2015,female
+417,11977,Rebecca J Downs,"Downs, Rebecca J",24,F,Indianapolis,IN ,Indiana,46208,USA,United States of America,USA,United States of America,3:10:23,4724,418,366,Runners,,,2015,female
+418,9225,Beth Otto,"Otto, Beth",50,F,Parker,CO ,Colorado,80134,USA,United States of America,USA,United States of America,3:10:23,4726,419,5,Runners,,,2015,female
+419,6586,Rebecca Turnbull,"Turnbull, Rebecca",31,F,Brooklyn,NY ,New York,11221,USA,United States of America,USA,United States of America,3:10:24,4727,420,367,Runners,,,2015,female
+420,8285,Tenielle M Klubben,"Klubben, Tenielle M",24,F,Fargo,ND ,North Dakota,58104,USA,United States of America,USA,United States of America,3:10:24,4728,421,368,Runners,,,2015,female
+421,8022,Anna H. Grummon,"Grummon, Anna H.",25,F,Carrboro,NC ,North Carolina,27510,USA,United States of America,USA,United States of America,3:10:26,4732,422,369,Runners,,,2015,female
+422,8616,Carma S Barnett,"Barnett, Carma S",33,F,Edmond,OK ,Oklahoma,73012,USA,United States of America,USA,United States of America,3:10:26,4733,423,370,Runners,,,2015,female
+423,6752,Kelsey M Gurganus,"Gurganus, Kelsey M",29,F,Indianapolis,IN ,Indiana,46219,USA,United States of America,USA,United States of America,3:10:27,4735,424,371,Runners,,,2015,female
+424,7335,Bret R Scofield,"Scofield, Bret R",26,F,Boulder,CO ,Colorado,80305,USA,United States of America,USA,United States of America,3:10:28,4736,425,372,Runners,,,2015,female
+425,7126,Jenna L. Mutz,"Mutz, Jenna L.",34,F,Joplin,MO ,Missouri,64801,USA,United States of America,USA,United States of America,3:10:28,4739,426,373,Runners,,,2015,female
+426,13665,Katlyn A. O'Leary,"O'Leary, Katlyn A.",29,F,Arlington,MA ,Massachusetts,02474,USA,United States of America,USA,United States of America,3:10:30,4749,427,374,Runners,,,2015,female
+427,8661,Victoria M. Sedicum,"Sedicum, Victoria M.",36,F,Quakertown,PA ,Pennsylvania,18951,USA,United States of America,USA,United States of America,3:10:30,4751,428,375,Runners,,,2015,female
+428,6985,Amy L. Natalini,"Natalini, Amy L.",33,F,Belleville,IL ,Illinois,62220,USA,United States of America,USA,United States of America,3:10:31,4753,429,376,Runners,,,2015,female
+429,12049,Rebecca Schell,"Schell, Rebecca",22,F,Upland,CA ,California,91786,USA,United States of America,USA,United States of America,3:10:32,4758,430,377,Runners,,,2015,female
+430,10204,Brooke M. Biggs,"Biggs, Brooke M.",34,F,Hamilton,ON ,Ontario,L8S 3P1,CAN,Canada,CAN,Canada,3:10:33,4762,431,378,Runners,,,2015,female
+431,10532,Courtney Kincaid,"Kincaid, Courtney",30,F,Cambridge,MA ,Massachusetts,02139,USA,United States of America,USA,United States of America,3:10:34,4764,432,379,Runners,,,2015,female
+432,11843,Sarah E Olesky,"Olesky, Sarah E",25,F,South Park,PA ,Pennsylvania,15129,USA,United States of America,USA,United States of America,3:10:37,4782,433,380,Runners,,,2015,female
+433,10345,Julie A. Cavanaugh,"Cavanaugh, Julie A.",32,F,Brookline,MA ,Massachusetts,02446,USA,United States of America,USA,United States of America,3:10:38,4783,434,381,Runners,,,2015,female
+434,10794,Jamie L. Willits,"Willits, Jamie L.",37,F,Hewitt,TX ,Texas,76643,USA,United States of America,USA,United States of America,3:10:38,4785,435,382,Runners,,,2015,female
+435,7425,Martina Morton,"Morton, Martina",29,F,Huntsville,ON ,Ontario,P1H 1G8,CAN,Canada,CAN,Canada,3:10:38,4786,436,383,Runners,,,2015,female
+436,9600,Lindsay E. White,"White, Lindsay E.",27,F,Ferndale,MI ,Michigan,48220,USA,United States of America,USA,United States of America,3:10:39,4790,437,384,Runners,,,2015,female
+437,12064,Megan L. Blair,"Blair, Megan L.",33,F,San Diego,CA ,California,92101,USA,United States of America,USA,United States of America,3:10:40,4796,438,385,Runners,,,2015,female
+438,7695,Jessica H. Jennings,"Jennings, Jessica H.",31,F,Kitty Hawk,NC ,North Carolina,27949,USA,United States of America,USA,United States of America,3:10:41,4798,439,386,Runners,,,2015,female
+439,8170,Maria Isabel Briseno,"Briseno, Maria Isabel",46,F,Santiago,,,7550432,CHI,Chile,CHI,Chile,3:10:41,4801,440,10,Runners,,,2015,female
+440,30625,Caroline F. Lucas,"Lucas, Caroline F.",19,F,Boston,MA ,Massachusetts,02118,USA,United States of America,USA,United States of America,3:10:43,4804,441,387,Runners,,,2015,female
+441,4771,Natalie Sachrajda,"Sachrajda, Natalie",24,F,Calgary,AB ,Alberta,T2N 2Y1,CAN,Canada,CAN,Canada,3:10:44,4805,442,388,Runners,,,2015,female
+442,5087,Micah Morgan,"Morgan, Micah",32,F,Vestavia,AL ,Alabama,35243,USA,United States of America,USA,United States of America,3:10:44,4806,443,389,Runners,,,2015,female
+443,9413,Elizabeth H. Kelley,"Kelley, Elizabeth H.",29,F,Cambridge,MA ,Massachusetts,02141,USA,United States of America,USA,United States of America,3:10:45,4811,444,390,Runners,,,2015,female
+444,5806,Jessica P. Gibby,"Gibby, Jessica P.",28,F,Palo Alto,CA ,California,94301,USA,United States of America,USA,United States of America,3:10:45,4814,445,391,Runners,,,2015,female
+445,5798,Deedra G. Porfirio,"Porfirio, Deedra G.",38,F,West Pittston,PA ,Pennsylvania,18643,USA,United States of America,USA,United States of America,3:10:50,4826,446,392,Runners,,,2015,female
+446,7028,Karen Dolge,"Dolge, Karen",44,F,Valatie,NY ,New York,12184,USA,United States of America,USA,United States of America,3:10:51,4830,447,39,Runners,,,2015,female
+447,9364,Deborah L. Slason,"Slason, Deborah L.",41,F,Goffstown,NH ,New Hampshire,03045,USA,United States of America,USA,United States of America,3:10:52,4834,448,40,Runners,,,2015,female
+448,9669,Ashley M Thayer,"Thayer, Ashley M",22,F,Winthrop,NY ,New York,13697,USA,United States of America,USA,United States of America,3:10:52,4835,449,393,Runners,,,2015,female
+449,9090,Amelia F. Antrim,"Antrim, Amelia F.",23,F,Boston,MA ,Massachusetts,02115,USA,United States of America,USA,United States of America,3:10:52,4837,450,394,Runners,,,2015,female
+450,9520,Virginie Schmaltz,"Schmaltz, Virginie",42,F,Sarreguemines,,,57200,FRA,France,FRA,France,3:10:54,4844,451,41,Runners,,,2015,female
+451,9004,Lindsey Gibbs,"Gibbs, Lindsey",31,F,Irvington,NY ,New York,10533,USA,United States of America,USA,United States of America,3:10:55,4847,452,395,Runners,,,2015,female
+452,8847,Tara Malone,"Malone, Tara",38,F,Enniskillen,,,BT74 7PW,GBR,United Kingdom,IRL,Ireland,3:10:56,4851,453,396,Runners,,,2015,female
+453,8560,Maria M Gillespie,"Gillespie, Maria M",26,F,Berkeley,CA ,California,94709,USA,United States of America,USA,United States of America,3:10:57,4853,454,397,Runners,,,2015,female
+454,9814,Kelly A Trom,"Trom, Kelly A",27,F,Minneapolis,MN ,Minnesota,55404,USA,United States of America,USA,United States of America,3:10:58,4856,455,398,Runners,,,2015,female
+455,6151,Audrey Hazlehurst,"Hazlehurst, Audrey",22,F,Jackson,TN ,Tennessee,38301,USA,United States of America,USA,United States of America,3:11:06,4878,456,399,Runners,,,2015,female
+456,10508,Carolyn Williams,"Williams, Carolyn",29,F,Jamaica Plain,MA ,Massachusetts,02130,USA,United States of America,USA,United States of America,3:11:06,4881,457,400,Runners,,,2015,female
+457,9867,Apryl J. Sabadosa,"Sabadosa, Apryl J.",31,F,Westfield,MA ,Massachusetts,01085,USA,United States of America,USA,United States of America,3:11:10,4893,458,401,Runners,,,2015,female
+458,8477,Kate Chandler,"Chandler, Kate",34,F,Chicago,IL ,Illinois,60614,USA,United States of America,USA,United States of America,3:11:17,4909,459,402,Runners,,,2015,female
+459,12622,Lauren E Donahue,"Donahue, Lauren E",25,F,Somerville,MA ,Massachusetts,02143,USA,United States of America,USA,United States of America,3:11:21,4921,460,403,Runners,,,2015,female
+460,9282,Courtney Yaeger,"Yaeger, Courtney",24,F,Los Angeles,CA ,California,90049,USA,United States of America,USA,United States of America,3:11:21,4922,461,404,Runners,,,2015,female
+461,7478,Deborah Downs,"Downs, Deborah",38,F,Watertown,MA ,Massachusetts,02472,USA,United States of America,USA,United States of America,3:11:23,4925,462,405,Runners,,,2015,female
+462,10952,Emilie Labrosse,"Labrosse, Emilie",38,F,Saint-Andre-De-Kamouraska,QC ,Quebec,G0L 2H0,CAN,Canada,FRA,France,3:11:25,4937,463,406,Runners,,,2015,female
+463,6847,Lisa Reichmann,"Reichmann, Lisa",40,F,Gaithersburg,MD ,Maryland,20878,USA,United States of America,USA,United States of America,3:11:26,4940,464,42,Runners,,,2015,female
+464,9535,Barbara G. Carson,"Carson, Barbara G.",28,F,Broomfield,CO ,Colorado,80023,USA,United States of America,USA,United States of America,3:11:27,4941,465,407,Runners,,,2015,female
+465,8107,April Irwin,"Irwin, April",35,F,Greensboro,NC ,North Carolina,27410,USA,United States of America,USA,United States of America,3:11:28,4945,466,408,Runners,,,2015,female
+466,4657,Aimee J. Newsom,"Newsom, Aimee J.",31,F,Baton Rouge,LA ,Louisiana,70809,USA,United States of America,USA,United States of America,3:11:28,4946,467,409,Runners,,,2015,female
+467,16786,Anne-Marie Gauthier,"Gauthier, Anne-Marie",31,F,Quebec,QC ,Quebec,G2L 1V2,CAN,Canada,CAN,Canada,3:11:29,4951,468,410,Runners,,,2015,female
+468,15580,Kristin M Jenkins,"Jenkins, Kristin M",26,F,Denver,CO ,Colorado,80218,USA,United States of America,USA,United States of America,3:11:30,4955,469,411,Runners,,,2015,female
+469,11423,Hallie Von Rock,"Von Rock, Hallie",38,F,Alameda,CA ,California,94501,USA,United States of America,USA,United States of America,3:11:31,4959,470,412,Runners,,,2015,female
+470,8696,Chandler Rainey,"Rainey, Chandler",30,F,New York,NY ,New York,10009,USA,United States of America,USA,United States of America,3:11:32,4961,471,413,Runners,,,2015,female
+471,9462,Hannah Jennings,"Jennings, Hannah",37,F,Orlando,FL ,Florida,32829,USA,United States of America,USA,United States of America,3:11:32,4963,472,414,Runners,,,2015,female
+472,10917,Jingjing Tang,"Tang, Jingjing",33,F,Shanghai,,,200136,CHN,China,CHN,China,3:11:35,4970,473,415,Runners,,,2015,female
+473,3175,Holly A Reiland,"Reiland, Holly A",23,F,Minneapolis,MN ,Minnesota,55414,USA,United States of America,USA,United States of America,3:11:36,4975,474,416,Runners,,,2015,female
+474,8448,Karine Parry,"Parry, Karine",28,F,Dana Point,CA ,California,92629,USA,United States of America,USA,United States of America,3:11:37,4979,475,417,Runners,,,2015,female
+475,4472,Jana L Willsey,"Willsey, Jana L",26,F,Columbus,OH ,Ohio,43201,USA,United States of America,USA,United States of America,3:11:37,4981,476,418,Runners,,,2015,female
+476,8311,Tiffany McBroom,"McBroom, Tiffany",27,F,Ripon,CA ,California,95366,USA,United States of America,USA,United States of America,3:11:37,4985,477,419,Runners,,,2015,female
+477,6702,Sarah M. Auer,"Auer, Sarah M.",24,F,Colorado Springs,CO ,Colorado,80909,USA,United States of America,USA,United States of America,3:11:43,5002,478,420,Runners,,,2015,female
+478,2600,Elisabetta Villa,"Villa, Elisabetta",42,F,Porcia,,,33080,ITA,Italy,ITA,Italy,3:11:44,5004,479,43,Runners,,,2015,female
+479,2317,Caitlin H. O'Brien,"O'Brien, Caitlin H.",23,F,Denver,CO ,Colorado,80212,USA,United States of America,USA,United States of America,3:11:44,5008,480,421,Runners,,,2015,female
+480,11583,Liisa A. Miller,"Miller, Liisa A.",49,F,Pacific Grove,CA ,California,93950,USA,United States of America,USA,United States of America,3:11:45,5014,481,11,Runners,,,2015,female
+481,10981,Colleen M Powers,"Powers, Colleen M",31,F,Genoa,NV ,Nevada,89411-0546,USA,United States of America,USA,United States of America,3:11:48,5019,482,422,Runners,,,2015,female
+482,10886,Shanda L Mattis,"Mattis, Shanda L",37,F,Morristown,TN ,Tennessee,37814,USA,United States of America,USA,United States of America,3:11:49,5022,483,423,Runners,,,2015,female
+483,10960,Brooke E Sizer,"Sizer, Brooke E",27,F,Houston,TX ,Texas,77007,USA,United States of America,USA,United States of America,3:11:49,5024,484,424,Runners,,,2015,female
+484,14608,Rachael Stack,"Stack, Rachael",26,F,Chicago,IL ,Illinois,60657,USA,United States of America,USA,United States of America,3:11:50,5027,485,425,Runners,,,2015,female
+485,10217,Jessica Hancox,"Hancox, Jessica",31,F,Raleigh,NC ,North Carolina,27612,USA,United States of America,USA,United States of America,3:11:50,5031,486,426,Runners,,,2015,female
+486,8870,Aya Leitz,"Leitz, Aya",38,F,Jersey City,NJ ,New Jersey,07302,USA,United States of America,JPN,Japan,3:11:52,5033,487,427,Runners,,,2015,female
+487,8495,Robin M. Todd,"Todd, Robin M.",50,F,Cambridge,ON ,Ontario,N3H 4R6,CAN,Canada,CAN,Canada,3:11:55,5052,488,6,Runners,,,2015,female
+488,10514,Myra L Sack,"Sack, Myra L",26,F,Jamaica Plain,MA ,Massachusetts,02130,USA,United States of America,USA,United States of America,3:11:56,5054,489,428,Runners,,,2015,female
+489,8059,Tracy L Greig,"Greig, Tracy L",43,F,Owen Sound,ON ,Ontario,N4K 4L7,CAN,Canada,CAN,Canada,3:11:58,5063,490,44,Runners,,,2015,female
+490,9476,Kerry Devitt,"Devitt, Kerry",26,F,Tower Lakes,IL ,Illinois,60010,USA,United States of America,USA,United States of America,3:11:59,5068,491,429,Runners,,,2015,female
+491,5590,Carolyn Smith,"Smith, Carolyn",49,F,Fox Point,WI ,Wisconsin,53217,USA,United States of America,USA,United States of America,3:11:59,5069,492,12,Runners,,,2015,female
+492,11273,Dana Stanley Torres,"Stanley Torres, Dana",43,F,Austin,TX ,Texas,78749,USA,United States of America,USA,United States of America,3:12:02,5074,493,45,Runners,,,2015,female
+493,9711,Stephanie W. Mayer,"Mayer, Stephanie W.",33,F,Denver,CO ,Colorado,80222,USA,United States of America,USA,United States of America,3:12:03,5076,494,430,Runners,,,2015,female
+494,11885,Kelly H. Maloney,"Maloney, Kelly H.",29,F,Rochester,NY ,New York,14607,USA,United States of America,USA,United States of America,3:12:03,5078,495,431,Runners,,,2015,female
+495,13760,Kelsey Breathitt,"Breathitt, Kelsey",25,F,Cincinnati,OH ,Ohio,45208,USA,United States of America,USA,United States of America,3:12:04,5081,496,432,Runners,,,2015,female
+496,8919,Amy Bugala,"Bugala, Amy",43,F,Honolulu,HI ,Hawaii,96813,USA,United States of America,USA,United States of America,3:12:06,5086,497,46,Runners,,,2015,female
+497,9760,Kristen Olsen,"Olsen, Kristen",29,F,Farmington,UT ,Utah,84025,USA,United States of America,USA,United States of America,3:12:07,5091,498,433,Runners,,,2015,female
+498,10505,Jennifer L. Brill,"Brill, Jennifer L.",25,F,Washington,DC ,District Of Columbia,20007,USA,United States of America,USA,United States of America,3:12:07,5092,499,434,Runners,,,2015,female
+499,10425,Sara Sayre,"Sayre, Sara",25,F,Girdwood,AK ,Alaska,99587,USA,United States of America,USA,United States of America,3:12:08,5098,500,435,Runners,,,2015,female
