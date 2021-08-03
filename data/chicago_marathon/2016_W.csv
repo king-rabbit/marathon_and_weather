@@ -1,0 +1,1001 @@
+,year,gender,place,place_gender,name,city,bib,division,half,finish
+0,2016,W,23,1,"Kiplagat, Florence (KEN)",,101,25-29,1:10:29,2:21:32
+1,2016,W,30,3,"Kipketer, Valentine (KEN)",,104,20-24,1:10:30,2:23:41
+2,2016,W,36,5,"Melese, Yebrgual (ETH)",,106,25-29,1:10:31,2:24:49
+3,2016,W,61,7,"Burla, Serena (USA)","Stafford, VA",110,30-34,1:13:09,2:30:40
+4,2016,W,89,9,"Crouch, Sarah (USA)","Moorehead, KY",115,25-29,1:15:23,2:33:48
+5,2016,W,104,11,"Knowles, Laurie (USA)","Charlotte, NC",118,35-39,1:18:15,2:36:01
+6,2016,W,125,13,"Philbrook, Lauren (USA)","Auburn, AL",119,25-29,1:19:03,2:38:00
+7,2016,W,149,15,"Heckert, Kristen (USA)","Bolingbrook, IL",124,25-29,1:18:39,2:39:37
+8,2016,W,192,17,"Scott, Amanda (USA)","Boulder, CO",125,25-29,1:18:33,2:42:45
+9,2016,W,195,19,"Andre, Stephanie (USA)","Bixby, OK",403,30-34,1:23:15,2:43:07
+10,2016,W,253,21,"Ino, Mitsuko (JPN)",,128,30-34,1:20:53,2:46:23
+11,2016,W,274,23,"Bauer, Caroline (USA)","Columbia, MD",407,30-34,1:22:32,2:47:17
+12,2016,W,285,25,"Anderson, Mallory (USA)","New York, NY",402,25-29,1:22:28,2:47:41
+13,2016,W,313,27,"Drynan, Allison (CAN)","Toronto, ON",423,40-44,1:21:48,2:48:50
+14,2016,W,336,29,"Maranzano, Jennifer (USA)","Washington, DC",456,40-44,1:25:47,2:49:21
+15,2016,W,350,31,"Lockyer, Karen (NZL)","Tyler, TX",324,35-39,1:22:29,2:49:40
+16,2016,W,357,33,"Kersjes, Lauren (USA)","Downers Grove, IL",445,20-24,1:21:54,2:49:52
+17,2016,W,364,35,"Cook, Dani (USA)","Fort Collins, CO",418,30-34,1:26:38,2:50:13
+18,2016,W,390,37,"Norbo, Carter (USA)","Charlottesville, VA",471,25-29,1:23:52,2:50:57
+19,2016,W,436,39,"Delvo, Emily (USA)","Springfield, IL",4195,20-24,1:26:41,2:51:56
+20,2016,W,466,41,"Laughner, Kelby (USA)","Indianapolis, IN",453,20-24,1:23:05,2:52:45
+21,2016,W,477,43,"Burke, Betsy (USA)","Charlestown, MA",414,30-34,1:22:50,2:53:01
+22,2016,W,508,45,"Crowe, Heather (USA)","Palatine, IL",2177,25-29,1:27:31,2:53:35
+23,2016,W,518,47,"Martz, Marissa (USA)","Grand Rapids, MI",460,25-29,1:26:05,2:53:54
+24,2016,W,542,49,"Wang, Alex (USA)","Ellicott City, MD",494,20-24,1:23:38,2:54:17
+25,2016,W,575,51,"Birth, Carrie (USA)","Scottsdale, AZ",411,30-34,1:25:34,2:54:55
+26,2016,W,596,53,"Mcguire, Jessica (USA)","Arlington, VA",2531,35-39,1:27:37,2:55:24
+27,2016,W,616,55,"Coogan, Laura (USA)","Brooklyn, NY",417,25-29,1:27:10,2:55:51
+28,2016,W,623,57,"Akhmedova, Oksana (RUS)","Moscow, Moscow",401,25-29,1:26:36,2:56:01
+29,2016,W,640,59,"Wrenn, Bean (USA)","Boulder, CO",498,40-44,1:25:00,2:56:26
+30,2016,W,652,61,"Fox, Emily (USA)","New York, NY",4235,25-29,1:28:37,2:56:37
+31,2016,W,667,63,"Horn, Sarah (USA)","Portland, OR",434,30-34,1:27:11,2:56:59
+32,2016,W,682,65,"Walker, Jennifer (USA)","Irvine, CA",787,30-34,1:29:24,2:57:11
+33,2016,W,723,67,"Baliga, Sr. Stephanie (USA)","Chicago, IL",406,25-29,1:22:38,2:57:47
+34,2016,W,749,69,"Whittaker, Kelly (USA)","Boston, MA",6325,30-34,1:28:17,2:58:08
+35,2016,W,777,71,"Chua, Catherine (USA)","Richmond Hill, NY",3278,40-44,1:27:38,2:58:26
+36,2016,W,796,73,"Quintero Petris, Margarita (MEX)","Zapopan, jalisco",2248,25-29,1:27:26,2:58:38
+37,2016,W,798,75,"Onishi, Annie (USA)","New York, NY",4199,25-29,1:28:41,2:58:39
+38,2016,W,807,77,"Rasch, Silvana (GUA)",Guatemala,475,40-44,1:26:38,2:58:45
+39,2016,W,833,79,"Gries, Samantha (USA)","Appleton, WI",3029,25-29,1:27:19,2:59:04
+40,2016,W,854,81,"Ranson, Caitlin (USA)","Portland, OR",798,30-34,1:29:52,2:59:13
+41,2016,W,900,83,"Waslen, Kathryn (CAN)","Calgarz, AB",390,30-34,1:29:05,2:59:30
+42,2016,W,902,85,"Kniaziew Gervais, Blaire (CAN)","Windsor, ON",449,40-44,1:27:46,2:59:32
+43,2016,W,918,87,"Weldy, Carrie (USA)","Phoenix, AZ",496,35-39,1:26:42,2:59:42
+44,2016,W,961,89,"Allen, Riki (USA)","Chicago, IL",3025,25-29,1:29:29,3:00:15
+45,2016,W,966,91,"Kos, Lindsay (USA)","New York, NY",3160,25-29,1:30:50,3:00:17
+46,2016,W,997,93,"Filut, Dara (USA)","New York, NY",3217,35-39,1:29:53,3:00:40
+47,2016,W,1013,95,"Smith, Molly (USA)","Denver, CO",2082,35-39,1:29:55,3:00:53
+48,2016,W,1016,97,"Miranda, Catalina (CRC)",San Jose,465,40-44,1:30:21,3:00:59
+49,2016,W,1040,99,"Thomas, Ann (USA)","Birmingham, AL",492,30-34,1:27:24,3:01:26
+50,2016,W,1045,101,"Guertin, Valere (USA)","Chicago, IL",427,20-24,1:29:14,3:01:31
+51,2016,W,1059,103,"Rossano, Jennifer (USA)","Mccordsville, IN",9024,30-34,1:31:30,3:01:42
+52,2016,W,1094,105,"Montes, Columba (USA)","Chicago, IL",127,35-39,1:24:50,3:02:11
+53,2016,W,1128,107,"Betancourth, Maria (USA)","Menifee, CA",5176,25-29,1:31:06,3:02:31
+54,2016,W,1163,109,"Oh, Yann Kai (MAS)","350, Victoria Road, Sheung Wan",4185,30-34,1:29:42,3:02:55
+55,2016,W,1167,111,"Pazda-Pozorska, Malgorzata (POL)","Kobylnica, pomorskie",472,30-34,1:30:21,3:03:01
+56,2016,W,1192,113,"Inoue, Tomomi (JPN)","Yokohama, Kanagawa",2043,25-29,1:29:49,3:03:22
+57,2016,W,1233,115,"Tarbiat, Shalaleh (CAN)","Thornhill, ON",2160,30-34,1:32:22,3:03:58
+58,2016,W,1250,117,"Lavezo, Laura (USA)","Seattle, WA",4107,25-29,1:31:48,3:04:08
+59,2016,W,1268,119,"Ziga Laster, Karen (USA)","Brooklyn, NY",1232,30-34,1:30:49,3:04:21
+60,2016,W,1275,121,"Stanek, Lindsey (USA)","Cincinnati, OH",1207,25-29,1:29:50,3:04:27
+61,2016,W,1286,123,"Tellez, C.C. (USA)","Philadelphia, PA",9091,35-39,1:32:19,3:04:36
+62,2016,W,1296,125,"Sudol, Dawn (USA)","Victor, NY",491,30-34,1:28:05,3:04:43
+63,2016,W,1299,127,"Wichmann, Katherine (USA)","Hawthorn Woods, IL",2237,30-34,1:30:11,3:04:44
+64,2016,W,1337,129,"Tamby, Nadia (USA)","Austin, TX",1191,25-29,1:31:02,3:05:11
+65,2016,W,1341,131,"Kirsch, Ali (USA)","Davenport, IA",12087,30-34,1:31:51,3:05:18
+66,2016,W,1349,133,"Lund, Shari (USA)","Elmhurst, IL",3564,20-24,1:37:45,3:05:27
+67,2016,W,1354,135,"Rodriguez, Claudia (MEX)","Bakersfield, CA",13050,30-34,1:32:19,3:05:31
+68,2016,W,1365,137,"Gibby, Jessica (USA)","Palo Alto, CA",426,25-29,1:30:44,3:05:38
+69,2016,W,1368,139,"Mascarenas, Olga (MEX)","Key Biscayne Fl, FL",9045,35-39,1:31:41,3:05:39
+70,2016,W,1376,141,"Mcardle, Bree (AUS)","Portland, OR",461,25-29,1:27:23,3:05:45
+71,2016,W,1389,143,"Cadavid, Andrea (USA)","Raleigh, NC",13259,20-24,1:34:09,3:05:56
+72,2016,W,1402,145,"Barwick, Lindsay (GBR)","Wellington, Miramar",3010,40-44,1:31:01,3:06:07
+73,2016,W,1410,147,"Paterno, Molly (USA)","Los Angeles, CA",4515,30-34,1:28:06,3:06:13
+74,2016,W,1414,149,"Richman, Julia (USA)","Denver, CO",775,30-34,1:30:10,3:06:17
+75,2016,W,1445,151,"Rouse, Courtney (USA)","Gainesville, FL",920,20-24,1:34:42,3:06:37
+76,2016,W,1471,153,"Magnuson, Hannah (USA)","Normal, IL",720,20-24,1:32:55,3:06:55
+77,2016,W,1473,155,"Brill, Jennifer (USA)","Washington, DC",10124,25-29,1:32:00,3:06:55
+78,2016,W,1491,157,"Wright-Simmons, Georgia (USA)","Boston, MA",2119,25-29,1:29:39,3:07:06
+79,2016,W,1519,159,"Garcia, Lina (USA)",San Juan,592,45-49,1:32:50,3:07:26
+80,2016,W,1530,161,"Gallagher, Kelley (USA)","Mundelein, IL",3212,20-24,1:27:33,3:07:31
+81,2016,W,1552,163,"Willard, Gillian (CAN)","Waterloo, ON",4330,25-29,1:31:13,3:07:46
+82,2016,W,1559,165,"Maggard, Molly (USA)","Miamisburg, OH",7205,30-34,1:34:11,3:07:51
+83,2016,W,1563,167,"Bugh, Alissa (USA)","Chicago, IL",1296,30-34,1:29:43,3:07:52
+84,2016,W,1569,169,"Ruhlman, Katie (USA)","Dayton, OH",1269,25-29,1:29:45,3:07:54
+85,2016,W,1582,171,"Shulik, Emily (USA)","Humble, TX",1203,25-29,1:33:42,3:08:03
+86,2016,W,1628,173,"Conley, Maureen (USA)","Twin Oaks, MO",10254,30-34,1:36:14,3:08:29
+87,2016,W,1644,175,"Beausoleil, Kate (USA)","Bettendorf, IA",5092,25-29,1:31:50,3:08:40
+88,2016,W,1665,177,"Shokey, Jaclyn (USA)","Jim Thorpe, PA",2161,35-39,1:31:49,3:08:55
+89,2016,W,1678,179,"Brecher, Erica (USA)","Chapel Hill, NC",1046,30-34,1:34:29,3:09:04
+90,2016,W,1686,181,"Devitt, Kerry (USA)","Chicago, IL",1446,25-29,1:34:31,3:09:09
+91,2016,W,1700,183,"Bogan, Dana (USA)","Brighton, MA",3482,25-29,1:34:49,3:09:21
+92,2016,W,1703,185,"Sukramani, Natalie (USA)","Charlotte, NC",1428,20-24,1:32:17,3:09:23
+93,2016,W,1709,187,"Hurn, Michelle (USA)","Lafayette, CO",435,30-34,1:29:21,3:09:27
+94,2016,W,1736,189,"Hobson, Valery (CAN)","Kitchener, ON",3518,45-49,1:33:54,3:09:39
+95,2016,W,1742,191,"Murray, Rebecca (USA)","Franklin, TN",2270,30-34,1:26:50,3:09:44
+96,2016,W,1775,193,"Chen, Felicia (USA)","Oak Brook, IL",3243,40-44,1:33:15,3:10:05
+97,2016,W,1778,195,"Siruffo Perez, Maria (ESP)","Guildford, Surrey",1050,35-39,1:31:57,3:10:07
+98,2016,W,1785,197,"Gulbrandsen, Erinn (USA)","Chico, CA",2115,35-39,1:28:14,3:10:15
+99,2016,W,1804,199,"Kasabian-Larson, Sarah (USA)","Alma, MI",443,30-34,1:26:46,3:10:27
+100,2016,W,1826,201,"Anglin, Monique (CAN)","Toronto, ON",10266,30-34,1:35:37,3:10:43
+101,2016,W,1848,203,"Margel, Charlotte (USA)","Chicago, IL",11289,25-29,1:34:42,3:10:55
+102,2016,W,1855,205,"Snider-Rodriguez, Jessica (USA)","New York, NY",7215,25-29,1:33:04,3:11:02
+103,2016,W,1860,207,"Andreski, Erin (USA)","Dousman, WI",4058,30-34,1:30:06,3:11:05
+104,2016,W,1864,209,"Blondell, Jillian (USA)","Woodridge, IL",2517,30-34,1:37:52,3:11:06
+105,2016,W,1871,211,"Menschel, Celene (USA)","New York, NY",5212,30-34,1:33:47,3:11:10
+106,2016,W,1877,213,"Whinihan, Erika (USA)","Seattle, WA",9074,35-39,1:33:20,3:11:12
+107,2016,W,1895,215,"Galvez Bakx, Claudia (CHI)","Vitacura, Santiago",1562,30-34,1:34:44,3:11:27
+108,2016,W,1910,217,"Zepeda, Yessica (MEX)","Mexico, CIUDAD DE MEXICO",6355,30-34,1:32:15,3:11:34
+109,2016,W,1912,219,"Haavisto, Elina (FIN)",Helsinki,10241,40-44,1:33:33,3:11:35
+110,2016,W,1917,221,"John, Samantha (USA)","Long Island City, NY",8261,30-34,1:35:02,3:11:39
+111,2016,W,1929,223,"Menke, Becca (USA)","Chicago, IL",9052,25-29,1:34:05,3:11:43
+112,2016,W,1935,225,"Kirkham, Samantha (GBR)","Hinsdale, IL",389,40-44,1:36:45,3:11:48
+113,2016,W,1947,227,"Ferrell-Adams, Evan (USA)","Cedar Bluff, VA",1220,20-24,1:30:37,3:11:54
+114,2016,W,1970,229,"Gomez Reyes, Monica (MEX)","Tlajomulco De Zuniga, Jalisco",6549,25-29,1:34:15,3:12:07
+115,2016,W,1980,231,"Nettik, Jenni (USA)","Denver, CO",6135,35-39,1:35:57,3:12:11
+116,2016,W,1998,233,"Flynn, Jennifer (USA)","Jamaica Plain, MA",6031,30-34,1:36:47,3:12:20
+117,2016,W,2008,235,"Bellemare, Karine (CAN)","Mascouche, QC",1460,35-39,1:34:55,3:12:22
+118,2016,W,2036,237,"Hull, Allie (USA)","Chicago, IL",9381,25-29,1:37:02,3:12:42
+119,2016,W,2040,239,"Higashi, Sabrina (USA)","Dana Point, CA",433,40-44,1:28:59,3:12:44
+120,2016,W,2064,241,"Groppler, Stacy (CAN)","London, ON",5417,40-44,1:36:06,3:12:59
+121,2016,W,2085,243,"Bray, Brooke (USA)","San Francisco, CA",413,40-44,1:30:35,3:13:08
+122,2016,W,2099,245,"Steele, Patricia (USA)","Seattle, WA",5563,30-34,1:34:12,3:13:13
+123,2016,W,2111,247,"Kapanowski, Stephanie (USA)","Southgate, MI",4372,35-39,1:35:05,3:13:23
+124,2016,W,2116,249,"Cabrera Juarez, Nancy (MEX)","Col. Magdalena Atlazolpa, Del Iztapalapa",4054,30-34,1:33:44,3:13:25
+125,2016,W,2136,251,"Primus, Penny (USA)","Tampa, FL",1106,30-34,1:36:01,3:13:36
+126,2016,W,2157,253,"Schulz, Anneliese (USA)","Elk Grove Village, IL",1936,16-19,1:38:59,3:13:49
+127,2016,W,2174,255,"Omalley, Kim (USA)","Lakewood, CO",6041,40-44,1:30:29,3:13:52
+128,2016,W,2177,257,"Portman, Sarah (USA)","Burlingame, CA",1300,30-34,1:29:57,3:13:54
+129,2016,W,2179,259,"De Lon, Ana Cecilia (MEX)","San Pedro, NUEVO LEON",9219,35-39,1:35:53,3:13:56
+130,2016,W,2189,261,"Elko, Erika (USA)","Washington, DC",3286,25-29,1:30:42,3:14:01
+131,2016,W,2193,263,"Perry, Alexandra (USA)","Baltimore, MD",3311,20-24,1:33:22,3:14:05
+132,2016,W,2217,265,"Nyholm, Karyn (USA)","Dallas, TX",3542,25-29,1:31:12,3:14:17
+133,2016,W,2227,267,"Beahan, Kelly (USA)","Schaumburg, IL",10203,40-44,1:38:04,3:14:24
+134,2016,W,2240,269,"Gao, Bibo (CHN)","Buffalo Grove, IL",10150,35-39,1:35:57,3:14:26
+135,2016,W,2251,271,"Chen, Mei-Tung (TWN)","San Francisco, CA",652,30-34,1:32:18,3:14:31
+136,2016,W,2253,273,"Bowman, Bethany (USA)","Pittsburgh, PA",7285,30-34,1:37:31,3:14:32
+137,2016,W,2264,275,"Hatfield, Linda (USA)","Apex, NC",8404,45-49,1:36:07,3:14:36
+138,2016,W,2270,277,"Mccalley, Katherine (USA)","Haddonfield, NJ",4474,35-39,1:38:12,3:14:40
+139,2016,W,2301,279,"Kubkova, Lenka (CZE)",Praha 9,7066,40-44,1:35:02,3:14:55
+140,2016,W,2311,281,"Glusac, Rebecca (USA)","Santa Barbara, CA",2749,30-34,1:38:38,3:15:01
+141,2016,W,2321,283,"Greenwood, Heather (USA)","San Francisco, CA",9141,30-34,1:36:36,3:15:05
+142,2016,W,2340,285,"Smallidge, Tara (USA)","Kenosha, WI",6228,35-39,1:37:19,3:15:15
+143,2016,W,2347,287,"Beeson, Danelle (CAN)","Lake Forest, IL",408,25-29,1:35:05,3:15:17
+144,2016,W,2353,289,"Igoe, Dominique (USA)","Boulder, CO",2833,30-34,1:36:23,3:15:22
+145,2016,W,2365,291,"Grimes, Katharine (USA)","New York, NY",599,20-24,1:34:42,3:15:29
+146,2016,W,2377,293,"Chamorro Gine, Magdalena (CHI)",Santiago,11293,30-34,1:34:45,3:15:35
+147,2016,W,2380,295,"Bovee, Allison (USA)","Ponte Vedra Beach, FL",1210,35-39,1:37:12,3:15:36
+148,2016,W,2392,297,"Valcarlos, Claudina (USA)","Seattle, WA",5982,30-34,1:35:44,3:15:42
+149,2016,W,2402,299,"Faulkner, Meredith (USA)","Charlotte, NC",703,30-34,1:30:49,3:15:47
+150,2016,W,2405,301,"Ruffolo, Sherry (USA)","South Barrington, IL",8067,40-44,1:37:52,3:15:48
+151,2016,W,2425,303,"Dublin, Malinda (USA)","Arlington, MA",11093,35-39,1:37:46,3:15:58
+152,2016,W,2437,305,"Moxley, Alexandra (USA)","Chicago, IL",10259,25-29,1:34:31,3:16:03
+153,2016,W,2455,307,"L'Abbe, Fabienne (CAN)","Toronto, ON",7069,35-39,1:39:02,3:16:13
+154,2016,W,2471,309,"Amidon, Elizabeth (USA)","Chicago, IL",9079,40-44,1:34:53,3:16:22
+155,2016,W,2493,311,"Junnila, Elina (FIN)",Naantali,438,35-39,1:37:25,3:16:36
+156,2016,W,2532,313,"Porter, Amanda (USA)","Chicago, IL",11103,25-29,1:36:35,3:16:56
+157,2016,W,2535,315,"Geraghty, Faith (IRL)","Randwick, NSW",2214,35-39,1:37:50,3:16:56
+158,2016,W,2546,317,"Quesada, Kimberly (CRC)",Cartago,3227,25-29,1:38:28,3:17:01
+159,2016,W,2556,319,"Taylor, Annie (USA)","Denver, CO",13583,20-24,1:39:26,3:17:06
+160,2016,W,2560,321,"Kennedy, Laura (USA)","Lake Forest, IL",11245,55-59,1:37:51,3:17:07
+161,2016,W,2564,323,"Arriaga, Yesenia (MEX)","Cicero, IL",3574,25-29,1:39:51,3:17:08
+162,2016,W,2573,325,"Gollnick, Marion (GER)",Reilingen,4318,45-49,1:37:36,3:17:12
+163,2016,W,2582,327,"Saxton, Kaila (USA)","Poplar Bluff, MO",4541,25-29,1:37:07,3:17:17
+164,2016,W,2591,329,"Carpenter, Heather (USA)","Charlotte, NC",2419,40-44,1:36:32,3:17:20
+165,2016,W,2601,331,"Porada, Katie (USA)","Clarendon Hills, IL",7453,20-24,1:39:43,3:17:22
+166,2016,W,2607,333,"Hislop, Tory (CAN)","Chicago, IL",9821,25-29,1:36:08,3:17:24
+167,2016,W,2622,335,"Mcneilly, Dannielle (USA)","Brooklyn, NY",8604,30-34,1:38:27,3:17:29
+168,2016,W,2653,337,"Venezia, Jaime (USA)","Woodside, NY",10151,35-39,1:36:44,3:17:43
+169,2016,W,2660,339,"Sizer, Brooke (USA)","Houston, TX",3153,25-29,1:35:05,3:17:46
+170,2016,W,2677,341,"Larsen, Rebecca (USA)","Louisville, CO",2319,40-44,1:38:03,3:17:56
+171,2016,W,2679,343,"Pena, Estefania (VEN)","Panama, Panama",7329,25-29,1:37:15,3:17:56
+172,2016,W,2684,345,"Ureta, Camila (CHI)",Santiago,6363,30-34,1:39:26,3:17:58
+173,2016,W,2687,347,"Cohen, Wendy (USA)","Fort Worth, TX",1799,25-29,1:40:47,3:17:59
+174,2016,W,2694,349,"Koren, Katie (USA)","Chicago, IL",919,30-34,1:37:20,3:18:01
+175,2016,W,2701,351,"Avelar, Belen (MEX)","Mexico City, DF",9254,30-34,1:31:41,3:18:04
+176,2016,W,2706,353,"Grimyser, Jennifer (USA)","Ridgewood, NY",10058,30-34,1:39:46,3:18:07
+177,2016,W,2718,355,"Dickson, Ellie (USA)","Champaign, IL",6209,25-29,1:38:16,3:18:10
+178,2016,W,2725,357,"Kanak, Maggie (USA)","Newtown, PA",5380,50-54,1:36:56,3:18:12
+179,2016,W,2732,359,"Walsh, Elizabeth (USA)","Mountain Lakes, NJ",6354,35-39,1:38:50,3:18:17
+180,2016,W,2763,361,"Ramsey, Jessica (USA)","North Charleston, SC",4572,25-29,1:33:31,3:18:27
+181,2016,W,2771,363,"Kalk, Amanda (USA)","Middletown, DE",2743,25-29,1:39:33,3:18:28
+182,2016,W,2775,365,"Moore, Rachel (USA)","Chicago, IL",11264,25-29,1:37:30,3:18:30
+183,2016,W,2793,367,"Effrein, Gabriella (USA)","Buffalo, NY",4165,20-24,1:32:23,3:18:37
+184,2016,W,2802,369,"Mcguire, Katie (USA)","Oakland, CA",1302,30-34,1:36:08,3:18:41
+185,2016,W,2812,371,"Longhurst, Tracy (USA)","Tazewell, TN",776,30-34,1:33:53,3:18:45
+186,2016,W,2816,373,"Ball, Katherine (USA)","Caldwell, ID",15043,30-34,1:39:33,3:18:48
+187,2016,W,2820,375,"Borel-Donohue, Julia (USA)","Chicago, IL",12270,25-29,1:40:52,3:18:49
+188,2016,W,2826,377,"Gomez Gamboa, Natalia (VEN)","Oakville, ON",6266,45-49,1:38:11,3:18:50
+189,2016,W,2834,379,"Ruzicka, Adrienne (USA)","Pittsburgh, PA",9020,30-34,1:39:52,3:18:53
+190,2016,W,2850,381,"Wetzel, Anna (USA)","Chicago, IL",7258,25-29,1:38:44,3:18:59
+191,2016,W,2866,383,"Harmon, Meaghan (USA)","Arlington Heights, IL",2521,35-39,1:38:12,3:19:07
+192,2016,W,2874,385,"Zhu, Jin (USA)","Farmington Hills, MI",13280,50-54,1:40:38,3:19:11
+193,2016,W,2880,387,"Peters, Annie (USA)","Mountain Lakes, NJ",7197,40-44,1:39:01,3:19:15
+194,2016,W,2889,389,"Pilon, Cathleen (USA)","Camillus, NY",3752,30-34,1:39:27,3:19:18
+195,2016,W,2897,391,"Newton, Jennifer (USA)","Bay Village, OH",11006,40-44,1:38:20,3:19:22
+196,2016,W,2917,393,"Devereux, Lisa (USA)","Western Springs, IL",2416,25-29,1:37:30,3:19:29
+197,2016,W,2921,395,"Olson, Mersadi (USA)","Maple Shade, NJ",1331,25-29,1:37:54,3:19:30
+198,2016,W,2924,397,"Adams, Briana (USA)","Norfolk, NE",2304,20-24,1:38:12,3:19:31
+199,2016,W,2940,399,"Blaise, Kimberly (USA)","Kenner, LA",3450,40-44,1:39:34,3:19:41
+200,2016,W,2955,401,"Spearman, Tiffany (USA)","Boston, MA",1263,30-34,1:34:27,3:19:47
+201,2016,W,2957,403,"Shimansky, Stefanie (USA)","Winter Springs, FL",4665,25-29,1:41:38,3:19:48
+202,2016,W,2964,405,"Osberg, Kristina (USA)","Chicago, IL",3457,25-29,1:37:12,3:19:50
+203,2016,W,2983,407,"Fennema, Anne (USA)","Chicago, IL",1344,25-29,1:38:01,3:19:56
+204,2016,W,2986,409,"Atwood, Kathryn (CAN)","Edmonton, AB",1421,50-54,1:37:49,3:19:56
+205,2016,W,2996,411,"Courtade, Caitlin (USA)","Boston, MA",2689,25-29,1:41:20,3:20:01
+206,2016,W,2999,413,"Rinehart, Jessica (USA)","Long Beach, CA",10295,30-34,1:39:56,3:20:02
+207,2016,W,3003,415,"Zegarra Rojas, Marilu (PER)",Lima,2788,30-34,1:36:16,3:20:04
+208,2016,W,3007,417,"Crawford, Rebecca (USA)","Basking Ridge, NJ",4357,25-29,1:40:43,3:20:05
+209,2016,W,3009,419,"Williams, Melissa (USA)","Frankfort, IL",8068,35-39,1:37:26,3:20:06
+210,2016,W,3024,421,"Curl, Aubrey (USA)","South Bend, IN",1632,16-19,1:41:31,3:20:11
+211,2016,W,3030,423,"Escalera Hernandez, Claudia (MEX)","Mexico, DF",669,25-29,1:33:46,3:20:16
+212,2016,W,3037,425,"O'Connor, Kate (USA)","Philadelphia, PA",7445,35-39,1:42:13,3:20:18
+213,2016,W,3046,427,"Twist, Gwendolen (USA)","Pacific Palisades, CA",4225,40-44,1:35:07,3:20:22
+214,2016,W,3057,429,"Bartolome, Bea (USA)","Greensboro, NC",6022,40-44,1:37:59,3:20:24
+215,2016,W,3062,431,"Kompanowski, Mandy (USA)","Arlington Heights, IL",5292,25-29,1:35:58,3:20:28
+216,2016,W,3065,433,"Kuhlman, Melissa (USA)","Chicago, IL",14990,30-34,1:38:42,3:20:30
+217,2016,W,3071,435,"Read, Amy (GBR)","Wheatley, Oxfordshire",15150,30-34,1:35:06,3:20:32
+218,2016,W,3077,437,"Vermeulen, Maria (USA)","Astoria, NY",1535,30-34,1:40:38,3:20:35
+219,2016,W,3086,439,"Kosova, Anna (RUS)","Moscow, Moscow",1103,30-34,1:18:51,3:20:43
+220,2016,W,3089,441,"Savage, Faye (GBR)","St.Ives, Cornwall",6477,40-44,1:41:16,3:20:44
+221,2016,W,3103,443,"Witchey Clements, Kylee (USA)","Pittsburgh, PA",1343,25-29,1:38:12,3:20:50
+222,2016,W,3108,445,"Jendrasheske, Alison (CAN)","Saskatoon, SK",9191,35-39,1:40:23,3:20:53
+223,2016,W,3124,447,"Hucek, Grace (USA)","Oak Brook, IL",4821,20-24,1:42:17,3:21:00
+224,2016,W,3141,449,"Valocsik, Erin (USA)","Virginia Beach, VA",4639,35-39,1:38:08,3:21:06
+225,2016,W,3151,451,"Martinez, Myriam (USA)","Astoria, NY",9738,40-44,1:39:38,3:21:12
+226,2016,W,3154,453,"Groce, Sam (USA)","Chenoa, IL",9516,20-24,1:39:43,3:21:12
+227,2016,W,3159,455,"Grandi, Melissa (USA)","Chicago, IL",13290,25-29,1:40:38,3:21:14
+228,2016,W,3167,457,"Tylova, Veronika (CZE)","Rolling Meadows, IL",6044,30-34,1:39:48,3:21:16
+229,2016,W,3169,459,"Oshea, Magdalen (USA)","Valparaiso, IN",4736,25-29,1:36:31,3:21:17
+230,2016,W,3184,461,"Eaves, Kristen (USA)","Grand Prairie, TX",9047,30-34,1:32:30,3:21:26
+231,2016,W,3192,463,"Evans, Rebecca (USA)","Bourbonnais, IL",1355,35-39,1:35:54,3:21:30
+232,2016,W,3209,465,"Draths, Katelyn (USA)","Chicago, IL",790,25-29,1:30:08,3:21:39
+233,2016,W,3212,467,"Marchione, Jennifer (USA)","Raleigh, NC",2937,35-39,1:41:33,3:21:39
+234,2016,W,3217,469,"Mayack, Aileen (USA)","Warren, MI",973,25-29,1:43:04,3:21:42
+235,2016,W,3221,471,"Soo Hoo, Katrina (USA)","Astoria, NY",2553,30-34,1:39:32,3:21:43
+236,2016,W,3235,473,"Fahrer, Casey (USA)","Cincinnati, OH",1512,30-34,1:39:56,3:21:51
+237,2016,W,3238,475,"Kondo, Sarah (CAN)","Brantford, ON",10275,35-39,1:38:10,3:21:52
+238,2016,W,3246,477,"Richard, Christel (USA)","Carmel, IN",1605,16-19,1:41:31,3:21:58
+239,2016,W,3254,479,"Milne, Lee (USA)","Dover, MA",9217,20-24,1:40:21,3:22:01
+240,2016,W,3257,481,"Little, Micah (USA)","St. Louis, MO",8517,25-29,1:41:07,3:22:03
+241,2016,W,3269,483,"Kubo, Kitty (EST)",Tallinn,4344,40-44,1:39:52,3:22:09
+242,2016,W,3285,485,"Stanvick, Melissa (USA)","Allston, MA",3622,25-29,1:40:01,3:22:14
+243,2016,W,3320,487,"Young, Tracy (USA)","Chicago, IL",3791,20-24,1:39:46,3:22:32
+244,2016,W,3336,489,"Restak, Ann (USA)","New York, NY",7437,35-39,1:42:05,3:22:39
+245,2016,W,3342,491,"Chu, Ling (CAN)","Mississauga, ON",7220,40-44,1:39:35,3:22:42
+246,2016,W,3353,493,"Redman, Elizabeth (AUS)","The Basin, VIC",2167,40-44,1:37:27,3:22:47
+247,2016,W,3368,495,"Vercoski, Michele (USA)","Redlands, CA",6497,35-39,1:40:33,3:22:53
+248,2016,W,3386,497,"Farrugia, Julie (USA)","Los Angeles, CA",2802,25-29,1:36:50,3:22:59
+249,2016,W,3390,499,"Hutchins, Andrea (USA)","Saint Joseph, MI",12615,40-44,1:39:56,3:23:01
+250,2016,W,3395,501,"Kelsey, Claire (USA)","Atlanta, GA",38023,16-19,1:44:55,3:23:04
+251,2016,W,3404,503,"Dandenault, Jenny (CAN)","Springboro, OH",9029,45-49,1:42:05,3:23:08
+252,2016,W,3406,505,"Preston, Sheryl (CAN)","St Catharines, ON",8426,40-44,1:40:30,3:23:08
+253,2016,W,3418,507,"Pierce, Jennifer (USA)","Camden, TN",502,35-39,1:39:46,3:23:12
+254,2016,W,3428,509,"Major, Jennifer (USA)","Bend, OR",3578,40-44,1:41:46,3:23:18
+255,2016,W,3430,511,"Davi, Elena (ITA)","Costa D'En Blanes, IB",3474,40-44,1:38:55,3:23:20
+256,2016,W,3435,513,"Harding-Udoh, Omolayo (NGR)","Fct, Abuja, Abuja",1595,40-44,1:36:28,3:23:22
+257,2016,W,3444,515,"Holdefer, Alexandra (USA)","Orland Park, IL",7194,25-29,1:34:56,3:23:25
+258,2016,W,3456,517,"Starl, Tanja (AUT)",Feldkirch,11238,35-39,1:39:26,3:23:29
+259,2016,W,3460,519,"Fuhr, Stephanie (USA)","Cincinnati, OH",2559,25-29,1:42:45,3:23:30
+260,2016,W,3474,521,"Lewis, Krista (USA)","Naperville, IL",9314,30-34,1:39:53,3:23:35
+261,2016,W,3476,523,"Szuba, Aneta (POL)","Krakow, Malopolska",3458,35-39,1:39:11,3:23:36
+262,2016,W,3481,525,"Rezny, Kristine (USA)","Lombard, IL",1987,25-29,1:38:25,3:23:37
+263,2016,W,3483,527,"Huntzinger, Cybil (USA)","Cordova, TN",6503,25-29,1:42:12,3:23:37
+264,2016,W,3490,529,"Welch, Mary (USA)","Parkersburg, WV",3769,35-39,1:35:43,3:23:42
+265,2016,W,3494,531,"Averill, Allison (USA)","Boston, MA",2760,25-29,1:41:53,3:23:47
+266,2016,W,3502,533,"Arellano, Larissa (USA)","Pleasant Prairie, WI",16220,40-44,1:41:20,3:23:51
+267,2016,W,3519,535,"Groton, Kate (USA)","Oxford, OH",2904,20-24,1:45:34,3:23:58
+268,2016,W,3529,537,"Goldring, Hannah (DEN)",Moelndal,14903,45-49,1:39:42,3:24:01
+269,2016,W,3535,539,"Kralj, Heather (USA)","Franklin, TN",12051,35-39,1:38:05,3:24:02
+270,2016,W,3546,541,"Yong, Amy (GBR)","Wheaton, IL",3816,20-24,1:39:14,3:24:05
+271,2016,W,3553,543,"Ilfrey, Amy (USA)","Louisville, CO",3765,40-44,1:40:38,3:24:08
+272,2016,W,3557,545,"Sutchar, Hana (USA)","Chicago, IL",2786,25-29,1:42:07,3:24:09
+273,2016,W,3562,547,"Sackman, Caroline (CAN)","Vancouver, BC",24784,30-34,1:40:28,3:24:11
+274,2016,W,3568,549,"Duty, Traci (USA)","Dallas, TX",8038,35-39,1:39:47,3:24:13
+275,2016,W,3572,551,"Mehaffey, Wendy (USA)","Essex, VT",7477,35-39,1:42:20,3:24:16
+276,2016,W,3579,553,"Bustamante, Sarah (USA)","Indianapolis, IN",3379,40-44,1:43:30,3:24:18
+277,2016,W,3596,555,"Miller, Angela (USA)","Bakersfield, CA",3336,40-44,1:37:59,3:24:22
+278,2016,W,3609,557,"Lademan, Daryle (USA)","Arlington, VA",7067,45-49,1:43:20,3:24:26
+279,2016,W,3613,559,"Ribble, Karen (USA)","Orinda, CA",2748,45-49,1:39:20,3:24:27
+280,2016,W,3627,561,"Smith, Audrey (USA)","Lake Zurich, IL",5645,20-24,1:35:22,3:24:32
+281,2016,W,3636,563,"Bartholomew, Luciana (USA)","Fort Worth, TX",8004,35-39,1:38:32,3:24:34
+282,2016,W,3653,565,"Leader, Kristine (USA)","Boulder, CO",10569,50-54,1:41:41,3:24:38
+283,2016,W,3655,567,"Kentner, Sarah (USA)","Chicago, IL",11096,30-34,1:39:43,3:24:38
+284,2016,W,3663,569,"Bertucci, Jennifer (USA)","Ballwin, MO",2498,30-34,1:36:40,3:24:40
+285,2016,W,3677,571,"Craffey, Michele (USA)","Locust, NJ",2685,45-49,1:43:54,3:24:43
+286,2016,W,3684,573,"Jeszenszky, Julie (USA)","New Carlisle, IN",3385,20-24,1:39:18,3:24:45
+287,2016,W,3687,575,"Verlaine, Cecile (BEL)",Sprimont,11109,40-44,1:36:59,3:24:47
+288,2016,W,3699,577,"Boerma, Inge (NED)","Toronto, ON",7529,25-29,1:41:27,3:24:50
+289,2016,W,3702,579,"Laperriere-Roy, Olivia (CAN)","Quebec, QC",4853,25-29,1:42:23,3:24:51
+290,2016,W,3705,581,"Bridges, Calley (USA)","New York, NY",12315,25-29,1:41:30,3:24:53
+291,2016,W,3712,583,"Haynes, Erin (USA)","Oakham, MA",9303,20-24,1:42:10,3:24:55
+292,2016,W,3723,585,"Wagner, Erica (USA)","Madison, WI",3423,25-29,1:42:58,3:24:59
+293,2016,W,3728,587,"Michaelis, Stephanie (USA)","Independence, MO",9005,35-39,1:37:54,3:25:00
+294,2016,W,3735,589,"Harding, Natalie (USA)","Chicago, IL",12754,30-34,1:42:41,3:25:02
+295,2016,W,3749,591,"Brocklehurst-Somers, Lisa (CAN)","Markham, ON",7392,45-49,1:43:53,3:25:07
+296,2016,W,3752,593,"Mesker, Rebeka (USA)","New Port Richey, FL",13236,35-39,1:38:55,3:25:08
+297,2016,W,3759,595,"Leonard, Christine (USA)","Cambridge, MA",6528,30-34,1:42:15,3:25:10
+298,2016,W,3772,597,"Grider, Kara (USA)","Westfield, IN",6651,30-34,1:43:33,3:25:15
+299,2016,W,3774,599,"Parker, Devin (USA)","Minneapolis, MN",7152,25-29,1:33:57,3:25:15
+300,2016,W,3781,601,"Kavak, Jennifer (USA)","New York, NY",9683,20-24,1:39:54,3:25:18
+301,2016,W,3785,603,"Manarin, Fulvia (CAN)","Toronto, ON",8319,50-54,1:43:59,3:25:20
+302,2016,W,3787,605,"Skorich, Amy (USA)","Cary, NC",6315,35-39,1:42:20,3:25:20
+303,2016,W,3798,607,"Nagel, Karen (USA)","Valparaiso, IN",1399,35-39,1:41:08,3:25:23
+304,2016,W,3801,609,"Smith, Lorraine (CAN)","New York, NY",7546,45-49,1:41:48,3:25:24
+305,2016,W,3814,611,"Jackson, Renee (USA)","Athens, GA",11357,30-34,1:43:50,3:25:32
+306,2016,W,3826,613,"Smith, Andrea (USA)","Ottawa, OH",9693,25-29,1:41:52,3:25:36
+307,2016,W,3838,615,"Feraco, Merissa (CAN)","Edmonton, AB",8996,35-39,1:40:11,3:25:41
+308,2016,W,3844,617,"Morgan, Danielle (USA)","Waverly, OH",9389,25-29,1:41:30,3:25:44
+309,2016,W,3852,619,"Ayala, Lauren (USA)","Bartlett, IL",7537,25-29,1:42:11,3:25:48
+310,2016,W,3859,621,"Surilov, Lena (USA)","Boston, MA",7342,35-39,1:42:25,3:25:51
+311,2016,W,3862,623,"Chen, Xue (CHN)","Shanghai, Huangpu",14921,35-39,1:43:36,3:25:51
+312,2016,W,3865,625,"Johnson, Trish (USA)","Cranford, NJ",6544,35-39,1:42:04,3:25:52
+313,2016,W,3873,627,"Mayor, Mary (USA)","Chicago, IL",5886,25-29,1:38:16,3:25:54
+314,2016,W,3882,629,"Unruh, Lindsay (USA)","Boulder, CO",5927,35-39,1:44:34,3:25:56
+315,2016,W,3887,631,"Clementi, Maria (USA)","Chicago, IL",4325,35-39,1:42:04,3:25:57
+316,2016,W,3901,633,"Biedermann, Livia (USA)","Shelburne, VT",7104,20-24,1:41:50,3:26:02
+317,2016,W,3914,635,"Parker, Anna (CAN)","Oakville, ON",9234,35-39,1:38:55,3:26:04
+318,2016,W,3920,637,"Malone, Erin (USA)","Teaneck, NJ",8491,25-29,1:39:11,3:26:05
+319,2016,W,3927,639,"Reilly, Katharine (USA)","Bethlehem, PA",6172,35-39,1:38:33,3:26:09
+320,2016,W,3929,641,"Rigali, Monica (USA)","Temecula, CA",5521,45-49,1:41:09,3:26:10
+321,2016,W,3934,643,"Neushwander, Jessica (USA)","Evanston, IL",21963,30-34,1:44:07,3:26:12
+322,2016,W,3948,645,"Meredith, Kate (GBR)","Malpas, CHESHIRE",9743,25-29,1:38:31,3:26:17
+323,2016,W,3956,647,"Kostouros, Christina (USA)","Crown Point, IN",8161,40-44,1:41:51,3:26:19
+324,2016,W,3965,649,"Cohen, Molly (USA)","Brooklyn, NY",8071,35-39,1:40:14,3:26:24
+325,2016,W,3967,651,"Ray, Devin (USA)","Atlanta, GA",2507,30-34,1:38:33,3:26:24
+326,2016,W,3972,653,"Rivera, Margaret (USA)","Chicago, IL",11094,30-34,1:39:56,3:26:26
+327,2016,W,3977,655,"Sanchez, Maria De Lourdes (MEX)","Guadalajara, JALISCO",7450,35-39,1:41:44,3:26:29
+328,2016,W,3982,657,"Calverely, Natalie (USA)","Chicago, IL",11866,35-39,1:42:02,3:26:32
+329,2016,W,3987,659,"Forlenza, Suzanne (USA)","Wall, NJ",7526,20-24,1:42:02,3:26:37
+330,2016,W,3991,661,"King, Karen (USA)","Camden, TN",10193,30-34,1:39:39,3:26:38
+331,2016,W,3994,663,"Scott, Melissa (USA)","Corvallis, OR",3754,25-29,1:39:37,3:26:39
+332,2016,W,4002,665,"Moss, Ellen (USA)","Durham, NC",3540,35-39,1:40:42,3:26:45
+333,2016,W,4012,667,"Ruiz, Cecilia (MEX)","Zapopan, JALISCO",6337,40-44,1:42:24,3:26:50
+334,2016,W,4017,669,"Rhoades, Taylor (USA)","St. Louis, MO",10910,20-24,1:42:30,3:26:51
+335,2016,W,4025,671,"Sanchez Alcorlo, Alicia (ESP)","New York, NewYork",2792,35-39,1:41:10,3:26:55
+336,2016,W,4035,673,"Vizcarrondo Dugarte, Marisela (VEN)","Pompano Beach, FL",6327,40-44,1:39:57,3:26:56
+337,2016,W,4047,675,"Heckenlively, Emily (USA)","Waukee, IA",5340,25-29,1:37:22,3:27:00
+338,2016,W,4060,677,"Kwarta, Bethany (USA)","Darien, CT",9984,25-29,1:42:28,3:27:06
+339,2016,W,4063,679,"Rosner, Roni (USA)","New York, NY",3868,30-34,1:42:38,3:27:07
+340,2016,W,4074,681,"Graham, Alison (USA)","New York, NY",2436,45-49,1:45:14,3:27:10
+341,2016,W,4089,683,"Centola, Christine (USA)","New York, NY",4650,30-34,1:44:33,3:27:13
+342,2016,W,4094,685,"Estes, Christine (USA)","Washington, DC",5775,35-39,1:41:43,3:27:14
+343,2016,W,4097,687,"Trunk, Courtney (USA)","Chicago, IL",4709,25-29,1:44:39,3:27:15
+344,2016,W,4103,689,"Wong, Ping Yee (HKG)","Kam Tai Court, MA ON SHAN",6581,45-49,1:42:00,3:27:15
+345,2016,W,4107,691,"Kawatani, Yoko (JPN)","Nagoya, Aichi",2039,45-49,1:38:59,3:27:17
+346,2016,W,4115,693,"Moorman, Colleen (USA)","Washington, DC",4497,30-34,1:39:45,3:27:20
+347,2016,W,4120,695,"Werner, Jody (USA)","Dexter, MI",7371,40-44,1:44:20,3:27:22
+348,2016,W,4125,697,"Sornberger, Julie (USA)","Los Angeles, CA",8468,35-39,1:45:45,3:27:22
+349,2016,W,4128,699,"Seserko, Lauren (USA)","Baltimore, MD",4731,25-29,1:44:12,3:27:24
+350,2016,W,4139,701,"Schultz, Jenna (USA)","Philadelphia, PA",10550,25-29,1:43:01,3:27:26
+351,2016,W,4141,703,"Sennett, Amy (USA)","Boston, MA",12228,30-34,1:42:03,3:27:27
+352,2016,W,4154,705,"Fanning, Susan (USA)","Chicago, IL",13134,35-39,1:37:53,3:27:31
+353,2016,W,4162,707,"Becker, Melissa (USA)","Orlando, FL",1734,25-29,1:42:14,3:27:33
+354,2016,W,4167,709,"Schramer, Natalie (USA)","Maple Park, IL",1956,25-29,1:43:16,3:27:34
+355,2016,W,4170,711,"Curry, Beth (USA)","Glen Mills, PA",8386,25-29,1:44:10,3:27:35
+356,2016,W,4175,713,"Coyne, Laura (USA)","Washington, DC",8834,20-24,1:44:20,3:27:36
+357,2016,W,4186,715,"Carder, Carla (USA)","Golden, CO",7255,40-44,1:43:46,3:27:37
+358,2016,W,4189,717,"Delong, Kristine (USA)","Ozark, MO",7900,35-39,1:44:12,3:27:37
+359,2016,W,4195,719,"Cheifet, Barbara (USA)","Livingston, NJ",6794,25-29,1:42:17,3:27:39
+360,2016,W,4206,721,"Huntington, Cindy (USA)","Portage, MI",544,30-34,1:36:38,3:27:44
+361,2016,W,4210,723,"Kravish, Britney (USA)","Frankfort, IL",3425,20-24,1:38:45,3:27:44
+362,2016,W,4213,725,"Waznis, Amanda (USA)","New Lenox, IL",26212,25-29,1:39:51,3:27:46
+363,2016,W,4219,727,"Flores, Beverly (USA)","Overland Park, KS",1688,35-39,1:44:16,3:27:47
+364,2016,W,4245,729,"Arriola, Araiz (MEX)","Mexico, DF",4475,30-34,1:43:03,3:27:54
+365,2016,W,4251,731,"Stubler, Emily (USA)","San Francisco, CA",6438,25-29,1:43:17,3:27:56
+366,2016,W,4259,733,"Metzger, Sarah (USA)","Crown Point, IN",11509,35-39,1:41:14,3:27:58
+367,2016,W,4266,735,"Elston, Laken (USA)","Westfield, IN",8854,20-24,1:42:41,3:27:59
+368,2016,W,4274,737,"Weisbard, Emily (USA)","Chicago, IL",13256,25-29,1:44:19,3:28:02
+369,2016,W,4284,739,"Rodriguez, Valentina (MEX)","Celaya, Guanajuato",7886,20-24,1:42:57,3:28:05
+370,2016,W,4288,741,"Capek, Erika (USA)","New York, NY",8825,25-29,1:43:10,3:28:06
+371,2016,W,4294,743,"Christensen, Kimberly (USA)","Orland Park, IL",2458,20-24,1:39:35,3:28:08
+372,2016,W,4302,745,"Quinn, Elissa (USA)","Wakefield, MA",8817,30-34,1:40:36,3:28:12
+373,2016,W,4305,747,"Landers, Melissa (USA)","Elmhurst, IL",2813,20-24,1:44:18,3:28:12
+374,2016,W,4311,749,"Chun, Kelsey (USA)","Evanston, IL",38794,25-29,1:44:08,3:28:15
+375,2016,W,4319,751,"Hudak, Lauren (USA)","Munster, IN",3504,25-29,1:41:15,3:28:18
+376,2016,W,4322,753,"Murdoch, Gail (GBR)","Dunfermline, Fife",1056,50-54,1:40:00,3:28:18
+377,2016,W,4326,755,"Casey, Emily (USA)","Chicago, Illinois",10439,20-24,1:39:28,3:28:20
+378,2016,W,4330,757,"Dufford, Shelley (USA)","Upper Marlboro, MD",7458,35-39,1:41:13,3:28:21
+379,2016,W,4332,759,"Depriest, Christina (USA)","Mooresville, NC",6466,35-39,1:39:59,3:28:21
+380,2016,W,4339,761,"Kayyali, Andrea (USA)","Westfield, NJ",3048,40-44,1:37:19,3:28:23
+381,2016,W,4346,763,"Hermo Mugica, Nerea (ESP)","San Sebastian, Guipuzcoa",7348,40-44,1:42:23,3:28:24
+382,2016,W,4350,765,"Pena, Annabelle (VEN)","Caracas, Miranda",13002,40-44,1:35:17,3:28:25
+383,2016,W,4356,767,"Bowyer, Katie (CAN)","Vancouver, BC",9778,30-34,1:45:11,3:28:27
+384,2016,W,4360,769,"Bass, Samantha (USA)","Denver, CO",4762,25-29,1:43:30,3:28:29
+385,2016,W,4370,771,"Ryan, Jana (USA)","Keller, TX",8340,55-59,1:42:27,3:28:32
+386,2016,W,4380,773,"Stoloff, Rose (USA)","Chicago, IL",1707,20-24,1:44:30,3:28:35
+387,2016,W,4393,775,"Mosesso, Kara (USA)","New York, NY",6409,30-34,1:41:44,3:28:38
+388,2016,W,4405,777,"Lieb, Anna (USA)","Golden, CA",2674,25-29,1:42:08,3:28:40
+389,2016,W,4408,779,"Gapin, Amelia (USA)","Jersey City, NJ",16011,30-34,1:44:29,3:28:41
+390,2016,W,4412,781,"Schrunk, Caedryn (USA)","Santa Monica, CA",6283,30-34,1:39:24,3:28:41
+391,2016,W,4423,783,"Bazhina, Sasha (USA)","San Francisco, CA",4472,25-29,1:39:52,3:28:43
+392,2016,W,4431,785,"Sproule, Nicola (NZL)","Auckland, Kohimarama",11689,45-49,1:42:12,3:28:47
+393,2016,W,4441,787,"Cacali, Jean (USA)","Austin, TX",8063,40-44,1:39:18,3:28:51
+394,2016,W,4445,789,"Furber, Sarah (USA)","Philadelphia, PA",5561,30-34,1:45:27,3:28:52
+395,2016,W,4452,791,"Gallo, Kassandra (CAN)","Toronto, ON",5420,35-39,1:39:02,3:28:53
+396,2016,W,4458,793,"Burke, Rachel (USA)","Palatine, IL",10333,30-34,1:42:08,3:28:55
+397,2016,W,4467,795,"Lobaugh, Emily (USA)","Baltimore, MD",7324,25-29,1:44:13,3:28:58
+398,2016,W,4475,797,"Simard, Melanie (CAN)","La Pocatiere, QC",7547,30-34,1:44:01,3:28:59
+399,2016,W,4482,799,"Wampach, Christine (USA)","Charlotte, NC",11128,30-34,1:34:46,3:29:02
+400,2016,W,4490,801,"Weidner, Marisa (USA)","Washington, DC",6356,20-24,1:45:45,3:29:04
+401,2016,W,4502,803,"Keith, Julianne (USA)","Albuquerque, NM",6343,25-29,1:44:15,3:29:07
+402,2016,W,4511,805,"Palmer, Lauren (USA)","Atlanta, GA",8985,25-29,1:43:47,3:29:10
+403,2016,W,4516,807,"Keeley, Laura (USA)","Durham, NC",13080,25-29,1:40:42,3:29:11
+404,2016,W,4523,809,"Patterson, Addie (USA)",Stockholm,8587,30-34,1:41:26,3:29:13
+405,2016,W,4527,811,"Olson, Laurie (USA)","Raleigh, NC",7548,50-54,1:42:48,3:29:15
+406,2016,W,4547,813,"Cressy, Lindsay (USA)","Washington, DC",4804,30-34,1:41:36,3:29:18
+407,2016,W,4557,815,"Mayschak, Sophie (FRA)","Schaumburg, IL",5980,35-39,1:45:45,3:29:19
+408,2016,W,4562,817,"Vargo, Jessie (USA)","Porter, IN",9545,30-34,1:46:04,3:29:20
+409,2016,W,4570,819,"Vovk, Karmen (ESA)",Izola,8314,50-54,1:44:09,3:29:21
+410,2016,W,4575,821,"Furmston, Charlotte (GBR)","Birtinya, Qld",7398,45-49,1:44:12,3:29:22
+411,2016,W,4581,823,"Schellenberg, Janis (CAN)","Calgary, AB",8356,40-44,1:42:54,3:29:24
+412,2016,W,4589,825,"Schiavone, Shannon (USA)","Murphy, OR",3818,50-54,1:44:17,3:29:25
+413,2016,W,4597,827,"Smith, Lauren (USA)","Austin, TX",3702,30-34,1:46:00,3:29:26
+414,2016,W,4602,829,"Fuller, Cydne (USA)","Plantation, FL",7339,35-39,1:44:26,3:29:27
+415,2016,W,4609,831,"Wood, Ella (USA)","Chicago, IL",3943,35-39,1:36:51,3:29:28
+416,2016,W,4618,833,"Potts, Franzine (USA)","Aberdeen, WA",16432,35-39,1:45:11,3:29:30
+417,2016,W,4630,835,"Slayden, Kelly (USA)","Woodridge Il, IL",11899,20-24,1:43:31,3:29:34
+418,2016,W,4634,837,"Borden, Cheryl (USA)","Chestnut Hill, MA",13598,30-34,1:43:57,3:29:34
+419,2016,W,4636,839,"Berg, Jessica (USA)","Tulsa, OK",10351,25-29,1:42:25,3:29:35
+420,2016,W,4640,841,"Schroeder, Jessica (USA)","Urbandale, IA",7039,30-34,1:42:16,3:29:36
+421,2016,W,4646,843,"Singer, Marta (POL)","Chicago, IL",10271,35-39,1:41:59,3:29:37
+422,2016,W,4655,845,"Garcia, Mariana (CRC)",San Jose,6583,35-39,1:45:43,3:29:40
+423,2016,W,4659,847,"Baltierra, Natalie (USA)","Corona, CA",1902,16-19,1:43:12,3:29:41
+424,2016,W,4662,849,"Langhamer, Maggie (USA)","Decatur, GA",2349,20-24,1:44:11,3:29:42
+425,2016,W,4670,851,"Budziak, Jacquelyn (USA)","Chicago, IL",2650,30-34,1:44:43,3:29:45
+426,2016,W,4686,853,"Anderson, Christine (USA)","Lisle, IL",28238,25-29,1:42:38,3:29:48
+427,2016,W,4709,855,"Schrader, Jennifer (USA)","Boston, MA",7577,25-29,1:41:49,3:29:54
+428,2016,W,4716,857,"Wolkin, Amy (USA)","Atlanta, GA",8647,25-29,1:45:20,3:29:55
+429,2016,W,4729,859,"Scott, Amanda (USA)","Nashville, TN",7505,25-29,1:41:29,3:30:00
+430,2016,W,4738,861,"Schiffbauer, Sara (USA)","Columbus, OH",9902,30-34,1:46:00,3:30:03
+431,2016,W,4742,863,"Feind, Maura (USA)","Naperville, IL",1967,35-39,1:43:36,3:30:05
+432,2016,W,4747,865,"Reeves, Abbey (USA)","Carrier Mills, IL",6415,35-39,1:38:41,3:30:06
+433,2016,W,4761,867,"Brennan, Jacquelyn (USA)","Chicago, IL",10608,30-34,1:42:21,3:30:12
+434,2016,W,4765,869,"Gonzalez, Karen (MEX)","Mexico, CIUDAD DE MEXICO",16686,30-34,1:40:06,3:30:14
+435,2016,W,4767,871,"Reininger, Karla (USA)","Foristell, MO",7884,25-29,1:44:31,3:30:15
+436,2016,W,4775,873,"Lusby, Heidi (USA)","Medfield, MA",11613,45-49,1:39:45,3:30:17
+437,2016,W,4779,875,"Nutile, Lauren (USA)","Richmond, VA",1550,30-34,1:39:00,3:30:18
+438,2016,W,4786,877,"Buyer, Lauren (USA)","Lawrenceville, NJ",7787,25-29,1:46:55,3:30:21
+439,2016,W,4793,879,"Bickel, Allison (USA)","Munster, IN",17460,25-29,1:41:26,3:30:23
+440,2016,W,4800,881,"Balash, Amy (USA)","Elmira Heights, NY",4607,35-39,1:43:32,3:30:25
+441,2016,W,4803,883,"Kopidlansky, Becky (USA)","West Bend, WI",7189,35-39,1:43:10,3:30:27
+442,2016,W,4805,885,"Kerr, Alison (GBR)","Glasgow, Lanarkshire",1109,40-44,1:39:56,3:30:28
+443,2016,W,4814,887,"Cottini, Federica (ITA)","Brescia, Bs",12253,45-49,1:38:57,3:30:31
+444,2016,W,4823,889,"Marion, Kalie (USA)","Brighton, MA",10572,25-29,1:46:41,3:30:33
+445,2016,W,4828,891,"Carney, Laura (USA)","Cranford, NJ",6861,40-44,1:43:09,3:30:35
+446,2016,W,4831,893,"Gaunt, Sarah (USA)","Chicago, IL",10491,30-34,1:43:41,3:30:36
+447,2016,W,4834,895,"Bohn, Danielle (USA)","Waterford, MI",7045,20-24,1:44:17,3:30:38
+448,2016,W,4841,897,"Bijon, Diana (USA)","Lake Oswego, OR",2771,35-39,1:42:08,3:30:40
+449,2016,W,4847,899,"Hillgamyer, Kristin (USA)","Chicago, IL",17830,20-24,1:42:13,3:30:42
+450,2016,W,4863,901,"Martinez, Korey (USA)","Chicago, IL",12862,30-34,1:44:51,3:30:50
+451,2016,W,4868,903,"Weinstein, Brooke (GBR)","Sandy Springs, GA",6435,25-29,1:45:25,3:30:51
+452,2016,W,4871,905,"Storm, Lara (USA)","Dawsonville, GA",6348,45-49,1:41:36,3:30:52
+453,2016,W,4879,907,"Mundy, Sarah (RSA)","Milnerton, Western Cape",1095,35-39,1:41:51,3:30:53
+454,2016,W,4888,909,"Confer, Jamee (USA)","Atlanta, GA",5157,45-49,1:36:02,3:30:56
+455,2016,W,4891,911,"Clark, Kaitlyn (USA)","Chicago, IL",7058,25-29,1:42:47,3:30:57
+456,2016,W,4897,913,"St-Jacques, Natalie (CAN)","Quebec City, QC",11779,50-54,1:46:17,3:30:58
+457,2016,W,4900,915,"Bloss, Megan (USA)","Brighton, MI",8200,35-39,1:42:30,3:30:59
+458,2016,W,4905,917,"Harris, Kelli (USA)","Heber Springs, AR",2809,35-39,1:42:49,3:30:59
+459,2016,W,4908,919,"Pehler, Nina (USA)","Chicago, IL",6575,30-34,1:45:49,3:31:00
+460,2016,W,4911,921,"Byrne, Laura (IRL)","Hinsdale, IL",5946,40-44,1:38:21,3:31:04
+461,2016,W,4914,923,"Moran, Megan (USA)","Chicago, IL",2660,25-29,1:44:10,3:31:05
+462,2016,W,4917,925,"Johnson, Beatrice (USA)","Walker, MI",17765,25-29,1:44:23,3:31:05
+463,2016,W,4920,927,"Meikle, Dawn (CAN)","London, ON",5823,45-49,1:43:48,3:31:06
+464,2016,W,4931,929,"Yicun, Luo (CHN)","Kunshan,Suzhou, Jiangsu",7388,35-39,1:46:11,3:31:08
+465,2016,W,4938,931,"Dye, Heather (CAN)","Nepean, ON",5752,40-44,1:42:03,3:31:11
+466,2016,W,4946,933,"Gilyalova, Svetlana (USA)","Atlanta, GA",6131,35-39,1:40:50,3:31:13
+467,2016,W,4949,935,"Hoffert, Alyssa (USA)","Independence, OH",15142,25-29,1:42:46,3:31:13
+468,2016,W,4952,937,"Bulder, Stephanie (USA)","Lombard, IL",8501,20-24,1:47:11,3:31:14
+469,2016,W,4958,939,"Lawrence, Jodie (USA)","Arlington Heights, IL",5994,20-24,1:44:15,3:31:15
+470,2016,W,4960,941,"Greco, Veronica (ARG)","Miami, FL",5737,40-44,1:44:57,3:31:15
+471,2016,W,4966,943,"Miller, Stephanie (USA)","Chicago, IL",3674,30-34,1:45:00,3:31:17
+472,2016,W,4977,945,"Nesa, Elena (SUI)",Onex,4792,50-54,1:44:20,3:31:20
+473,2016,W,4981,947,"Pisha, Nicolette (USA)","Washington, DC",3032,30-34,1:39:24,3:31:21
+474,2016,W,4984,949,"Mendez, Marcela (CRC)",San Jose,4722,35-39,1:43:27,3:31:21
+475,2016,W,4992,951,"Neundorfer, Kelly (USA)","Monclova, OH",2667,35-39,1:44:06,3:31:24
+476,2016,W,4996,953,"Yolaine, Brule (FRA)",Saint Cloud,6186,40-44,1:42:00,3:31:26
+477,2016,W,4998,955,"Summa, Tracey (USA)","Boynton Beach, FL",17098,30-34,1:42:50,3:31:28
+478,2016,W,5002,957,"Battis, Brittany (USA)","Brighton, MA",1657,20-24,1:47:07,3:31:29
+479,2016,W,5011,959,"Galiano, Susie (USA)","Minneapolis, MN",9853,40-44,1:46:11,3:31:31
+480,2016,W,5019,961,"Kosloski, Amanda (CAN)","Toronto, ON",4610,30-34,1:45:08,3:31:38
+481,2016,W,5025,963,"Rowley, Jill (USA)","Weymouth, MA",10807,30-34,1:42:46,3:31:40
+482,2016,W,5030,965,"Tysse, Kate (USA)","Chicago, IL",19551,25-29,1:48:35,3:31:41
+483,2016,W,5038,967,"Moreno, Cristy (USA)","Laporte, TX",10202,50-54,1:41:52,3:31:43
+484,2016,W,5049,969,"Branco, Roberta (BRA)","Piracicaba, Sao Paulo",22629,30-34,1:44:19,3:31:47
+485,2016,W,5052,971,"Wyatt, Caitlin (USA)","Durham, NC",11631,30-34,1:42:59,3:31:48
+486,2016,W,5054,973,"Justesen, Lona (SWE)",Arsta,440,40-44,1:32:10,3:31:49
+487,2016,W,5061,975,"Meltzer, Angela (USA)","Frankfort, IL",8716,35-39,1:47:17,3:31:50
+488,2016,W,5065,977,"Wood, Emily (USA)","Boston, MA",2959,20-24,1:45:40,3:31:51
+489,2016,W,5070,979,"Buohler, Lisa (GBR)","Lehigh Acres, FL",9054,45-49,1:43:15,3:31:52
+490,2016,W,5074,981,"Kapinos, Kim (USA)","West Jordan, UT",8413,35-39,1:44:34,3:31:53
+491,2016,W,5076,983,"Odom, Ashley (USA)","Allston, MA",9884,25-29,1:45:33,3:31:53
+492,2016,W,5081,985,"Novobilski, Marisa (USA)","Fairborn, OH",7431,35-39,1:43:15,3:31:55
+493,2016,W,5088,987,"Moffitt, Jessica (USA)","Lake Zurich, IL",10406,25-29,1:44:33,3:31:58
+494,2016,W,5094,989,"Marble, Nicole (USA)","Wauwatosa, WI",6505,30-34,1:44:43,3:31:59
+495,2016,W,5102,991,"Balliet, Lacey (USA)","Virginia Beach, VA",18026,30-34,1:46:17,3:32:03
+496,2016,W,5107,993,"Morreale, Erika (USA)","Lafayette, CO",10641,35-39,1:44:58,3:32:04
+497,2016,W,5113,995,"Rees, Mallory (USA)","Los Angeles, CA",7489,25-29,1:45:58,3:32:05
+498,2016,W,5119,997,"Harvey, Alyssa (USA)","Savannah, GA",8824,35-39,1:41:51,3:32:07
+499,2016,W,5131,999,"Nykaza, Madeline (USA)","Washington, DC",11359,25-29,1:44:58,3:32:10
+500,2016,W,28,2,"Kiplagat, Edna (KEN)",,102,35-39,1:10:31,2:23:28
+501,2016,W,35,4,"Rionoripo, Purity (KEN)",,108,20-24,1:10:30,2:24:47
+502,2016,W,54,6,"Baysa, Atsede (ETH)",,103,25-29,1:12:11,2:28:53
+503,2016,W,74,8,"Mierzejewska, Agnieszka (POL)",,114,30-34,1:15:06,2:32:13
+504,2016,W,91,10,"Gray, Alia (USA)","Boulder, CO",117,25-29,1:14:41,2:34:00
+505,2016,W,123,12,"Ross, Freya (GBR)",,111,30-34,1:17:12,2:37:50
+506,2016,W,140,14,"Chrisman, Caitlin (USA)","Mountain View, CA",120,30-34,1:19:03,2:38:47
+507,2016,W,165,16,"Polley, Emma (USA)","Seattle, WA",123,25-29,1:19:34,2:40:56
+508,2016,W,194,18,"Roman-Duval, Julia (USA)","Columbia, MD",121,30-34,1:18:27,2:42:49
+509,2016,W,233,20,"Sawyer, Julie (USA)","Cardiff, CA",479,30-34,1:22:29,2:45:25
+510,2016,W,265,22,"Ryan, Sophie (AUS)",,126,25-29,1:21:12,2:46:56
+511,2016,W,284,24,"Mendoza, Salome (BOL)",Cochabamba,463,25-29,1:22:30,2:47:40
+512,2016,W,294,26,"Snyder, Kati (USA)","Chicago, IL",485,30-34,1:22:32,2:48:12
+513,2016,W,334,28,"Kelly, Harriott (USA)","New York, NY",444,25-29,1:20:30,2:49:19
+514,2016,W,344,30,"Selert Faraud, Kir (USA)","Brooklyn, NY",482,25-29,1:25:13,2:49:30
+515,2016,W,351,32,"Jaswell, Megan (USA)","East Hampton, CT",436,25-29,1:24:22,2:49:41
+516,2016,W,360,34,"Steinbacher, Dani (USA)","Ann Arbor, MI",489,30-34,1:24:08,2:50:08
+517,2016,W,368,36,"Michmerhuizen, Nicole (USA)","Ann Arbor, MI",464,20-24,1:22:28,2:50:18
+518,2016,W,399,38,"Johannsen, Denise (GER)",Cham,437,30-34,1:24:46,2:51:05
+519,2016,W,456,40,"Hernandez, Cibelle (MEX)","Mexico, DF",432,40-44,1:23:02,2:52:32
+520,2016,W,471,42,"Perkins, Lauren (USA)","Brooklyn, NY",473,30-34,1:27:10,2:52:48
+521,2016,W,503,44,"Belyavin, Julia (GBR)","Bristol, Avon",410,35-39,1:24:22,2:53:30
+522,2016,W,510,46,"Moody, Tera (USA)","Chicago, IL",113,35-39,1:21:19,2:53:40
+523,2016,W,530,48,"Cieslak, Kylen (USA)","Chicago, IL",415,25-29,1:26:17,2:54:09
+524,2016,W,565,50,"Begue, Gwenaelle (FRA)","Muncie, IN",409,30-34,1:27:10,2:54:42
+525,2016,W,582,52,"Beckwith, Christina (USA)","Chicago, IL",382,30-34,1:27:57,2:55:07
+526,2016,W,599,54,"Kitayama, Dina (USA)","Orinda, CA",448,25-29,1:27:08,2:55:30
+527,2016,W,620,56,"Scofield, Bret (USA)","Palo Alto, CA",481,25-29,1:27:19,2:55:57
+528,2016,W,632,58,"Pishny, Eleanor (USA)","Menlo Park, CA",474,30-34,1:23:31,2:56:17
+529,2016,W,645,60,"Hamstra-Wright, Karrie (USA)","Chicago, IL",429,35-39,1:27:11,2:56:32
+530,2016,W,660,62,"Barbour, Hannah (USA)","Boone, NC",1356,20-24,1:28:55,2:56:49
+531,2016,W,677,64,"Spehar, Elizabeth (USA)","St Paul, MN",486,25-29,1:27:40,2:57:07
+532,2016,W,706,66,"Dumont, Claudia (BRA)","Nova Lima, Minas Gerais",424,35-39,1:28:03,2:57:33
+533,2016,W,748,68,"Meyer, Lauren (USA)","Charlestown, MA",4468,25-29,1:28:17,2:58:08
+534,2016,W,761,70,"Manuel Silva, Samares (BRA)","Ribeiraao Preto, SaaO PAULO",1255,25-29,1:28:38,2:58:15
+535,2016,W,789,72,"Blackman, Camille (USA)","Evanston, IL",2055,20-24,1:29:13,2:58:34
+536,2016,W,797,74,"Henstrom, Stephanie (USA)","Portland, OR",431,40-44,1:27:11,2:58:39
+537,2016,W,801,76,"Manuel, Lauren (USA)","Indianapolis, IN",455,30-34,1:27:16,2:58:40
+538,2016,W,829,78,"Bogantes Gonzalez, Diana (CRC)",Alajuela,412,25-29,1:27:50,2:59:01
+539,2016,W,834,80,"Fukushima, Wakana (JPN)","Chiyoda-Ku, Tokyo",2037,30-34,1:28:52,2:59:05
+540,2016,W,877,82,"Viele, Rachel (USA)","Vail, CO",4052,35-39,1:27:19,2:59:22
+541,2016,W,901,84,"Reyes, Melissa (USA)","Unit H, CO",3138,30-34,1:29:41,2:59:31
+542,2016,W,915,86,"Marshall, Wendy (USA)","Cincinnati, OH",458,40-44,1:27:33,2:59:41
+543,2016,W,947,88,"Knuchel, Kathrin (SUI)",Thun,1091,35-39,1:30:37,3:00:02
+544,2016,W,965,90,"Bruijn, Merel (NED)",Amsterdam,3171,25-29,1:29:43,3:00:17
+545,2016,W,975,92,"Junqueira, Mariana (BRA)","Sao Paulo, Sao Paulo",439,35-39,1:29:53,3:00:28
+546,2016,W,1010,94,"Craddick, Karen (USA)","Los Angeles, CA",1089,30-34,1:29:38,3:00:51
+547,2016,W,1014,96,"Laurence, Whitney (USA)","Chicago, IL",384,30-34,1:30:50,3:00:57
+548,2016,W,1033,98,"Staton, Pamela (USA)","Chicago, IL",487,25-29,1:22:52,3:01:19
+549,2016,W,1044,100,"Kohlmeier, Amanda (CAN)","Ypsilanti, MI",383,30-34,1:27:57,3:01:31
+550,2016,W,1058,102,"Clark, Alyvia (USA)","Chicago, IL",2063,20-24,1:29:32,3:01:41
+551,2016,W,1061,104,"Fosnot, Alyson (USA)","Indianapolis, IN",4221,25-29,1:29:55,3:01:46
+552,2016,W,1123,106,"Barrett, Liz (USA)","Jenkintown, PA",5556,20-24,1:27:59,3:02:29
+553,2016,W,1156,108,"Toledo, Sylvanna (GUA)",Guatemala,11027,30-34,1:30:08,3:02:52
+554,2016,W,1164,110,"Mitsos, Janna (USA)","Chicago, IL",1029,25-29,1:29:08,3:02:57
+555,2016,W,1168,112,"Snyder, Jordan (USA)","New York, NY",2180,25-29,1:28:11,3:03:01
+556,2016,W,1206,114,"Clark, Sarah (USA)","Edgewater, CO",3158,30-34,1:31:44,3:03:37
+557,2016,W,1235,116,"Hicks, Amanda (USA)","Washington, DC",2162,30-34,1:31:30,3:03:59
+558,2016,W,1254,118,"Arpin, Azelie (CAN)","Boucherville, QC",3004,35-39,1:32:21,3:04:13
+559,2016,W,1269,120,"Willy, Cathleen (USA)","Pismo Beach, California",4077,30-34,1:31:59,3:04:21
+560,2016,W,1283,122,"Hodge, Danielle (USA)","North Liberty, IA",4020,25-29,1:30:01,3:04:34
+561,2016,W,1292,124,"Walter, Katie (USA)","Chapel Hill, NC",2021,20-24,1:29:54,3:04:40
+562,2016,W,1297,126,"Li, Anna (USA)","San Francisco, CA",2131,25-29,1:36:04,3:04:43
+563,2016,W,1314,128,"Steele, Alison (USA)","Longmont, CO",488,35-39,1:29:46,3:04:53
+564,2016,W,1338,130,"Olsen, Lindsay (USA)","Chicago, IL",9456,25-29,1:32:55,3:05:12
+565,2016,W,1344,132,"Torda, Adrienne (AUS)","Randwick, New South Wales",2235,50-54,1:31:39,3:05:20
+566,2016,W,1353,134,"Everard, Melissa (USA)","San Diego, CA",2176,35-39,1:30:46,3:05:30
+567,2016,W,1359,136,"Young, Lacey (USA)","De Queen, AR",4051,30-34,1:31:32,3:05:35
+568,2016,W,1367,138,"Clark, Bethany (USA)","Philadelphia, PA",5270,25-29,1:33:29,3:05:39
+569,2016,W,1371,140,"Baker, Amy (USA)","Austin, TX",405,30-34,1:31:33,3:05:42
+570,2016,W,1379,142,"Noordstar, Christina (USA)","Tierra Verde, FL",470,40-44,1:29:17,3:05:47
+571,2016,W,1393,144,"Montag, Julia (USA)","Portland, OR",3195,25-29,1:34:30,3:05:58
+572,2016,W,1407,146,"Dorgan, Caitlin (USA)","Red Bank, NJ",422,25-29,1:29:35,3:06:10
+573,2016,W,1413,148,"Vander Stoep, Deborah (USA)","Beaverton, OR",493,30-34,1:28:57,3:06:15
+574,2016,W,1417,150,"Winters, Jennifer (USA)","Round Rock, TX",2061,35-39,1:29:11,3:06:18
+575,2016,W,1451,152,"Mathews, Shannon (USA)","San Francisco, CA",539,25-29,1:31:58,3:06:41
+576,2016,W,1472,154,"Spiroff, Alexandra (USA)","Chicago, IL",2099,20-24,1:32:55,3:06:55
+577,2016,W,1477,156,"Lightowler, Kara (USA)","Orange, CT",2566,25-29,1:30:36,3:06:56
+578,2016,W,1498,158,"Nichols, Leah (USA)","Chicago, IL",1360,25-29,1:31:56,3:07:14
+579,2016,W,1528,160,"Leer, Anna (USA)","Denver, CO",2142,30-34,1:30:46,3:07:30
+580,2016,W,1541,162,"Schulz, Heather (USA)","Orlando, FL",480,40-44,1:30:26,3:07:39
+581,2016,W,1556,164,"Heintz, Laura (USA)","New York, NY",13122,35-39,1:31:28,3:07:49
+582,2016,W,1562,166,"Basile, Ellen (USA)","New York, NY",3005,40-44,1:31:49,3:07:52
+583,2016,W,1565,168,"Anjos, Liz (USA)","Portland, OR",404,30-34,1:29:09,3:07:52
+584,2016,W,1577,170,"Beaton, Kara (USA)","League City, TX",4010,30-34,1:34:27,3:07:59
+585,2016,W,1597,172,"Van Heerden, Erica (USA)","Chicago, IL",8159,35-39,1:35:10,3:08:12
+586,2016,W,1630,174,"Winters, Annabelle (USA)","Chicago, IL",2403,30-34,1:33:57,3:08:30
+587,2016,W,1659,176,"Fitzsimmons, Kristin (USA)","Rochester, NY",4045,25-29,1:34:26,3:08:49
+588,2016,W,1672,178,"Laureano, Veronica (MEX)","Chicago, IL",4590,30-34,1:29:51,3:09:00
+589,2016,W,1684,180,"Vivinetto, Christina (USA)","New York, NY",7006,20-24,1:33:51,3:09:08
+590,2016,W,1688,182,"Metcalfe, Danica (CAN)","Hanover, ON",751,30-34,1:33:54,3:09:10
+591,2016,W,1701,184,"Burbach, Cristina (USA)","Arlington, VA",713,40-44,1:34:30,3:09:21
+592,2016,W,1708,186,"Santerre, Sonia (CAN)","Chambly, QC",4118,45-49,1:33:48,3:09:26
+593,2016,W,1726,188,"Sykora, Lauren (USA)","Naperville, IL",3291,25-29,1:31:56,3:09:33
+594,2016,W,1739,190,"Mautz, Lisa (USA)","Delafield, WI",3113,35-39,1:33:49,3:09:43
+595,2016,W,1773,192,"Shabanowitz, Aliza (USA)","Arlington, VA",2859,30-34,1:34:42,3:10:04
+596,2016,W,1776,194,"Hendrickson, Sara (USA)","Altoona, IA",3545,25-29,1:32:10,3:10:06
+597,2016,W,1780,196,"Loyd, Bailey (USA)","Kansas City, KS",9012,25-29,1:34:11,3:10:08
+598,2016,W,1795,198,"Plank, Stephanie (USA)","Dublin, OH",3206,25-29,1:34:32,3:10:21
+599,2016,W,1825,200,"Petry, Kati (USA)","Chicago, IL",2236,30-34,1:33:54,3:10:42
+600,2016,W,1837,202,"Kremin, Marijke (USA)","New York, NY",3338,25-29,1:34:03,3:10:49
+601,2016,W,1852,204,"Kuester, Meike (GER)","Fort Leonard Wood, MO",3031,40-44,1:31:39,3:11:00
+602,2016,W,1858,206,"Merrill, Kristina (USA)","Louisville, KY",1394,40-44,1:34:40,3:11:03
+603,2016,W,1862,208,"Rosapep, Lauren (USA)","Washington, DC",8121,30-34,1:34:55,3:11:05
+604,2016,W,1868,210,"Kenny, Vanessa (USA)","New Lenox, IL",10026,25-29,1:29:21,3:11:08
+605,2016,W,1875,212,"Fox, Rachel (USA)","Flower Mound, TX",430,40-44,1:34:57,3:11:12
+606,2016,W,1888,214,"Morgan, Mariko (JPN)","Spokane, WA",3149,35-39,1:35:47,3:11:19
+607,2016,W,1905,216,"Ostaszewski, Sarah (USA)","Crown Point, IN",8046,25-29,1:32:47,3:11:31
+608,2016,W,1911,218,"Huerta, Sarah (USA)","Winona, MN",3285,25-29,1:33:08,3:11:35
+609,2016,W,1916,220,"Pavicic, Mary Patricia (USA)","Euclid, OH",3053,30-34,1:32:24,3:11:39
+610,2016,W,1925,222,"Melchor, Nerida (MEX)","Puebla, PUEBLA",10009,35-39,1:30:13,3:11:41
+611,2016,W,1932,224,"Osler, Jennifer (USA)","Colorado Springs, CO",2071,35-39,1:30:29,3:11:46
+612,2016,W,1946,226,"Vazzana, Monica (ITA)","Castellanza, varese",9134,35-39,1:37:07,3:11:54
+613,2016,W,1958,228,"Cassar, Alexandra (USA)","Bellevue, NE",8003,30-34,1:37:39,3:11:59
+614,2016,W,1975,230,"Kotara, Kristin (USA)","Mokena, IL",773,35-39,1:33:52,3:12:08
+615,2016,W,1987,232,"Egan, Alison (USA)","New York, NY",2300,30-34,1:29:26,3:12:14
+616,2016,W,2003,234,"Byers, Meredith (USA)","Long Island City, NY",7090,25-29,1:35:07,3:12:21
+617,2016,W,2012,236,"Grace, Jane (GBR)","Grouville, Jersey",3200,40-44,1:34:33,3:12:26
+618,2016,W,2038,238,"Karssemeijer, Roos (NED)","New York, NY",3218,30-34,1:36:22,3:12:42
+619,2016,W,2047,240,"Wickstrom, Kelly (USA)","Los Angeles, CA",5432,35-39,1:36:22,3:12:49
+620,2016,W,2078,242,"Wankowski, Julie (USA)","Deforest, WI",4093,45-49,1:34:00,3:13:05
+621,2016,W,2088,244,"Adams, Julia (USA)","Peoria, IL",2504,30-34,1:38:10,3:13:09
+622,2016,W,2107,246,"De Sa Moreira, Rosa (SUI)",Merenschwand,1092,45-49,1:31:52,3:13:20
+623,2016,W,2113,248,"Meyer, Flavia (BRA)","Sao Jose Dos Pinhais, Parana",5452,30-34,1:37:23,3:13:24
+624,2016,W,2131,250,"Furimsky, Erin (USA)","Bloomington, IL",4773,40-44,1:34:52,3:13:33
+625,2016,W,2137,252,"Cupp, Halle (USA)","Liberty Twp, OH",2123,35-39,1:32:09,3:13:37
+626,2016,W,2166,254,"Mccarthy, Sheila (USA)","San Francisco, CA",7327,45-49,1:35:09,3:13:51
+627,2016,W,2175,256,"Hine, Melissa (USA)","Holyoke, MA",8034,25-29,1:37:31,3:13:52
+628,2016,W,2178,258,"Zwickert, Kristy (AUS)","Pearce, ACT",3147,30-34,1:34:27,3:13:56
+629,2016,W,2182,260,"Ave Maria, Elizabeth (USA)","Morton Grove, IL",4258,25-29,1:34:44,3:13:57
+630,2016,W,2190,262,"Doshi, Megha (USA)","San Francisco, CA",1057,30-34,1:38:45,3:14:03
+631,2016,W,2215,264,"Brittan, Grace (USA)","Littleton, CO",2866,20-24,1:39:12,3:14:16
+632,2016,W,2222,266,"Tyszuk, Artur (POL)","Middle Village, NY",11197,35-39,1:35:15,3:14:21
+633,2016,W,2231,268,"Kennedy, Danielle (USA)","Mishawaka, IN",12071,20-24,1:37:06,3:14:25
+634,2016,W,2241,270,"Mello Cattaruzzi, Valeria (BRA)","Sao Bernardo Do Campo, SaO PAULO",10029,35-39,1:35:30,3:14:28
+635,2016,W,2252,272,"Santoro, Kathleen (USA)","Boston, MA",5119,45-49,1:33:46,3:14:32
+636,2016,W,2260,274,"Dhingra, Meera (USA)","Denver, CO",9021,35-39,1:36:46,3:14:36
+637,2016,W,2268,276,"Iannizzotto, Denise (USA)","Lake Katrine, NY",12281,50-54,1:35:56,3:14:38
+638,2016,W,2273,278,"Hilton, Ryan (USA)","Wilmington, NC",7095,30-34,1:39:28,3:14:42
+639,2016,W,2303,280,"Japlon, Olivia (USA)","Boston, MA",4455,25-29,1:33:39,3:14:55
+640,2016,W,2318,282,"Pelliccia, Lydia (USA)","Washington, DC",5491,45-49,1:38:02,3:15:04
+641,2016,W,2327,284,"Steffes, Lisa (USA)","Hazleton, PA",3087,45-49,1:31:01,3:15:07
+642,2016,W,2345,286,"O'Hora, Andrea (USA)","Trinity, FL",4573,30-34,1:37:57,3:15:16
+643,2016,W,2352,288,"Beaton - Marx, Meredith (USA)","Brookline, MA",3852,25-29,1:37:45,3:15:22
+644,2016,W,2360,290,"Hendrickson, Victoria (USA)","Walnut Creek, CA",7272,25-29,1:37:17,3:15:28
+645,2016,W,2376,292,"Evans, Ashley (USA)","Nashville, TN",425,30-34,1:27:14,3:15:34
+646,2016,W,2378,294,"Underwood, Karie (USA)","Holladay, UT",7563,40-44,1:36:41,3:15:36
+647,2016,W,2385,296,"Stacey, Maura (USA)","Westerville, OH",4320,40-44,1:36:55,3:15:38
+648,2016,W,2398,298,"Wahlmann, Kate (USA)","Cary, NC",4795,30-34,1:35:19,3:15:45
+649,2016,W,2404,300,"Wheeler, Karen (USA)","Ann Arbor, MI",5540,30-34,1:32:21,3:15:47
+650,2016,W,2420,302,"Mccarey, Erin (USA)","Byron, IL",12246,20-24,1:36:38,3:15:54
+651,2016,W,2430,304,"Tulchin, Rachel (USA)","New York, NY",7155,30-34,1:38:31,3:16:02
+652,2016,W,2443,306,"Straub, Crissy (USA)","Lexington, MA",7121,35-39,1:37:45,3:16:05
+653,2016,W,2470,308,"Marieni, Christine (USA)","Dorchester, MA",10210,30-34,1:37:43,3:16:20
+654,2016,W,2491,310,"Varzeas, Kelsey (USA)","South Chatham, MA",15631,20-24,1:32:41,3:16:35
+655,2016,W,2523,312,"Ferrer, Ivonne (USA)","Trujillo Alto, PR",1401,40-44,1:37:35,3:16:53
+656,2016,W,2534,314,"Cranfill, Katy (USA)","Irving, TX",3446,20-24,1:34:56,3:16:56
+657,2016,W,2537,316,"Pottle, Rachel (USA)","St. Charles, IL",4797,20-24,1:39:37,3:16:57
+658,2016,W,2554,318,"Gonzales, Lidia (PER)",Lima,4496,40-44,1:34:38,3:17:05
+659,2016,W,2559,320,"Priebe, Maggie (USA)","Wausau, WI",13009,25-29,1:35:46,3:17:07
+660,2016,W,2563,322,"Whiteside, Kristen (USA)","Winthrop Harbor, IL",3768,20-24,1:41:22,3:17:07
+661,2016,W,2566,324,"Spitsyna, Maria (RUS)","Moscow, Moscow",4481,25-29,1:33:45,3:17:08
+662,2016,W,2574,326,"Liu, Chunhua (CHN)","Newton, MA",10475,45-49,1:37:58,3:17:12
+663,2016,W,2590,328,"Dawkins, Erika (USA)","Houston, TX",10071,25-29,1:39:44,3:17:19
+664,2016,W,2598,330,"Lundquist, Kasia (USA)","Boulder, CO",8348,40-44,1:38:17,3:17:22
+665,2016,W,2603,332,"Volonsevich, Katia (USA)","Fairfax, VA",8288,40-44,1:38:06,3:17:23
+666,2016,W,2615,334,"Meadors, Jacqui (USA)","Sioux Falls, SD",5392,35-39,1:39:07,3:17:27
+667,2016,W,2623,336,"Haro, Lauren (USA)","Baton Rouge, LA",2592,30-34,1:39:08,3:17:29
+668,2016,W,2658,338,"Macejik, Madelyn (USA)","Chicago, IL",5371,30-34,1:39:37,3:17:46
+669,2016,W,2672,340,"Healy, Kaileen (USA)","Chicago, IL",8126,20-24,1:39:44,3:17:55
+670,2016,W,2678,342,"Abreu, Arelis (VEN)","Caracas, MIRANDA",9109,25-29,1:35:26,3:17:56
+671,2016,W,2681,344,"Brewczynski, Megan (USA)","Midlothian, IL",6288,30-34,1:37:50,3:17:56
+672,2016,W,2686,346,"Rodriguez-Ramos, Janytzabell (USA)","New Bedford, MA",4580,30-34,1:38:11,3:17:59
+673,2016,W,2693,348,"Sobczak, Karolina (POL)","Topola Osiedle, Wielkopolskie",3308,25-29,1:37:57,3:18:01
+674,2016,W,2700,350,"Jaffke, Erin (USA)","Boston, MA",9078,20-24,1:38:38,3:18:04
+675,2016,W,2702,352,"Joyce, Elizabeth (USA)","Winnetka, IL",12424,20-24,1:38:21,3:18:05
+676,2016,W,2707,354,"Yonemura, Mio (JPN)","Melrose, MA",4406,35-39,1:39:43,3:18:07
+677,2016,W,2719,356,"Bird Wallen, Jessica (USA)","Chicago, IL",553,30-34,1:30:16,3:18:10
+678,2016,W,2728,358,"Douglas, Amber (USA)","Camden, TN",7171,35-39,1:39:29,3:18:13
+679,2016,W,2759,360,"Cognetti, Catherine (USA)","New York, NY",9179,25-29,1:38:54,3:18:25
+680,2016,W,2765,362,"Mulac, Lauren (USA)","Lemont, IL",8052,25-29,1:39:00,3:18:27
+681,2016,W,2773,364,"Husted, Shannon (USA)","Boulder, CO",1897,45-49,1:40:07,3:18:29
+682,2016,W,2785,366,"Abernethy, Brogan (USA)","Miami, FL",3324,25-29,1:37:47,3:18:33
+683,2016,W,2800,368,"Collin, Claire (USA)","Hoschton, GA",7183,25-29,1:41:50,3:18:40
+684,2016,W,2803,370,"Vitale-Cumper, Giulietta (GBR)","Swindon, wiltshire",10244,50-54,1:38:04,3:18:41
+685,2016,W,2813,372,"Lengel, Jessica (USA)","Grand Terrace, CA",6122,25-29,1:37:38,3:18:46
+686,2016,W,2819,374,"Young, Lauren (USA)","Chicago, IL",9316,25-29,1:40:52,3:18:49
+687,2016,W,2825,376,"Kopelson, Alana (USA)","Cherry Hill, NJ",4761,20-24,1:37:05,3:18:50
+688,2016,W,2828,378,"Powal, Kristin (USA)","Barrington, IL",3860,25-29,1:37:50,3:18:51
+689,2016,W,2835,380,"Williams, Brooke (USA)","St. Charles, IL",497,40-44,1:41:15,3:18:53
+690,2016,W,2865,382,"Thomson, Lorna (USA)","San Francisco, CA",1376,50-54,1:37:06,3:19:06
+691,2016,W,2871,384,"Higgins, Mary (USA)","State College, PA",1045,25-29,1:33:34,3:19:09
+692,2016,W,2875,386,"Francisco, Adriana (BRA)","Sao Paulo, SP",7975,30-34,1:39:24,3:19:12
+693,2016,W,2888,388,"Lin, Nancy (USA)","Bayside, NY",7288,25-29,1:38:00,3:19:18
+694,2016,W,2890,390,"Reeves, Hilary (USA)","Skaneateles, NY",6567,30-34,1:39:27,3:19:19
+695,2016,W,2915,392,"Roybal, Robyn (USA)","Rancho Cucamonga, CA",8006,55-59,1:37:28,3:19:29
+696,2016,W,2918,394,"Myers, Allison (USA)","Jonesborough, TN",468,35-39,1:33:20,3:19:30
+697,2016,W,2923,396,"Mason Cox, Cheryl (USA)","Richmond, VA",9278,45-49,1:36:01,3:19:31
+698,2016,W,2926,398,"Stifler Ossim, Britta (USA)","Chicago, IL",16381,25-29,1:40:27,3:19:31
+699,2016,W,2946,400,"Berwick, Carly (USA)","Jersey City, NJ",9053,40-44,1:39:36,3:19:42
+700,2016,W,2956,402,"Spencer, Ashley (USA)","Lynchburg, VA",1704,25-29,1:38:01,3:19:47
+701,2016,W,2958,404,"Skaufel, Pamela (USA)","Houston, TX",6310,40-44,1:39:27,3:19:48
+702,2016,W,2967,406,"Broder, Melanie (USA)","San Francisco, CA",8333,25-29,1:40:52,3:19:50
+703,2016,W,2984,408,"Rodriguez Hernandez, Karla (MEX)","Cuautlancingo, Puebla",9133,30-34,1:37:36,3:19:56
+704,2016,W,2988,410,"Weiner, Amy (USA)","Haddonfield, NJ",5538,45-49,1:38:22,3:19:57
+705,2016,W,2998,412,"Swanson, Larissa (USA)","Beecher, IL",35806,20-24,1:38:15,3:20:02
+706,2016,W,3000,414,"Rudnik, Emma (USA)","New York, NY",11434,25-29,1:39:15,3:20:03
+707,2016,W,3004,416,"Fountain, Sarah (USA)","Boston, MA",8344,20-24,1:35:38,3:20:05
+708,2016,W,3008,418,"Hensley, Katia (USA)","Seattle, WA",10860,25-29,1:41:51,3:20:06
+709,2016,W,3020,420,"Mckenzie, Amanda (USA)","Chicago, IL",7488,25-29,1:40:52,3:20:09
+710,2016,W,3029,422,"Weisman, Jill (USA)","Chicago, IL",672,25-29,1:34:43,3:20:15
+711,2016,W,3034,424,"Alpert, Jennie (USA)","Clearwater, FL",5616,35-39,1:40:14,3:20:18
+712,2016,W,3045,426,"Evans, Joanna (USA)","Chicago, IL",7589,25-29,1:37:56,3:20:21
+713,2016,W,3048,428,"Sabbagh, Rana (USA)","Dearborn Heights, MI",7435,35-39,1:40:13,3:20:22
+714,2016,W,3060,430,"Kathol, Summer (USA)","Washington, DC",4403,30-34,1:40:02,3:20:26
+715,2016,W,3064,432,"Conroy, Jill (USA)","Waltham, MA",2668,35-39,1:41:22,3:20:29
+716,2016,W,3067,434,"Tanaka, Miho (JPN)","Boulder, CO",4801,35-39,1:39:40,3:20:30
+717,2016,W,3076,436,"Buford, Leslie (USA)","Oklahoma City, OK",6429,40-44,1:38:51,3:20:35
+718,2016,W,3079,438,"Ruberg, Ashley (USA)","Louisville, KY",5162,30-34,1:30:47,3:20:37
+719,2016,W,3088,440,"Schmittzehe, Ashley (USA)","Cape Girardeau, MO",8523,20-24,1:43:25,3:20:44
+720,2016,W,3091,442,"Lohri, Catherine (SUI)",Heiligenschwendi,5221,40-44,1:34:50,3:20:44
+721,2016,W,3105,444,"Burkholder, Jill (USA)","Arlington, VA",6321,35-39,1:42:30,3:20:51
+722,2016,W,3113,446,"Leblanc, Samantha (USA)","Medford, MA",9678,25-29,1:35:22,3:20:56
+723,2016,W,3127,448,"Duarte, Nilani (USA)","Baltimore, MD",7294,25-29,1:40:19,3:21:03
+724,2016,W,3143,450,"Ledesma, Ana (MEX)","Mexico City, Mexico City",9782,30-34,1:39:55,3:21:08
+725,2016,W,3152,452,"Schmidt, Alexandra (USA)","River Forest, IL",7467,25-29,1:37:29,3:21:12
+726,2016,W,3155,454,"Seuss, Claudia (USA)","Armonk, NY",3715,30-34,1:39:12,3:21:13
+727,2016,W,3161,456,"Jennings, Hannah (USA)","Orlando, FL",1105,35-39,1:36:20,3:21:14
+728,2016,W,3168,458,"Young, Sharon (USA)","Batesville, IN",9969,50-54,1:41:26,3:21:16
+729,2016,W,3180,460,"Lawrence, Danielle (CAN)","Toronto, ON",6141,30-34,1:37:34,3:21:22
+730,2016,W,3185,462,"Daguer, Larissa (BRA)","Itajai, SC",2841,35-39,1:37:54,3:21:26
+731,2016,W,3208,464,"Henricksen, Kitty (USA)","San Antonio, TX",627,30-34,1:31:41,3:21:39
+732,2016,W,3211,466,"Preter, Milena (BRA)","Sao Paulo, Sao Paulo",10200,35-39,1:39:21,3:21:39
+733,2016,W,3216,468,"Countryman, Jacqueline (USA)","Milwaukie, OR",12432,50-54,1:44:18,3:21:42
+734,2016,W,3220,470,"Hudak, Lauren (USA)","East Boston, MA",11362,30-34,1:38:21,3:21:43
+735,2016,W,3232,472,"Vargas Fonseca, Lorna (CRC)",San Jose,662,35-39,1:30:19,3:21:49
+736,2016,W,3237,474,"Berman, Vanda (CZE)","Chicago, IL",8093,35-39,1:38:26,3:21:52
+737,2016,W,3245,476,"Abrahams, Maisha (CAN)","Toronto, ON",5915,40-44,1:38:13,3:21:58
+738,2016,W,3247,478,"Gast, Jackie (USA)","Ferndale, MI",11013,25-29,1:35:36,3:21:58
+739,2016,W,3256,480,"Siliphayvanh, Manoly (FRA)",Vitry Sur Seine,7283,35-39,1:37:24,3:22:03
+740,2016,W,3266,482,"Bollerslev, Nico (USA)","New York, NY",9035,25-29,1:37:39,3:22:07
+741,2016,W,3284,484,"Finelli, Lauren (USA)","Portsmouth, NH",1510,40-44,1:39:05,3:22:14
+742,2016,W,3295,486,"Heyer, Sharon (USA)","Circle Pines, MN",9220,25-29,1:36:23,3:22:17
+743,2016,W,3324,488,"Legernes, Laura (USA)","Chicaog, IL",6070,35-39,1:42:20,3:22:34
+744,2016,W,3337,490,"Tupper, Ellie (USA)","Woodbury, MN",1930,20-24,1:39:12,3:22:40
+745,2016,W,3347,492,"Wharram, Sydnee (USA)","Morton, IL",1631,16-19,1:41:46,3:22:44
+746,2016,W,3354,494,"Blaine, Casey (USA)","Boulder, CO",9148,45-49,1:40:26,3:22:48
+747,2016,W,3379,496,"Montague, Jessica (USA)","Kearney, MO",8442,25-29,1:40:54,3:22:58
+748,2016,W,3389,498,"Streelman, Michelle (USA)","Byron Center, MI",5547,45-49,1:37:09,3:23:00
+749,2016,W,3391,500,"Glover, Ashley (USA)","Savannah, GA",6360,35-39,1:41:21,3:23:02
+750,2016,W,3397,502,"Browne, Emma (GBR)","St Ives, Cambs",7520,45-49,1:43:00,3:23:04
+751,2016,W,3405,504,"Drennan, Laura (CAN)","Calgary, AB",11077,30-34,1:39:59,3:23:08
+752,2016,W,3410,506,"Lee-Callaghan, Heather (CAN)","Timberlea, NS",5517,30-34,1:40:11,3:23:11
+753,2016,W,3426,508,"Gomez, Claudia (CHI)",Temuco,8459,40-44,1:41:44,3:23:17
+754,2016,W,3429,510,"Gomes, Ligia Adriane (BRA)","Belo Horizonte, Minas Gerais",5607,50-54,1:42:19,3:23:18
+755,2016,W,3433,512,"Moyao, Irma (USA)","Monrovia, CA",7412,40-44,1:39:58,3:23:21
+756,2016,W,3436,514,"Richards, Kimberly (USA)","Dallas, TX",8398,35-39,1:41:12,3:23:22
+757,2016,W,3453,516,"Araujo, Daniela (VEN)","Panama City, panama",13206,30-34,1:36:52,3:23:27
+758,2016,W,3459,518,"Fox, Lee (USA)","Lawrenceburg, IN",5209,45-49,1:41:21,3:23:30
+759,2016,W,3466,520,"Rigot, Emmanuelle (FRA)",Paris,2002,40-44,1:40:29,3:23:32
+760,2016,W,3475,522,"Bohn, Sarah (USA)","Richmond, VA",17747,25-29,1:42:40,3:23:36
+761,2016,W,3478,524,"Mayweather, Jacqueline (USA)","Darien, IL",7085,30-34,1:36:02,3:23:36
+762,2016,W,3482,526,"Fortier, Cheryl (USA)","Roxbury, MA",4819,30-34,1:35:49,3:23:37
+763,2016,W,3488,528,"Macioce, Katherine (USA)","Pittsburgh, PA",948,25-29,1:39:01,3:23:42
+764,2016,W,3493,530,"Siqueira, Alessandra (BRA)","Rio De Janeiro, RJ",4588,40-44,1:39:28,3:23:46
+765,2016,W,3501,532,"Armbruster, Madison (USA)","Mason, OH",1622,16-19,1:42:42,3:23:51
+766,2016,W,3509,534,"Collins, Keri (USA)","Liberty Lake, WA",10169,45-49,1:38:47,3:23:55
+767,2016,W,3524,536,"Mendez Mejia, Paola (COL)",Bogota,3491,20-24,1:40:49,3:23:59
+768,2016,W,3532,538,"Otalora-Fadner, Hannah (USA)","Chicago, IL",4638,25-29,1:42:54,3:24:02
+769,2016,W,3540,540,"Lopez, Almudena (MEX)","Puebla, Puebla",3882,25-29,1:42:45,3:24:03
+770,2016,W,3552,542,"Lam, Sandy (USA)","Franklin, IN",7287,20-24,1:39:19,3:24:08
+771,2016,W,3556,544,"Li, Zhanqing (USA)","Houston, TX",13271,45-49,1:40:59,3:24:09
+772,2016,W,3560,546,"Becker, Sarna (USA)","Federal Way, WA",6499,40-44,1:40:36,3:24:09
+773,2016,W,3565,548,"Ramos, Domenica (ECU)","New York, NY",7455,30-34,1:42:46,3:24:12
+774,2016,W,3569,550,"Chen, Xi (USA)","Medfield, MA",6551,25-29,1:42:08,3:24:14
+775,2016,W,3573,552,"Rosenwinkel, Sarah (USA)","Chicago, IL",15182,25-29,1:40:18,3:24:16
+776,2016,W,3592,554,"Manley, Janet (CAN)","Toronto, ON",6326,40-44,1:43:59,3:24:22
+777,2016,W,3607,556,"Sokolowski, Jessica (USA)","Darien, IL",6569,35-39,1:42:32,3:24:25
+778,2016,W,3612,558,"Rapp, Kathryn (USA)","St. Louis, MO",8316,45-49,1:42:30,3:24:26
+779,2016,W,3615,560,"Bravo, Patricia (CAN)","Calgary, AB",6468,30-34,1:42:34,3:24:27
+780,2016,W,3631,562,"Paucar, Adriana (COL)",Bogota,11378,40-44,1:42:08,3:24:33
+781,2016,W,3642,564,"Farrington, Nicole (USA)","Washington, DC",5532,25-29,1:42:30,3:24:36
+782,2016,W,3654,566,"Naylon, Jordyn (USA)","Liverpool, NY",3205,25-29,1:37:40,3:24:38
+783,2016,W,3656,568,"Desa, Van (USA)","Chicago, IL",54667,30-34,1:41:34,3:24:38
+784,2016,W,3676,570,"Lauritsen, Jenny (USA)","Bettendorf, IA",10353,30-34,1:42:06,3:24:43
+785,2016,W,3681,572,"Goedegebuure, Erica (NED)",Oss,4783,45-49,1:40:02,3:24:44
+786,2016,W,3686,574,"Hayes, Stephanie (USA)","Mt. Airy, MD",53015,30-34,1:41:27,3:24:47
+787,2016,W,3689,576,"Pearson, Mary Scott (USA)","Homewood, AL",5643,35-39,1:42:15,3:24:48
+788,2016,W,3701,578,"Brunner, Kelcy (USA)","Huntsville, AL",10770,25-29,1:42:11,3:24:51
+789,2016,W,3703,580,"Semanchik, Nicole (USA)","Milford, CT",7892,35-39,1:41:17,3:24:53
+790,2016,W,3708,582,"Hytken, Rachel (USA)","Dallas, TX",13239,30-34,1:39:55,3:24:54
+791,2016,W,3719,584,"Smylie, Sara (USA)","Winnetka, IL",8321,35-39,1:40:30,3:24:57
+792,2016,W,3727,586,"Loftus, Kelsey (USA)","Carpentersville, IL",9971,25-29,1:42:14,3:25:00
+793,2016,W,3734,588,"Lubetsky, Caryn (USA)","Miami Shores, FL",1186,45-49,1:41:56,3:25:02
+794,2016,W,3746,590,"Hynes, Melanie (USA)","New Port Richey, FL",7177,35-39,1:38:54,3:25:07
+795,2016,W,3750,592,"Foster, Caitlin (USA)","Plainfield, IL",5369,40-44,1:38:06,3:25:07
+796,2016,W,3753,594,"Dabler, Colleen (USA)","Osceola, IN",8098,40-44,1:40:58,3:25:08
+797,2016,W,3760,596,"Radnitzer, Rachel (USA)","New York, NY",9796,25-29,1:41:37,3:25:11
+798,2016,W,3773,598,"Watters, Arianna (USA)","Glenside, PA",5605,25-29,1:39:58,3:25:15
+799,2016,W,3779,600,"Joyce, Stacey (USA)","Mountain Lakes, NJ",6597,40-44,1:42:51,3:25:18
+800,2016,W,3783,602,"Quinones, Karin (USA)","Dallas, TX",7013,40-44,1:43:15,3:25:19
+801,2016,W,3786,604,"Tonnu, Xuanhuong (Song) (USA)","Folsom, CA",6644,40-44,1:42:23,3:25:20
+802,2016,W,3796,606,"Gaster, Breanna (USA)","Walford, IA",15103,20-24,1:41:18,3:25:23
+803,2016,W,3800,608,"Soccorso, Angie (USA)","Wauconda, IL",6178,40-44,1:39:48,3:25:24
+804,2016,W,3805,610,"Kolbut, Iwona (POL)","Krakow, malopolskie",4550,25-29,1:39:29,3:25:26
+805,2016,W,3824,612,"Lobaciute, Ieva (LTU)","London, England",9017,30-34,1:40:30,3:25:36
+806,2016,W,3836,614,"Wong, Sammy (USA)","Grayslake, IL",1583,20-24,1:39:24,3:25:40
+807,2016,W,3843,616,"Wheeler, Kelly (USA)","Waverly, OH",9503,30-34,1:41:30,3:25:44
+808,2016,W,3846,618,"Melton, Catherine (USA)","Portland, OR",7514,30-34,1:39:16,3:25:45
+809,2016,W,3857,620,"Spaulding, Tracy (USA)","Moon Township, PA",9063,40-44,1:39:50,3:25:50
+810,2016,W,3860,622,"Riffle, Emily (USA)","Washington, DC",5183,30-34,1:42:38,3:25:51
+811,2016,W,3864,624,"Ye, Lily Huai (USA)","Atlanta, GA",5179,35-39,1:38:08,3:25:52
+812,2016,W,3872,626,"Davis, Jill (USA)","Louisville, KY",7541,30-34,1:44:04,3:25:54
+813,2016,W,3880,628,"Moreno, Valerie (SUI)",Epalinges,7571,50-54,1:44:07,3:25:56
+814,2016,W,3883,630,"Mullen, Rachel (USA)","Chicago, IL",4108,35-39,1:33:27,3:25:57
+815,2016,W,3896,632,"Wilson, Taylor (USA)","Midland, TX",8593,25-29,1:41:03,3:26:01
+816,2016,W,3906,634,"Chan, Wai Fong (HKG)","Kwai Chung, N.T., NA",13043,40-44,1:39:53,3:26:04
+817,2016,W,3915,636,"Cales, Shaina (USA)","Washington, DC",11224,25-29,1:41:06,3:26:04
+818,2016,W,3926,638,"Paez Stelzner, Lucy (USA)","New York, NY",5424,30-34,1:36:08,3:26:09
+819,2016,W,3928,640,"Mccoy, Claudia (USA)","Trinity, FL",8149,40-44,1:41:31,3:26:10
+820,2016,W,3930,642,"Mikesell, Sarah (USA)","Milwaukee, WI",11720,25-29,1:41:49,3:26:11
+821,2016,W,3941,644,"Fitzgerald, Kellen (USA)","Bedford, NH",6400,25-29,1:40:09,3:26:14
+822,2016,W,3955,646,"Boll, Julie (USA)","Nashville, TN",4740,30-34,1:40:21,3:26:19
+823,2016,W,3962,648,"Sicienski, Katherine (USA)","Oakland, CA",8287,25-29,1:39:34,3:26:23
+824,2016,W,3966,650,"Roberts, Mary (USA)","Austin, TX",10461,30-34,1:40:53,3:26:24
+825,2016,W,3968,652,"Watson, Michelle (USA)","Sherwood, OR",886,35-39,1:41:35,3:26:24
+826,2016,W,3973,654,"Kirker, Kelsey (USA)","New York, NY",11079,25-29,1:39:35,3:26:26
+827,2016,W,3978,656,"Chaladovsky, Vanessa (BRA)","Scarsdale, NY",4618,40-44,1:40:54,3:26:29
+828,2016,W,3986,658,"Lopez, Maria (USA)","Tampa, FL",7543,30-34,1:42:03,3:26:36
+829,2016,W,3990,660,"Chase, Holly (USA)","Brooklyn, NY",7391,30-34,1:44:32,3:26:37
+830,2016,W,3993,662,"Hird, Mary Ellen (USA)","Naperville, IL",7228,30-34,1:40:46,3:26:38
+831,2016,W,4001,664,"Lee, Joann (USA)","Boston, MA",6107,25-29,1:43:42,3:26:45
+832,2016,W,4004,666,"Blau, Kelly (USA)","Odessa, TX",7866,40-44,1:41:01,3:26:46
+833,2016,W,4014,668,"Conly Gozal, Shannon (USA)","Dallas, TX",9221,30-34,1:39:17,3:26:50
+834,2016,W,4024,670,"Villeda, Maria (GUA)",Guatemala City,11768,30-34,1:41:47,3:26:54
+835,2016,W,4026,672,"Adams, Rosalind (USA)","New York, NY",3375,30-34,1:44:15,3:26:55
+836,2016,W,4045,674,"Louthan, Meg Pond (USA)","Chicago, IL",9929,45-49,1:41:55,3:26:59
+837,2016,W,4057,676,"Lancaster, Tessa (USA)","Buffalo Grove, IL",7967,20-24,1:44:57,3:27:05
+838,2016,W,4061,678,"Hein, Meredith (USA)","Cincinnati, OH",3833,25-29,1:42:48,3:27:07
+839,2016,W,4064,680,"Sotelo, Rachel (USA)","Chicago, IL",4758,25-29,1:44:21,3:27:07
+840,2016,W,4080,682,"Caldon, Loren (TRI)","Queens Village, NY",1744,40-44,1:43:48,3:27:11
+841,2016,W,4090,684,"Mandeville, Heather (USA)","Jacksonville Beach, FL",13035,35-39,1:38:58,3:27:13
+842,2016,W,4095,686,"Knepper, Amy (USA)","New York, NY",3489,40-44,1:38:13,3:27:14
+843,2016,W,4100,688,"Azzaretti, Tara (USA)","Chicago, IL",8553,25-29,1:44:06,3:27:15
+844,2016,W,4105,690,"Northup, Natalie (USA)","Chicago, IL",4471,20-24,1:38:13,3:27:16
+845,2016,W,4112,692,"Horton, Lucy (USA)","San Diego, CA",5751,30-34,1:43:53,3:27:19
+846,2016,W,4118,694,"Turpin, Caroline (USA)","Philadelphia, PA",12399,20-24,1:42:06,3:27:21
+847,2016,W,4123,696,"Dissing, Malene (DEN)","Amager, Copenhagen S",8009,40-44,1:41:41,3:27:22
+848,2016,W,4126,698,"Makowski, Sara (USA)","West Babylon, NY",10598,25-29,1:44:24,3:27:23
+849,2016,W,4131,700,"O'Keefe, Meg (USA)","Chicago, IL",10408,20-24,1:45:55,3:27:24
+850,2016,W,4140,702,"Revels, Shannon (USA)","Jacksonville, FL",4495,30-34,1:40:57,3:27:27
+851,2016,W,4148,704,"Sparrow, Stephanie (USA)","Pittsburgh, PA",4585,25-29,1:41:01,3:27:29
+852,2016,W,4160,706,"Vaughn, Julia (USA)","Brooklyn, NY",7385,30-34,1:43:14,3:27:32
+853,2016,W,4165,708,"Jimenez, Lorenza (MEX)","Atizapan, Mexico",9102,45-49,1:39:40,3:27:34
+854,2016,W,4168,710,"Prince, Akiko (JPN)","Wolverine Lake, MI",4343,40-44,1:43:29,3:27:34
+855,2016,W,4172,712,"Broughel, Nancy (USA)","Glen Rock, NJ",7354,50-54,1:43:50,3:27:35
+856,2016,W,4176,714,"Coyne, Alice (USA)","Chicago, IL",3946,20-24,1:44:19,3:27:36
+857,2016,W,4187,716,"Potts, Amanda (USA)","Conway, AR",1861,35-39,1:42:42,3:27:37
+858,2016,W,4192,718,"Chandler, Ainslie (AUS)","New York, NY",7574,30-34,1:43:42,3:27:38
+859,2016,W,4202,720,"Pelster, Sonja (GER)",München,11016,35-39,1:39:51,3:27:43
+860,2016,W,4209,722,"Slomka, Natalie (CAN)","Toronto, ON",9436,30-34,1:43:38,3:27:44
+861,2016,W,4211,724,"Huml, Marianne (USA)","Wheaton, IL",3502,60-64,1:41:20,3:27:46
+862,2016,W,4217,726,"Shao, Xin (USA)","Fremont, CA",6511,40-44,1:42:51,3:27:46
+863,2016,W,4239,728,"Palmer, Lori (USA)","Pine Valley, CA",7401,55-59,1:42:03,3:27:52
+864,2016,W,4249,730,"Diimig, Caitlyn (USA)","Des Moines, IA",8467,25-29,1:44:03,3:27:56
+865,2016,W,4258,732,"Felicelli, Kathleen (USA)","Long Grove, IL",819,20-24,1:35:25,3:27:58
+866,2016,W,4260,734,"Schuler, Kathleen (USA)","Gladstone, MO",3748,45-49,1:43:00,3:27:58
+867,2016,W,4273,736,"Hartford, Nicole (USA)","Chesterton, IN",9780,30-34,1:45:14,3:28:01
+868,2016,W,4282,738,"Sitch, Julianne (USA)","Chicago, IL",6462,30-34,1:44:42,3:28:04
+869,2016,W,4285,740,"Sheldon, Rachel (USA)","Ames, IA",5853,25-29,1:42:03,3:28:06
+870,2016,W,4291,742,"Kryvdyk, Marta (UKR)","Chicago, IL",20604,20-24,1:43:24,3:28:08
+871,2016,W,4297,744,"Gaffney, Erin (USA)","Mount Pleasant, SC",2747,25-29,1:43:50,3:28:10
+872,2016,W,4304,746,"Golen, Jessica (USA)","Shelton, CT",3366,25-29,1:37:45,3:28:12
+873,2016,W,4307,748,"Jankowski, Alexandra (USA)","Livonia, MI",6529,25-29,1:43:00,3:28:13
+874,2016,W,4316,750,"Dang, Susan (USA)","West Hartford, CT",10413,30-34,1:40:43,3:28:17
+875,2016,W,4321,752,"Paniagua, Marines (USA)","New York, NY",10013,25-29,1:42:46,3:28:18
+876,2016,W,4325,754,"Gazes, Carla (USA)","Chicago, IL",7840,40-44,1:42:08,3:28:19
+877,2016,W,4328,756,"Huwe, Jennifer (USA)","Chattanooga, TN",2803,25-29,1:44:26,3:28:21
+878,2016,W,4331,758,"Chintala, Jennifer (USA)","Geneva, IL",3524,35-39,1:43:15,3:28:21
+879,2016,W,4338,760,"Spinelli, Camila (BRA)","Windermere, FL",6572,40-44,1:42:16,3:28:23
+880,2016,W,4345,762,"Oliveira, Valdereys (BRA)","Recife, PE",7408,45-49,1:41:22,3:28:24
+881,2016,W,4349,764,"Da Rosa, Marilene (ANT)","Curitiba, Parana",6991,45-49,1:43:42,3:28:25
+882,2016,W,4354,766,"Long, Corey (USA)","Louisville, KY",7599,25-29,1:45:28,3:28:27
+883,2016,W,4359,768,"Kostrikin, Courtney (USA)","San Luis Obispo, CA",6550,25-29,1:39:08,3:28:28
+884,2016,W,4364,770,"Caloia, Chelsea (USA)","Austin, TX",1293,25-29,1:46:08,3:28:29
+885,2016,W,4372,772,"Stoner, Amy (USA)","Noblesville, IN",5566,35-39,1:42:27,3:28:33
+886,2016,W,4382,774,"Blochowiak, Casey (USA)","Saint Francis, WI",9645,35-39,1:41:09,3:28:35
+887,2016,W,4403,776,"Stickler, Carol (GBR)","New York, NY",7050,45-49,1:42:27,3:28:40
+888,2016,W,4407,778,"Dearlove, Brady (USA)","Chicago, IL",46589,20-24,1:36:30,3:28:40
+889,2016,W,4411,780,"Poirier, Isabelle (CAN)","Prevost, QC",11025,40-44,1:41:58,3:28:41
+890,2016,W,4413,782,"Gingrich, Jill (USA)","Mechanicsburg, PA",8549,35-39,1:44:10,3:28:42
+891,2016,W,4427,784,"Harris, Maegan (USA)","Aurora, IL",8532,35-39,1:41:04,3:28:46
+892,2016,W,4432,786,"Flores, Paulina (MEX)","Puebla, puebla",7501,30-34,1:43:40,3:28:47
+893,2016,W,4443,788,"Scarth, Morgan (USA)","Redding, CT",1842,20-24,1:45:18,3:28:52
+894,2016,W,4451,790,"Munsayac, Julie (USA)","San Francisco, CA",8047,35-39,1:43:51,3:28:53
+895,2016,W,4454,792,"Gilchrist, Lindsay (USA)","Strongsville, OH",11255,25-29,1:40:22,3:28:54
+896,2016,W,4462,794,"Phillips, Tiffany (USA)","Denver, CO",6590,45-49,1:44:10,3:28:57
+897,2016,W,4469,796,"Myatt, Marketa (CAN)","London, ON",5584,40-44,1:43:49,3:28:58
+898,2016,W,4476,798,"Bowe, Wendy (USA)","Middleton, WI",9401,40-44,1:42:12,3:29:00
+899,2016,W,4484,800,"Huerta, Leilani (MEX)","Half Moon Bay, CA",7100,30-34,1:44:09,3:29:02
+900,2016,W,4492,802,"Boyd, Helen-Louise (AUS)","Waverley, NSW",9066,30-34,1:37:02,3:29:05
+901,2016,W,4509,804,"Weiss, Candice (USA)","New Milford, CT",2587,20-24,1:44:25,3:29:09
+902,2016,W,4515,806,"Elliott, Delaney (USA)","Portland, OR",10483,25-29,1:44:16,3:29:11
+903,2016,W,4521,808,"Rehm, Kris (USA)","Nashville, TN",2734,40-44,1:41:46,3:29:12
+904,2016,W,4524,810,"Almeida Esteves, Sara (POR)","New York, NY",2860,30-34,1:41:26,3:29:13
+905,2016,W,4530,812,"Weidner, Amanda (USA)","Evanston, IL",9844,20-24,1:45:45,3:29:15
+906,2016,W,4550,814,"Zwicker, Stephanie (USA)","Saint Louis, MO",6875,35-39,1:44:27,3:29:18
+907,2016,W,4558,816,"Garies, Taylor (USA)","Lenexa, KS",5771,20-24,1:36:50,3:29:19
+908,2016,W,4565,818,"Asgeirsson, Amanda (USA)","Washington, DC",4843,25-29,1:39:43,3:29:20
+909,2016,W,4574,820,"Harvey, Holly (USA)","Chicago, IL",17469,25-29,1:42:39,3:29:21
+910,2016,W,4578,822,"Hynes, Heather (CAN)","Canmore, AB",8196,40-44,1:44:18,3:29:23
+911,2016,W,4584,824,"Mcquade, Lindsey (CAN)","Chicago, IL",21621,35-39,1:39:48,3:29:24
+912,2016,W,4596,826,"Lewis, Michaela (USA)","West Lafayette, IN",1602,20-24,1:44:00,3:29:26
+913,2016,W,4599,828,"Olvera, Lorena (MEX)","Mexico City, estado de mexico",24088,30-34,1:41:48,3:29:26
+914,2016,W,4606,830,"Dibrita, Stephanie (USA)","Rutherford, NJ",7534,25-29,1:44:01,3:29:28
+915,2016,W,4617,832,"Dragojlovic, Kelly (USA)","Glendale, CA",14389,50-54,1:44:17,3:29:30
+916,2016,W,4623,834,"Sankey, Rebecca (AUS)","New York, NY",3548,30-34,1:40:58,3:29:31
+917,2016,W,4631,836,"Pan, Chenting (CHN)","Shanghai, SHANGHAI",6053,35-39,1:37:43,3:29:34
+918,2016,W,4635,838,"Ebinger, Christine (USA)","Chicago, IL",8429,25-29,1:43:06,3:29:35
+919,2016,W,4637,840,"Henricks, Andrea (USA)","Chicago, IL",13953,25-29,1:44:16,3:29:35
+920,2016,W,4641,842,"Garcia Guazo, Marisol (MEX)","Ciudad De Mexico, CDMX",8924,40-44,1:45:28,3:29:36
+921,2016,W,4648,844,"Rodriguez, Gabriela (CRC)",San Jose,5879,30-34,1:41:15,3:29:37
+922,2016,W,4658,846,"Xiao, Wenqin (CHN)","Long Island City, NY",11750,25-29,1:41:20,3:29:41
+923,2016,W,4661,848,"Shiroishi, Molly (USA)","Renton, WA",9423,20-24,1:40:49,3:29:41
+924,2016,W,4668,850,"Holzmann, Christine (GER)",Freiburg,2816,45-49,1:43:16,3:29:44
+925,2016,W,4685,852,"White, Annette (USA)","Arlington Heights, IL",20006,20-24,1:46:19,3:29:48
+926,2016,W,4708,854,"Abrams, Jennifer (USA)","Paoli, PA",26656,30-34,1:41:18,3:29:53
+927,2016,W,4712,856,"Dowd, Sarah (USA)","Salem, MA",6496,25-29,1:45:02,3:29:54
+928,2016,W,4721,858,"Oikawa, Joyce (BRA)","New York, NY",6405,30-34,1:45:35,3:29:56
+929,2016,W,4737,860,"Ortiz, Stacy (USA)","Springboro, OH",2798,40-44,1:43:01,3:30:02
+930,2016,W,4740,862,"Glavin, Maggie (USA)","Hinsdale, IL",6449,20-24,1:40:36,3:30:05
+931,2016,W,4746,864,"Cabral, Asya (USA)","Pompano Beach, FL",6570,40-44,1:41:12,3:30:06
+932,2016,W,4752,866,"Andrzejewski, Lauren (USA)","Chicago, IL",1745,25-29,1:41:44,3:30:08
+933,2016,W,4762,868,"Kwon, Lanna (USA)","Charlotte, NC",13751,35-39,1:48:13,3:30:13
+934,2016,W,4766,870,"Clymer, Kate (USA)","Chicago, IL",16516,30-34,1:43:09,3:30:14
+935,2016,W,4772,872,"Paraboschi, Nicole (USA)","Chicago, IL",6664,20-24,1:41:11,3:30:16
+936,2016,W,4777,874,"Johnson, Margaret (USA)","Chicago, IL",10825,25-29,1:43:48,3:30:18
+937,2016,W,4785,876,"Kelly, Caryn (USA)","Edina, MN",5564,40-44,1:43:15,3:30:21
+938,2016,W,4789,878,"Shawhan, Mary (USA)","Fulton, MD",5791,20-24,1:42:52,3:30:22
+939,2016,W,4798,880,"Quaresma, Katelyn (USA)","San Diego, CA",8906,30-34,1:42:44,3:30:24
+940,2016,W,4801,882,"Macias, Nicolle (USA)","Chicago, IL",1641,30-34,1:40:37,3:30:26
+941,2016,W,4804,884,"Miglis, Cristina (USA)","Chicago, IL",6582,30-34,1:40:13,3:30:28
+942,2016,W,4813,886,"Blaze, Erin (USA)","Evanston, IL",8313,30-34,1:39:57,3:30:31
+943,2016,W,4819,888,"San Roman, Tracy (USA)","Chicago, IL",29735,45-49,1:40:36,3:30:33
+944,2016,W,4825,890,"O'Leary, Marie (USA)","St Louis, MO",21434,25-29,1:44:43,3:30:34
+945,2016,W,4829,892,"Brown, Theresa (USA)","Highland Park, IL",6498,35-39,1:44:47,3:30:35
+946,2016,W,4833,894,"Eberle, Morgan (USA)","Peoria, IL",6772,20-24,1:46:25,3:30:37
+947,2016,W,4837,896,"Bunting, Julie (USA)","Tulsa, OK",2655,25-29,1:42:19,3:30:39
+948,2016,W,4845,898,"Liu, Xiangling (CHN)","Shenzhen, Guangdong",5213,25-29,1:39:33,3:30:42
+949,2016,W,4861,900,"Neil, Catherine (USA)","New York, NY",8823,30-34,1:45:50,3:30:49
+950,2016,W,4866,902,"French, Jennifer (USA)","Camden, TN",10272,30-34,1:39:45,3:30:51
+951,2016,W,4869,904,"Van Der Wouden, Merel (NED)","Toronto, ON",7507,25-29,1:47:10,3:30:52
+952,2016,W,4876,906,"Mcparlan, Katie (CAN)","Toronto, ON",8094,30-34,1:42:20,3:30:53
+953,2016,W,4887,908,"Bottitta, Lauren (USA)","Hoboken, NJ",6750,25-29,1:45:37,3:30:56
+954,2016,W,4889,910,"Mitz, Rachel (USA)","Chicago, IL",16327,30-34,1:42:27,3:30:56
+955,2016,W,4893,912,"Parry, Kristen (CAN)","London, ON",9878,40-44,1:45:46,3:30:57
+956,2016,W,4899,914,"Stone, Carolyn (USA)","Iowa City, IA",10914,20-24,1:44:45,3:30:58
+957,2016,W,4901,916,"Jefferson, Megyn (USA)","Savannah, GA",9959,30-34,1:42:20,3:30:59
+958,2016,W,4906,918,"Thayer, Ashley (USA)","Winthrop, NY",4034,20-24,1:37:47,3:31:00
+959,2016,W,4909,920,"Weinstein, Laura (USA)","Maynard, MA",3685,25-29,1:43:05,3:31:01
+960,2016,W,4912,922,"Depaoli Brower, Mary-Jo (USA)","Hicksville, NY",9856,40-44,1:45:15,3:31:04
+961,2016,W,4916,924,"Griffin, Kristen (USA)","Milwaukee, WI",12122,25-29,1:44:24,3:31:05
+962,2016,W,4918,926,"Lafuente, Beatriz (ESP)","London, Greater London",4539,30-34,1:41:52,3:31:06
+963,2016,W,4930,928,"Wirfs, Lauran (USA)","Westmont, IL",10592,25-29,1:43:25,3:31:08
+964,2016,W,4932,930,"Meck, Janelle (USA)","New York, NY",9705,25-29,1:46:18,3:31:10
+965,2016,W,4941,932,"Fischer, Beckie (USA)","Chicago, IL",10727,35-39,1:44:20,3:31:12
+966,2016,W,4948,934,"Ayastuy, Carolina (ARG)",Guatemala,8199,45-49,1:42:21,3:31:13
+967,2016,W,4950,936,"Gumbleton, Helen (GBR)","Bath, Somerset",12108,40-44,1:42:30,3:31:14
+968,2016,W,4956,938,"Hoover, Sarah (USA)","Mcminnville, TN",9595,30-34,1:43:17,3:31:14
+969,2016,W,4959,940,"Ganshirt, Lauren (USA)","Chicago, IL",11981,20-24,1:44:54,3:31:15
+970,2016,W,4964,942,"Palkert, Jessica (USA)","Chicago, IL",21776,25-29,1:41:34,3:31:16
+971,2016,W,4976,944,"Moreno, Daniela (VEN)","San Francisco, CA",6982,20-24,,3:31:19
+972,2016,W,4980,946,"Nason, Ellen (USA)","Boston, MA",14192,30-34,1:45:48,3:31:20
+973,2016,W,4983,948,"Arenales, Milady (USA)","Los Angeles, CA",13226,30-34,1:42:21,3:31:21
+974,2016,W,4989,950,"Morris, Janice (CAN)","Toronto, ON",16527,35-39,1:46:19,3:31:23
+975,2016,W,4995,952,"Connerty, Kendall (USA)","Hanover, MA",1624,35-39,1:45:07,3:31:25
+976,2016,W,4997,954,"Dennis, Charlotte (USA)","Boston, MA",4800,25-29,1:44:40,3:31:27
+977,2016,W,5001,956,"Lenz, Rita (GER)",Cologne,3959,50-54,1:44:31,3:31:29
+978,2016,W,5006,958,"Forstey, Melinda (USA)","San Diego, CA",16961,30-34,1:43:14,3:31:29
+979,2016,W,5017,960,"Orellana, Ana (MEX)","Zapopan, Jalisco",10407,25-29,1:44:16,3:31:35
+980,2016,W,5021,962,"Scharen, Danielle (USA)","Cary, NC",17324,20-24,1:45:22,3:31:39
+981,2016,W,5028,964,"Chen, Ke (CHN)","Chicago, IL",7509,30-34,1:46:32,3:31:41
+982,2016,W,5033,966,"Orlova, Aleksandra (RUS)","Chicago, IL",8488,30-34,1:45:48,3:31:42
+983,2016,W,5046,968,"Schwartz, Erika (USA)","Charlottesville, VA",14734,25-29,1:42:46,3:31:46
+984,2016,W,5051,970,"Knutson, Andrea (USA)","Lancaster, WI",9836,20-24,1:47:05,3:31:48
+985,2016,W,5053,972,"Cortes, Maria Clara (MEX)","San Andres Cholula, PUEBLA",10730,40-44,1:45:53,3:31:48
+986,2016,W,5056,974,"Breedyk, Arielle (USA)","New York City, NY",11900,20-24,1:44:06,3:31:49
+987,2016,W,5064,976,"Wagner, Jill (USA)","Sullivan, MO",10628,35-39,1:45:36,3:31:51
+988,2016,W,5068,978,"Taylor, Ruth (USA)","Frederick, MD",7581,45-49,1:47:14,3:31:52
+989,2016,W,5072,980,"Huang, Elena (USA)","Chicago, IL",21985,20-24,1:46:41,3:31:52
+990,2016,W,5075,982,"Chaffin, Jennifer (USA)","Brentwood, TN",2636,35-39,1:47:19,3:31:53
+991,2016,W,5077,984,"Baxter, Margo (USA)","Madison, WI",10446,35-39,1:42:53,3:31:53
+992,2016,W,5087,986,"Hoehner, Jenna (USA)","Bowling Green, OH",11145,25-29,1:35:30,3:31:57
+993,2016,W,5092,988,"Guerrero, Silvia (CHI)",Santiago,7127,40-44,1:40:25,3:31:59
+994,2016,W,5100,990,"Bahl, Jennifer (USA)","Wyoming, IA",3962,35-39,1:43:31,3:32:02
+995,2016,W,5106,992,"Johnston, Jamie (USA)","Mont Belvieu, TX",12261,35-39,1:41:52,3:32:04
+996,2016,W,5109,994,"Medina, Ana (USA)","Northville, MI",3708,35-39,1:42:45,3:32:05
+997,2016,W,5116,996,"Szyzdek, Agnieszka (USA)","Worth, IL",13642,40-44,1:43:54,3:32:07
+998,2016,W,5123,998,"Penicka, Carla (USA)","Chicago, IL",3930,25-29,1:44:49,3:32:08
+999,2016,W,5133,1000,"Ospina, Carolina (COL)",Bogota,7675,35-39,1:42:28,3:32:10

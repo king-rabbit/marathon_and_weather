@@ -1,0 +1,1001 @@
+,year,gender,place,place_gender,name,city,bib,division,half,finish
+0,2015,M,1,1,"Chumba, Dickson (KEN)",,3,25-29,1:05:13,2:09:25
+1,2015,M,3,3,"Ndungu, Sammy (KEN)",,10,25-29,1:05:13,2:10:06
+2,2015,M,5,5,"Puskedra, Luke (USA)",,18,25-29,1:05:14,2:10:24
+3,2015,M,7,7,"Kibet, Elkanah (USA)","Benton, IL",36,25-29,1:05:13,2:11:31
+4,2015,M,9,9,"Kuma, Abera (ETH)",,7,25-29,1:05:13,2:13:44
+5,2015,M,11,11,"Adams, Liam (AUS)",,16,25-29,1:05:53,2:16:29
+6,2015,M,13,13,"Wietecha, Scott (USA)",,23,30-34,1:07:52,2:17:02
+7,2015,M,15,15,"Migliozzi, Tony (USA)",,25,25-29,1:07:52,2:17:44
+8,2015,M,17,17,"Ripley, Zach (USA)","Rockford, MI",468,25-29,1:09:09,2:18:26
+9,2015,M,19,19,"Shaw, Ethan (USA)",,24,25-29,1:07:52,2:19:33
+10,2015,M,21,21,"Yoshii, Satoshi (JPN)",,12,30-34,1:05:53,2:20:33
+11,2015,M,23,23,"Bohach, Adam (USA)","Decorah, IA",76,30-34,1:08:49,2:20:58
+12,2015,M,25,25,"Havel, Kevin (USA)","Chicago, IL",416,25-29,1:08:48,2:21:57
+13,2015,M,27,27,"Jermann, Tyler (USA)","Flagstaff, AZ",488,20-24,1:09:09,2:22:26
+14,2015,M,29,29,"Mull, Brandon (USA)","Chicago, IL",29,25-29,1:09:08,2:22:54
+15,2015,M,31,31,"McGuire, Ryan (USA)","Middleburg, PA",476,30-34,1:08:48,2:23:18
+16,2015,M,34,33,"Pannone, Christopher (USA)",,27,25-29,1:09:16,2:23:38
+17,2015,M,37,35,"Peters, Nathan (USA)","Salt Lake City, UT",85,25-29,1:09:10,2:24:02
+18,2015,M,39,37,"Varela, Jonnathan (CRC)",San Jose,9115,35-39,1:09:21,2:24:13
+19,2015,M,43,39,"Thompson, Christian (USA)",,31,25-29,1:08:49,2:24:36
+20,2015,M,46,41,"Wallor, Eric (USA)","Palatine, IL",493,30-34,1:09:00,2:24:59
+21,2015,M,49,43,"Cu Cacao, Elvin (GUA)",Guatemala,2070,20-24,1:09:03,2:25:22
+22,2015,M,51,45,"Briot, Thomas (FRA)","Montreal, QC",483,30-34,1:12:55,2:25:29
+23,2015,M,53,47,"Yilma, Yon (USA)","Edmonds, WA",485,25-29,1:09:52,2:25:57
+24,2015,M,55,49,"Davy, Matthew (AUS)","Mount Eliza, VIC",480,30-34,1:12:54,2:26:21
+25,2015,M,57,51,"Beamer, Matthew (USA)","Chicago, IL",428,25-29,1:13:28,2:26:39
+26,2015,M,59,53,"Glaz, Daniel (USA)","Chicago, IL",489,30-34,1:09:10,2:26:55
+27,2015,M,61,55,"Russeau, Alex (USA)","Dundee, MI",447,25-29,1:09:09,2:27:28
+28,2015,M,63,57,"Finnel, Brian (USA)","Madison, WI",404,25-29,1:11:53,2:27:33
+29,2015,M,65,59,"Penny, J (USA)","Johnson City, TN",5196,25-29,1:14:17,2:27:38
+30,2015,M,68,61,"Newman, Zac (AUS)","Richmond, VICTORIA",479,30-34,1:13:12,2:28:03
+31,2015,M,70,63,"Edinger, Nick (USA)","Kent, OH",451,20-24,1:12:55,2:28:20
+32,2015,M,72,65,"Jr. Ries, Tommy (USA)","Woodstock, IL",8178,25-29,1:11:14,2:28:24
+33,2015,M,74,67,"Watson, Sean (USA)","San Francisco, CA",8066,25-29,1:13:49,2:28:35
+34,2015,M,77,69,"Rivero, Luis (GUA)",Guatemala,467,25-29,1:09:53,2:29:16
+35,2015,M,79,71,"Campos, Jesus (USA)","Fresno, CA",470,30-34,1:13:59,2:29:54
+36,2015,M,82,73,"Lopez, Mynor (GUA)",Quetzaltenango,482,30-34,1:08:49,2:30:28
+37,2015,M,84,75,"Boyer, Lane (USA)","Houston, TX",484,25-29,1:09:52,2:30:42
+38,2015,M,86,77,"Neff, Jackson (USA)","Cincinnati, OH",8162,20-24,1:15:18,2:30:52
+39,2015,M,88,79,"Beausoleil, Logan (USA)","Davenport, IA",10125,25-29,1:13:10,2:31:05
+40,2015,M,91,81,"Knutson, Mike (USA)","Baker City, OR",8015,35-39,1:14:52,2:31:25
+41,2015,M,93,83,"Kuhlmann, Patrick (USA)","Washington, DC",446,40-44,1:14:05,2:31:28
+42,2015,M,96,85,"Norton, Joseph (USA)","Cherry Hill, NJ",473,30-34,1:14:04,2:31:53
+43,2015,M,98,87,"Cabada, Lupe (USA)","Reno, NV",453,25-29,1:14:04,2:32:11
+44,2015,M,100,89,"Danaher, Mike (USA)","Nashua, NH",477,20-24,1:14:01,2:32:26
+45,2015,M,102,91,"Eanes, Francis (USA)","Madison, WI",486,25-29,1:11:53,2:32:40
+46,2015,M,104,93,"Hatleback, Nate (USA)","Denver, CO",13137,25-29,1:17:04,2:32:46
+47,2015,M,107,95,"Dudley, Tyler (USA)","West Linn, OR",14100,25-29,1:15:12,2:32:53
+48,2015,M,109,97,"Looi, Alexander (USA)","Ithaca, NY",8026,25-29,1:16:04,2:32:56
+49,2015,M,111,99,"Hutson, Greg (USA)","St. Louis, MO",10109,25-29,1:13:30,2:33:12
+50,2015,M,114,101,"Neill, Ian (USA)","Cambridge, MA",13041,30-34,1:15:10,2:33:25
+51,2015,M,116,103,"Kittaka, Daniel (USA)","Chicago, IL",5134,25-29,1:16:12,2:33:29
+52,2015,M,118,105,"Burdick, Brett (USA)","Chicago, IL",5148,20-24,1:17:55,2:33:46
+53,2015,M,120,107,"Duncan, Chris (USA)","Brentwood, TN",444,35-39,1:15:52,2:33:54
+54,2015,M,122,109,"Sigmund, Jeff (USA)","Brecksville, OH",5199,25-29,1:16:10,2:34:08
+55,2015,M,124,111,"Veldt, Luke Nate (USA)","Lafayette, IN",4094,20-24,1:16:32,2:34:12
+56,2015,M,127,113,"Keefe, Bradley (CAN)","Winnipeg, MB",1039,30-34,1:15:38,2:34:34
+57,2015,M,129,115,"Harder, Tim (USA)","Winchester, MA",5074,30-34,1:16:26,2:34:40
+58,2015,M,131,117,"Troester, Nathan (USA)","Mokena, IL",13077,25-29,1:16:06,2:35:05
+59,2015,M,133,119,"Morikawa, Tomomichi (JPN)",,38,35-39,1:15:56,2:35:18
+60,2015,M,135,121,"Gonzalez, Manuel (USA)","Cambridge, MA",13199,25-29,1:15:09,2:35:20
+61,2015,M,137,123,"Bragg, Isaiah (USA)","Xenia, OH",435,20-24,1:08:59,2:35:43
+62,2015,M,139,125,"Bendtsen, Joel (USA)","Chicago, IL",499,30-34,1:17:37,2:35:48
+63,2015,M,141,127,"Bailey, Jeff (USA)","Villa Park, IL",5150,30-34,1:14:57,2:35:51
+64,2015,M,143,129,"Mejorada, Jose (MEX)","Fort Worth, TX",3173,35-39,1:14:12,2:36:03
+65,2015,M,145,131,"Hobbs, Steve (GBR)","London, LONDON",2016,40-44,1:17:42,2:36:31
+66,2015,M,147,133,"Thomas, Cameron (USA)","Collierville, TN",3162,30-34,1:15:56,2:36:39
+67,2015,M,149,135,"Coffey, Kevin (CAN)","Kingston, ON",408,25-29,1:12:45,2:36:44
+68,2015,M,151,137,"Darda, Joseph (USA)","Fort Worth, TX",490,25-29,1:13:29,2:36:51
+69,2015,M,153,139,"Henry, Justin (USA)","Lafayette, CO",424,30-34,1:14:53,2:37:03
+70,2015,M,155,141,"Regalado, Dan (USA)","Oak Lawn, IL",10017,25-29,1:16:08,2:37:33
+71,2015,M,157,143,"Shelton, Brian (USA)","Cookeville, TN",82,35-39,1:12:14,2:37:38
+72,2015,M,159,145,"Czyz, Grzegorz (POL)","Bogumi?owice, POLSKA",3063,45-49,1:19:16,2:37:57
+73,2015,M,161,147,"Christiansen, Jed (USA)","Grove City, PA",441,25-29,1:09:20,2:38:01
+74,2015,M,163,149,"Mushen, Jeremiah (USA)","Seattle, WA",13008,35-39,1:18:34,2:38:04
+75,2015,M,165,151,"Mere Prado, Javier (MEX)","Chicago, IL",7186,30-34,1:18:01,2:38:18
+76,2015,M,168,153,"Mcnamara, Sean (USA)","Elmhurst, IL",471,25-29,1:17:36,2:38:35
+77,2015,M,170,155,"Huebsch, Tim (CAN)","Vancouver, BC",984,20-24,1:18:56,2:38:58
+78,2015,M,172,157,"Schmidt, Christopher (USA)","Evanston, IL",12027,40-44,1:17:28,2:39:03
+79,2015,M,174,159,"Zhou, Fan (USA)","Hanover, NH",5138,25-29,1:19:04,2:39:17
+80,2015,M,176,161,"McCaleb, Graham (USA)","Battlefield, MO",531,30-34,1:19:42,2:39:19
+81,2015,M,178,163,"Ream, Jason (USA)","Chicago, IL",4016,30-34,1:19:05,2:39:25
+82,2015,M,180,165,"Hayashi, Kunihiko (JPN)","Rockville, MD",11048,35-39,1:17:23,2:39:30
+83,2015,M,183,167,"Cherenev, Aleksandr (RUS)","Kondratovo, PERMSKIY KRAY",3076,40-44,1:18:15,2:39:47
+84,2015,M,185,169,"Casey, Tony (USA)","Johnson City, TN",10138,25-29,1:18:19,2:39:51
+85,2015,M,187,171,"White, Josh (USA)","Philadelphia, PA",11045,25-29,1:18:05,2:39:55
+86,2015,M,189,173,"Highlander, Andy (USA)","Signal Mountain, TN",5106,25-29,1:16:12,2:40:30
+87,2015,M,191,175,"Oswalt, Jeff (USA)","Spokane, WA",4124,40-44,1:16:49,2:40:34
+88,2015,M,193,177,"Zuchetto, Matthew (USA)","Spokane, WA",10044,40-44,1:21:33,2:40:41
+89,2015,M,195,179,"Cutter, Patrick (USA)","Rochester, NY",10077,25-29,1:20:10,2:40:45
+90,2015,M,197,181,"Beletskiy, Evgeny (RUS)","Evanston, IL",18056,25-29,1:19:41,2:40:51
+91,2015,M,199,183,"Klastava, Nicholas (USA)","Perry Hall, MD",6081,30-34,1:17:34,2:41:20
+92,2015,M,202,185,"Willemin, Cyril (USA)","Chicago, IL",6188,40-44,1:19:34,2:41:48
+93,2015,M,204,187,"Swartzendruber, Nathan (USA)","Monument, CO",10180,30-34,1:20:16,2:41:56
+94,2015,M,207,189,"Galbavy, Doug (USA)","Sioux Falls, SD",12184,25-29,1:19:25,2:42:12
+95,2015,M,209,191,"Condon, Bill (USA)","Seattle, WA",10143,30-34,1:18:19,2:42:15
+96,2015,M,211,193,"Sprieser, Steve (USA)","Vernon Hills, IL",14052,20-24,1:18:53,2:42:17
+97,2015,M,213,195,"Jr. Cervantes, Fernando (MEX)","Silao, GUANAJUATO",418,25-29,1:09:48,2:42:25
+98,2015,M,216,197,"Black, John (USA)","Bloomfield Hills, MI",430,25-29,1:17:36,2:42:43
+99,2015,M,218,199,"Macdonald, Christopher (GBR)","Motherwell, NORTH LANARKSHIRE",2014,25-29,1:18:53,2:42:56
+100,2015,M,220,201,"Marbis, Jose (CRC)",Miami,1172,30-34,1:21:16,2:43:01
+101,2015,M,222,203,"Ma, Liangwu (CHN)","Chuxiong, YUNNAN",1140,45-49,1:18:29,2:43:08
+102,2015,M,224,205,"Brenes, Erick (CRC)",San José,1169,35-39,1:19:04,2:43:16
+103,2015,M,226,207,"Mckivett, Gary (GBR)","Brighton, EAST ESSEX",2152,35-39,1:21:02,2:43:17
+104,2015,M,228,209,"Fukuda, Yutaka (JPN)","Niigata, NIIGATA",2142,45-49,1:20:11,2:43:21
+105,2015,M,230,211,"Wiley, Ribert (USA)","Gurnee, IL",13129,40-44,1:18:15,2:43:21
+106,2015,M,232,213,"Jarvis, Scott (USA)","Tucker, GA",13057,20-24,1:18:58,2:43:23
+107,2015,M,234,215,"Werhane, Patrick (USA)","Beaverton, OR",9206,30-34,1:17:30,2:43:34
+108,2015,M,236,217,"Stephens, Dave (CAN)","North Vancouver, BC",1103,55-59,1:21:22,2:43:35
+109,2015,M,238,219,"Bonezzi, Jeff (USA)","Medina, OH",3171,25-29,1:20:35,2:43:43
+110,2015,M,240,221,"Silker, Chad (USA)","Ballwin, MO",5113,35-39,1:20:36,2:43:44
+111,2015,M,242,223,"Hastings, Andrew (USA)","Spokane, WA",14039,35-39,1:21:26,2:43:52
+112,2015,M,244,225,"Lynas, Matthew (GBR)","Wilmslow, CHESHIRE",2040,45-49,1:19:06,2:43:57
+113,2015,M,246,227,"Zhang, Yu (CHN)","Chicago, IL",13191,30-34,1:21:07,2:44:03
+114,2015,M,248,229,"Bosi, Giorgio (ITA)","Fidenza, PARMA",2109,40-44,1:20:02,2:44:05
+115,2015,M,250,231,"Caballero, Roberto (MEX)","Atlacomulco, MEXICO",2187,30-34,1:19:16,2:44:13
+116,2015,M,252,233,"Ziltener, Aaron (USA)","Fitchburg, WI",4112,25-29,1:21:45,2:44:16
+117,2015,M,254,235,"Garcia Teruel, Adolfo (ESP)","Madrid, MADRID",1844,40-44,1:20:34,2:44:19
+118,2015,M,256,237,"Rich, Joshua (USA)","Chicago, IL",5032,45-49,1:20:12,2:44:22
+119,2015,M,258,239,"Otaki, Kazuo (JPN)","Sapporo, HOKKAIDO",9200,40-44,1:19:15,2:44:26
+120,2015,M,261,241,"Myrda, Jan (USA)","Palos Heights, IL",14063,40-44,1:18:13,2:44:31
+121,2015,M,264,243,"Brown, Denis (AUS)","Keilor, VICTORIA",929,50-54,1:22:43,2:44:36
+122,2015,M,266,245,"Strange, Casey (USA)","Campbell, CA",6046,50-54,1:22:42,2:44:41
+123,2015,M,268,247,"Cibulka, Jeramia (USA)","Poynette, WI",5152,30-34,1:20:13,2:44:48
+124,2015,M,270,249,"Teunissen, Tony (USA)","Belvidere, IL",8124,35-39,1:23:13,2:44:50
+125,2015,M,272,251,"Lonnqvist, Axel (SWE)",Jarfalla,8195,30-34,1:20:06,2:44:51
+126,2015,M,275,253,"Ramirez, Ernesto (USA)","Naperville, IL",5039,25-29,1:21:22,2:44:55
+127,2015,M,278,255,"Lopez-Albujar, Alfredo (PER)",Lima,3055,45-49,1:22:35,2:45:06
+128,2015,M,280,257,"Waters, Steven (USA)","Hilliard, OH",11003,30-34,1:20:48,2:45:09
+129,2015,M,282,259,"Kamikawa, Eiichiro (JPN)","Chicago, IL",6077,30-34,1:20:37,2:45:12
+130,2015,M,284,261,"Quesnell, Michael (USA)","Appleton, WI",7073,20-24,1:13:55,2:45:16
+131,2015,M,286,263,"Penner, Greg (CAN)","Steinbach, MB",1051,35-39,1:18:32,2:45:18
+132,2015,M,288,265,"Walters, Dave (USA)","Lisle, IL",492,60-64,1:22:47,2:45:26
+133,2015,M,290,267,"Paullin, Matt (USA)","Berea, OH",5033,30-34,1:23:30,2:45:32
+134,2015,M,292,269,"Barr, David (USA)","Arlington, VA",6148,30-34,1:21:00,2:45:44
+135,2015,M,296,271,"Sandvik, Oystein (NOR)",Oslo,3038,30-34,1:20:36,2:45:55
+136,2015,M,299,273,"Oviedo, Jose (USA)","Houston, TX",7180,35-39,1:21:20,2:46:08
+137,2015,M,301,275,"Papanikolaou, Joshua (AUS)","Port Melbourne, VICTORIA",462,25-29,1:13:13,2:46:15
+138,2015,M,303,277,"Pusey, Chris (USA)","American Fork, UT",5019,40-44,1:23:51,2:46:23
+139,2015,M,306,279,"Power, Rich (USA)","Rochester, MI",7084,50-54,1:21:16,2:46:32
+140,2015,M,308,281,"Li, Guannan (USA)","Santa Clara, CA",7083,30-34,1:22:05,2:46:34
+141,2015,M,310,283,"Arrazola, David (MEX)","Mexico City, MEXICO CITY",2169,40-44,1:22:41,2:46:38
+142,2015,M,314,285,"Tadt, Eric (USA)","Minneapolis, MN",12008,25-29,1:21:48,2:46:43
+143,2015,M,317,287,"Colgan, David (ITA)","Ozzano Dell Emilia, BOLOGNA",2097,30-34,1:18:12,2:46:48
+144,2015,M,320,289,"Castro, Sebastián (CRC)",San José,1164,25-29,1:22:43,2:47:03
+145,2015,M,324,291,"Johnson, Patrick (USA)","Minneapolis, MN",11089,30-34,1:22:11,2:47:08
+146,2015,M,326,293,"Thirumurthy, Harsha (USA)","Chapel Hill, NC",11199,35-39,1:20:59,2:47:14
+147,2015,M,328,295,"Briskman, Jonathan (USA)","San Mateo, CA",20126,20-24,1:22:54,2:47:19
+148,2015,M,330,297,"Uriano, Daniel (USA)","Coventry, CT",11172,35-39,1:17:51,2:47:21
+149,2015,M,334,299,"Hadzima, Jeffrey (USA)","Worcester, MA",8017,35-39,1:21:37,2:47:28
+150,2015,M,338,301,"Leonard, Dan (USA)","Chicago, IL",4003,25-29,1:22:39,2:47:34
+151,2015,M,340,303,"Cotter, Liam (IRL)","Cork, CORK",510,50-54,1:21:59,2:47:37
+152,2015,M,342,305,"Harris, Chris (USA)","Willowbrook, IL",7119,40-44,1:24:25,2:47:40
+153,2015,M,345,307,"Roach, Matthew (USA)","Ballwin, MO",7016,30-34,1:19:18,2:47:41
+154,2015,M,347,309,"Arsenault, Chris (USA)","Woodstock, GA",8078,25-29,1:21:43,2:47:46
+155,2015,M,349,311,"Hall, Eric (USA)","Madison, WI",13009,25-29,1:22:21,2:47:48
+156,2015,M,352,313,"Bednorz, Damian (POL)","Bensenville, IL",10056,35-39,1:22:40,2:47:52
+157,2015,M,354,315,"Wennblom, Martin (USA)","Winthrop Harbor, IL",7086,35-39,1:18:57,2:47:56
+158,2015,M,356,317,"Lapp, Samuel (USA)","Pittsburgh, PA",5162,20-24,1:23:13,2:47:57
+159,2015,M,358,319,"Welch, Sam (USA)","Chicago, IL",8196,25-29,1:26:57,2:48:01
+160,2015,M,362,321,"Contreras, Jonathan (USA)","Chicago, IL",31794,25-29,1:20:12,2:48:17
+161,2015,M,364,323,"Dockemeyer, Kevin (USA)","Wilmington, IL",13142,25-29,1:17:40,2:48:18
+162,2015,M,366,325,"Calvario, Rich (USA)","Geneva, IL",12130,30-34,1:20:39,2:48:22
+163,2015,M,368,327,"Dubow, Jordan (USA)","Glencoe, IL",7142,35-39,1:24:11,2:48:29
+164,2015,M,372,329,"Castady, Greg (USA)","Homewood, IL",14003,40-44,1:24:31,2:48:53
+165,2015,M,374,331,"Parkhoi, Henrik (DEN)","Charlottenlund, CHARLOTTENLUND",1820,40-44,1:18:24,2:49:03
+166,2015,M,376,333,"Sr. Garcia Teruel, David (ESP)","Madrid, MADRID",1833,40-44,1:23:14,2:49:11
+167,2015,M,378,335,"Ansett, John (AUS)","Orange, CA",5042,30-34,1:24:23,2:49:12
+168,2015,M,381,337,"Dixon, Lee (USA)","Kansas City, MO",12148,30-34,1:23:38,2:49:15
+169,2015,M,384,339,"Hu, Yaoxin (CHN)","Shanghai, SHANGHAI",1139,30-34,1:24:31,2:49:21
+170,2015,M,386,341,"Quaranto, Michael (USA)","Chicago, IL",6119,35-39,1:22:30,2:49:27
+171,2015,M,388,343,"Tomlinson, Jeffrey (USA)","Santa Monica, CA",7194,30-34,1:24:03,2:49:30
+172,2015,M,390,345,"Nishimura, Akira (JPN)","Ann Arbor, MI",5100,35-39,1:20:57,2:49:37
+173,2015,M,393,347,"Richnavsky, Scott (USA)","Maple Grove, MN",7169,30-34,1:24:09,2:49:41
+174,2015,M,396,349,"Treuil, Christophe (FRA)",Plougonvelin,1895,40-44,1:22:11,2:49:50
+175,2015,M,398,351,"Jonaitis, Reggie (USA)","Midlothian, TX",13178,30-34,1:24:45,2:49:57
+176,2015,M,401,353,"McPhee, Kyle (USA)","Franklin, TN",5309,35-39,1:24:12,2:49:58
+177,2015,M,403,355,"Quick, Grant (AUS)","Ashburn, VA",513,30-34,1:25:09,2:49:58
+178,2015,M,405,357,"Curtis, Stephen (GBR)","Brooklyn, NY",14023,35-39,1:24:51,2:50:01
+179,2015,M,408,359,"Fernandes, Jacques (BRA)","Sao Paulo, SP",975,40-44,1:24:59,2:50:09
+180,2015,M,411,361,"Sr. Garcia De Enterria, Javier (ESP)","Madrid, MADRID",525,50-54,1:24:57,2:50:14
+181,2015,M,413,363,"Hopper, Ryan (USA)","Chicago, IL",12145,30-34,1:24:26,2:50:18
+182,2015,M,415,365,"Reynolds, Tim (USA)","Boston, MA",14055,25-29,1:21:40,2:50:19
+183,2015,M,417,367,"Nowak, Andrew (USA)","Erie, PA",8128,25-29,1:18:41,2:50:22
+184,2015,M,419,369,"Chen, Zhe (CHN)","Ann Arbor, MI",11129,30-34,1:24:20,2:50:26
+185,2015,M,421,371,"Antczak, Devan (USA)","Bloomington, IL",571,25-29,1:27:07,2:50:29
+186,2015,M,423,373,"Silva, Ernesto (URU)","Montevideo, MONTEVIDEO",3102,35-39,1:21:39,2:50:36
+187,2015,M,425,375,"Richardson, Kenneth (USA)","Ogden, UT",94,35-39,1:22:46,2:50:37
+188,2015,M,428,377,"Tolliver, Rusty (USA)","Boston, MA",57988,25-29,1:23:15,2:50:38
+189,2015,M,430,379,"Basham, Cort (USA)","Bowling Green, KY",600,35-39,1:26:03,2:50:39
+190,2015,M,432,381,"Stegman, Matt (USA)","Overlan Park, KS",4142,45-49,1:24:36,2:50:43
+191,2015,M,434,383,"Leak, Paul (USA)","New York, NY",9127,25-29,1:26:10,2:50:44
+192,2015,M,436,385,"Hass, Christopher (USA)","Fargo, ND",10102,35-39,1:20:27,2:50:50
+193,2015,M,439,387,"Wood, Joel (USA)","Madison, WI",4089,25-29,1:24:34,2:50:53
+194,2015,M,441,389,"Eld, Alex (USA)","Needham, MA",5114,25-29,1:26:11,2:50:56
+195,2015,M,443,391,"Hansen, David (USA)","Orland Park, IL",7108,20-24,1:23:47,2:50:59
+196,2015,M,445,393,"Sourlos, Nicholas (USA)","West Jordan, UT",589,35-39,1:26:41,2:51:04
+197,2015,M,447,395,"Aramaki, Yuzo (JPN)","Cos Cob, CT",4160,35-39,1:25:20,2:51:12
+198,2015,M,451,397,"Clark, Sean (USA)","Berwyn, IL",5147,35-39,1:25:14,2:51:15
+199,2015,M,453,399,"Farr, Nico (GER)","Chicago, IL",12020,30-34,1:25:32,2:51:23
+200,2015,M,455,401,"Minter, David (GBR)","Colorado Springs, CO",9373,50-54,1:25:42,2:51:28
+201,2015,M,457,403,"Miller, Christopher (USA)","Radford, VA",5168,40-44,1:24:22,2:51:34
+202,2015,M,460,405,"Bentley, Bill (CAN)","Toronto, ON",991,35-39,1:20:55,2:51:46
+203,2015,M,462,407,"Sarkovics, Rodney (USA)","Fishers, IN",8130,40-44,1:27:58,2:51:48
+204,2015,M,464,409,"Waco, Shawn (USA)","Santa Monica, CA",6123,40-44,1:20:35,2:51:52
+205,2015,M,467,411,"Yang, Shuai (CHN)","Shanghai, SHANGHAI",472,25-29,1:13:23,2:51:56
+206,2015,M,469,413,"Shilling, Mark (USA)","Summit, NJ",11141,40-44,1:25:22,2:52:02
+207,2015,M,472,415,"Clark, Steven (USA)","Northbrook, IL",8102,45-49,1:25:19,2:52:09
+208,2015,M,474,417,"Hernandez, Daniel (USA)","Chicago, IL",5172,35-39,1:24:07,2:52:12
+209,2015,M,476,419,"Alfaro, Marco (MEX)","Berkeley, IL",10123,25-29,1:21:24,2:52:16
+210,2015,M,478,421,"Sr. Rodríguez, Santiago (MEX)","México City, MÉXICO CITY",2159,55-59,1:19:20,2:52:20
+211,2015,M,480,423,"Vallez, Kevin (USA)","Ellington, CT",8101,45-49,1:26:53,2:52:21
+212,2015,M,482,425,"Curry, Ryan (USA)","Chicago, IL",6045,35-39,1:25:14,2:52:24
+213,2015,M,484,427,"Crudale, Anthony (USA)","West Warwick, RI",4009,35-39,1:22:50,2:52:26
+214,2015,M,487,429,"Woods, Dan (USA)","Tinley Park, IL",12174,30-34,1:23:40,2:52:27
+215,2015,M,489,431,"Pollock, Evan (USA)","Austin, TX",11170,30-34,1:27:45,2:52:30
+216,2015,M,491,433,"Carrasco, Sergio (CHI)",Santiago,1122,30-34,1:25:41,2:52:33
+217,2015,M,493,435,"Brown, Kevin (USA)","Exira, IA",13110,25-29,1:25:52,2:52:35
+218,2015,M,495,437,"Saucedo Lara, Bernardo (MEX)","Guadalajara, JALISCO",2195,30-34,1:26:37,2:52:37
+219,2015,M,497,439,"Kwok, Sin Hung (HKG)","Hong Kong, HONG KONG SAR",2081,30-34,1:26:50,2:52:42
+220,2015,M,500,441,"Baker, Adam (GBR)","Buckhurst Hill, ESSEX",2050,40-44,1:24:58,2:52:44
+221,2015,M,502,443,"Lynch, Charles (USA)","New York City, NY",10182,25-29,1:25:05,2:52:44
+222,2015,M,504,445,"Bostrom, Arne (USA)","New York, NY",3143,25-29,1:20:47,2:52:47
+223,2015,M,506,447,"Buenting, Mike (USA)","Chanhassen, MN",12079,40-44,1:19:57,2:52:51
+224,2015,M,509,449,"McDonough, Matthew (USA)","Chicago, IL",3169,30-34,1:24:23,2:52:55
+225,2015,M,511,451,"Singer, Reid (USA)","Santa Fe, NM",11116,25-29,1:22:48,2:52:57
+226,2015,M,514,453,"Ovsyannikov, Sergey (RUS)","Perm, PERM REGION",3072,35-39,1:21:16,2:53:00
+227,2015,M,516,455,"Eagar, David (USA)","Mililani, HI",4010,55-59,1:27:10,2:53:01
+228,2015,M,518,457,"Bozicnik, Gregor (ESA)",Ljubljana,9126,40-44,1:21:22,2:53:03
+229,2015,M,520,459,"Jambou, Clement (FRA)","San Francisco, CA",25134,20-24,1:23:32,2:53:04
+230,2015,M,522,461,"Schippers, Sunny (NED)",Amsterdam,10237,30-34,1:27:14,2:53:06
+231,2015,M,524,463,"Haack, Jeremy (USA)","Urbandale, IA",6016,35-39,1:21:25,2:53:08
+232,2015,M,526,465,"Villicana, Matt (USA)","Western Springs, IL",5163,30-34,1:21:13,2:53:12
+233,2015,M,528,467,"Andrews, Kevin (USA)","The Woodlands, TX",4049,40-44,1:23:30,2:53:16
+234,2015,M,530,469,"Gill, Sean (USA)","Chicago, IL",7046,30-34,1:25:25,2:53:17
+235,2015,M,533,471,"Degnan, Matthew (USA)","New York, NY",4107,25-29,1:21:53,2:53:20
+236,2015,M,535,473,"Togami, Katsuhiro (JPN)","Brookline, MA",11150,35-39,1:27:04,2:53:29
+237,2015,M,538,475,"Lazrus, Adam (USA)","Silver Spring, MD",5047,25-29,1:24:36,2:53:31
+238,2015,M,542,477,"Keller, Reuben (USA)","Evanston, IL",8011,35-39,1:25:42,2:53:36
+239,2015,M,544,479,"Hlavin, Steve (USA)","Chicago, IL",13164,35-39,1:25:17,2:53:37
+240,2015,M,546,481,"Montenegro, Diego (COL)",Cali,1149,35-39,1:28:01,2:53:38
+241,2015,M,548,483,"Turrini, Giampaolo (ITA)","Roma, RM",9105,45-49,1:23:34,2:53:40
+242,2015,M,550,485,"Belli, Felipe (BRA)","Viamao, RS",2285,25-29,1:24:48,2:53:42
+243,2015,M,552,487,"Shannon, Matthew (USA)","Elmhurst, IL",11127,20-24,1:25:59,2:53:43
+244,2015,M,554,489,"Chung, Meng Ting (TWN)","Ann Arbor, MI",13125,25-29,1:22:00,2:53:45
+245,2015,M,556,491,"Farr, Will (USA)","Charlotte, NC",574,45-49,1:26:37,2:53:48
+246,2015,M,558,493,"III Essabri, Abdelnasser (BEL)",Seraing,940,50-54,1:26:14,2:53:55
+247,2015,M,560,495,"Orgar, Patrick (CAN)","Hamilton, ON",1105,45-49,1:22:13,2:53:56
+248,2015,M,562,497,"Pierson, Roy (USA)","Philadelphia, PA",13115,35-39,1:28:03,2:53:57
+249,2015,M,564,499,"Kelley, Sean (USA)","Norwell, MA",9193,35-39,1:28:36,2:54:00
+250,2015,M,569,501,"Nadeau, Patrick (CAN)","Levis, QC",1054,40-44,1:25:27,2:54:08
+251,2015,M,572,503,"Olson, Jeremy (USA)","Greenwood, WI",6029,30-34,1:25:28,2:54:10
+252,2015,M,574,505,"Stehling, Michael (USA)","Grayslake, IL",6192,35-39,1:24:40,2:54:13
+253,2015,M,576,507,"Burns, Pat (USA)","Pittsburgh, PA",14027,20-24,1:18:06,2:54:19
+254,2015,M,579,509,"Bortner, Christopher (USA)","Washington, DC",11163,35-39,1:27:30,2:54:24
+255,2015,M,581,511,"Behrendt, Brian (USA)","Vadnais Heights, MN",12176,30-34,1:27:45,2:54:27
+256,2015,M,583,513,"Sr. Gonzalez Niebla, Carlos (ESP)","Villanueva De La Canada, MADRID",1850,35-39,1:24:25,2:54:28
+257,2015,M,585,515,"Steele, Michael (AUS)","South Penrith, NSW",932,40-44,1:22:27,2:54:33
+258,2015,M,587,517,"Patterson, Jesse (USA)","Jacksonville, FL",4017,35-39,1:24:55,2:54:40
+259,2015,M,589,519,"Aliff, Thomas (USA)","Peachtree Corners, GA",10126,35-39,1:24:51,2:54:46
+260,2015,M,592,521,"Rolfson, Scott (CAN)","Chicago, IL",7144,35-39,1:27:23,2:54:50
+261,2015,M,594,523,"Guo, Shan (USA)","Cary, NC",10045,40-44,1:28:17,2:54:52
+262,2015,M,596,525,"Parise, Tom (USA)","Stanford, CA",9187,25-29,1:23:03,2:54:56
+263,2015,M,598,527,"Sole, Paul (GBR)","St Austell, CORNWALL",2044,35-39,1:27:36,2:55:00
+264,2015,M,600,529,"Sieja, John (USA)","Willow Springs, IL",5149,30-34,1:18:52,2:55:01
+265,2015,M,602,531,"Reay, Mason (USA)","Lake Forest, IL",13131,45-49,1:27:33,2:55:01
+266,2015,M,604,533,"Davila, John (USA)","Corpus Christi, TX",8003,20-24,1:26:06,2:55:07
+267,2015,M,607,535,"Klescewski, Joe (USA)","Eden Prairie, MN",6121,35-39,1:25:11,2:55:09
+268,2015,M,609,537,"Rininger, Bradley (USA)","Scottsdale, AZ",12086,35-39,1:24:24,2:55:10
+269,2015,M,612,539,"Evangelista, Gustavo (BRA)","Sao Paulo, SAO PAULO",958,30-34,1:27:14,2:55:12
+270,2015,M,614,541,"Cuahuizo, Ricardo (MEX)","Elmhurst, NY",7190,25-29,1:20:46,2:55:16
+271,2015,M,616,543,"Gordon, Nicolas (CHI)","Brooklyn, NY",7058,35-39,1:27:55,2:55:16
+272,2015,M,618,545,"Tun, Rit (USA)","Santa Monica, CA",11159,40-44,1:28:03,2:55:19
+273,2015,M,620,547,"Hotchandani, Timothy (USA)","New York, NY",547,30-34,1:28:01,2:55:20
+274,2015,M,622,549,"Rynne, Gardiner (USA)","Rockford, IL",7089,35-39,1:24:01,2:55:21
+275,2015,M,625,551,"Romero, Marlon (ECU)",Guayaquil,1824,35-39,1:27:00,2:55:23
+276,2015,M,627,553,"Christiansen, Jakeniah (USA)","Oak Lawn, IL",5091,25-29,1:21:00,2:55:25
+277,2015,M,629,555,"Oddy, Christopher (GBR)","Willesden Green, London, GREATER LONDON",2056,25-29,1:17:21,2:55:26
+278,2015,M,633,557,"Hayden, Michael (USA)","Rancho Palos Verdes, CA",12133,25-29,1:25:24,2:55:34
+279,2015,M,635,559,"Caetano, Carlos (POR)","Barreiro, BARREIRO",3068,40-44,1:24:32,2:55:35
+280,2015,M,638,561,"Elia, Yossi (ISR)",Kfar Saba,2085,35-39,1:22:07,2:55:38
+281,2015,M,640,563,"Mason, Joshua (USA)","Farmington, WV",3196,30-34,1:26:02,2:55:41
+282,2015,M,642,565,"Consolandi, Paolo Giorgio (ITA)","Pessano Con Bornago, MI",2107,35-39,1:27:22,2:55:45
+283,2015,M,644,567,"Cunningham, Brendan (USA)","Arlington Heights, IL",8002,16-19,1:28:02,2:55:46
+284,2015,M,647,569,"Bardey, Jonathan (USA)","New York, NY",13094,35-39,1:29:13,2:55:48
+285,2015,M,650,571,"Rebolledo, Raul (MEX)","Distrito Federal, MEXICO",3010,40-44,1:26:33,2:55:51
+286,2015,M,652,573,"Kohler, James (AUS)","Glenbrook, NSW",502,35-39,1:23:01,2:55:54
+287,2015,M,656,575,"Zajac, Daniel (USA)","West Chester, PA",5021,30-34,1:28:45,2:56:08
+288,2015,M,659,577,"Anderson, Jakob (USA)","Oswego, IL",5126,25-29,1:24:27,2:56:14
+289,2015,M,662,579,"Fretz, Jeremy (USA)","Chicago, IL",542,30-34,1:27:35,2:56:15
+290,2015,M,664,581,"Yoshinobu, Takeo (JPN)","Higashiyamato-Shi, TOKYO",2126,30-34,1:17:19,2:56:16
+291,2015,M,666,583,"Vargas Salgado, Andres David (ESP)","Madrid, MADRID",1862,45-49,1:26:01,2:56:16
+292,2015,M,668,585,"Botha, Jaco (RSA)",Allschwil,1117,40-44,1:21:29,2:56:17
+293,2015,M,670,587,"Haines, Robert (USA)","Knoxville, TN",13079,30-34,1:25:36,2:56:22
+294,2015,M,673,589,"Fogelman, Charles (USA)","Champaign, IL",11101,35-39,1:28:29,2:56:23
+295,2015,M,675,591,"Gerald, Justin (USA)","Astoria, NY",10094,25-29,1:23:45,2:56:25
+296,2015,M,677,593,"Hanlon, William (USA)","Macungie, PA",10049,25-29,1:25:17,2:56:26
+297,2015,M,679,595,"Cooper, Andrew (USA)","Chicago, IL",13231,30-34,1:29:31,2:56:26
+298,2015,M,681,597,"Hiramatsu, Naoto (JPN)","Koto-Ku, Tokyo, TOKYO",2121,45-49,1:27:51,2:56:28
+299,2015,M,684,599,"Baum, Eric (USA)","Chicago, IL",6076,25-29,1:27:45,2:56:30
+300,2015,M,686,601,"Dobson, Paul (GBR)","Maldon, ESSEX",2010,45-49,1:21:29,2:56:32
+301,2015,M,688,603,"Drahorad, Jan (CZE)",Prague,1193,30-34,1:29:41,2:56:34
+302,2015,M,690,605,"Orvold, Ben (USA)","Kenosha, WI",443,25-29,1:23:45,2:56:35
+303,2015,M,692,607,"Groot, Brian (CAN)","London, ON",1037,25-29,1:28:04,2:56:36
+304,2015,M,694,609,"Svensson, Kenth (SWE)",Stockholm,3090,40-44,1:24:46,2:56:40
+305,2015,M,697,611,"Cook, Daniel (USA)","Chicago, IL",10158,25-29,1:23:54,2:56:44
+306,2015,M,699,613,"Jr. Lagucik, James (USA)","Chicago, IL",6034,25-29,1:28:06,2:56:44
+307,2015,M,701,615,"Llerena, Ignacio (PER)",Lima,3048,45-49,1:29:07,2:56:45
+308,2015,M,703,617,"Weems, Alex (USA)","Chicago, IL",570,35-39,1:27:28,2:56:46
+309,2015,M,705,619,"Stauffer, Zachary (USA)","Berkeley, CA",13193,35-39,1:29:03,2:56:51
+310,2015,M,708,621,"Edge, Sascha (USA)","Chicago, IL",7080,45-49,1:28:16,2:56:53
+311,2015,M,710,623,"Navarro, Rafael (ESP)","Premia De Mar, BARCELONA",1845,40-44,1:28:21,2:56:53
+312,2015,M,712,625,"Sackett, Barry (USA)","Okoboji, IA",13073,45-49,1:25:01,2:56:54
+313,2015,M,715,627,"Palmerin, Jose (USA)","East Chicago, IN",5068,20-24,1:18:36,2:56:58
+314,2015,M,717,629,"Peragine, Michael (USA)","Delray Beach, FL",5159,35-39,1:24:25,2:57:00
+315,2015,M,720,631,"Rochefort, Nick (USA)","Bad Axe, MI",13011,30-34,1:29:00,2:57:03
+316,2015,M,722,633,"Crochiere, Paul (USA)","Amesbury, MA",4033,55-59,1:27:30,2:57:04
+317,2015,M,724,635,"Hartstein, Kevin (USA)","White River Junction, VT",11136,25-29,1:27:50,2:57:06
+318,2015,M,726,637,"Kennedy, Sean (USA)","Naperville, IL",3124,35-39,1:23:03,2:57:10
+319,2015,M,728,639,"Trujillo, Marco Antonio (MEX)","Ciudad Acuna, COAHUILA",3012,40-44,1:28:27,2:57:12
+320,2015,M,730,641,"Karfor, Lynton (RSA)","Chicago, IL",11185,35-39,1:28:25,2:57:13
+321,2015,M,732,643,"Silver, Elie (CAN)","Toronto, ON",1000,30-34,1:28:35,2:57:14
+322,2015,M,735,645,"Roth, Justin (USA)","Mansfield, IL",8074,25-29,1:28:20,2:57:18
+323,2015,M,737,647,"Hawkins, Zach (USA)","Germantown, MD",12105,30-34,1:30:19,2:57:25
+324,2015,M,739,649,"Riehl, Evan (USA)","New York, NY",17175,30-34,1:28:23,2:57:30
+325,2015,M,742,651,"Albert, David (USA)","Chicago, IL",8030,45-49,1:29:03,2:57:34
+326,2015,M,744,653,"Lee, Rob (USA)","Nashville, TN",15115,45-49,1:26:32,2:57:36
+327,2015,M,746,655,"Lee-Ohlsson, Fredrick (SWE)","New York, NY",7024,30-34,1:27:50,2:57:37
+328,2015,M,748,657,"Farb, Peter (USA)","Torrance, CA",3164,30-34,1:28:34,2:57:37
+329,2015,M,750,659,"Price, Terry (USA)","Richmond, VA",13158,45-49,1:28:52,2:57:38
+330,2015,M,753,661,"Díaz Arellano Curts, Mauricio (MEX)","D.F., D.F.",3008,25-29,1:29:02,2:57:40
+331,2015,M,755,663,"Fry, Evan (USA)","Chicago, IL",10181,20-24,1:26:48,2:57:44
+332,2015,M,757,665,"Wagner, Scott (USA)","Novi, MI",13189,25-29,1:25:16,2:57:44
+333,2015,M,759,667,"Mosser, Michael (USA)","Portland, OR",13119,30-34,1:24:16,2:57:44
+334,2015,M,761,669,"Weiss, Brad (USA)","New York, NY",13187,40-44,1:28:02,2:57:46
+335,2015,M,763,671,"Rudowsky, Thomas (USA)","Verona, PA",9008,20-24,1:25:28,2:57:48
+336,2015,M,765,673,"Calderwood, Casey (USA)","Chicago, IL",4479,40-44,1:28:07,2:57:53
+337,2015,M,767,675,"Hogan, Bernie (CAN)","Bancroft, ON",21523,30-34,1:20:29,2:57:54
+338,2015,M,769,677,"Oppito, Stephen (USA)","Silverthorne, CO",4117,35-39,1:29:17,2:57:55
+339,2015,M,771,679,"Weidner, John (USA)","Annandale, NJ",10002,50-54,1:27:33,2:57:55
+340,2015,M,773,681,"Imai, Christopher (CAN)","Vancouver, BC",1070,45-49,1:28:32,2:57:59
+341,2015,M,775,683,"Pevahouse, Jeremy (USA)","Fairmont, WV",12103,30-34,1:26:56,2:58:00
+342,2015,M,778,685,"Hu, Shi (CHN)","State College, PA",12167,30-34,1:28:06,2:58:03
+343,2015,M,780,687,"Callans, Adam (USA)","Chicago, IL",4182,30-34,1:24:29,2:58:05
+344,2015,M,783,689,"Payne, Timothy (USA)","Buffalo Grove, IL",7063,30-34,1:23:48,2:58:09
+345,2015,M,785,691,"Woods, William (CAN)","Toronto, ON",1025,50-54,1:29:43,2:58:10
+346,2015,M,787,693,"Abitbol, Matthew (USA)","Chicago, IL",10103,30-34,1:28:05,2:58:11
+347,2015,M,789,695,"Sargent, Andy (AUS)","Kew, VIC",933,35-39,1:29:02,2:58:12
+348,2015,M,791,697,"Perez, Procopio (MEX)","Mexico City, DF",2179,50-54,1:26:45,2:58:16
+349,2015,M,796,699,"Bain, Chris (GBR)","Inverness, HIGHLAND",2052,30-34,1:26:55,2:58:19
+350,2015,M,798,701,"Trotta, Dante (USA)","Kenosha, WI",8243,30-34,1:29:52,2:58:20
+351,2015,M,801,703,"Castellanos, Stefan (USA)","Chicago, IL",4108,25-29,1:28:43,2:58:23
+352,2015,M,803,705,"Tobler, Rudolf (AUT)",Neusiedl/See,9110,50-54,1:26:31,2:58:24
+353,2015,M,806,707,"Arias, Eduardo (PAN)","Panama, PANAMA",3045,40-44,1:25:51,2:58:25
+354,2015,M,808,709,"Kerhin, Anthony (USA)","West Allis, WI",7107,25-29,1:29:45,2:58:26
+355,2015,M,810,711,"Zepeda, Kurt (USA)","Saint Charles, IL",9285,16-19,1:25:42,2:58:27
+356,2015,M,812,713,"Resendiz, Carlos (USA)","Norcross, GA",14024,40-44,1:25:55,2:58:28
+357,2015,M,815,715,"Eisenhart, Eric (USA)","Annandale, NJ",13166,30-34,1:27:34,2:58:30
+358,2015,M,817,717,"Battye, Adam (AUS)","Halifax, NS",1069,35-39,1:27:28,2:58:31
+359,2015,M,819,719,"Cook, Brian (GBR)","Powell, OH",5164,40-44,1:29:16,2:58:31
+360,2015,M,821,721,"Sanchez, Antonio (MEX)","Benito Juárez, DISTRITO FEDERAL",9109,30-34,1:27:23,2:58:34
+361,2015,M,823,723,"Stubbe, Cale (USA)","Spicewood, TX",7200,30-34,1:28:59,2:58:36
+362,2015,M,825,725,"Tsai, Larry (USA)","Boston, MA",12146,40-44,1:29:16,2:58:40
+363,2015,M,828,727,"Pauley, Ron (USA)","Chicago, IL",12058,30-34,1:27:50,2:58:42
+364,2015,M,830,729,"Tokgoz, Sadik (USA)","Waltham, MA",8046,45-49,1:29:28,2:58:43
+365,2015,M,834,732,"Stout, Mike (USA)","Cedar Falls, IA",585,25-29,1:21:41,2:58:44
+366,2015,M,836,734,"Turner Fabres, Juan (CHI)",Santiago,1130,30-34,1:29:03,2:58:45
+367,2015,M,839,736,"Bruce, Gary (GBR)","Dundee, TAYSIDE",9191,30-34,1:28:47,2:58:47
+368,2015,M,841,738,"Da Silva, Jose (BRA)","Sao Paulo, SAO PAULO",950,40-44,1:25:59,2:58:47
+369,2015,M,843,740,"Grønvall, Mads (DEN)","Frederiksberg, FREDERIKSBERG C",1811,40-44,1:28:16,2:58:48
+370,2015,M,846,742,"Yoo, David (USA)","Ridgewood, NJ",10124,40-44,1:28:19,2:58:52
+371,2015,M,849,744,"Chan, Eric (CAN)","Toronto, ON",1047,35-39,1:24:58,2:58:54
+372,2015,M,851,746,"Garneau, Martin (CAN)","Neuville, QC",1003,40-44,1:29:12,2:58:57
+373,2015,M,853,748,"Lapalus, Denis (FRA)",Bussy St-Georges,1886,45-49,1:28:00,2:58:57
+374,2015,M,855,750,"Reynolds, Justin (CAN)","Edmonton, AB",1011,35-39,1:29:11,2:58:58
+375,2015,M,857,752,"Grimes, John (USA)","Hopkins, MN",12093,30-34,1:27:36,2:59:00
+376,2015,M,859,754,"Encarnacion, Enrico (USA)","Washington, DC",13146,30-34,1:29:55,2:59:01
+377,2015,M,861,756,"Walsh, Mark (USA)","Chicago, IL",12062,45-49,1:29:31,2:59:02
+378,2015,M,863,758,"Pirker, Wolfgang (AUT)",Wien,922,30-34,1:27:05,2:59:02
+379,2015,M,865,760,"Riordan, Robert (USA)","New York, NY",13149,40-44,1:29:18,2:59:04
+380,2015,M,868,762,"Collick, Neal (USA)","Negaunee, MI",5167,35-39,1:28:49,2:59:05
+381,2015,M,870,764,"Marques, Matthew (USA)","Miami, FL",13053,25-29,1:29:13,2:59:07
+382,2015,M,872,766,"El-Fadel, Bouchta (MAR)",Casablanca,2155,50-54,1:28:40,2:59:08
+383,2015,M,874,768,"Kvasys, Mindaugas (LTU)",Copenhagen,2154,30-34,1:26:34,2:59:10
+384,2015,M,876,770,"Nigg, Ben (USA)","Iowa City, IA",13224,20-24,1:27:14,2:59:13
+385,2015,M,878,772,"Quaglietta, Devon (USA)","Monroe Township, NJ",609,25-29,1:27:12,2:59:14
+386,2015,M,880,774,"Dong, Yue (USA)","Stamford, CT",12076,45-49,1:27:29,2:59:15
+387,2015,M,882,776,"Roux, Rene (CAN)","Montreal, QC",9122,50-54,1:26:49,2:59:16
+388,2015,M,884,778,"Panossian, Dearon (USA)","Brooklyn, NY",5009,25-29,1:28:07,2:59:19
+389,2015,M,886,780,"Wagner, Trevor (USA)","Madison, WI",6193,35-39,1:29:58,2:59:21
+390,2015,M,888,782,"Browning, Keith (USA)","Lisle, IL",13105,40-44,1:29:15,2:59:25
+391,2015,M,890,784,"Antokal, Erik (USA)","New York, NY",555,25-29,1:26:50,2:59:26
+392,2015,M,893,786,"Varian, Kenneth (USA)","Delaware, OH",6028,45-49,1:29:16,2:59:26
+393,2015,M,895,788,"Henry, John-Paul (USA)","Dallas, TX",10186,30-34,1:28:43,2:59:27
+394,2015,M,897,790,"Solarz, Christopher (USA)","New York, NY",11175,35-39,1:32:54,2:59:28
+395,2015,M,900,792,"Cavacini, Claudio (ITA)","Rome, RM",2099,35-39,1:29:13,2:59:30
+396,2015,M,904,794,"Brambila, Jorge (MEX)","Distrito Federal, DISTRITO FEDERAL",2167,40-44,1:29:32,2:59:33
+397,2015,M,906,796,"Exline, Kyle (USA)","Chicago, IL",7197,30-34,1:26:19,2:59:34
+398,2015,M,908,798,"Corredor Cuervo, Mario (COL)","Chapel Hill Nc 27516-1645, NC",7158,50-54,1:26:33,2:59:34
+399,2015,M,910,800,"Bruno, David (USA)","Chicago, IL",5185,30-34,1:31:19,2:59:36
+400,2015,M,912,802,"German, Aaron (USA)","Chicago, IL",13030,35-39,1:22:41,2:59:37
+401,2015,M,916,804,"Leyva, Joshua (USA)","Lubbock, TX",10091,35-39,1:27:39,2:59:38
+402,2015,M,920,806,"Hashmi, Nabil (USA)","Philadelphia, PA",5018,25-29,1:29:12,2:59:41
+403,2015,M,922,808,"Slater, Robert (USA)","Toledo, OH",5041,50-54,1:27:45,2:59:42
+404,2015,M,924,810,"Scrafford, Daniel (USA)","Manhasset, NY",592,30-34,1:28:23,2:59:44
+405,2015,M,926,812,"Petras, Bill (USA)","Palm Desert, CA",11115,45-49,1:29:56,2:59:48
+406,2015,M,928,814,"Rojas, Astro (MEX)","Toluca, STATE OF MEXICO",2162,35-39,1:24:43,2:59:51
+407,2015,M,930,816,"Scott, Antony (GBR)","New York City, NY",8059,40-44,1:24:03,2:59:52
+408,2015,M,932,818,"Bell, Joseph (USA)","Columbus, IN",4121,30-34,1:24:25,2:59:53
+409,2015,M,935,820,"Odlaug, Andrew (USA)","Bannockburn, IL",10034,30-34,1:28:40,2:59:55
+410,2015,M,938,822,"Kung'U, Francis (USA)","Alpharetta, GA",5025,50-54,1:29:14,2:59:56
+411,2015,M,940,824,"Olds, Peter (GBR)","London, LONDON",2046,40-44,1:29:32,2:59:57
+412,2015,M,942,826,"Mouffok, Samir (FRA)",Elancourt,1884,20-24,1:29:59,3:00:00
+413,2015,M,944,828,"Chapin, Andrew (USA)","Mason, MI",14080,35-39,1:28:46,3:00:01
+414,2015,M,947,830,"McEachran, Grant (GBR)","Bothwell, SOUTH LANARKSHIRE",2028,35-39,1:25:39,3:00:02
+415,2015,M,949,832,"Ramirez, Pablo (USA)","Schaumburg, IL",5190,20-24,1:22:03,3:00:05
+416,2015,M,952,834,"Gonzalez, Francisco (MEX)","Mexico, DISTRITO FEDERAL",2164,45-49,1:26:37,3:00:08
+417,2015,M,954,836,"Faust, Steve (CAN)","Uxbridge, ON",1091,35-39,1:29:09,3:00:10
+418,2015,M,956,838,"Vieira, Sergio (POR)","New York, NY",11006,40-44,1:29:22,3:00:11
+419,2015,M,958,840,"Henson, Thomas (USA)","Annapolis, MD",9284,16-19,1:27:54,3:00:14
+420,2015,M,960,842,"Driscoll, Micah (USA)","Kerkhoven, MN",1976,40-44,1:28:59,3:00:17
+421,2015,M,963,844,"Borgmeyer, Ben (USA)","Saint Augustine, FL",14048,35-39,1:29:08,3:00:21
+422,2015,M,965,846,"Myers, Will (USA)","Bernardsville, NJ",8217,16-19,1:28:16,3:00:24
+423,2015,M,967,848,"Mesarchik, Joseph (USA)","St. Louis Park, MN",6086,25-29,1:27:19,3:00:27
+424,2015,M,970,850,"Núñez, Jesús (MEX)","León, GUANAJUATO",3002,30-34,1:30:31,3:00:31
+425,2015,M,973,852,"Hershman, Jason (USA)","New York, NY",13063,25-29,1:30:06,3:00:32
+426,2015,M,975,854,"Delaespriella, Juan (COL)",Bogota,1159,45-49,1:27:20,3:00:32
+427,2015,M,977,856,"Alonso, Ignacio (ESP)","New York, NY",4120,35-39,1:31:53,3:00:38
+428,2015,M,979,858,"Manaois, Alexander (USA)","Mount Prospect, IL",4052,25-29,1:28:20,3:00:40
+429,2015,M,981,860,"Lopez, Christopher (MEX)","Sunnyvale, CA",6065,30-34,1:26:32,3:00:43
+430,2015,M,983,862,"Shalyaev, Kirill (USA)","Solon, OH",3115,40-44,1:28:48,3:00:48
+431,2015,M,985,864,"Nesheim, Andy (USA)","Mequon, WI",12185,30-34,1:30:58,3:00:51
+432,2015,M,988,866,"Yan, Alan (GBR)","London, LONDON",2061,30-34,1:28:04,3:00:52
+433,2015,M,991,868,"Vander Wiele, Joshua (USA)","Lynden, WA",7098,30-34,1:28:32,3:00:53
+434,2015,M,993,870,"Kane, Conor (IRL)","Wyndmoor, PA",6072,35-39,1:28:29,3:00:55
+435,2015,M,995,872,"Ledesma, Eduardo (USA)","Urbana, IL",4060,40-44,1:27:27,3:00:58
+436,2015,M,997,874,"Parke, Kevin (USA)","Fort Mitchell, KY",4114,35-39,1:29:10,3:01:02
+437,2015,M,999,876,"Hiebert-Treuer, Bradley (USA)","Evanston, IL",11057,30-34,1:28:05,3:01:03
+438,2015,M,1001,878,"Bermudo, Pedro (ESP)","PARIS, MILANO",22353,40-44,1:31:28,3:01:07
+439,2015,M,1003,880,"Minzner, Daniel (USA)","Pittstown, NJ",12015,45-49,1:27:32,3:01:08
+440,2015,M,1006,882,"Palmer, Christopher (USA)","Mchenry, IL",7052,35-39,1:27:46,3:01:17
+441,2015,M,1008,884,"Crotteau, Charles (USA)","Chicago, IL",5139,45-49,1:28:42,3:01:18
+442,2015,M,1010,886,"Thompson, Bradley (USA)","State College, PA",6153,20-24,1:26:57,3:01:20
+443,2015,M,1012,888,"Johns, Ryan (USA)","White Lake, MI",5045,35-39,1:16:50,3:01:21
+444,2015,M,1014,890,"Dacey, Kyle (USA)","Fairport, NY",3130,25-29,1:23:49,3:01:23
+445,2015,M,1017,892,"Brown, Tyler (USA)","Cary, IL",24368,20-24,1:26:00,3:01:28
+446,2015,M,1019,894,"Salmon, Dj (USA)","Griffith, IN",14077,25-29,1:30:00,3:01:30
+447,2015,M,1021,896,"Cychosz, Dan (USA)","Boulder, CO",6090,25-29,1:31:24,3:01:31
+448,2015,M,1023,898,"Bath, Alec (USA)","Gurnee, IL",12150,45-49,1:28:35,3:01:33
+449,2015,M,1025,900,"Cabecas, Joao (POR)","Lisboa, PORTUGAL",3066,40-44,1:28:47,3:01:34
+450,2015,M,1027,902,"Hanemaayer, Ben (CAN)","Vancouver, BC",985,30-34,1:28:24,3:01:35
+451,2015,M,1029,904,"Baldacchino, Olivier (SUI)",Genève,1109,35-39,1:29:55,3:01:35
+452,2015,M,1031,906,"Ansede Ferreiro, Jesus (ESP)","New York, NY",10043,40-44,1:29:22,3:01:38
+453,2015,M,1033,908,"Uzarowicz, Alex (USA)","Chicago, IL",20376,20-24,1:29:14,3:01:40
+454,2015,M,1035,910,"Van Dyne, Alan (USA)","Columbus, OH",5073,50-54,1:29:10,3:01:41
+455,2015,M,1037,912,"Zhang, Jun (CHN)","O'Fallon, MO",13095,45-49,1:29:07,3:01:45
+456,2015,M,1040,914,"Robinson, Michael (USA)","Emporia, KS",10147,25-29,1:24:50,3:01:47
+457,2015,M,1042,916,"Huang, He (CHN)","Bronx, NY",8063,30-34,1:28:23,3:01:49
+458,2015,M,1045,918,"Lacoste, Matthew (USA)","Chicago, IL",23521,25-29,1:31:55,3:01:53
+459,2015,M,1047,920,"Harries, Michael (USA)","Chicago, IL",1310,20-24,1:28:47,3:01:56
+460,2015,M,1049,922,"Dahleen, Zach (USA)","Orland Park, IL",29348,20-24,1:27:13,3:01:58
+461,2015,M,1051,924,"Bautz, Joshua (USA)","Nashville, TN",6344,30-34,1:29:19,3:01:59
+462,2015,M,1053,926,"Marshall, Rob (USA)","Plymouth, MI",7096,40-44,1:26:39,3:02:03
+463,2015,M,1055,928,"Armendariz, Ramses (MEX)","St Louis, MO",7002,30-34,1:24:52,3:02:04
+464,2015,M,1057,930,"Fitzgibbons, John (IRL)","Tower, Blarney, CORK",2084,50-54,1:27:55,3:02:05
+465,2015,M,1059,932,"Fitzgibbons, Luke (USA)","Fayetteville, NY",9134,25-29,1:29:04,3:02:06
+466,2015,M,1061,934,"Knieps, Dean (USA)","Tinley Park, IL",9005,20-24,1:24:16,3:02:09
+467,2015,M,1063,936,"Cho, Andrew (USA)","Chicago, IL",12128,35-39,1:27:45,3:02:12
+468,2015,M,1065,938,"Iversen, Mads (NOR)",Oslo,3035,50-54,1:29:15,3:02:15
+469,2015,M,1068,940,"Habte, Habtom (USA)","Danbury, CT",12191,35-39,1:29:03,3:02:21
+470,2015,M,1070,942,"Sosa, Diego (ECU)","Myrtle Beach, SC",12053,40-44,1:27:59,3:02:22
+471,2015,M,1072,944,"Perkins, Justin (USA)","Flushing, NY",11053,20-24,1:29:19,3:02:24
+472,2015,M,1074,946,"Kolb, Alexander (USA)","Boston, MA",9188,30-34,1:28:44,3:02:24
+473,2015,M,1076,948,"Palladino, Christopher (USA)","Kinderhook, NY",9282,16-19,1:30:04,3:02:25
+474,2015,M,1078,950,"May, Frank (USA)","Somerville, MA",24130,25-29,1:31:43,3:02:28
+475,2015,M,1080,952,"Groiss, Wolfgang (AUT)",Graz,918,50-54,1:29:17,3:02:29
+476,2015,M,1082,954,"Chan, Paul (CAN)","Toronto, ON",8169,40-44,1:29:14,3:02:29
+477,2015,M,1084,956,"Caputo, Domenico (ITA)","Barletta - Bt, BT",2106,30-34,1:21:56,3:02:32
+478,2015,M,1086,958,"Singleton, Joe (USA)","Mahwah, NJ",518,30-34,1:26:45,3:02:35
+479,2015,M,1088,960,"Crockett, Paul (USA)","Boston, MA",13157,40-44,1:27:24,3:02:38
+480,2015,M,1090,962,"Iannini, Craig (USA)","Acton, MA",7165,45-49,1:30:12,3:02:44
+481,2015,M,1092,964,"Moeller, Mark (USA)","Los Angeles, CA",4025,25-29,1:19:20,3:02:46
+482,2015,M,1094,966,"Robles, Rafael (GUA)",Guatemala,2064,35-39,1:29:08,3:02:47
+483,2015,M,1096,968,"Hattar, Thomas (USA)","Davidsonville, MD",6035,50-54,1:30:40,3:02:48
+484,2015,M,1098,970,"Tomat, Ugo Numa (ITA)","Venzone, UD",2108,40-44,1:30:29,3:02:49
+485,2015,M,1100,972,"Leandro Hernández, Roger (CRC)",Cartago,1178,40-44,1:30:38,3:02:50
+486,2015,M,1102,974,"Denton, Christopher (USA)","Seattle, WA",6092,30-34,1:24:02,3:02:53
+487,2015,M,1104,976,"Cari, Daniel (USA)","Hudson, WI",11032,35-39,1:30:09,3:02:55
+488,2015,M,1107,978,"Mitchell, Andrew (USA)","Oak Park, IL",1267,40-44,1:30:21,3:02:56
+489,2015,M,1109,980,"Merriweather, Aaron (USA)","Oak Park, IL",5010,35-39,1:28:52,3:02:58
+490,2015,M,1111,982,"Van Buskirk, Jim (CAN)","Brampton, ON",993,55-59,1:29:44,3:02:58
+491,2015,M,1113,984,"Hendriks, Michael (CAN)","Castlegar, BC",1026,30-34,1:24:57,3:03:01
+492,2015,M,1115,986,"Christenson, Michael (USA)","Omaha, NE",5067,30-34,1:29:16,3:03:02
+493,2015,M,1118,988,"Newton, William (USA)","New York, NY",13140,35-39,1:29:48,3:03:05
+494,2015,M,1120,990,"Brown, Andrew (USA)","Baltimore, MD",12135,30-34,1:29:16,3:03:06
+495,2015,M,1122,992,"Gonzalez, Gildardo (COL)",Bogota,1153,55-59,1:27:22,3:03:07
+496,2015,M,1126,994,"Payton, Brock (USA)","Culver City, CA",3132,45-49,1:29:24,3:03:11
+497,2015,M,1128,996,"Calhoun, David (USA)","Minneapolis, MN",13167,25-29,1:28:43,3:03:12
+498,2015,M,1132,998,"Farrington, Drew (USA)","Lansing, MI",13161,25-29,1:33:08,3:03:15
+499,2015,M,1134,1000,"Brefczynski, Pete (USA)","Portland, OR",11044,35-39,1:28:17,3:03:17
+500,2015,M,2,2,"Kitwara, Sammy (KEN)",,2,25-29,1:05:13,2:09:50
+501,2015,M,4,4,"Gebru, Girmay Birhanu (ETH)",,6,25-29,1:05:13,2:10:07
+502,2015,M,6,6,"Korir, Wesley (KEN)",,8,30-34,1:05:13,2:10:39
+503,2015,M,8,8,"Rotich, Lucas (KEN)",,11,25-29,1:05:13,2:13:39
+504,2015,M,10,10,"Cabada, Fernando (USA)",,13,30-34,1:05:53,2:15:36
+505,2015,M,12,12,"Richards, Malcolm (USA)",,19,30-34,1:07:42,2:16:41
+506,2015,M,14,14,"Watson, Rob (CAN)",,15,30-34,1:05:55,2:17:21
+507,2015,M,16,16,"Lemon, Chris (USA)","Springfield, OH",86,25-29,1:07:52,2:18:06
+508,2015,M,18,18,"Macpherson, Scott (USA)",,20,25-29,1:06:56,2:18:34
+509,2015,M,20,20,"Geoghegan, Patrick (USA)","Portland, OR",96,25-29,1:07:52,2:19:38
+510,2015,M,22,22,"Kanezane, Shogo (JPN)",,17,25-29,1:06:57,2:20:40
+511,2015,M,24,24,"Lizano, Cesar (CRC)",Commerce City,88,30-34,1:09:08,2:21:09
+512,2015,M,26,26,"Fellows, Donovan (USA)","Lake Elmo, MN",420,35-39,1:09:09,2:22:05
+513,2015,M,28,28,"Williams, Andy (USA)","Wolcottville, IN",91,25-29,1:11:34,2:22:54
+514,2015,M,30,30,"Hrezi, Mohamed (USA)",,35,20-24,1:09:08,2:23:14
+515,2015,M,32,32,"Guillen, Ramiro (USA)","Goleta, CA",469,30-34,1:09:53,2:23:33
+516,2015,M,36,34,"Barrett, Matt (USA)","Verona, WI",414,25-29,1:09:18,2:23:43
+517,2015,M,38,36,"Julia, Jaime (USA)","Albany, NY",425,30-34,1:10:28,2:24:03
+518,2015,M,42,38,"O'Connor, Teage (USA)","Burlington, VT",461,30-34,1:10:48,2:24:31
+519,2015,M,45,40,"Kremske, Dan (USA)","Chicago, IL",30,25-29,1:09:10,2:24:42
+520,2015,M,47,42,"Shields, Rex (USA)","Provo, UT",455,25-29,1:08:49,2:25:09
+521,2015,M,50,44,"Eustance, Tyler (USA)","Binghamton, NY",456,20-24,1:11:44,2:25:26
+522,2015,M,52,46,"Petrak, David (USA)","Aurora, OH",84,25-29,1:09:51,2:25:50
+523,2015,M,54,48,"Bechtol, Keith (USA)","Madison, WI",83,30-34,1:09:05,2:26:13
+524,2015,M,56,50,"Cook, Riley (USA)","South Weber, UT",432,30-34,1:08:49,2:26:26
+525,2015,M,58,52,"Root, Ryan (USA)","Champaign, IL",478,20-24,1:11:29,2:26:46
+526,2015,M,60,54,"Kettler, Michael (USA)","Boulder, CO",421,35-39,1:11:34,2:27:13
+527,2015,M,62,56,"Hird, Nick (USA)","Naperville, IL",431,30-34,1:12:12,2:27:29
+528,2015,M,64,58,"Hamilton, Joel (USA)","Golden, CO",6199,30-34,1:13:36,2:27:37
+529,2015,M,66,60,"Turner, Wesley (USA)","Danville, VA",81,25-29,1:13:13,2:27:45
+530,2015,M,69,62,"Sharkey, Bryan (USA)","Miami, FL",403,25-29,1:14:03,2:28:11
+531,2015,M,71,64,"Hanson, Erik (USA)","Moorhead, MN",463,25-29,1:12:21,2:28:21
+532,2015,M,73,66,"Favela, Emisael (MEX)","Berwyn, IL",460,35-39,1:14:06,2:28:24
+533,2015,M,75,68,"Lerma, Jordan (USA)","Keaau, HI",6120,20-24,1:13:17,2:28:44
+534,2015,M,78,70,"Johnson, Scott (USA)","Ames, IA",427,30-34,1:14:05,2:29:31
+535,2015,M,81,72,"Bradley, Sam (GBR)","Peoria, IL",450,25-29,1:14:00,2:30:13
+536,2015,M,83,74,"Valenzona, Damon (USA)","San Diego, CA",439,25-29,1:14:03,2:30:28
+537,2015,M,85,76,"Vanos, William (USA)","Orlando, FL",417,40-44,1:14:05,2:30:52
+538,2015,M,87,78,"Schneider, Ben (USA)","Minneapolis, MN",449,30-34,1:13:16,2:30:57
+539,2015,M,89,80,"Torphy, Bobby (USA)","Denver, CO",434,25-29,1:14:22,2:31:10
+540,2015,M,92,82,"Vanbruggen, Mitch (USA)","Sunnyvale, CA",93,25-29,1:13:26,2:31:28
+541,2015,M,95,84,"Wilber, Matthew (USA)","Corning, NY",409,30-34,1:13:15,2:31:47
+542,2015,M,97,86,"Tomita, Shohei (JPN)","Kyoto, KYOTO",495,20-24,1:10:22,2:32:02
+543,2015,M,99,88,"Kurek, Justin (CAN)","Calgary, AB",1042,35-39,1:15:47,2:32:17
+544,2015,M,101,90,"Erichsen, Chris (USA)",,22,25-29,1:09:10,2:32:33
+545,2015,M,103,92,"Wood, Ethan (USA)","Lemont, IL",5378,20-24,1:14:28,2:32:43
+546,2015,M,105,94,"Akita, James (USA)","Elmhurst, IL",481,35-39,1:12:16,2:32:50
+547,2015,M,108,96,"Huberty, Bryan (USA)","Miami Beach, FL",413,35-39,1:14:02,2:32:53
+548,2015,M,110,98,"Woldesilassie, Daniel (USA)","Wheaton, IL",13165,20-24,1:15:47,2:33:11
+549,2015,M,113,100,"Rieger, Cameron (USA)","Mundelein, IL",498,20-24,1:14:00,2:33:20
+550,2015,M,115,102,"Heffron, Rich (USA)","Chicago, IL",90,30-34,1:16:15,2:33:29
+551,2015,M,117,104,"Tyner, Alexander (USA)","Rancho Santa Fe, CA",13096,20-24,1:15:12,2:33:41
+552,2015,M,119,106,"Denny, Brian (USA)","Cincinnati, OH",99,25-29,1:14:05,2:33:52
+553,2015,M,121,108,"Reilly, Jason (USA)","East Greenwich, RI",10029,30-34,1:14:50,2:34:04
+554,2015,M,123,110,"Alban, Bradley (USA)","Johnson City, TN",5191,25-29,1:15:40,2:34:10
+555,2015,M,125,112,"Lustgarten, Brett (USA)","Carol Stream, IL",422,25-29,1:14:05,2:34:16
+556,2015,M,128,114,"Wakefield, Brian (USA)","Vernon Hills, IL",13104,35-39,1:18:14,2:34:38
+557,2015,M,130,116,"Vargas, Roy (CRC)",Heredia,1176,35-39,1:12:56,2:35:02
+558,2015,M,132,118,"Kazery, Peter (USA)","Jackson, MS",8182,20-24,1:18:55,2:35:16
+559,2015,M,134,120,"Limoni, Nicholas (USA)","Milwaukee, WI",11073,25-29,1:16:44,2:35:18
+560,2015,M,136,122,"Gilbert, Mitchell (USA)","Naperville, IL",10015,20-24,1:15:46,2:35:31
+561,2015,M,138,124,"Yitref, Gedion (USA)","Chicago, IL",6155,25-29,1:17:14,2:35:44
+562,2015,M,140,126,"Agostinetto, Carlo (ITA)","Norwalk, CT",10083,35-39,1:18:04,2:35:50
+563,2015,M,142,128,"Glibert, Chris (USA)","Oxnard, CA",77,25-29,1:16:43,2:35:51
+564,2015,M,144,130,"Achmüller, Hermann (ITA)","Brixen, SÜDTIROL",487,40-44,1:14:14,2:36:31
+565,2015,M,146,132,"Baker, Zach (USA)","Iowa City, IA",13071,20-24,1:11:14,2:36:38
+566,2015,M,148,134,"Sims, Evan (USA)","Spokane Valley, WA",423,35-39,1:13:32,2:36:39
+567,2015,M,150,136,"Sr. Gonzalez, Francisco (CHI)",San Bernardo,1121,30-34,1:17:32,2:36:46
+568,2015,M,152,138,"Gehrig, Roman (SUI)",Zurich,1112,45-49,1:16:22,2:36:53
+569,2015,M,154,140,"Frash, Joshua (USA)","Athens, OH",6068,20-24,1:17:43,2:37:30
+570,2015,M,156,142,"Crouzier, Nicolas (FRA)","Gaithersburg, MD",7012,30-34,1:17:52,2:37:34
+571,2015,M,158,144,"Miller, Ryan (USA)","Manchester, CT",7109,25-29,1:17:50,2:37:45
+572,2015,M,160,146,"Wang, Xiao (USA)","Seattle, WA",5011,25-29,1:17:54,2:38:01
+573,2015,M,162,148,"Geddes, Euan (GBR)","Glasgow, LANARKSHIRE",2023,40-44,1:18:28,2:38:02
+574,2015,M,164,150,"Schneider, Mac (USA)","Woodway, WA",4061,25-29,1:17:23,2:38:12
+575,2015,M,167,152,"Nielsen, Fredric (USA)","Orland Park, IL",13150,35-39,1:18:11,2:38:24
+576,2015,M,169,154,"Mutai, Christopher (USA)","Ponte-Vedra, FL",92,35-39,1:15:26,2:38:58
+577,2015,M,171,156,"O'Brien, Kyle (USA)","Arvada, CO",5062,25-29,1:17:42,2:39:02
+578,2015,M,173,158,"Mendoza, Eric (USA)","Boston, MA",12095,30-34,1:15:11,2:39:09
+579,2015,M,175,160,"Mccollam, David (USA)","Sycamore, IL",78,35-39,1:16:26,2:39:18
+580,2015,M,177,162,"Liew, Ashley (SIN)","Spartanburg, SC",10005,25-29,1:14:33,2:39:24
+581,2015,M,179,164,"Parekh, Anand (USA)","Chicago, IL",6176,40-44,1:19:05,2:39:30
+582,2015,M,182,166,"Parsel, Andrew (USA)","Oconomowoc, WI",8129,30-34,1:19:07,2:39:46
+583,2015,M,184,168,"Fellows, Brandon (USA)","Minneapolis, MN",454,25-29,1:17:36,2:39:50
+584,2015,M,186,170,"Hutchins, Darren (USA)","Houston, TX",6041,30-34,1:17:35,2:39:55
+585,2015,M,188,172,"Tissue, Jeffrey (USA)","Denver, CO",11169,25-29,1:17:49,2:40:16
+586,2015,M,190,174,"Guerrero, Salvador (MEX)","Ocotlan, JALISCO",410,40-44,1:15:08,2:40:31
+587,2015,M,192,176,"Meier, Fabian (SUI)",Aarau,1115,30-34,1:17:58,2:40:38
+588,2015,M,194,178,"Arend, Nils (GER)","Los Angeles, CA",9119,35-39,1:17:57,2:40:43
+589,2015,M,196,180,"Viano, Austin (USA)","Philadelphia, PA",4041,20-24,1:15:43,2:40:45
+590,2015,M,198,182,"Cox, Ryan (USA)","Anchorage, AK",12081,25-29,1:19:58,2:41:12
+591,2015,M,200,184,"Lemon, Matt (USA)","Dayton, OH",440,25-29,1:11:09,2:41:25
+592,2015,M,203,186,"Craig, John (USA)","Chicago, IL",3113,30-34,1:20:52,2:41:51
+593,2015,M,205,188,"Hendricks, Ryan (USA)","Dallas, TX",12091,30-34,1:16:46,2:42:04
+594,2015,M,208,190,"Counts, Dave (USA)","Newtonville, MA",5004,45-49,1:20:34,2:42:13
+595,2015,M,210,192,"Kunz, Corey (USA)","hoboken, NJ",6127,30-34,1:20:46,2:42:16
+596,2015,M,212,194,"Emmanuel, Benjamin (USA)","Wheaton, IL",13192,25-29,1:18:19,2:42:24
+597,2015,M,214,196,"Helder, Cory (USA)","Chicago, IL",10076,25-29,1:20:45,2:42:27
+598,2015,M,217,198,"Becker, Aaron (USA)","Noblesville, IN",4173,25-29,1:17:46,2:42:47
+599,2015,M,219,200,"Delgado, Jaime (ESP)","Fuenlabrada, MADRID",1870,30-34,1:21:22,2:43:00
+600,2015,M,221,202,"Rogers, Alexander (AUS)","Double Bay, NSW",80,35-39,1:14:42,2:43:04
+601,2015,M,223,204,"Albes, Thomas (USA)","Saint Louis, MO",8093,25-29,1:16:56,2:43:15
+602,2015,M,225,206,"Kardous, Pierre (FRA)",Gemenos,2001,25-29,1:19:24,2:43:17
+603,2015,M,227,208,"Kramer, Timothy (USA)","New York, NY",5101,25-29,1:19:10,2:43:19
+604,2015,M,229,210,"Andersen, Jordan (USA)","Kirkland, WA",13185,30-34,1:21:24,2:43:21
+605,2015,M,231,212,"Kinsella, Daniel (USA)","Walnut Creek, CA",14043,30-34,1:19:02,2:43:22
+606,2015,M,233,214,"Galaviz, José (MEX)","Monterrey, NUEVO LEON",2170,50-54,1:21:27,2:43:28
+607,2015,M,235,216,"Pincock, Trevor (USA)","Spokane, WA",10140,35-39,1:21:26,2:43:34
+608,2015,M,237,218,"Takano, Walter (PER)",Lima,3054,45-49,1:22:35,2:43:42
+609,2015,M,239,220,"Jackson, James (USA)","Denver, CO",15002,25-29,1:23:03,2:43:43
+610,2015,M,241,222,"Jarman, Bryson (USA)","Lebanon, MO",4099,25-29,1:14:10,2:43:47
+611,2015,M,243,224,"Dolgin, Mark (USA)","Chicago, IL",14072,30-34,1:20:52,2:43:57
+612,2015,M,245,226,"Petschar, Andreas (AUT)",Villach,923,45-49,1:21:10,2:43:58
+613,2015,M,247,228,"Niska, Bobby (USA)","Wheaton, IL",7147,20-24,1:19:51,2:44:04
+614,2015,M,249,230,"Rothlauf, Jared (USA)","Gurnee, IL",8043,25-29,1:15:49,2:44:13
+615,2015,M,251,232,"Moutos, Christopher (USA)","Little Rock, AR",6163,20-24,1:23:59,2:44:14
+616,2015,M,253,234,"Schulz, Olaf (USA)","Lakeland, TN",5066,35-39,1:21:41,2:44:16
+617,2015,M,255,236,"Schiemann, Chris (USA)","Middleton, WI",7077,30-34,1:20:34,2:44:19
+618,2015,M,257,238,"Shunk, Alec (USA)","Rochester, IL",7030,25-29,1:19:39,2:44:24
+619,2015,M,260,240,"Jr. Swanek, Richard (USA)","Elmhurst, IL",6640,35-39,1:20:45,2:44:28
+620,2015,M,263,242,"Sikes, David (USA)","Westerville, OH",4100,30-34,1:21:00,2:44:35
+621,2015,M,265,244,"Poll, Markus (AUT)",Villach,917,45-49,1:21:28,2:44:36
+622,2015,M,267,246,"Rielley, Jeremy (USA)","Chicago, IL",10099,30-34,1:22:30,2:44:46
+623,2015,M,269,248,"Peck, Josh (USA)","Lombard, IL",8174,30-34,1:18:23,2:44:49
+624,2015,M,271,250,"Wiltse, Heath (USA)","Coeur D'Alene, ID",10185,40-44,1:20:20,2:44:50
+625,2015,M,274,252,"Flach, Evan (USA)","New York, NY",582,25-29,1:16:42,2:44:53
+626,2015,M,276,254,"Lapoint, Chris (USA)","Youngsville, LA",546,40-44,1:21:50,2:44:56
+627,2015,M,279,256,"Larson, Tyler (USA)","Minneapolis, MN",4155,25-29,1:19:25,2:45:07
+628,2015,M,281,258,"Zeisler, David (USA)","Gurnee, IL",5027,40-44,1:21:38,2:45:11
+629,2015,M,283,260,"Lee, Terence (USA)","New York, NY",6080,25-29,1:20:40,2:45:16
+630,2015,M,285,262,"Tusso, Robert (USA)","Flagstaff, AZ",7020,35-39,1:19:54,2:45:17
+631,2015,M,287,264,"Sr. Lopez, Alfredo (PER)",Lima,3053,30-34,1:22:34,2:45:23
+632,2015,M,289,266,"Sanseverino, Cole (USA)","Flint, MI",9131,25-29,1:16:12,2:45:29
+633,2015,M,291,268,"Hia, Caleb (SIN)","Eugene, OR",2054,20-24,1:24:10,2:45:43
+634,2015,M,293,270,"Pennington, Jay (USA)","Des Moines, IA",7105,40-44,1:20:59,2:45:45
+635,2015,M,298,272,"Contreras Mora, Luis (USA)","Reno, NV",12071,25-29,1:18:13,2:46:08
+636,2015,M,300,274,"Dixon, Brian (USA)","Springfield, IL",26315,20-24,1:27:14,2:46:12
+637,2015,M,302,276,"Goodman, John (USA)","Birmingham, AL",5095,35-39,1:22:56,2:46:17
+638,2015,M,305,278,"Wines, Matt (USA)","Pinckney, MI",7082,25-29,1:22:15,2:46:27
+639,2015,M,307,280,"Schmalz, Fred (USA)","Chicago, IL",11123,40-44,1:18:21,2:46:34
+640,2015,M,309,282,"Hall, Kyle (USA)","Seattle, WA",8035,25-29,1:18:55,2:46:35
+641,2015,M,313,284,"Leal, Jose (COL)",Bogota,1160,45-49,1:18:27,2:46:42
+642,2015,M,316,286,"Harrison, Alex (USA)","Palatine, IL",458,20-24,1:17:48,2:46:47
+643,2015,M,318,288,"Jackson, Christopher (USA)","Greensboro, NC",12038,30-34,1:22:52,2:46:48
+644,2015,M,321,290,"Lanners, Jeff (USA)","South Saint Paul, MN",8111,30-34,1:20:08,2:47:05
+645,2015,M,325,292,"Sebestik, Taylor (USA)","St. Louis, MO",11162,25-29,1:21:06,2:47:08
+646,2015,M,327,294,"Yerkes, Patrick (USA)","River Forest, IL",8210,20-24,1:24:47,2:47:15
+647,2015,M,329,296,"Briskman, Colin (USA)","Berkeley, CA",20125,20-24,1:22:55,2:47:20
+648,2015,M,332,298,"Sr. Riis, Carsten (DEN)","Valby, VALBY",2994,35-39,1:21:45,2:47:24
+649,2015,M,336,300,"Lazo, Reynaldo (CRC)",San Jose,2963,30-34,1:24:54,2:47:30
+650,2015,M,339,302,"Johnson, Eric (USA)","La Crosse, WI",6189,25-29,1:21:45,2:47:37
+651,2015,M,341,304,"Espinoza, Jesse (USA)","Belen, NM",14002,45-49,1:24:41,2:47:39
+652,2015,M,343,306,"Torp, Peter (DEN)","Gundsoemagle, ROSKILDE",8001,16-19,1:24:32,2:47:41
+653,2015,M,346,308,"Hardy, Sebastien (FRA)","Paris, AE",2002,40-44,1:24:14,2:47:46
+654,2015,M,348,310,"Bobe, Randy (USA)","Keller, TX",12042,35-39,1:23:10,2:47:48
+655,2015,M,350,312,"Lubas, Todd (USA)","Shillington, PA",12151,30-34,1:23:00,2:47:49
+656,2015,M,353,314,"Rosendahl, Evan (USA)","Chicago, IL",11110,35-39,1:20:04,2:47:56
+657,2015,M,355,316,"Lin, Peter (USA)","State College, PA",9007,20-24,1:23:13,2:47:56
+658,2015,M,357,318,"Sousa, Hugo (POR)","Parede, PORTUGAL",3069,40-44,1:24:14,2:47:57
+659,2015,M,361,320,"Wood, Samuel (USA)","Chicago, IL",539,25-29,1:20:24,2:48:15
+660,2015,M,363,322,"Hacker, Max (USA)","Alexandria, VA",8148,25-29,1:17:39,2:48:17
+661,2015,M,365,324,"Brunette, Mike (USA)","Libertyville, IL",8070,35-39,1:24:08,2:48:18
+662,2015,M,367,326,"Herman, Jeffrey (USA)","Chicago, IL",10051,30-34,1:25:12,2:48:27
+663,2015,M,369,328,"McGuire, Kevin (USA)","St. Charles, MO",7136,35-39,1:22:46,2:48:31
+664,2015,M,373,330,"Noll, Troy (USA)","Grand Rapids, MI",10162,30-34,1:24:13,2:48:59
+665,2015,M,375,332,"Delaunay, Pierre-Yves (USA)","Santa Monica, CA",13013,30-34,1:24:35,2:49:07
+666,2015,M,377,334,"Jr. Neiman, John (USA)","Birmingham, AL",5171,40-44,1:23:38,2:49:12
+667,2015,M,379,336,"Bias, Nick (USA)","Charleston, WV",4154,30-34,1:23:58,2:49:13
+668,2015,M,383,338,"Sheehan, Niall (IRL)","London, MIDDLESEX",2055,30-34,1:14:19,2:49:20
+669,2015,M,385,340,"Gunby, Craig (USA)","Palatine, IL",8055,50-54,1:21:09,2:49:21
+670,2015,M,387,342,"King, Aaron (USA)","Chicago, IL",12050,25-29,1:22:48,2:49:28
+671,2015,M,389,344,"Mathis, Pete (USA)","Orland Hills, IL",7031,40-44,1:21:54,2:49:35
+672,2015,M,392,346,"Oliver, Kevin (USA)","Chicago, IL",6039,20-24,1:25:33,2:49:40
+673,2015,M,395,348,"Impellitteri, Sal (USA)","Oak Creek, WI",24857,30-34,1:22:37,2:49:46
+674,2015,M,397,350,"Van Winkle, Eric (USA)","Zionsville, IN",13180,30-34,1:22:50,2:49:50
+675,2015,M,399,352,"Kopelow, Dan (USA)","Chicago, IL",5043,30-34,1:23:21,2:49:57
+676,2015,M,402,354,"Steinweg, Paul (USA)","Breckenridge, CO",4098,30-34,1:25:07,2:49:58
+677,2015,M,404,356,"Sather, Evan (USA)","Willowbrook, IL",8097,30-34,1:23:27,2:49:59
+678,2015,M,406,358,"Ingelmo, Gumersindo (MEX)","Mexico, DISTRITO FEDERAL",3001,40-44,1:24:58,2:50:03
+679,2015,M,409,360,"Bolanos, Antonio (CRC)",San José,1183,25-29,1:25:04,2:50:10
+680,2015,M,412,362,"Certuche Villada, Johao (COL)",Bogotá,1156,30-34,1:21:23,2:50:16
+681,2015,M,414,364,"Stanesby, Matthew (GBR)","Chicago, IL",13138,30-34,1:24:50,2:50:18
+682,2015,M,416,366,"Hagedorn, Philip (USA)","Cincinnati, OH",8114,30-34,1:24:26,2:50:22
+683,2015,M,418,368,"Pearson, Blake (USA)","Homewood, AL",10071,35-39,1:25:17,2:50:24
+684,2015,M,420,370,"Araujo, Miguel (POR)","Porto, Portugal",3071,45-49,1:23:14,2:50:27
+685,2015,M,422,372,"Mahaffey, Jacob (USA)","Madison, WI",7163,20-24,1:24:17,2:50:36
+686,2015,M,424,374,"Carrillo, Juan (MEX)","Summit, IL",3144,30-34,1:25:26,2:50:36
+687,2015,M,427,376,"Balcom, Donald (USA)","New York, NY",57958,40-44,1:23:15,2:50:38
+688,2015,M,429,378,"Butler, Brad (USA)","Charleston, IL",10119,30-34,1:21:25,2:50:38
+689,2015,M,431,380,"Tanguay, Jonathan (USA)","College Station, TX",13005,35-39,1:23:04,2:50:41
+690,2015,M,433,382,"Marbis, Miguel (CRC)",Miami,1168,30-34,1:23:46,2:50:43
+691,2015,M,435,384,"Kapusinski, Shaun (USA)","Wadsworth, OH",7110,35-39,1:25:15,2:50:47
+692,2015,M,437,386,"Hunkele, Mark (USA)","Pittsburgh, PA",7135,40-44,1:22:25,2:50:51
+693,2015,M,440,388,"Collie, Anthony (NZL)","Bellevue Hill, NEW SOUTH WALES",938,40-44,1:25:51,2:50:56
+694,2015,M,442,390,"Marin, Daniel (USA)","Brooklyn, NY",5333,20-24,1:23:23,2:50:58
+695,2015,M,444,392,"Tucceri, Kevin (USA)","Franklin, MA",6022,40-44,1:26:12,2:51:00
+696,2015,M,446,394,"Jr. Rivers, James (USA)","Newport Coast, CA",6061,30-34,1:25:28,2:51:11
+697,2015,M,448,396,"Corona Iturriaga, Roberto (MEX)","Zapopan, JALISCO",2191,35-39,1:20:56,2:51:12
+698,2015,M,452,398,"Quinteros, Martin (CHI)",Santiago,1132,35-39,1:25:32,2:51:20
+699,2015,M,454,400,"Yang, Shizhong (CHN)","West Hartford, CT",4020,30-34,1:24:53,2:51:23
+700,2015,M,456,402,"Pascoe, John (USA)","Cincinnati, OH",9259,30-34,1:27:04,2:51:30
+701,2015,M,459,404,"Webster, Ryan (USA)","Minneapolis, MN",13172,30-34,1:23:01,2:51:41
+702,2015,M,461,406,"Maga, Kyle (CAN)","Hamilton, ON",1083,40-44,1:25:56,2:51:47
+703,2015,M,463,408,"Alvarez Fernandez, Jorge (ESP)","Madrid, MADRID",1829,35-39,1:25:07,2:51:50
+704,2015,M,465,410,"Jaagant, Priit (EST)",Otepää,1825,40-44,1:23:48,2:51:55
+705,2015,M,468,412,"Fedoroff, Nick (USA)","Portland, OR",6110,35-39,1:27:07,2:51:58
+706,2015,M,470,414,"Frezell, Mark (CAN)","Calgary, AB",1064,45-49,1:23:54,2:52:07
+707,2015,M,473,416,"Brust, John (USA)","San Francisco, CA",593,40-44,1:26:58,2:52:10
+708,2015,M,475,418,"Sr. Gonzalez, Jose (CHI)",San Bernardo,1134,40-44,1:21:57,2:52:15
+709,2015,M,477,420,"Jr. Stanton, Daniel (USA)","Chicago, IL",9123,30-34,1:25:15,2:52:19
+710,2015,M,479,422,"Tada, Kazunori (JPN)","San Jose, CA",4024,40-44,1:25:20,2:52:21
+711,2015,M,481,424,"Neal, Matthew (GBR)","Seer Green, Beaconsfield, BUCKINGHAMSHIRE",2034,25-29,1:20:20,2:52:22
+712,2015,M,483,426,"Martins, Fabio (BRA)","Sao Paulo, SAO PAULO",948,35-39,1:27:14,2:52:26
+713,2015,M,485,428,"Devillers, Alexander (USA)","Milwaukee, WI",26695,25-29,1:20:33,2:52:26
+714,2015,M,488,430,"Gonzalez, Victor (GUA)",Guatemala,9129,25-29,1:09:15,2:52:30
+715,2015,M,490,432,"Nickerson, Todd (USA)","Albuquerque, NM",14050,25-29,1:21:08,2:52:30
+716,2015,M,492,434,"Zavalishin, Joseph (USA)","Lake Forest, IL",12110,40-44,1:25:52,2:52:34
+717,2015,M,494,436,"Semanyshyn, Matthew (USA)","New York, NY",3149,25-29,1:21:29,2:52:36
+718,2015,M,496,438,"Yamanaka, Kohichiro (JPN)","Machida-Shi, TOKYO",9136,30-34,1:15:44,2:52:40
+719,2015,M,498,440,"Lebak, Nathan (USA)","Lake Geneva, WI",6017,35-39,1:26:24,2:52:43
+720,2015,M,501,442,"Apfelbaum, Sean (USA)","Northbrook, IL",14073,25-29,1:21:01,2:52:44
+721,2015,M,503,444,"Castillo, Franklin (PAN)","Panama, PANAMA",10249,30-34,1:24:58,2:52:47
+722,2015,M,505,446,"Galli, David (USA)","Mission Viejo, CA",12193,30-34,1:25:38,2:52:47
+723,2015,M,508,448,"Harrington, James (USA)","Bolingbrook, IL",11014,35-39,1:21:54,2:52:52
+724,2015,M,510,450,"Bucci, Daniel (USA)","Houston, TX",6036,30-34,1:24:20,2:52:55
+725,2015,M,512,452,"Treat, Matthew (USA)","Shorewood, WI",10069,25-29,1:27:39,2:52:59
+726,2015,M,515,454,"Martino, Thomas (USA)","Chicago, IL",5108,25-29,1:25:22,2:53:00
+727,2015,M,517,456,"Lippoldt, Torsten (GER)","Spokane Valley, WA",7192,35-39,1:20:27,2:53:03
+728,2015,M,519,458,"Fritsch, Patrick (USA)","Bensenville, IL",9295,25-29,1:26:13,2:53:04
+729,2015,M,521,460,"Virano, Aldo (USA)","Jupiter, FL",10030,45-49,1:25:40,2:53:05
+730,2015,M,523,462,"Wedge, Roy (USA)","Lawrence, KS",7148,20-24,1:25:22,2:53:07
+731,2015,M,525,464,"Mehech, Bruno (USA)","Somerville, MA",12157,25-29,1:20:50,2:53:12
+732,2015,M,527,466,"Smth, Travis (USA)","Washington, DC",4122,25-29,1:21:56,2:53:12
+733,2015,M,529,468,"Lallier, Antoine (FRA)",Luxembourg,1876,35-39,1:26:44,2:53:16
+734,2015,M,532,470,"Xu, Shaohua (USA)","Danville, PA",8025,40-44,1:24:52,2:53:18
+735,2015,M,534,472,"Mullaney, Jack (USA)","Eagan, MN",11178,20-24,1:25:43,2:53:21
+736,2015,M,536,474,"Jr. Kherlakian, Wilson (BRA)","São Paulo, SP",972,40-44,1:27:01,2:53:30
+737,2015,M,540,476,"Labelle, Ian (USA)","Chicago, IL",497,25-29,1:25:47,2:53:32
+738,2015,M,543,478,"Ellis, Ryan (USA)","Irvine, CA",5077,40-44,1:24:47,2:53:37
+739,2015,M,545,480,"Mitchell, Benjamin (USA)","Seattle, WA",3172,30-34,1:26:20,2:53:38
+740,2015,M,547,482,"Acosta Rosales, Edgar (MEX)","Atizapan De Zaragoza, EDO. DE MEXICO",2177,40-44,1:25:09,2:53:38
+741,2015,M,549,484,"Martinez, Jaime (USA)","Willmar, MN",7023,30-34,1:22:19,2:53:41
+742,2015,M,551,486,"Collier, Benjamin (GBR)","Brooklyn, NY",522,30-34,1:27:17,2:53:43
+743,2015,M,553,488,"Grant, Chris (USA)","Bethesda, MD",6196,35-39,1:26:55,2:53:44
+744,2015,M,555,490,"Douville, Christopher (USA)","Baltimore, MD",6053,25-29,1:29:07,2:53:45
+745,2015,M,557,492,"Agüero, Erick (CRC)",San José,1175,30-34,1:23:40,2:53:55
+746,2015,M,559,494,"Jordan, Douglas (USA)","State College, PA",4069,20-24,1:23:14,2:53:55
+747,2015,M,561,496,"Shewbridge, Spencer (USA)","Cincinnati, OH",12099,20-24,1:24:39,2:53:56
+748,2015,M,563,498,"Jackson, Brian (USA)","The Woodlands, TX",6178,35-39,1:25:19,2:54:00
+749,2015,M,567,500,"Ceretta, Alessio (ITA)","Torreglia, PADOVA",2096,35-39,1:26:03,2:54:05
+750,2015,M,570,502,"Yelsey, Josh (USA)","Chicago, IL",7005,30-34,1:20:43,2:54:08
+751,2015,M,573,504,"Dettloff, Matt (USA)","Palatine, IL",11002,25-29,1:27:38,2:54:11
+752,2015,M,575,506,"Gemeda, Kassaye (USA)","Bloomington, MN",2095,35-39,1:22:17,2:54:18
+753,2015,M,577,508,"Morrison, Donald (USA)","Pasadena, CA",14092,35-39,1:27:05,2:54:22
+754,2015,M,580,510,"Steinbruegge, Robert (USA)","Atlanta, GA",2404,30-34,1:30:23,2:54:26
+755,2015,M,582,512,"Magliaro, Robert (USA)","New York, NY",11376,25-29,1:27:46,2:54:27
+756,2015,M,584,514,"Sr. Sánchez Peña, Luis (CRC)",Cartago,3062,20-24,1:24:02,2:54:30
+757,2015,M,586,516,"Kowols, Tim (USA)","Green Bay, WI",11112,25-29,1:26:21,2:54:36
+758,2015,M,588,518,"Parkinson, David (USA)","New York, NY",4036,30-34,1:28:17,2:54:43
+759,2015,M,591,520,"Humphreys, Robert (USA)","New York, NY",4018,25-29,1:19:02,2:54:49
+760,2015,M,593,522,"Denny, Jeffrey (USA)","Cincinnati, OH",426,20-24,1:17:37,2:54:50
+761,2015,M,595,524,"Engel, Stephen (USA)","Chicago, IL",6136,25-29,1:24:44,2:54:54
+762,2015,M,597,526,"Medina Garcia, Juan Pedro (ESP)","Nueva Andalucia  (Marbella), MÁLAGA",1843,45-49,1:24:01,2:54:58
+763,2015,M,599,528,"Hale, Aaron (USA)","Raleigh, NC",6070,35-39,1:20:58,2:55:00
+764,2015,M,601,530,"Trotman, Andrew (AUS)","Boston, MA",7081,30-34,1:28:19,2:55:01
+765,2015,M,603,532,"Spry, Jeremy (USA)","Philadelphia, PA",4194,25-29,1:26:06,2:55:03
+766,2015,M,606,534,"Laumann, Scott (USA)","Chicago, IL",8131,45-49,1:25:25,2:55:08
+767,2015,M,608,536,"Koranda, Jeff (USA)","Chicago, IL",8099,25-29,1:28:13,2:55:10
+768,2015,M,611,538,"Stansberry, Bryan (USA)","Columbus, OH",10189,35-39,1:27:19,2:55:12
+769,2015,M,613,540,"Venzor, Omar (USA)","Dallas, TX",4138,25-29,1:25:08,2:55:13
+770,2015,M,615,542,"Lewis, Kevin (USA)","Johnstown, CO",8146,25-29,1:28:18,2:55:16
+771,2015,M,617,544,"Cooper, Patrick (USA)","Jacksonville, FL",1921,25-29,1:24:37,2:55:19
+772,2015,M,619,546,"Bull, Haakon (NOR)",Kjoepmannskjaer,3040,50-54,1:24:43,2:55:20
+773,2015,M,621,548,"Lywood, Shawn (CAN)","St. Albert, AB",1008,30-34,1:22:20,2:55:21
+774,2015,M,624,550,"Maggs, Charles (USA)","Boston, MA",11094,30-34,1:25:16,2:55:22
+775,2015,M,626,552,"Dean, Kevin (USA)","Portland, OR",11072,35-39,1:27:46,2:55:24
+776,2015,M,628,554,"Lipski, Scott (USA)","Chicago, IL",12043,40-44,1:25:20,2:55:25
+777,2015,M,632,556,"Martino, Phillip (USA)","Rockford, IL",4023,35-39,1:25:28,2:55:33
+778,2015,M,634,558,"Jr. Kirk, David (USA)","Sudbury, MA",8117,40-44,1:26:44,2:55:35
+779,2015,M,637,560,"Friedlander, Scott (USA)","Deerfield, IL",10010,25-29,1:29:16,2:55:36
+780,2015,M,639,562,"Jones, Richard (TRI)",Port Of Spainn,3097,35-39,1:18:23,2:55:38
+781,2015,M,641,564,"Groendyk, Evan (USA)","Grand Rapids, MI",7039,25-29,1:23:28,2:55:42
+782,2015,M,643,566,"Reyes, Richard (CRC)",Alajuela,1162,30-34,1:28:33,2:55:46
+783,2015,M,645,568,"Majano, Bernardo (CAN)","Concord, ON",1068,30-34,1:23:42,2:55:47
+784,2015,M,649,570,"Walsh, Patrick (USA)","Arlington Heights, IL",1280,25-29,1:27:54,2:55:50
+785,2015,M,651,572,"Evans, Robin (GBR)","Chester, CHESHIRE",2033,45-49,1:25:51,2:55:52
+786,2015,M,655,574,"Randolph, Ryan (USA)","Norwell, MA",11051,40-44,1:27:24,2:56:05
+787,2015,M,658,576,"Oliver, Brian (USA)","Centennial, CO",3118,20-24,1:27:19,2:56:13
+788,2015,M,660,578,"Seelbach, Eric (USA)","Chicago, IL",8227,25-29,1:26:57,2:56:14
+789,2015,M,663,580,"Kayama, Hiroyuki (JPN)","Irvine, CA",3157,30-34,1:26:59,2:56:15
+790,2015,M,665,582,"Jr. Guerrero, Hector (MEX)","Zapopan, JALISCO",2197,25-29,1:28:45,2:56:16
+791,2015,M,667,584,"Tripicchio, Ryan (USA)","Kremmling, CO",7143,25-29,1:27:02,2:56:16
+792,2015,M,669,586,"De Jesus, Jeval (USA)","Glendale, CA",4062,30-34,1:26:45,2:56:21
+793,2015,M,672,588,"Loh, Timothy (USA)","New York, NY",20905,30-34,1:28:12,2:56:23
+794,2015,M,674,590,"Dicaprio, Adam (USA)","Urbana, IL",8150,25-29,1:29:18,2:56:24
+795,2015,M,676,592,"Loaiza, David (USA)","New York, NY",7092,45-49,1:28:44,2:56:25
+796,2015,M,678,594,"Anderson, Mark (GBR)","Lichfield, STRAFFS",2006,25-29,1:24:06,2:56:26
+797,2015,M,680,596,"Bair, Jonathan (USA)","Marietta, GA",4185,40-44,1:27:56,2:56:27
+798,2015,M,682,598,"Hadley, Stephen (USA)","Washington, DC",7068,40-44,1:25:15,2:56:28
+799,2015,M,685,600,"Boyd, Jacob (USA)","High Point, NC",573,25-29,1:27:19,2:56:31
+800,2015,M,687,602,"Halaby, Tony (USA)","Chicago, IL",10197,45-49,1:27:45,2:56:33
+801,2015,M,689,604,"Oconitrillo, Jorge (USA)","Victoria, MN",11181,40-44,1:25:40,2:56:35
+802,2015,M,691,606,"Fudurich, Bob (USA)","Mounds View, MN",4168,35-39,1:28:09,2:56:36
+803,2015,M,693,608,"Paff, Brian (USA)","Chicago, IL",7042,35-39,1:27:08,2:56:39
+804,2015,M,696,610,"Sr. Cabrera, Manuel (ESP)","Alcala De Henares, MADRID",1857,50-54,1:23:36,2:56:41
+805,2015,M,698,612,"Adachi, Shinsuke (JPN)","Ridgewood, NJ",5001,35-39,1:27:25,2:56:44
+806,2015,M,700,614,"Ramirez, Jose (MEX)","Chicago, IL",6026,40-44,1:26:32,2:56:45
+807,2015,M,702,616,"Satterly, Mark (USA)","Indianapolis, IN",7047,20-24,1:23:39,2:56:45
+808,2015,M,704,618,"Jr. Davis, Jimmy (USA)","Sherwood, OR",9196,30-34,1:26:01,2:56:49
+809,2015,M,707,620,"Chung Yam, Hung (HKG)",", TIN HAU",2078,50-54,1:26:49,2:56:52
+810,2015,M,709,622,"Stitt, Thomas (USA)","State College, PA",5083,20-24,1:23:14,2:56:53
+811,2015,M,711,624,"Vighetti, Steve (USA)","St Augustine, FL",4029,45-49,1:28:54,2:56:54
+812,2015,M,714,626,"Gulotta, Michael (USA)","Los Angeles, CA",7166,30-34,1:23:54,2:56:58
+813,2015,M,716,628,"Mouwen, Franc (NED)",Oegstgeest,3032,40-44,1:26:03,2:56:59
+814,2015,M,719,630,"Youel, Ben (USA)","Chicago, IL",7017,25-29,1:25:55,2:57:02
+815,2015,M,721,632,"Douglas, Lee (CAN)","Calgary, AB",1043,40-44,1:28:24,2:57:03
+816,2015,M,723,634,"Montalto, Jose (CRC)",San Jose,1180,25-29,1:27:10,2:57:06
+817,2015,M,725,636,"Roman, Fernando (USA)","Miami, FL",4156,30-34,1:26:45,2:57:07
+818,2015,M,727,638,"Hegner, Andrew (USA)","Shrewsbury, NJ",12160,35-39,1:26:05,2:57:12
+819,2015,M,729,640,"McGough, Chris (USA)","Fairfax, VA",4096,30-34,1:29:20,2:57:12
+820,2015,M,731,642,"Chollet, Todd (USA)","Webster Groves, MO",11197,30-34,1:25:26,2:57:13
+821,2015,M,733,644,"Tatsumi, Norihiro (JPN)","Takasago, HYOGO",2128,45-49,1:26:49,2:57:16
+822,2015,M,736,646,"Lavine, Matthew (USA)","Elgin, IL",6074,40-44,1:26:52,2:57:23
+823,2015,M,738,648,"Spitz, Jake (USA)","Chicago, IL",13098,30-34,1:28:15,2:57:25
+824,2015,M,741,650,"Barr, David (USA)","Chicago, IL",5115,30-34,1:27:40,2:57:33
+825,2015,M,743,652,"Glaser, Louis (USA)","Chicago, IL",5093,50-54,1:28:43,2:57:35
+826,2015,M,745,654,"Campbell, Delgado (USA)","Roosevelt, NY",5170,40-44,1:27:52,2:57:36
+827,2015,M,747,656,"Rice, James (USA)","Boston, MA",6173,30-34,1:26:44,2:57:37
+828,2015,M,749,658,"Yovichin, Al (USA)","Doylestown, OH",6195,50-54,1:27:10,2:57:38
+829,2015,M,751,660,"Raab, Lyazid (USA)","Glenview, IL",4162,40-44,1:24:36,2:57:39
+830,2015,M,754,662,"Michelson, Ethan (USA)","Bloomington, IN",8125,45-49,1:28:12,2:57:42
+831,2015,M,756,664,"Humphrey, Kieran (AUS)","Midlevels, HONG KONG",2079,30-34,1:27:38,2:57:44
+832,2015,M,758,666,"Platten, Peter (USA)","Chicago, IL",6066,35-39,1:24:12,2:57:44
+833,2015,M,760,668,"Gold, Scott (USA)","Wilmette, IL",10054,25-29,1:24:50,2:57:46
+834,2015,M,762,670,"Rothschild, Daniel (USA)","Royal Oak, MI",7196,25-29,1:26:34,2:57:47
+835,2015,M,764,672,"Debruin, Matthew (USA)","Houston, TX",10139,30-34,1:27:54,2:57:50
+836,2015,M,766,674,"Lavin, Travis (USA)","St.Louis, MO",583,25-29,1:13:01,2:57:53
+837,2015,M,768,676,"Visser, George (USA)","Grand Rapids, MI",11098,25-29,1:27:17,2:57:55
+838,2015,M,770,678,"Bishop, Nathan (GBR)","Houston, TX",25604,35-39,1:29:34,2:57:55
+839,2015,M,772,680,"Pérez, Miguel (USA)","Greensboro, NC",9189,40-44,1:27:45,2:57:58
+840,2015,M,774,682,"Stribolt, Anders (DEN)","Copenhagen, COPENHAGEN",1819,35-39,1:28:17,2:58:00
+841,2015,M,777,684,"Kesten, Johan (SWE)",Helsingborg,3089,45-49,1:27:34,2:58:02
+842,2015,M,779,686,"Malloy, Kevin (USA)","Chicago, IL",466,40-44,1:28:02,2:58:05
+843,2015,M,781,688,"Ramirez, Alejandro (MEX)","Morelia, MICHOACAN",12567,40-44,1:25:13,2:58:05
+844,2015,M,784,690,"Salazar, Eli (USA)","Chicago, IL",5096,45-49,1:28:07,2:58:09
+845,2015,M,786,692,"Madrid, Jose Luis (ESP)","Las Rozas De Madrid - Madrid, MADRID",1840,45-49,1:26:58,2:58:11
+846,2015,M,788,694,"Hassen, Cristian (CHI)",Santiago,1126,40-44,1:28:13,2:58:12
+847,2015,M,790,696,"Gauna, Alejandro (USA)","Los Angeles, CA",11113,30-34,1:28:28,2:58:13
+848,2015,M,793,698,"Molchanov, Dmytro (UKR)","Brooklyn, NY",13054,25-29,1:27:40,2:58:18
+849,2015,M,797,700,"Toillion, Charlie (USA)","Spokane, WA",6013,40-44,1:25:31,2:58:20
+850,2015,M,799,702,"Sopp, Eric (USA)","Downers Grove, IL",8142,45-49,1:28:59,2:58:20
+851,2015,M,802,704,"Kline, Ronald (USA)","Washington, DC",9149,35-39,1:29:54,2:58:23
+852,2015,M,805,706,"Grisa, Luca (ITA)","Brooklyn, NY",3175,35-39,1:27:17,2:58:25
+853,2015,M,807,708,"Welling, Robert (USA)","Chicago, IL",12030,25-29,1:30:01,2:58:26
+854,2015,M,809,710,"Gerosa, Michele (ITA)","Bosisio Parini, LECCO",2105,35-39,1:27:57,2:58:27
+855,2015,M,811,712,"Hein, Jansen (USA)","Chicago, IL",904,25-29,1:29:32,2:58:27
+856,2015,M,814,714,"Perez, Gilbert (USA)","Long Beach, CA",10098,35-39,1:25:34,2:58:30
+857,2015,M,816,716,"Kiviaho, Colin (CAN)","Ottawa, ON",1024,40-44,1:30:06,2:58:30
+858,2015,M,818,718,"Montano, Jason (USA)","Boston, MA",12163,30-34,1:21:27,2:58:31
+859,2015,M,820,720,"Quinn, Martin (IRL)","London, SURREY",2018,50-54,1:28:25,2:58:33
+860,2015,M,822,722,"Yoshioka, Yasuhiro (JPN)","Suita, OSAKA",2129,40-44,1:29:37,2:58:36
+861,2015,M,824,724,"PEREZ GILLEN, Alberto (CRC)",San Jose,2959,35-39,1:28:53,2:58:38
+862,2015,M,826,726,"Vail, Josh (USA)","Centennial, CO",3156,35-39,1:28:34,2:58:40
+863,2015,M,829,728,"Stob, Alan (USA)","Delray Beach, FL",7145,25-29,1:24:08,2:58:42
+864,2015,M,833,731,"Oliver, Carter (USA)","Woodbine, IA",13033,20-24,1:28:47,2:58:44
+865,2015,M,835,733,"Leider, Nicholas (USA)","Chicago, IL",3129,30-34,1:29:55,2:58:44
+866,2015,M,838,735,"Willis, Christopher (USA)","Chicago, IL",3111,30-34,1:27:28,2:58:46
+867,2015,M,840,737,"Perkins, Brett (USA)","Circleville, OH",12344,30-34,1:28:20,2:58:47
+868,2015,M,842,739,"Santi, Nicola (ITA)","Scarperia, FIRENZE",2115,35-39,1:29:13,2:58:48
+869,2015,M,844,741,"Boersma, Aaron (USA)","Zeeland, MI",9185,25-29,1:28:30,2:58:49
+870,2015,M,848,743,"Granda, Ignacio (PAN)","Sunnyside, NY",4175,35-39,1:29:15,2:58:53
+871,2015,M,850,745,"Basen, Michael (USA)","New York, NY",8144,35-39,1:27:10,2:58:55
+872,2015,M,852,747,"Trampe, Travis (USA)","Fort Collins, CO",907,40-44,1:24:01,2:58:57
+873,2015,M,854,749,"Leverton, Thomas (USA)","Lena, IL",8123,30-34,1:28:08,2:58:58
+874,2015,M,856,751,"Jakstas, Eggis (LTU)","Homer Glen, IL",3122,40-44,1:29:16,2:59:00
+875,2015,M,858,753,"Vosshall, Peter (USA)","Bainbridge Island, WA",12162,45-49,1:29:28,2:59:01
+876,2015,M,860,755,"Douville, Nicholas (USA)","Ann Arbor, MI",5053,30-34,1:29:07,2:59:01
+877,2015,M,862,757,"Galvez, Daniel (USA)","Hanover Park, IL",10003,40-44,1:25:59,2:59:02
+878,2015,M,864,759,"Jr. Wilkins, Jon (USA)","Chevy Chase, MD",10063,45-49,1:26:52,2:59:02
+879,2015,M,866,761,"Lannen, Patrick (USA)","Chicago, IL",8171,20-24,1:21:27,2:59:04
+880,2015,M,869,763,"Ortega Ambrosio, Miguel (MEX)","México City, MÉXICO",4290,35-39,1:26:45,2:59:07
+881,2015,M,871,765,"Rito, Justin (USA)","Grand Rapids, MI",13069,25-29,1:29:53,2:59:08
+882,2015,M,873,767,"Kwiecinski, Ryan (USA)","Chesterton, IN",515,40-44,1:24:54,2:59:08
+883,2015,M,875,769,"Aguirre, Ignacio (MEX)","Streamwood, IL",13118,40-44,1:28:11,2:59:10
+884,2015,M,877,771,"Miklic, Mirko Bogomir (SLO)",Ljubljana,3094,50-54,1:25:24,2:59:14
+885,2015,M,879,773,"Janisz, Piotr (POL)","Wysoka, MALOPOLSKIE",10266,25-29,1:28:57,2:59:14
+886,2015,M,881,775,"Leone, Simo (USA)","San Francisco, CA",8044,25-29,1:20:56,2:59:15
+887,2015,M,883,777,"Walls, Benjamin (USA)","Carrolltom, GA",11140,25-29,1:24:58,2:59:18
+888,2015,M,885,779,"Jr. Sharafinski, Mark (USA)","Wauwatosa, WI",10110,30-34,1:29:18,2:59:20
+889,2015,M,887,781,"Wiebe, Ryan (USA)","Kansas City, KS",12031,25-29,1:23:48,2:59:24
+890,2015,M,889,783,"Brooks, Ken (USA)","Kalamazoo, MI",12121,30-34,1:29:15,2:59:25
+891,2015,M,891,785,"Czech, Christopher (USA)","Beaverton, OR",10153,30-34,1:23:25,2:59:26
+892,2015,M,894,787,"Henderson, Samuel (USA)","Highland Park, IL",8021,25-29,1:29:04,2:59:27
+893,2015,M,896,789,"Hackel, Jeff (USA)","Fitchburg, WI",6113,45-49,1:28:34,2:59:28
+894,2015,M,899,791,"Christiansen, Dane (USA)","Hainesville, IL",25946,20-24,1:25:44,2:59:30
+895,2015,M,902,793,"José, Zavala (MEX)","Zacapu, MICHOACÁN",2181,45-49,1:23:25,2:59:31
+896,2015,M,905,795,"Trauner, Matthew (USA)","Chicago, IL",597,30-34,1:27:27,2:59:33
+897,2015,M,907,797,"Canizales, Carlos (PAN)","Panama, PANAMA",3046,25-29,1:22:01,2:59:34
+898,2015,M,909,799,"Ayala, Glimber (USA)","Santa Ana, CA",6165,30-34,1:23:00,2:59:35
+899,2015,M,911,801,"Gregory, Christopher (USA)","Westminster, CO",13037,35-39,1:29:19,2:59:36
+900,2015,M,913,803,"Sullivan, Dan (USA)","Chicago, IL",5123,30-34,1:24:22,2:59:38
+901,2015,M,919,805,"Liu, Xiaolin (CAN)","Overland Park, KS",11082,45-49,1:27:59,2:59:40
+902,2015,M,921,807,"Hiraiwa, Koji (JPN)","Novi, MI",5133,50-54,1:29:15,2:59:41
+903,2015,M,923,809,"Fouret, Thomas (FRA)","New York, NY",6048,30-34,1:29:13,2:59:43
+904,2015,M,925,811,"Nagle, Alex (USA)","Chicago, IL",8038,40-44,1:29:14,2:59:47
+905,2015,M,927,813,"Keating, Conor (USA)","Annapolis, MD",9277,16-19,1:27:53,2:59:48
+906,2015,M,929,815,"Esquenazi, Mauricio (MEX)","Philadelphia, PA",13117,40-44,1:24:45,2:59:51
+907,2015,M,931,817,"Bauderer, Manuel (GER)",Kumhausen,2987,45-49,1:27:24,2:59:52
+908,2015,M,933,819,"Galic, Robert (SWE)",Jonkoping,3083,45-49,1:30:17,2:59:54
+909,2015,M,937,821,"Bluemling, Travis (USA)","Chicago, IL",17746,30-34,1:28:40,2:59:56
+910,2015,M,939,823,"Blaszynski, Robert (USA)","Annville, PA",8108,45-49,1:27:14,2:59:57
+911,2015,M,941,825,"Stein, Sam (USA)","Volo, IL",14099,30-34,1:26:17,2:59:58
+912,2015,M,943,827,"Waddington, Andrew (GBR)","Brooklyn, NY",4163,35-39,1:29:11,3:00:00
+913,2015,M,945,829,"Jin, Evan (USA)","Chicago, IL",13207,20-24,1:22:40,3:00:02
+914,2015,M,948,831,"Ban, Stephen (USA)","Palatine, IL",6033,45-49,1:29:04,3:00:04
+915,2015,M,950,833,"Sr. Diaz, Jose (USA)","Addison, IL",29117,45-49,1:26:38,3:00:06
+916,2015,M,953,835,"Walther, Corey (USA)","Chanhassen, MN",13007,40-44,1:27:28,3:00:09
+917,2015,M,955,837,"Eaton, Tom (USA)","Glen Ridge, NJ",5140,45-49,1:29:14,3:00:11
+918,2015,M,957,839,"Greenham, James (IRL)","Austin, TX",5337,35-39,1:33:38,3:00:13
+919,2015,M,959,841,"Obernier, Ryan (USA)","Jacksonville, FL",11099,25-29,1:24:55,3:00:15
+920,2015,M,961,843,"Grinold, Benjamin (USA)","Chicago, IL",10061,35-39,1:28:14,3:00:17
+921,2015,M,964,845,"Messier, Cameron (USA)","Chicago, IL",5063,30-34,1:29:17,3:00:21
+922,2015,M,966,847,"Gottfredsson, Magnus (ISL)",Reykjavik,2090,50-54,1:28:36,3:00:26
+923,2015,M,968,849,"Slingerland, Justin (USA)","Chicago, IL",6002,30-34,1:27:38,3:00:29
+924,2015,M,971,851,"Nguyen, Christian (FRA)",Toulouse,2003,40-44,1:28:15,3:00:31
+925,2015,M,974,853,"Iv. Gomez, Alfonso (COL)",Bogota,1150,45-49,1:27:20,3:00:32
+926,2015,M,976,855,"Sr. Kuri, Hector (MEX)","Mexico City, DF",2193,30-34,1:29:17,3:00:36
+927,2015,M,978,857,"Fernandez, Luis (CRC)",San Jose,1163,30-34,1:24:55,3:00:39
+928,2015,M,980,859,"Szymanski, Mark (USA)","Chicago, IL",20782,25-29,1:26:24,3:00:43
+929,2015,M,982,861,"Andruch, Gary (USA)","Mokena, IL",6102,35-39,1:28:45,3:00:48
+930,2015,M,984,863,"Vazquez, Enrique (MEX)","Atizapan, ESTADO DE MEXICO",2189,45-49,1:27:02,3:00:50
+931,2015,M,986,865,"Fetro, Michael (USA)","Chicago, IL",13050,30-34,1:27:19,3:00:51
+932,2015,M,989,867,"Osborne, James (USA)","Chapel Hill, NC",6238,30-34,1:30:29,3:00:52
+933,2015,M,992,869,"Zarling, Zac (USA)","Chicago, IL",5085,35-39,1:30:15,3:00:54
+934,2015,M,994,871,"Hershman, Jonathan (USA)","Chicago, IL",14006,25-29,1:30:06,3:00:56
+935,2015,M,996,873,"Sr. Moran, Jorge (MEX)","Mexico, DISTRITO FEDERAL",3007,40-44,1:26:33,3:00:59
+936,2015,M,998,875,"Loftus, Cris (USA)","Cleveland, OH",5137,25-29,1:28:38,3:01:02
+937,2015,M,1000,877,"Garrett, Matthew (USA)","Austin, TX",8064,40-44,1:30:22,3:01:07
+938,2015,M,1002,879,"Vandecasteele, Herman (USA)","Murray, UT",4144,40-44,1:26:34,3:01:07
+939,2015,M,1004,881,"Swiatkowski, Mieczyslaw (USA)","Orland Park, IL",8024,30-34,1:25:31,3:01:12
+940,2015,M,1007,883,"Crittenden, Daniel (CAN)","Toronto, ON",1071,30-34,1:29:29,3:01:17
+941,2015,M,1009,885,"Leigh, Matt (GBR)","Kendal, CUMBRIA",2007,35-39,1:29:12,3:01:18
+942,2015,M,1011,887,"Palmer, Ian (USA)","New York, NY",5301,40-44,1:29:42,3:01:20
+943,2015,M,1013,889,"McNair, Bruce (USA)","Lake Zurich, IL",12035,50-54,1:27:18,3:01:23
+944,2015,M,1015,891,"Reis, Pedro (POR)","London, LONDON",2047,35-39,1:23:33,3:01:25
+945,2015,M,1018,893,"Reese, Brian (USA)","St Charles, IL",4153,40-44,1:29:15,3:01:29
+946,2015,M,1020,895,"Weisgerber, David (USA)","Livermore, CA",13043,30-34,1:29:11,3:01:30
+947,2015,M,1022,897,"Nordling, Karl-Martin (SWE)",Karlstad,3081,35-39,1:25:14,3:01:33
+948,2015,M,1024,899,"Jr. Shea, John (USA)","Tampa, FL",534,50-54,1:30:43,3:01:34
+949,2015,M,1026,901,"Robinson, Andrew (AUS)","South Perth, WA",931,25-29,1:29:31,3:01:34
+950,2015,M,1028,903,"Terrier, Alexandre (SUI)",Geneve,1120,40-44,1:29:56,3:01:35
+951,2015,M,1030,905,"Rolon, Guillermo (MEX)","Peoria, IL",20050,35-39,1:28:56,3:01:37
+952,2015,M,1032,907,"Mylet, James (CAN)","Oakville, ON",1005,45-49,1:28:30,3:01:39
+953,2015,M,1034,909,"Tosto, Mike (USA)","Arlington, VA",13016,30-34,1:29:40,3:01:41
+954,2015,M,1036,911,"Montez, Ricky (USA)","Palm Beach Gardens, FL",4184,35-39,1:28:57,3:01:43
+955,2015,M,1039,913,"Wright, Logan (USA)","Dallas, TX",10082,35-39,1:27:18,3:01:46
+956,2015,M,1041,915,"Brady, Steve (USA)","Boston, MA",11151,35-39,1:26:01,3:01:48
+957,2015,M,1043,917,"McMahon, Dan (USA)","Solon, OH",4011,20-24,1:28:13,3:01:50
+958,2015,M,1046,919,"Stawicki, Tim (USA)","Chicago, IL",8242,30-34,1:28:49,3:01:55
+959,2015,M,1048,921,"Berryhill, Hunter (USA)","Cuttingsville, VT",13097,35-39,1:24:44,3:01:57
+960,2015,M,1050,923,"Hochbrunn, Matthew (USA)","Minneapolis, MN",5130,25-29,1:29:06,3:01:58
+961,2015,M,1052,925,"Martincic, Jarred (USA)","Scottsdale, AZ",7074,35-39,1:31:57,3:02:03
+962,2015,M,1054,927,"Lawrence, Stephen (USA)","Saint Augustine, FL",12037,35-39,1:29:35,3:02:03
+963,2015,M,1056,929,"Berge, Simen Naess (NOR)",Lillehammer,9113,20-24,1:29:44,3:02:04
+964,2015,M,1058,931,"Hirase, Shigeto (JPN)","Japan, TOKYO",2119,50-54,1:28:25,3:02:05
+965,2015,M,1060,933,"Angel, James (USA)","Lakemoor, IL",4031,50-54,1:27:27,3:02:08
+966,2015,M,1062,935,"Pabon, Geuris (USA)",San Juan,3065,40-44,1:29:19,3:02:12
+967,2015,M,1064,937,"Dudek, Daniel (USA)","Tallmadge, OH",5300,50-54,1:29:11,3:02:13
+968,2015,M,1066,939,"Lewis, Lawrence (CAN)","Scarborough, ON",994,45-49,1:29:05,3:02:18
+969,2015,M,1069,941,"Romanelli, Frank (USA)","Lexington, KY",8036,40-44,1:31:20,3:02:21
+970,2015,M,1071,943,"Schmidt, Charlie (USA)","Plymouth, MI",1362,35-39,1:30:08,3:02:24
+971,2015,M,1073,945,"McGill, Zach (USA)","Minneapoli, MN",26020,25-29,1:28:02,3:02:24
+972,2015,M,1075,947,"Carrillo, Federico (MEX)","Cancun, QUINTANA ROO",2190,40-44,1:29:43,3:02:24
+973,2015,M,1077,949,"Kopelman, Jason (USA)","Chicago, IL",9155,20-24,1:26:18,3:02:26
+974,2015,M,1079,951,"Connelly, John (USA)","River Forest, IL",4086,50-54,1:30:31,3:02:28
+975,2015,M,1081,953,"Kanazawa, Takashi (JPN)","Rye, NY",4148,40-44,1:29:07,3:02:29
+976,2015,M,1083,955,"Tartar, Matthew (USA)","Denver, CO",7152,45-49,1:31:21,3:02:31
+977,2015,M,1085,957,"Combs, Hunter (USA)","Denver, CO",536,30-34,1:33:03,3:02:33
+978,2015,M,1087,959,"Juarez, Eduardo (MEX)","Mexico City, MEXICO CITY",2176,35-39,1:28:05,3:02:36
+979,2015,M,1089,961,"Funk, William (USA)","Chicago, IL",20575,25-29,1:32:37,3:02:41
+980,2015,M,1091,963,"Jr. Kuzoian, Douglas (USA)","Boston, MA",5208,25-29,1:31:55,3:02:44
+981,2015,M,1093,965,"Spellman, John (USA)","Winfield, IL",10041,25-29,1:31:41,3:02:46
+982,2015,M,1095,967,"Chen, Xiao (CHN)","Urbana, IL",6010,25-29,1:26:51,3:02:47
+983,2015,M,1097,969,"Hechler, Paul (USA)","Kansas City, KS",12168,20-24,1:30:27,3:02:49
+984,2015,M,1099,971,"Ito, Tadahiro (JPN)","Fuchu-Shi, TOKYO",2117,50-54,1:29:17,3:02:49
+985,2015,M,1101,973,"De Vries, Alwin Xander (NED)","Allerød, ALLERØD",3000,40-44,1:30:42,3:02:53
+986,2015,M,1103,975,"Wu, Jun (CHN)","Shanghai, SHANGHAI",1142,35-39,1:29:52,3:02:54
+987,2015,M,1105,977,"Alberto, Israel (MEX)","Mount Prospect, IL",6032,30-34,1:29:13,3:02:55
+988,2015,M,1108,979,"Trnavsky, Robert (USA)","Mission, KS",7150,25-29,1:31:29,3:02:56
+989,2015,M,1110,981,"Wacker, Marty (USA)","Grand Junction, CO",3748,40-44,1:24:58,3:02:58
+990,2015,M,1112,983,"Mackay, Tom (AUS)","Kingston, SURREY",2038,20-24,1:29:07,3:02:59
+991,2015,M,1114,985,"Frumes, Max (USA)","Brooklyn, NY",4200,30-34,1:26:09,3:03:01
+992,2015,M,1117,987,"Petruzzello, Tony (USA)","Chicago, IL",10073,25-29,1:26:56,3:03:03
+993,2015,M,1119,989,"Terracina, Joe (USA)","Austin, TX",7070,45-49,1:31:57,3:03:06
+994,2015,M,1121,991,"Zhao, Yang (CAN)","Markham, ON",1090,40-44,1:28:49,3:03:07
+995,2015,M,1124,993,"Walker, Aaron (GBR)",Grand Cayman,2150,30-34,1:28:41,3:03:09
+996,2015,M,1127,995,"Blake, Nicholas (USA)","Washington, DC",7282,20-24,1:30:34,3:03:12
+997,2015,M,1130,997,"Rogawski, David (USA)","Ann Arbor, MI",10161,25-29,1:25:51,3:03:14
+998,2015,M,1133,999,"Del Prado, Nicolas (ESP)","Madrid, MADRID",1826,30-34,1:28:02,3:03:16
+999,2015,M,1135,1001,"Fabozzi, Emiliano (ITA)",Oud Ade,3029,40-44,1:30:37,3:03:18
